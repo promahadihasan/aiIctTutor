@@ -1,0 +1,24 @@
+{
+  "students": [
+    {
+      "id": "20261",
+      "name": "ISRAT JAHAN JUI",
+      "group": "BUSINESS STUDIES"
+    },
+    {
+      "id": "20262",
+      "name": "SHEIKH RAYEEDAH RAISA",
+      "group": "BUSINESS STUDIES"
+    },
+    {
+      "id": "20261",
+      "name": "ROKEYA AKTER MIM",
+      "group": "SCIENCE"
+    },
+    {
+      "id": "20265",
+      "name": "JERIN",
+      "group": "SCIENCE"
+    }
+  ]
+}
