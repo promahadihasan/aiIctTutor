@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "postId": "101",
+      "teacherId": "T001",
+      "teacherName": "Mahadi Hasan Sunny",
+      "teacherProfilePic": "https://example.com/teacher1.jpg",
+      "content": "Today we will learn about the Number System in ICT.",
+      "timestamp": "2025-08-26T10:30:00Z",
+      "likes": 12,
+      "comments": [
+        {
+          "commentId": "C001",
+          "studentId": "20261",
+          "studentName": "ISRAT JAHAN JUI",
+          "studentProfilePic": "https://example.com/student1.jpg",
+          "text": "Sir, could you explain Binary to Decimal again?",
+          "timestamp": "2025-08-26T11:00:00Z"
+        },
+        {
+          "commentId": "C002",
+          "studentId": "20265",
+          "studentName": "JERIN",
+          "studentProfilePic": "https://example.com/student2.jpg",
+          "text": "Thank you Sir, class was very clear.",
+          "timestamp": "2025-08-26T11:15:00Z"
+        }
+      ]
+    },
+    {
+      "postId": "102",
+      "teacherId": "T002",
+      "teacherName": "Anika Madam",
+      "teacherProfilePic": "https://example.com/teacher2.jpg",
+      "content": "Don’t forget to complete your HTML practice before next class.",
+      "timestamp": "2025-08-26T14:00:00Z",
+      "likes": 20,
+      "comments": [
+        {
+          "commentId": "C003",
+          "studentId": "20262",
+          "studentName": "SHEIKH RAYEEDAH RAISA",
+          "studentProfilePic": "https://example.com/student3.jpg",
+          "text": "Madam, can we submit by email?",
+          "timestamp": "2025-08-26T14:30:00Z"
+        }
+      ]
+    }
+  ]
+}
