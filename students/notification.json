@@ -1,7 +1,7 @@
 {
   "notifications": [
     {
-      "id": "N001",
+      "id": "101",
       "type": "new_post",
       "emoji": "📢",
       "title": "New Post from Mahadi Hasan Sunny",
