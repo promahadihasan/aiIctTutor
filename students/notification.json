@@ -2,28 +2,28 @@
   "notifications": [
     {
       "id": "notification1",
-      "title": "New Post Available",
-      "message": "Check out the latest post on Android Development",
+      "title": "Digital Device",
+      "message": "Today we will learn about the Digital Device in ICT.",
       "timestamp": "2023-06-15 10:30:45",
       "type": "post",
       "isRead": false,
       "postId": "post123",
       "emoji": "📱",
       "imageUrl": "https://example.com/image.jpg",
-      "authorName": "John Doe",
+      "authorName": "Shibbir",
       "authorAvatar": "https://example.com/avatar.jpg"
     },
     {
       "id": "notification2",
-      "title": "New Post Available",
-      "message": "Ch",
+      "title": "Number System",
+      "message": "Today we will learn about the Number System in ICT",
       "timestamp": "2023-06-15 10:30:45",
       "type": "post",
       "isRead": false,
       "postId": "post124",
       "emoji": "📱",
       "imageUrl": "https://example.com/image.jpg",
-      "authorName": "Sunny",
+      "authorName": "Shibbir",
       "authorAvatar": "https://example.com/avatar.jpg"
     }
   ],
