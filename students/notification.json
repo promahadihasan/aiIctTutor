@@ -1,36 +1,32 @@
 {
   "notifications": [
     {
-      "id": "101",
-      "type": "new_post",
-      "emoji": "📢",
-      "title": "New Post from Mahadi Hasan Sunny",
-      "message": "Today we will learn about the Number System in ICT.",
-      "timestamp": "2025-08-26T12:00:00Z"
+      "id": "notification1",
+      "title": "New Post Available",
+      "message": "Check out the latest post on Android Development",
+      "timestamp": "2023-06-15 10:30:45",
+      "type": "post",
+      "isRead": false,
+      "postId": "post123",
+      "emoji": "📱",
+      "imageUrl": "https://example.com/image.jpg",
+      "authorName": "John Doe",
+      "authorAvatar": "https://example.com/avatar.jpg"
     },
     {
-      "id": "N002",
-      "type": "new_comment",
-      "emoji": "💬",
-      "title": "New Reply to Your Post",
-      "message": "RAHIM replied: Thanks for the great class!",
-      "timestamp": "2025-08-26T14:45:00Z"
-    },
-    {
-      "id": "N003",
-      "type": "quiz",
-      "emoji": "📊",
-      "title": "New Quiz Available",
-      "message": "Chapter 1 Number System Quiz is now live!",
-      "timestamp": "2025-08-26T13:00:00Z"
-    },
-    {
-      "id": "N004",
-      "type": "assignment",
-      "emoji": "📝",
-      "title": "New Assignment",
-      "message": "Complete the Number System assignment by Friday.",
-      "timestamp": "2025-08-26T15:00:00Z"
+      "id": "notification2",
+      "title": "New Post Available",
+      "message": "Ch",
+      "timestamp": "2023-06-15 10:30:45",
+      "type": "post",
+      "isRead": false,
+      "postId": "post124",
+      "emoji": "📱",
+      "imageUrl": "https://example.com/image.jpg",
+      "authorName": "Sunny",
+      "authorAvatar": "https://example.com/avatar.jpg"
     }
-  ]
+  ],
+  "status": "success",
+  "message": null
 }
