@@ -10,21 +10,21 @@
       "imageUrl": "https://example.com/post-image.jpg",
       "likes": 42,
       "comments": [
-        {
+       {
           "id": "comment1",
           "postId": "post123",
-          "authorName": "Alice Johnson",
+          "authorName": "ISRAT JAHAN JUI",
           "authorAvatar": "https://example.com/alice.jpg",
-          "content": "Great post! Very informative.",
+          "content": "Sir, could you explain Binary to Decimal again?",
           "timestamp": "2023-06-14 10:20:15",
           "likes": 5
         },
          {
           "id": "comment1",
-          "postId": "post124",
-          "authorName": "Sunny",
+          "postId": "post123",
+          "authorName": "JERIN",
           "authorAvatar": "https://example.com/alice.jpg",
-          "content": "Great post! Very informative.",
+          "content": "Thank you Sir, class was very clear.",
           "timestamp": "2023-06-14 10:20:15",
           "likes": 5
         }
@@ -32,10 +32,10 @@
       "tags": ["android", "kotlin", "development"]
     },
      {
-      "postId": "post1235",
-      "title": "Introduction to Android Development",
-      "content": "This is the content of the post...",
-      "teacherName": "Shibbir",
+      "postId": "post124",
+      "title": "Number System",
+      "content": "Today we will learn about the Number System in ICT.",
+      "teacherName": "Mahadi Hasan Sunny",
       "teacherProfilePic": "https://example.com/teacher.jpg",
       "timestamp": "2023-06-14 09:15:30",
       "imageUrl": "https://example.com/post-image.jpg",
@@ -43,19 +43,19 @@
       "comments": [
         {
           "id": "comment1",
-          "postId": "post1235",
-          "authorName": "Sunny1",
+          "postId": "post124",
+          "authorName": "ISRAT JAHAN JUI",
           "authorAvatar": "https://example.com/alice.jpg",
-          "content": "Great post! Very informative.",
+          "content": "Sir, could you explain Binary to Decimal again?",
           "timestamp": "2023-06-14 10:20:15",
           "likes": 5
         },
          {
           "id": "comment1",
-          "postId": "post1235",
-          "authorName": "Sunny 2",
+          "postId": "post124",
+          "authorName": "JERIN",
           "authorAvatar": "https://example.com/alice.jpg",
-          "content": "Great post! Very informative.",
+          "content": "Thank you Sir, class was very clear.",
           "timestamp": "2023-06-14 10:20:15",
           "likes": 5
         }
