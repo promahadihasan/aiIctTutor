@@ -2,9 +2,9 @@
   "posts": [
     {
       "postId": "post123",
-      "title": "Introduction to Android Development",
-      "content": "This is the content of the post...",
-      "teacherName": "Jane Smith",
+      "title": "Digital Device",
+      "content": "Today we will learn about the Digital Device in ICT.",
+      "teacherName": "Shibbir",
       "teacherProfilePic": "https://example.com/teacher.jpg",
       "timestamp": "2023-06-14 09:15:30",
       "imageUrl": "https://example.com/post-image.jpg",
@@ -35,7 +35,7 @@
       "postId": "post124",
       "title": "Number System",
       "content": "Today we will learn about the Number System in ICT.",
-      "teacherName": "Mahadi Hasan Sunny",
+      "teacherName": "Shibbir",
       "teacherProfilePic": "https://example.com/teacher.jpg",
       "timestamp": "2023-06-14 09:15:30",
       "imageUrl": "https://example.com/post-image.jpg",
