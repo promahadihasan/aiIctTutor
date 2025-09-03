@@ -1,50 +1,68 @@
 {
   "posts": [
     {
-      "postId": "101",
-      "teacherId": "T001",
-      "teacherName": "Mahadi Hasan Sunny",
-      "teacherProfilePic": "https://example.com/teacher1.jpg",
-      "content": "Today we will learn about the Number System in ICT.",
-      "timestamp": "2025-08-26T10:30:00Z",
-      "likes": 12,
+      "postId": "post123",
+      "title": "Introduction to Android Development",
+      "content": "This is the content of the post...",
+      "teacherName": "Jane Smith",
+      "teacherProfilePic": "https://example.com/teacher.jpg",
+      "timestamp": "2023-06-14 09:15:30",
+      "imageUrl": "https://example.com/post-image.jpg",
+      "likes": 42,
       "comments": [
         {
-          "commentId": "C001",
-          "studentId": "20261",
-          "studentName": "ISRAT JAHAN JUI",
-          "studentProfilePic": "https://example.com/student1.jpg",
-          "text": "Sir, could you explain Binary to Decimal again?",
-          "timestamp": "2025-08-26T11:00:00Z"
+          "id": "comment1",
+          "postId": "post123",
+          "authorName": "Alice Johnson",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Great post! Very informative.",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
         },
-        {
-          "commentId": "C002",
-          "studentId": "20265",
-          "studentName": "JERIN",
-          "studentProfilePic": "https://example.com/student2.jpg",
-          "text": "Thank you Sir, class was very clear.",
-          "timestamp": "2025-08-26T11:15:00Z"
+         {
+          "id": "comment1",
+          "postId": "post124",
+          "authorName": "Sunny",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Great post! Very informative.",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
         }
-      ]
+      ],
+      "tags": ["android", "kotlin", "development"]
     },
-    {
-      "postId": "102",
-      "teacherId": "T002",
-      "teacherName": "Anika Madam",
-      "teacherProfilePic": "https://example.com/teacher2.jpg",
-      "content": "Don’t forget to complete your HTML practice before next class.",
-      "timestamp": "2025-08-26T14:00:00Z",
-      "likes": 20,
+     {
+      "postId": "post1235",
+      "title": "Introduction to Android Development",
+      "content": "This is the content of the post...",
+      "teacherName": "Shibbir",
+      "teacherProfilePic": "https://example.com/teacher.jpg",
+      "timestamp": "2023-06-14 09:15:30",
+      "imageUrl": "https://example.com/post-image.jpg",
+      "likes": 46,
       "comments": [
         {
-          "commentId": "C003",
-          "studentId": "20262",
-          "studentName": "SHEIKH RAYEEDAH RAISA",
-          "studentProfilePic": "https://example.com/student3.jpg",
-          "text": "Madam, can we submit by email?",
-          "timestamp": "2025-08-26T14:30:00Z"
+          "id": "comment1",
+          "postId": "post1235",
+          "authorName": "Sunny1",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Great post! Very informative.",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
+        },
+         {
+          "id": "comment1",
+          "postId": "post1235",
+          "authorName": "Sunny 2",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Great post! Very informative.",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
         }
-      ]
+      ],
+      "tags": ["android", "kotlin", "development"]
     }
-  ]
+  ],
+  "status": "success",
+  "message": null
 }
