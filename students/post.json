@@ -40,6 +40,14 @@
                     "content": "json formate problem",
                     "timestamp": "2025-09-04 23:15:01",
                     "likes": 5
+                },
+                {
+                    "id": "6c6f9980-2205-41cd-9d33-95059c26c21b",
+                    "postId": "post123",
+                    "authorName": "SHEIKH RAYEEDAH RAISA",
+                    "content": "Hello Degital Device",
+                    "timestamp": "2025-09-04 23:46:07",
+                    "likes": 0
                 }
             ]
         },
@@ -82,14 +90,6 @@
                     "authorName": "SHEIKH RAYEEDAH RAISA",
                     "content": "My First Comment",
                     "timestamp": "2025-09-04 23:34:44",
-                    "likes": 0
-                },
-                {
-                    "id": "e40130f6-c04a-4cbb-979e-d2454f8a5437",
-                    "postId": "post124",
-                    "authorName": "SHEIKH RAYEEDAH RAISA",
-                    "content": "Try to Type Three matchmatics",
-                    "timestamp": "2025-09-04 23:45:35",
                     "likes": 0
                 }
             ]
