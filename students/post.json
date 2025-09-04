@@ -10,7 +10,7 @@
       "imageUrl": "https://example.com/post-image.jpg",
       "likes": 42,
       "comments": [
-       {
+        {
           "id": "comment1",
           "postId": "post123",
           "authorName": "ISRAT JAHAN JUI",
@@ -19,7 +19,7 @@
           "timestamp": "2023-06-14 10:20:15",
           "likes": 5
         },
-         {
+        {
           "id": "comment1",
           "postId": "post123",
           "authorName": "JERIN",
@@ -29,9 +29,13 @@
           "likes": 5
         }
       ],
-      "tags": ["android", "kotlin", "development"]
+      "tags": [
+        "android",
+        "kotlin",
+        "development"
+      ]
     },
-     {
+    {
       "postId": "post124",
       "title": "Number System",
       "content": "Today we will learn about the Number System in ICT.",
@@ -50,7 +54,7 @@
           "timestamp": "2023-06-14 10:20:15",
           "likes": 5
         },
-         {
+        {
           "id": "comment1",
           "postId": "post124",
           "authorName": "JERIN",
@@ -60,7 +64,11 @@
           "likes": 5
         }
       ],
-      "tags": ["android", "kotlin", "development"]
+      "tags": [
+        "android",
+        "kotlin",
+        "development"
+      ]
     }
   ],
   "status": "success",
