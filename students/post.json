@@ -1,1 +1,76 @@
-{"posts":[{"id":"post123","title":"Digital Device","content":"Today we will learn about the Digital Device in ICT.","authorName":"Shibbir","timestamp":"2023-06-14 09:15:30","authorAvatar":"https:\/\/example.com\/teacher.jpg","imageUrl":"https:\/\/example.com\/post-image.jpg","likes":42,"tags":["android","kotlin","development"],"comments":[{"id":"comment1","postId":"post123","authorName":"ISRAT JAHAN JUI","content":"Sir, could you explain Binary to Decimal again?","timestamp":"2023-06-14 10:20:15","likes":5,"authorAvatar":"https:\/\/example.com\/alice.jpg"},{"id":"comment1","postId":"post123","authorName":"JERIN","content":"Thank you Sir, class was very clear.","timestamp":"2023-06-14 10:20:15","likes":5,"authorAvatar":"https:\/\/example.com\/alice.jpg"},{"id":"2839c9a2-6381-463b-b2e9-9513d4de707d","postId":"post123","authorName":"ISRAT JAHAN JUI","content":"jlkjkljl","timestamp":"2025-09-04 22:49:10","likes":0}]},{"id":"post124","title":"Number System","content":"Today we will learn about the Number System in ICT.","authorName":"Shibbir","timestamp":"2023-06-14 09:15:30","authorAvatar":"https:\/\/example.com\/teacher.jpg","imageUrl":"https:\/\/example.com\/post-image.jpg","likes":46,"tags":["android","kotlin","development"],"comments":[{"id":"comment1","postId":"post124","authorName":"ISRAT JAHAN JUI","content":"Sir, could you explain Binary to Decimal again?","timestamp":"2023-06-14 10:20:15","likes":5,"authorAvatar":"https:\/\/example.com\/alice.jpg"},{"id":"comment1","postId":"post124","authorName":"JERIN","content":"Thank you Sir, class was very clear.","timestamp":"2023-06-14 10:20:15","likes":5,"authorAvatar":"https:\/\/example.com\/alice.jpg"}]}],"status":"success","message":"null"}
+{
+  "posts": [
+    {
+      "postId": "post123",
+      "title": "Digital Device",
+      "content": "Today we will learn about the Digital Device in ICT.",
+      "teacherName": "Shibbir",
+      "teacherProfilePic": "https://example.com/teacher.jpg",
+      "timestamp": "2023-06-14 09:15:30",
+      "imageUrl": "https://example.com/post-image.jpg",
+      "likes": 42,
+      "comments": [
+        {
+          "id": "comment1",
+          "postId": "post123",
+          "authorName": "ISRAT JAHAN JUI",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Sir, could you explain Binary to Decimal again?",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
+        },
+        {
+          "id": "comment1",
+          "postId": "post123",
+          "authorName": "JERIN",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Thank you Sir, class was very clear.",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
+        }
+      ],
+      "tags": [
+        "android",
+        "kotlin",
+        "development"
+      ]
+    },
+    {
+      "postId": "post124",
+      "title": "Number System",
+      "content": "Today we will learn about the Number System in ICT.",
+      "teacherName": "Shibbir",
+      "teacherProfilePic": "https://example.com/teacher.jpg",
+      "timestamp": "2023-06-14 09:15:30",
+      "imageUrl": "https://example.com/post-image.jpg",
+      "likes": 46,
+      "comments": [
+        {
+          "id": "comment1",
+          "postId": "post124",
+          "authorName": "ISRAT JAHAN JUI",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Sir, could you explain Binary to Decimal again?",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
+        },
+        {
+          "id": "comment1",
+          "postId": "post124",
+          "authorName": "JERIN",
+          "authorAvatar": "https://example.com/alice.jpg",
+          "content": "Thank you Sir, class was very clear.",
+          "timestamp": "2023-06-14 10:20:15",
+          "likes": 5
+        }
+      ],
+      "tags": [
+        "android",
+        "kotlin",
+        "development"
+      ]
+    }
+  ],
+  "status": "success",
+  "message": null
+}
