@@ -41,7 +41,7 @@
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https:\/\/github.com\/promahadihasan\/aiIctTutor\/blob\/main\/students\/assets\/images\/sunny.png?raw=true",
+            "imageUrl": "null",
             "likes": 43,
             "tags": [
                 "android",
@@ -99,7 +99,7 @@
             "content": "Today we will learn about the Number System in ICT.",
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
-            "teacherProfilePic": "https:\/\/github.com\/promahadihasan\/aiIctTutor\/blob\/main\/students\/assets\/images\/sunny.png?raw=true",
+            "teacherProfilePic": "",
             "imageUrl": "https:\/\/imgur.com\/a\/S4ALQt4",
             "likes": 46,
             "tags": [
