@@ -8,7 +8,7 @@
             "timestamp": "2025-09-4 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/example.com\/post-image.jpg",
-            "likes": 0,
+            "likes": 1,
             "tags": [
                 "android",
                 "kotlin",
