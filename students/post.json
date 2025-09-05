@@ -9,6 +9,11 @@
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/example.com\/post-image.jpg",
             "likes": 43,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
             "comments": [
                 {
                     "id": "comment1",
@@ -55,6 +60,11 @@
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/example.com\/post-image.jpg",
             "likes": 46,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
             "comments": [
                 {
                     "id": "comment1",
