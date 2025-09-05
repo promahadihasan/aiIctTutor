@@ -23,6 +23,14 @@
                     "timestamp": "2025-09-4 12:15:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "2a4a128e-d83e-4fbf-9725-373834835c15",
+                    "postId": "post125",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "That's great ",
+                    "timestamp": "2025-09-05 08:31:57",
+                    "likes": 0
                 }
             ]
         },
