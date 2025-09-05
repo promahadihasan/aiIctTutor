@@ -7,7 +7,7 @@
             "teacherName": "Sunny",
             "timestamp": "2025-09-4 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https://imgur.com/a/S4ALQt4",
+            "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/main/students/assets/images/sunny.png?raw=true",
             "likes": 1,
             "tags": [
                 "android",
@@ -41,7 +41,7 @@
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https://imgur.com/a/S4ALQt4",
+            "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/main/students/assets/images/sunny.png?raw=true",
             "likes": 43,
             "tags": [
                 "android",
@@ -65,7 +65,7 @@
                     "content": "Thank you Sir, class was very clear.",
                     "timestamp": "2023-06-14 10:20:15",
                     "likes": 5,
-                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                    "authorAvatar": "https://github.com/promahadihasan/aiIctTutor/blob/main/students/assets/images/sunny.png?raw=true"
                 },
                 {
                     "id": "ed2e0c02-268e-493f-b16d-aa83175364b7",
@@ -99,7 +99,7 @@
             "content": "Today we will learn about the Number System in ICT.",
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
-            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "teacherProfilePic": "https://github.com/promahadihasan/aiIctTutor/blob/main/students/assets/images/sunny.png?raw=true",
             "imageUrl": "https://imgur.com/a/S4ALQt4",
             "likes": 46,
             "tags": [
