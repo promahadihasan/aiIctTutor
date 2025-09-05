@@ -7,7 +7,7 @@
             "teacherName": "Sunny",
             "timestamp": "2025-09-4 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https:\/\/example.com\/post-image.jpg",
+            "imageUrl": "https://imgur.com/a/S4ALQt4",
             "likes": 1,
             "tags": [
                 "android",
@@ -41,7 +41,7 @@
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https:\/\/example.com\/post-image.jpg",
+            "imageUrl": "https://imgur.com/a/S4ALQt4",
             "likes": 43,
             "tags": [
                 "android",
@@ -100,7 +100,7 @@
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https:\/\/example.com\/post-image.jpg",
+            "imageUrl": "https://imgur.com/a/S4ALQt4",
             "likes": 46,
             "tags": [
                 "android",
