@@ -48,6 +48,14 @@
                     "content": "Hello Degital Device",
                     "timestamp": "2025-09-04 23:46:07",
                     "likes": 1
+                },
+                {
+                    "id": "46db5747-cce7-4ecf-8719-edc4129d42de",
+                    "postId": "post123",
+                    "authorName": "JERIN",
+                    "content": "Json tags not deleted ",
+                    "timestamp": "2025-09-05 07:37:00",
+                    "likes": 0
                 }
             ]
         },
