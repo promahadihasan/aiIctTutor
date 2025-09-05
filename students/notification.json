@@ -2,7 +2,7 @@
   "notifications": [
     {
       "id": "notification3",
-      "title": "2nd Capter-Wireless devices",
+      "title": "2nd Chapter-Wireless devices",
       "message": "Three wireless Device.",
       "timestamp": "2025-09-4 09:15:30",
       "type": "post",
