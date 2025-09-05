@@ -1,6 +1,32 @@
 {
     "posts": [
         {
+            "postId": "post125",
+            "title": "2nd Capter-Wireless devices",
+            "content": "Three wireless Device.",
+            "teacherName": "Sunny",
+            "timestamp": "2025-09-4 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "https:\/\/example.com\/post-image.jpg",
+            "likes": 0,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment0",
+                    "postId": "post125",
+                    "authorName": "Mily",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2025-09-4 12:15:30",
+                    "likes": 0,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                }
+            ]
+        },
+        {
             "postId": "post123",
             "title": "Digital Device",
             "content": "Today we will learn about the Digital Device in ICT.",
