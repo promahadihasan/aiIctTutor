@@ -41,7 +41,7 @@
             "teacherName": "Shibbir",
             "timestamp": "2023-06-14 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "null",
+            "imageUrl": "",
             "likes": 43,
             "tags": [
                 "android",
