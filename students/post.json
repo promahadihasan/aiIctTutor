@@ -91,6 +91,14 @@
                     "content": "My First Comment",
                     "timestamp": "2025-09-04 23:34:44",
                     "likes": 0
+                },
+                {
+                    "id": "ff5947d9-72c8-4ea6-8116-7330f2cac854",
+                    "postId": "post124",
+                    "authorName": "JERIN",
+                    "content": "Hi I am Mehedi sir",
+                    "timestamp": "2025-09-05 06:17:18",
+                    "likes": 0
                 }
             ]
         }
