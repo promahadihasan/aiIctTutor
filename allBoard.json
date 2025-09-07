@@ -279,7 +279,7 @@
         "গ) i, ii",
         "ঘ) i, ii,iii"
       ],
-      "answer": "i, ii",
+      "answer": "ক) i, ii",
       "level": "medium"
     },
     {
@@ -305,7 +305,7 @@
         "গ) i, ii",
         "ঘ) i, ii,iii"
       ],
-      "answer": "i ও ii",
+      "answer": "ক) i, ii",
       "level": "hard"
     }
           ]
@@ -1241,4 +1241,5 @@
   ]
 
 }
+
 
