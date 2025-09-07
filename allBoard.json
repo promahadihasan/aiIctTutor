@@ -257,53 +257,57 @@
               "level": "medium"
             },
             {
-              "id": 22,
-              "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-              "options": [
-                "ক. রোবটিক্স",
-                "খ. বায়োমেট্রিক্স",
-                "গ. বায়োইনফরমেটিক্স",
-                "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-              ],
-              "answer": "গ. বায়োইনফরমেটিক্স",
-              "level": "medium"
-            },
-            {
-              "id": 23,
-              "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-              "options": [
-                "ক. কী-বোর্ড",
-                "খ. পেজার",
-                "গ. এসএমএস",
-                "ঘ. মোবাইল"
-              ],
-              "answer": "খ. পেজার",
-              "level": "easy"
-            },
-            {
-              "id": 24,
-              "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-              "options": [
-                "ক. main",
-                "খ. DIV",
-                "গ. return",
-                "ঘ. In"
-              ],
-              "answer": "খ. DIV",
-              "level": "medium"
-            },
-            {
-              "id": 25,
-              "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-              "options": [
-                "ক. রোবটিক্স",
-                "খ. বায়োমেট্রিক্স",
-                "গ. বায়োইনফরমেটিক্স",
-                "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-              ],
-              "answer": "গ. বায়োইনফরমেটিক্স",
-              "level": "medium"
-            }
+      "id": 22,
+      "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
+      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) ওয়াই-ফাই",
+        "খ) ইনফ্রারেড",
+        "গ) মাইক্রোওয়েভ",
+        "ঘ) ওয়াই-ম্যাক্স"
+      ],
+      "answer": "গ) মাইক্রোওয়েভ",
+      "level": "medium"
+    },
+    {
+      "id": 23,
+      "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
+      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, ii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "i, ii",
+      "level": "medium"
+    },
+    {
+      "id": 24,
+      "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
+      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) 0, 1, 0",
+        "খ) 1, 0, 0",
+        "গ) 1, 0, 1",
+        "ঘ) 0, 1, 1"
+      ],
+      "answer": "ঘ) 0, 1, 1",
+      "level": "hard"
+    },
+    {
+      "id": 25,
+      "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
+      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, ii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "i ও ii",
+      "level": "hard"
+    }
           ]
         }
       ]
@@ -1237,3 +1241,4 @@
   ]
 
 }
+
