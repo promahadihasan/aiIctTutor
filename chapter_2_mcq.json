@@ -303,7 +303,7 @@
     {
       "id": 26,
       "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) ওয়াই-ফাই",
         "খ) ইনফ্রারেড",
@@ -316,7 +316,7 @@
     {
       "id": 27,
       "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
@@ -329,7 +329,7 @@
     {
       "id": 28,
       "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) 0, 1, 0",
         "খ) 1, 0, 0",
@@ -342,7 +342,7 @@
     {
       "id": 29,
       "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
