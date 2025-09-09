@@ -6,7 +6,7 @@
       "chapter_name": "Chapter 1",
       "total_questions": 25,
       "last_date": "2025-12-31",
-      "validity_time_minutes": 60,
+      "validity_time_minutes": 25,
       "questions": [
         {
           "id": 1,
