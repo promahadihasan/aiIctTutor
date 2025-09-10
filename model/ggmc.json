@@ -7,7 +7,7 @@
       "total_questions": 25,
       "last_date": "2025-12-31",
       "validity_time_minutes": 25,
-      "questions": [
+      "mcqs": [
         {
           "id": 1,
           "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
@@ -317,7 +317,7 @@
       "total_questions": 25,
       "last_date": "2025-12-31",
       "validity_time_minutes": 60,
-      "questions": [
+      "mcqs": [
         {
           "id": 1,
           "question": "গ্লোবাল ভিলেজ ধারণায় বিশ্বের যেকোনো প্রান্তের মানুষের সাথে তাৎক্ষণিক যোগাযোগ সম্ভব হয় কীভাবে?",
@@ -627,7 +627,7 @@
       "total_questions": 25,
       "last_date": "2025-12-31",
       "validity_time_minutes": 60,
-      "questions": [
+      "mcqs": [
         {
           "id": 1,
           "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
@@ -937,7 +937,7 @@
       "total_questions": 25,
       "last_date": "2025-12-31",
       "validity_time_minutes": 60,
-      "questions": [
+      "mcqs": [
         {
           "id": 1,
           "question": "গ্লোবাল ভিলেজ ধারণায় বিশ্বের যেকোনো প্রান্তের মানুষের সাথে তাৎক্ষণিক যোগাযোগ সম্ভব হয় কীভাবে?",
