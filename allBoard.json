@@ -815,7 +815,7 @@
   {
     "id": 24,
     "question": "চিত্রের ? স্থানে কোনটি হবে ",
-    "image": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png",
+    "image": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
     "options": ["ক) Assembler", "খ) Interpreter", "গ)Compiler", "ঘ) Linker "],
     "answer": "গ)Compiler",
     "level": "medium"
@@ -830,3 +830,4 @@
   ]
 
 }
+
