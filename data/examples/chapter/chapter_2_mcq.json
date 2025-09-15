@@ -1,0 +1,356 @@
+{
+  "mcqs": [
+    {
+      "id": 1,
+      "question": "একটি কেন্দ্রিয় হাব দ্বারা কোন টপোলজি সংযুক্ত থাকে?",
+      "options": [
+        "bus",
+        "mesh",
+        "ring",
+        "star"
+      ],
+      "answer": "star",
+      "level": "easy"
+    },
+    {
+      "id": 2,
+      "question": "ডেটা কমিউনিকেশন কী?",
+      "options": [
+        "দুটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
+        "মাধ্যেমবিহীন তথ্যের প্রবাহ",
+        "শুধুমাত্র তারযুক্ত তথ্যের প্রবাহ",
+        "শুধুমাত্র কম্পিউটার নির্ভর যোগাযোগ"
+      ],
+      "answer": "দুটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
+      "level": "easy"
+    },
+    {
+      "id": 3,
+      "question": "bps এর পূর্ণরূপ কী?",
+      "options": [
+        "bit per second",
+        "byte per second",
+        "binary per second",
+        "bit per system"
+      ],
+      "answer": "bit per second",
+      "level": "easy"
+    },
+    {
+      "id": 4,
+      "question": "ভয়েস ব্যান্ড কোথায় ব্যবহৃত হয়?",
+      "options": [
+        "টেলিগ্রাফে",
+        "টেলিফোনে",
+        "রাউটারে",
+        "গেটওয়ে"
+      ],
+      "answer": "টেলিগ্রাফে",
+      "level": "medium"
+    },
+    {
+      "id": 5,
+      "question": "কোন ট্রান্সমিশনে ডেটা ক্যারেকটার বাই ক্যারেকটার ট্রান্সমিট হয়?",
+      "options": [
+        "প্যারালাল",
+        "অ্যাসিনক্রোনাস",
+        "সিরিয়াল",
+        "সিনক্রোনাস"
+      ],
+      "answer": "অ্যাসিনক্রোনাস",
+      "level": "medium"
+    },
+    {
+      "id": 6,
+      "question": "একমুখী ডেটা ট্রান্সমিশন পদ্ধতিকে কী বলে?",
+      "options": [
+        "সিমপ্লেক্স",
+        "হাফ-ডুপ্লেক্স",
+        "ফুল-ডুপ্লেক্স",
+        "কোনোটিই নয়"
+      ],
+      "answer": "সিমপ্লেক্স",
+      "level": "easy"
+    },
+    {
+      "id": 7,
+      "question": "একসাথে ডেটা পাঠানো ও গ্রহণ করা যায় কোন মাধ্যমে?",
+      "options": [
+        "সিমপ্লেক্স",
+        "হাফ-ডুপ্লেক্স",
+        "ফুল-ডুপ্লেক্স",
+        "কোনোটিই নয়"
+      ],
+      "answer": "ফুল-ডুপ্লেক্স",
+      "level": "easy"
+    },
+    {
+      "id": 8,
+      "question": "ট্রান্সমিশন মিডিয়া কত প্রকার?",
+      "options": [
+        "১",
+        "২",
+        "৩",
+        "৪"
+      ],
+      "answer": "২",
+      "level": "easy"
+    },
+    {
+      "id": 9,
+      "question": "টুইস্টেড পেয়ার কেবলের কোড কত?",
+      "options": [
+        "৫৬৪এ",
+        "৫৬৮বি",
+        "৫৭৬এ",
+        "৫৭২বি"
+      ],
+      "answer": "৫৬৮বি",
+      "level": "medium"
+    },
+    {
+      "id": 10,
+      "question": "ফাইবার অপটিক্যাল ক্যাবল কী দ্বারা তৈরি?",
+      "options": [
+        "গ্লাস",
+        "সিলিকন",
+        "তামা",
+        "এলুমিনিয়াম"
+      ],
+      "answer": "গ্লাস",
+      "level": "easy"
+    },
+    {
+      "id": 11,
+      "question": "নেটওয়ার্ক টপোলজি কত প্রকার?",
+      "options": [
+        "৪",
+        "৫",
+        "৬",
+        "৭"
+      ],
+      "answer": "৬",
+      "level": "medium"
+    },
+    {
+      "id": 12,
+      "question": "একটি কম্পিউটার নেটওয়ার্কের কানেকশন ব্যবস্থা কী নামে পরিচিত?",
+      "options": [
+        "টপোলজি",
+        "নেটওয়ার্ক",
+        "সার্ভার",
+        "প্রটোকল"
+      ],
+      "answer": "টপোলজি",
+      "level": "easy"
+    },
+    {
+      "id": 13,
+      "question": "কোন টপোলজিতে ১২টি নোডের জন্য ৬৬টি ক্যাবল প্রয়োজন?",
+      "options": [
+        "বাস",
+        "রিং",
+        "মেস",
+        "স্টার"
+      ],
+      "answer": "মেস",
+      "level": "hard"
+    },
+    {
+      "id": 14,
+      "question": "LAN এর পূর্ণরূপ কী?",
+      "options": [
+        "Local Area Network",
+        "Local Asynchronous Network",
+        "Limited Access Network",
+        "Long Area Network"
+      ],
+      "answer": "Local Area Network",
+      "level": "easy"
+    },
+    {
+      "id": 15,
+      "question": "WAN এর পূর্ণরূপ কী?",
+      "options": [
+        "Wireless Area Network",
+        "Wide Area Network",
+        "Web Area Network",
+        "World Access Network"
+      ],
+      "answer": "Wide Area Network",
+      "level": "easy"
+    },
+    {
+      "id": 16,
+      "question": "কোন জেনারেশনে সর্বপ্রথম ভিডিও কল করা সম্ভব হয়?",
+      "options": [
+        "1G",
+        "2G",
+        "3G",
+        "4G"
+      ],
+      "answer": "3G",
+      "level": "medium"
+    },
+    {
+      "id": 17,
+      "question": "Wi-Fi এর স্ট্যান্ডার্ড কী?",
+      "options": [
+        "802.11",
+        "802.16",
+        "802.17",
+        "802.19"
+      ],
+      "answer": "802.11",
+      "level": "medium"
+    },
+    {
+      "id": 18,
+      "question": "Bluetooth এর ফ্রিকোয়েন্সি কত?",
+      "options": [
+        "2.42 GHz",
+        "2.45 GHz",
+        "2.48 GHz",
+        "2.5 GHz"
+      ],
+      "answer": "2.45 GHz",
+      "level": "medium"
+    },
+    {
+      "id": 19,
+      "question": "সেলুলার ফোনে কোন টপোলজি ব্যবহৃত হয়?",
+      "options": [
+        "মেশ",
+        "রিং",
+        "স্টার",
+        "হাইব্রিড"
+      ],
+      "answer": "স্টার",
+      "level": "easy"
+    },
+    {
+      "id": 20,
+      "question": "কোন টপোলজিতে একটি কেন্দ্রীয় কম্পিউটার থাকে?",
+      "options": [
+        "স্টার",
+        "রিং",
+        "বাস",
+        "মেশ"
+      ],
+      "answer": "স্টার",
+      "level": "easy"
+    },
+    {
+      "id": 21,
+      "question": "নিচের কোন ডিভাইসটিতে ডেটা ফিল্টারিং সম্ভব?",
+      "options": [
+        "হাব",
+        "সুইচ",
+        "রিপিটার",
+        "রাউটার"
+      ],
+      "answer": "রাউটার",
+      "level": "medium"
+    },
+    {
+      "id": 22,
+      "question": "প্রটোকল ট্রান্সলেশনে সুবিধা দেয় কোন নেটওয়ার্ক ডিভাইস?",
+      "options": [
+        "NIC",
+        "ব্রিজ",
+        "রিপিটার",
+        "গেটওয়ে"
+      ],
+      "answer": "গেটওয়ে",
+      "level": "medium"
+    },
+    {
+      "id": 23,
+      "question": "ব্লুটুথ নেটওয়ার্কের অপর নাম কী?",
+      "options": [
+        "থিকনেট",
+        "থিননেট",
+        "পিকোনেট",
+        "স্ক্যাটারনেট"
+      ],
+      "answer": "পিকোনেট",
+      "level": "easy"
+    },
+    {
+      "id": 24,
+      "question": "4G একটি-",
+      "options": [
+        "PSTN",
+        "PDN",
+        "IP Data Network",
+        "WLAN"
+      ],
+      "answer": "IP Data Network",
+      "level": "medium"
+    },
+    {
+      "id": 25,
+      "question": "WiMAX কোন নেটওয়ার্কের জন্য ব্যবহৃত হয়?",
+      "options": [
+        "LAN",
+        "MAN",
+        "WAN",
+        "PAN"
+      ],
+      "answer": "WAN",
+      "level": "medium"
+    },
+    {
+      "id": 26,
+      "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) ওয়াই-ফাই",
+        "খ) ইনফ্রারেড",
+        "গ) মাইক্রোওয়েভ",
+        "ঘ) ওয়াই-ম্যাক্স"
+      ],
+      "answer": "গ) মাইক্রোওয়েভ",
+      "level": "easy"
+    },
+    {
+      "id": 27,
+      "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, ii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "i, ii",
+      "level": "easy"
+    },
+    {
+      "id": 28,
+      "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) 0, 1, 0",
+        "খ) 1, 0, 0",
+        "গ) 1, 0, 1",
+        "ঘ) 0, 1, 1"
+      ],
+      "answer": "ঘ) 0, 1, 1",
+      "level": "hard"
+    },
+    {
+      "id": 29,
+      "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, ii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "i ও ii",
+      "level": "hard"
+    }
+  ]
+}
