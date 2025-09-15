@@ -1,0 +1,150 @@
+{
+    "posts": [
+        {
+            "postId": "post125",
+            "title": "2nd Chapter-Wireless devices",
+            "content": "Three wireless Device.",
+            "teacherName": "Sunny",
+            "timestamp": "2025-09-4 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "https:\/\/github.com\/promahadihasan\/aiIctTutor\/blob\/main\/students\/assets\/images\/sunny.png?raw=true",
+            "likes": 2,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment0",
+                    "postId": "post125",
+                    "authorName": "Mily",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2025-09-4 12:15:30",
+                    "likes": 1,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "2a4a128e-d83e-4fbf-9725-373834835c15",
+                    "postId": "post125",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "That's great ",
+                    "timestamp": "2025-09-05 08:31:57",
+                    "likes": 0
+                }
+            ]
+        },
+        {
+            "postId": "post123",
+            "title": "Digital Device",
+            "content": "Today we will learn about the Digital Device in ICT.",
+            "teacherName": "Shibbir",
+            "timestamp": "2023-06-14 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "",
+            "likes": 44,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post123",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "comment1",
+                    "postId": "post123",
+                    "authorName": "JERIN",
+                    "content": "Thank you Sir, class was very clear.",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/github.com\/promahadihasan\/aiIctTutor\/blob\/main\/students\/assets\/images\/sunny.png?raw=true"
+                },
+                {
+                    "id": "ed2e0c02-268e-493f-b16d-aa83175364b7",
+                    "postId": "post123",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "json formate problem",
+                    "timestamp": "2025-09-04 23:15:01",
+                    "likes": 5
+                },
+                {
+                    "id": "6c6f9980-2205-41cd-9d33-95059c26c21b",
+                    "postId": "post123",
+                    "authorName": "SHEIKH RAYEEDAH RAISA",
+                    "content": "Hello Degital Device",
+                    "timestamp": "2025-09-04 23:46:07",
+                    "likes": 1
+                },
+                {
+                    "id": "46db5747-cce7-4ecf-8719-edc4129d42de",
+                    "postId": "post123",
+                    "authorName": "JERIN",
+                    "content": "Json tags not deleted ",
+                    "timestamp": "2025-09-05 07:37:00",
+                    "likes": 0
+                }
+            ]
+        },
+        {
+            "postId": "post124",
+            "title": "Number System",
+            "content": "Today we will learn about the Number System in ICT.",
+            "teacherName": "Shibbir",
+            "timestamp": "2023-06-14 09:15:30",
+            "teacherProfilePic": "https:\/\/imgur.com\/a\/S4ALQt4",
+            "imageUrl": "",
+            "likes": 46,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post124",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "comment1",
+                    "postId": "post124",
+                    "authorName": "JERIN",
+                    "content": "Thank you Sir, class was very clear.",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "bd851edf-7ab8-451d-a7b1-2dbbd8a488e5",
+                    "postId": "post124",
+                    "authorName": "SHEIKH RAYEEDAH RAISA",
+                    "content": "My First Comment",
+                    "timestamp": "2025-09-04 23:34:44",
+                    "likes": 0
+                },
+                {
+                    "id": "ff5947d9-72c8-4ea6-8116-7330f2cac854",
+                    "postId": "post124",
+                    "authorName": "JERIN",
+                    "content": "Hi I am Mehedi sir",
+                    "timestamp": "2025-09-05 06:17:18",
+                    "likes": 0
+                }
+            ]
+        }
+    ],
+    "status": "success",
+    "message": null
+}
