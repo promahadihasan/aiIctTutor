@@ -1,19 +1,6 @@
 {
   "notifications": [
     {
-      "id": "notification3",
-      "title": "2nd Chapter-Wireless devices",
-      "message": "Three wireless Device.",
-      "timestamp": "2025-09-4 09:15:30",
-      "type": "post",
-      "isRead": false,
-      "postId": "post125",
-      "emoji": "📱",
-      "imageUrl": "https://example.com/image.jpg",
-      "authorName": "Sunny",
-      "authorAvatar": "https://example.com/avatar.jpg"
-    },
-    {
       "id": "notification1",
       "title": "Digital Device",
       "message": "Today we will learn about the Digital Device in ICT.",
