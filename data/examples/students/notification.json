@@ -19,7 +19,7 @@
       "message": "Today we will learn about the Number System in ICT",
       "timestamp": "2023-06-15 10:30:45",
       "type": "post",
-      "isRead": false,
+      "isRead": true,
       "postId": "post124",
       "emoji": "📱",
       "imageUrl": "https://example.com/image.jpg",
