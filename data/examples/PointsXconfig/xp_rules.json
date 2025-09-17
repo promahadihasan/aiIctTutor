@@ -1,0 +1,23 @@
+{
+  "mcqs_xp_rules": {
+    "MODEL_TEST": {
+      "correct": 1,
+      "wrong": 0,
+      "bonus": 10
+    },
+    "BOARD_MCQS": {
+      "correct": 1,
+      "wrong": 0
+    },
+    "CHAPTER_WISE": {
+      "correct": 1,
+      "wrong": 0
+    }
+  },
+  "cq_xp_rules": {
+    "ANSWER_CORRECT": 10,
+    "ANSWER_WRONG": 0,
+    "ANSWER_SUBMITTED": 2,
+    "ANSWER_REVIEWED": 5
+  }
+}
