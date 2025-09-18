@@ -267,13 +267,12 @@
         "ঘ) ওয়াই-ম্যাক্স"
       ],
       "answer": "গ) মাইক্রোওয়েভ",
-       "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "level": "medium"
     },
     {
       "id": 23,
       "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
@@ -286,7 +285,7 @@
     {
       "id": 24,
       "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) 0, 1, 0",
         "খ) 1, 0, 0",
@@ -299,7 +298,7 @@
     {
       "id": 25,
       "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
-      "image": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
@@ -630,7 +629,7 @@
 {
     "id": 1,
     "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?",
-    "image": "",
+    "imageUrl": "",
     "options": ["ক) হার্ডওয়্যার", "খ) সফটওয়্যার", "গ) ইন্টারনেট", "ঘ) মানুষের জ্ঞান"],
     "answer": "খ) সফটওয়্যার",
     "level": "easy"
@@ -638,7 +637,7 @@
   {
     "id": 2,
     "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ",
-    "image": "",
+    "imageUrl": "",
     "options": ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
     "answer": "ঘ) i, ii,iii",
     "level": "medium"
@@ -816,7 +815,7 @@
   {
     "id": 24,
     "question": "চিত্রের ? স্থানে কোনটি হবে ",
-    "image": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
+    "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
     "options": ["ক) Assembler", "খ) Interpreter", "গ)Compiler", "ঘ) Linker "],
     "answer": "গ)Compiler",
     "level": "medium"
