@@ -1,1 +1,119 @@
-{"students":[{"c_eiin":"12345","group":"BUSINESS STUDIES","id":"20261","name":"ISRAT JAHAN JUI","performance":{"accuracy_rate":87,"avg_response_time":12,"current_difficulty":"Medium","next_difficulty":"Hard","streak_days":5},"personalization":{"adaptive_score":76,"hints_used":2,"preferred_topic":"Networking","weakness_topic":"Binary Arithmetic"},"progress":{"badges":[{"earned_at":"2025-09-01","name":"Quick Learner"},{"earned_at":"2025-09-10","name":"Problem Solver"}],"energy":80,"level":"Intermediate","lives":3,"xp_points":1200}},{"c_eiin":"12345","group":"BUSINESS STUDIES","id":"20262","name":"SHEIKH RAYEEDAH RAISA","performance":{"accuracy_rate":75,"avg_response_time":18,"current_difficulty":"Easy","next_difficulty":"Medium","streak_days":2},"personalization":{"adaptive_score":60,"hints_used":4,"preferred_topic":"ICT Fundamentals","weakness_topic":"Database"},"progress":{"badges":[],"energy":60,"level":"Beginner","lives":3,"xp_points":950}},{"c_eiin":"114678","group":"HUMANITIES","id":"2027201","name":"NENY BHUIYAN","performance":{"accuracy_rate":0,"avg_response_time":0,"current_difficulty":"Easy","next_difficulty":"Medium","streak_days":0},"personalization":{"adaptive_score":0,"hints_used":0,"preferred_topic":"General ICT","weakness_topic":"None"},"progress":{"badges":[],"energy":100,"level":"Beginner","lives":3,"xp_points":0},"shift":"Day"}]}
+{
+  "students": [
+    {
+      "c_eiin": "12345",
+      "group": "BUSINESS STUDIES",
+      "id": "20261",
+      "name": "ISRAT JAHAN JUI",
+      "performance": {
+        "accuracy_rate": 87,
+        "avg_response_time": 12,
+        "current_difficulty": "Medium",
+        "next_difficulty": "Hard",
+        "streak_days": 5
+      },
+      "personalization": {
+        "adaptive_score": 76,
+        "hints_used": 2,
+        "preferred_topic": "Networking",
+        "weakness_topic": "Binary Arithmetic"
+      },
+      "progress": {
+        "badges": [
+          {
+            "earned_at": "2025-09-01",
+            "name": "Quick Learner"
+          },
+          {
+            "earned_at": "2025-09-10",
+            "name": "Problem Solver"
+          }
+        ],
+        "energy": 80,
+        "level": "Intermediate",
+        "lives": 3,
+        "xp_points": 1200
+      }
+    },
+    {
+      "c_eiin": "12345",
+      "group": "BUSINESS STUDIES",
+      "id": "20262",
+      "name": "SHEIKH RAYEEDAH RAISA",
+      "performance": {
+        "accuracy_rate": 75,
+        "avg_response_time": 18,
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "streak_days": 2
+      },
+      "personalization": {
+        "adaptive_score": 60,
+        "hints_used": 4,
+        "preferred_topic": "ICT Fundamentals",
+        "weakness_topic": "Database"
+      },
+      "progress": {
+        "badges": [],
+        "energy": 60,
+        "level": "Beginner",
+        "lives": 3,
+        "xp_points": 950
+      }
+    },
+    {
+      "c_eiin": "114678",
+      "group": "HUMANITIES",
+      "id": "2027201",
+      "name": "NENY BHUIYAN",
+      "performance": {
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "streak_days": 0
+      },
+      "personalization": {
+        "adaptive_score": 0,
+        "hints_used": 0,
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None"
+      },
+      "progress": {
+        "badges": [],
+        "energy": 100,
+        "level": "Beginner",
+        "lives": 3,
+        "xp_points": 0
+      },
+      "shift": "Day"
+    },
+    {
+      "c_eiin": "114678",
+      "group": "HUMANITIES",
+      "id": "2027202",
+      "name": "NENY BHUIYAN",
+      "performance": {
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "streak_days": 0
+      },
+      "personalization": {
+        "adaptive_score": 0,
+        "hints_used": 0,
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None"
+      },
+      "progress": {
+        "badges": [],
+        "energy": 100,
+        "level": "Beginner",
+        "lives": 3,
+        "xp_points": 0
+      },
+      "shift": "Day"
+    }
+  ]
+}
