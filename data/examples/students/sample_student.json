@@ -1,1 +1,59 @@
-[{"c_eiin":"114678","group":"BUSINESS STUDIES","id":"20261","name":"ISRAT JAHAN JUI","performance":{"accuracy_rate":87,"avg_response_time":12,"current_difficulty":"Medium","next_difficulty":"Hard","streak_days":5},"personalization":{"adaptive_score":76,"hints_used":2,"preferred_topic":"Networking","weakness_topic":"Binary Arithmetic"},"progress":{"badges":[{"earned_at":"2025-09-01","name":"Quick Learner"},{"earned_at":"2025-09-10","name":"Problem Solver"}],"energy":80,"level":"Intermediate","lives":3,"xp_points":107},"shift":"Day"},{"c_eiin":"109030","group":"BUSINESS STUDIES","id":"20262","name":"SHEIKH RAYEEDAH RAISA","performance":{"accuracy_rate":75,"avg_response_time":18,"current_difficulty":"Easy","next_difficulty":"Medium","streak_days":2},"personalization":{"adaptive_score":60,"hints_used":4,"preferred_topic":"ICT Fundamentals","weakness_topic":"Database"},"progress":{"badges":[],"energy":60,"level":"Beginner","lives":3,"xp_points":950},"shift":"Morning"},{"c_eiin":"109030","group":"SCIENCE","id":"20263","name":"ROKEYA AKTER MIM","performance":{"accuracy_rate":92,"avg_response_time":10,"current_difficulty":"Hard","next_difficulty":"Expert","streak_days":8},"personalization":{"adaptive_score":88,"hints_used":1,"preferred_topic":"Programming","weakness_topic":"Database"},"progress":{"badges":[{"earned_at":"2025-09-15","name":"Top Scorer"}],"energy":95,"level":"Pro","lives":5,"xp_points":1500},"shift":"Day"},{"c_eiin":"114678","group":"HUMANITIES","id":"2027201","name":"NENY BHUIYAN","performance":{"accuracy_rate":0,"avg_response_time":0,"current_difficulty":"Easy","next_difficulty":"Medium","streak_days":0},"personalization":{"adaptive_score":0,"hints_used":0,"preferred_topic":"General ICT","weakness_topic":"None"},"progress":{"badges":[],"energy":100,"level":"Beginner","lives":3,"xp_points":0},"shift":"Day"}]
+{
+  "students": [
+    {
+      "id": "20261",
+      "name": "ISRAT JAHAN JUI",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "12345",
+      "progress": {
+        "xp_points": 1200,
+        "level": "Intermediate",
+        "badges": [
+          {"name": "Quick Learner", "earned_at": "2025-09-01"},
+          {"name": "Problem Solver", "earned_at": "2025-09-10"}
+        ],
+        "lives": 3,
+        "energy": 80
+      },
+      "performance": {
+        "current_difficulty": "Medium",
+        "next_difficulty": "Hard",
+        "accuracy_rate": 87,
+        "avg_response_time": 12,
+        "streak_days": 5
+      },
+      "personalization": {
+        "preferred_topic": "Networking",
+        "weakness_topic": "Binary Arithmetic",
+        "hints_used": 2,
+        "adaptive_score": 76
+      }
+    },
+    {
+      "id": "20262",
+      "name": "SHEIKH RAYEEDAH RAISA",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "12345",
+      "progress": {
+        "xp_points": 950,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 60
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 75,
+        "avg_response_time": 18,
+        "streak_days": 2
+      },
+      "personalization": {
+        "preferred_topic": "ICT Fundamentals",
+        "weakness_topic": "Database",
+        "hints_used": 4,
+        "adaptive_score": 60
+      }
+    }
+  ]
+}
