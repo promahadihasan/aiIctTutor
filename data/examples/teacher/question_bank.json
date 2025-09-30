@@ -10,7 +10,8 @@
         "ঘ. 101111"
       ],
       "answer": "খ. 010010",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "chapterId": "3.1"
     },
     {
       "id": 2,
@@ -22,7 +23,8 @@
         "ঘ. আলফা"
       ],
       "answer": "ক. লেজার",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "2"
     },
     {
       "id": 3,
@@ -34,7 +36,8 @@
         "ঘ. আন্তর্জাতিক"
       ],
       "answer": "খ. বাণিজ্যিক",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "1"
     },
     {
       "id": 4,
@@ -46,7 +49,8 @@
         "খ. HTTP"
       ],
       "answer": "ঘ. HTTP",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "4"
     },
     {
       "id": 5,
@@ -58,7 +62,8 @@
         "ঘ. %d"
       ],
       "answer": "ক. %c",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "5"
     },
     {
       "id": 6,
@@ -70,7 +75,8 @@
         "ঘ. ৬"
       ],
       "answer": "খ. ৪",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "5"
     },
     {
       "id": 7,
@@ -82,7 +88,8 @@
         "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
       ],
       "answer": "ক. সাশ্রয়ী ও সহজলভ্য",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "1"
     },
     {
       "id": 8,
@@ -94,7 +101,8 @@
         "ঘ. A+B"
       ],
       "answer": "ক. A'B + AB'",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "3.2"
     },
     {
       "id": 9,
@@ -106,7 +114,8 @@
         "ঘ. A=0, B=0"
       ],
       "answer": "ক. A=1, B=0",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "3.2"
     },
     {
       "id": 10,
@@ -118,7 +127,8 @@
         "ঘ. লাল"
       ],
       "answer": "ক. সাদা",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "4"
     },
     {
       "id": 11,
@@ -130,7 +140,8 @@
         "ঘ. 16, 17"
       ],
       "answer": "ক. 15, 15",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "5"
     },
     {
       "id": 12,
@@ -142,7 +153,8 @@
         "ঘ. ক্রোমোজোম"
       ],
       "answer": "খ. জিনোম",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "1"
     },
     {
       "id": 13,
@@ -154,7 +166,8 @@
         "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
       ],
       "answer": "গ. বায়োইনফরমেটিক্স",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "1"
     },
     {
       "id": 14,
@@ -166,7 +179,8 @@
         "ঘ. মোবাইল"
       ],
       "answer": "খ. পেজার",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "2"
     },
     {
       "id": 15,
@@ -178,7 +192,8 @@
         "ঘ. In"
       ],
       "answer": "খ. DIV",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "5"
     },
     {
       "id": 16,
@@ -190,7 +205,8 @@
         "ঘ. উপরের কোনটি সঠিক?"
       ],
       "answer": "ক. (170)10",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "3.1"
     },
     {
       "id": 17,
@@ -202,7 +218,8 @@
         "ঘ. <th bgcolor=\"green\">"
       ],
       "answer": "গ. <td bgcolor=\"green\">",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "4"
     },
     {
       "id": 18,
@@ -214,7 +231,8 @@
         "ঘ. Unicode"
       ],
       "answer": "ঘ. Unicode",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "3.1"
     },
     {
       "id": 19,
@@ -226,7 +244,8 @@
         "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
       ],
       "answer": "গ. বায়োইনফরমেটিক্স",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "1"
     },
     {
       "id": 20,
@@ -238,7 +257,8 @@
         "ঘ. মোবাইল"
       ],
       "answer": "খ. পেজার",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "2"
     },
     {
       "id": 21,
@@ -250,7 +270,8 @@
         "ঘ. In"
       ],
       "answer": "খ. DIV",
-      "imageUrl": ""
+      "imageUrl": "",
+      "chapterId": "5"
     },
     {
       "id": 22,
@@ -262,7 +283,8 @@
         "ঘ) ওয়াই-ম্যাক্স"
       ],
       "answer": "গ) মাইক্রোওয়েভ",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "chapterId": "2"
     },
     {
       "id": 23,
@@ -274,7 +296,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "ক) i, ii",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "chapterId": "2"
     },
     {
       "id": 24,
@@ -286,7 +309,8 @@
         "ঘ) 0, 1, 1"
       ],
       "answer": "ঘ) 0, 1, 1",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "chapterId": "3.2"
     },
     {
       "id": 25,
@@ -298,7 +322,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "ক) i, ii",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+      "chapterId": "3.2"
     },
     {
       "id": 26,
@@ -310,7 +335,8 @@
         "ঘ) মানুষের জ্ঞান"
       ],
       "answer": "খ) সফটওয়্যার",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 27,
@@ -322,7 +348,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "ঘ) i, ii,iii",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 28,
@@ -335,7 +362,8 @@
         "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"
       ],
       "answer": "খ) ই-লার্নিং",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 29,
@@ -348,7 +376,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "ক) i, ii",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 30,
@@ -361,7 +390,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "ক) i, ii",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 31,
@@ -374,7 +404,8 @@
         "ঘ) স্টার"
       ],
       "answer": "গ) মেশ",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
       "id": 32,
@@ -387,7 +418,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "গ) i, iii",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
       "id": 33,
@@ -400,7 +432,8 @@
         "ঘ) ৭টি"
       ],
       "answer": "ক) ২টি",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
       "id": 34,
@@ -413,7 +446,8 @@
         "ঘ) ব্লুটুথ"
       ],
       "answer": "ক) ক্লাউড কম্পিউটিং",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 35,
@@ -426,7 +460,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "খ) ii, iii",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 36,
@@ -439,7 +474,8 @@
         "ঘ) 10.10"
       ],
       "answer": "ঘ) 10.10",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "3.1"
     },
     {
       "id": 37,
@@ -452,7 +488,8 @@
         "ঘ) 11010101"
       ],
       "answer": "গ) 11010001",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "3.1"
     },
     {
       "id": 38,
@@ -465,7 +502,8 @@
         "ঘ) E-mail address"
       ],
       "answer": "খ) Search engine",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "4"
     },
     {
       "id": 39,
@@ -478,7 +516,8 @@
         "ঘ) মেগাবাইট"
       ],
       "answer": "গ) বিট",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "3.1"
     },
     {
       "id": 40,
@@ -491,7 +530,8 @@
         "ঘ) ইলেকট্রনিক মেইলিং"
       ],
       "answer": "খ) ওয়েব সাইট",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "4"
     },
     {
       "id": 41,
@@ -504,7 +544,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "ঘ) i, ii,iii",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "4"
     },
     {
       "id": 42,
@@ -517,7 +558,8 @@
         "ঘ) ফার্মওয়্যার"
       ],
       "answer": "গ) কম্পিউটার ভাষা",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "5"
     },
     {
       "id": 43,
@@ -530,7 +572,8 @@
         "ঘ) Casading Styling Sheet"
       ],
       "answer": "ক) Casading Style Sheet",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "4"
     },
     {
       "id": 44,
@@ -543,7 +586,8 @@
         "ঘ) 6"
       ],
       "answer": "ঘ) 6",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "5"
     },
     {
       "id": 45,
@@ -556,7 +600,8 @@
         "ঘ) [ ]"
       ],
       "answer": "খ) < >",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "4"
     },
     {
       "id": 46,
@@ -569,7 +614,8 @@
         "ঘ) 43"
       ],
       "answer": "খ) 23",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "3.1"
     },
     {
       "id": 47,
@@ -582,7 +628,8 @@
         "ঘ) %s"
       ],
       "answer": "ক) %f",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "5"
     },
     {
       "id": 48,
@@ -595,7 +642,8 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "গ) i, iii",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "3.2"
     },
     {
       "id": 49,
@@ -608,7 +656,8 @@
         "ঘ) Linker "
       ],
       "answer": "গ)Compiler",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "5"
     },
     {
       "id": 50,
@@ -620,7 +669,8 @@
         "রেডিওর মাধ্যমে"
       ],
       "answer": "ইন্টারনেটের মাধ্যমে",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 51,
@@ -632,7 +682,8 @@
         "টেলিভিশন"
       ],
       "answer": "ইন্টারনেট",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 52,
@@ -644,7 +695,8 @@
         "ICT"
       ],
       "answer": "ICT",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 53,
@@ -656,7 +708,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 54,
@@ -668,7 +721,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 55,
@@ -680,7 +734,8 @@
         "স্বয়ংক্রিয় পদ্ধতি"
       ],
       "answer": "কৃত্রিম মেধা",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 56,
@@ -692,7 +747,8 @@
         "Information on Things"
       ],
       "answer": "Internet of Things",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 57,
@@ -704,7 +760,8 @@
         "কোড নম্বর"
       ],
       "answer": "শারীরিক বৈশিষ্ট্য",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 58,
@@ -716,7 +773,8 @@
         "রক্ত সঞ্চালন"
       ],
       "answer": "জিনের পরিবর্তন",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 59,
@@ -728,7 +786,8 @@
         "ন্যানোমিটার"
       ],
       "answer": "ন্যানোমিটার",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 60,
@@ -740,7 +799,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 61,
@@ -752,7 +812,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 62,
@@ -764,7 +825,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 63,
@@ -776,7 +838,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 64,
@@ -788,7 +851,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 65,
@@ -800,7 +864,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 66,
@@ -812,7 +877,8 @@
         "চিকিৎসা বিজ্ঞান"
       ],
       "answer": "জীববিজ্ঞান ও তথ্যপ্রযুক্তির সমন্বয়",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 67,
@@ -824,7 +890,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 68,
@@ -836,7 +903,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 69,
@@ -848,7 +916,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 70,
@@ -860,7 +929,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 71,
@@ -872,7 +942,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     },
     {
       "id": 72,
@@ -884,7 +955,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "1"
     },
     {
       "id": 73,
@@ -896,7 +968,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "1"
     },
     {
       "id": 74,
@@ -908,7 +981,8 @@
         "সবগুলোই"
       ],
       "answer": "সবগুলোই",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "1"
     }
   ]
 }
