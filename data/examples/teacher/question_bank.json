@@ -11,7 +11,8 @@
       ],
       "answer": "খ. 010010",
       "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.1"
+      "chapterId": "3.1",
+      "level": "easy"
     },
     {
       "id": 2,
@@ -24,7 +25,8 @@
       ],
       "answer": "ক. লেজার",
       "imageUrl": "",
-      "chapterId": "2"
+      "chapterId": "2",
+      "level": "medium"
     },
     {
       "id": 3,
@@ -37,7 +39,8 @@
       ],
       "answer": "খ. বাণিজ্যিক",
       "imageUrl": "",
-      "chapterId": "1"
+      "chapterId": "1",
+      "level": "hard"
     },
     {
       "id": 4,
@@ -50,7 +53,8 @@
       ],
       "answer": "ঘ. HTTP",
       "imageUrl": "",
-      "chapterId": "4"
+      "chapterId": "4",
+      "level": "easy"
     },
     {
       "id": 5,
@@ -63,7 +67,8 @@
       ],
       "answer": "ক. %c",
       "imageUrl": "",
-      "chapterId": "5"
+      "chapterId": "5",
+      "level": "medium"
     },
     {
       "id": 6,
@@ -76,7 +81,8 @@
       ],
       "answer": "খ. ৪",
       "imageUrl": "",
-      "chapterId": "5"
+      "chapterId": "5",
+      "level": "hard"
     },
     {
       "id": 7,
@@ -89,7 +95,8 @@
       ],
       "answer": "ক. সাশ্রয়ী ও সহজলভ্য",
       "imageUrl": "",
-      "chapterId": "1"
+      "chapterId": "1",
+      "level": "easy"
     },
     {
       "id": 8,
@@ -102,7 +109,8 @@
       ],
       "answer": "ক. A'B + AB'",
       "imageUrl": "",
-      "chapterId": "3.2"
+      "chapterId": "3.2",
+      "level": "medium"
     },
     {
       "id": 9,
@@ -115,7 +123,8 @@
       ],
       "answer": "ক. A=1, B=0",
       "imageUrl": "",
-      "chapterId": "3.2"
+      "chapterId": "3.2",
+      "level": "hard"
     },
     {
       "id": 10,
@@ -128,7 +137,8 @@
       ],
       "answer": "ক. সাদা",
       "imageUrl": "",
-      "chapterId": "4"
+      "chapterId": "4",
+      "level": "easy"
     },
     {
       "id": 11,
@@ -141,7 +151,8 @@
       ],
       "answer": "ক. 15, 15",
       "imageUrl": "",
-      "chapterId": "5"
+      "chapterId": "5",
+      "level": "medium"
     },
     {
       "id": 12,
@@ -154,7 +165,8 @@
       ],
       "answer": "খ. জিনোম",
       "imageUrl": "",
-      "chapterId": "1"
+      "chapterId": "1",
+      "level": "hard"
     },
     {
       "id": 13,
@@ -167,7 +179,8 @@
       ],
       "answer": "গ. বায়োইনফরমেটিক্স",
       "imageUrl": "",
-      "chapterId": "1"
+      "chapterId": "1",
+      "level": "easy"
     },
     {
       "id": 14,
@@ -180,7 +193,8 @@
       ],
       "answer": "খ. পেজার",
       "imageUrl": "",
-      "chapterId": "2"
+      "chapterId": "2",
+      "level": "medium"
     },
     {
       "id": 15,
@@ -193,7 +207,8 @@
       ],
       "answer": "খ. DIV",
       "imageUrl": "",
-      "chapterId": "5"
+      "chapterId": "5",
+      "level": "hard"
     },
     {
       "id": 16,
@@ -206,7 +221,8 @@
       ],
       "answer": "ক. (170)10",
       "imageUrl": "",
-      "chapterId": "3.1"
+      "chapterId": "3.1",
+      "level": "easy"
     },
     {
       "id": 17,
@@ -219,7 +235,8 @@
       ],
       "answer": "গ. <td bgcolor=\"green\">",
       "imageUrl": "",
-      "chapterId": "4"
+      "chapterId": "4",
+      "level": "medium"
     },
     {
       "id": 18,
@@ -232,7 +249,8 @@
       ],
       "answer": "ঘ. Unicode",
       "imageUrl": "",
-      "chapterId": "3.1"
+      "chapterId": "3.1",
+      "level": "hard"
     },
     {
       "id": 19,
@@ -245,7 +263,8 @@
       ],
       "answer": "গ. বায়োইনফরমেটিক্স",
       "imageUrl": "",
-      "chapterId": "1"
+      "chapterId": "1",
+      "level": "easy"
     },
     {
       "id": 20,
@@ -258,7 +277,8 @@
       ],
       "answer": "খ. পেজার",
       "imageUrl": "",
-      "chapterId": "2"
+      "chapterId": "2",
+      "level": "medium"
     },
     {
       "id": 21,
@@ -271,7 +291,8 @@
       ],
       "answer": "খ. DIV",
       "imageUrl": "",
-      "chapterId": "5"
+      "chapterId": "5",
+      "level": "hard"
     },
     {
       "id": 22,
@@ -284,7 +305,8 @@
       ],
       "answer": "গ) মাইক্রোওয়েভ",
       "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "2"
+      "chapterId": "2",
+      "level": "easy"
     },
     {
       "id": 23,
@@ -297,7 +319,8 @@
       ],
       "answer": "ক) i, ii",
       "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "2"
+      "chapterId": "2",
+      "level": "medium"
     },
     {
       "id": 24,
@@ -310,7 +333,8 @@
       ],
       "answer": "ঘ) 0, 1, 1",
       "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.2"
+      "chapterId": "3.2",
+      "level": "hard"
     },
     {
       "id": 25,
@@ -323,7 +347,8 @@
       ],
       "answer": "ক) i, ii",
       "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.2"
+      "chapterId": "3.2",
+      "level": "easy"
     },
     {
       "id": 26,
@@ -681,7 +706,7 @@
         "ইন্টারনেট",
         "টেলিভিশন"
       ],
-      "answer": "ইন্টারনেট",
+      "answer": "ইন্টারনেটের মাধ্যমে",
       "level": "medium",
       "chapterId": "1"
     },
@@ -985,458 +1010,73 @@
       "chapterId": "1"
     },
     {
-      "id": 1,
-      "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
+      "id": 75,
+      "question": "তথ্য ও যোগাযোগ প্রযুক্তি : বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
       "options": [
-        "ক. 101100",
-        "খ. 010010",
-        "গ. 101000",
-        "ঘ. 101111"
+        "ক) তথ্য",
+        "খ) যোগাযোগ",
+        "গ) প্রযুক্তি",
+        "ঘ) বিশ্ব"
       ],
-      "answer": "খ. 010010",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 2,
-      "question": "ফাইবার অপটিক ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
-      "options": [
-        "ক. লেজার",
-        "খ. গামা",
-        "গ. বিটা",
-        "ঘ. আলফা"
-      ],
-      "answer": "ক. লেজার",
-      "imageUrl": "",
-      "chapterId": "2"
-    },
-    {
-      "id": 3,
-      "question": "কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
-      "options": [
-        "ক. শিক্ষা",
-        "খ. বাণিজ্যিক",
-        "গ. সরকারি",
-        "ঘ. আন্তর্জাতিক"
-      ],
-      "answer": "খ. বাণিজ্যিক",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 4,
-      "question": "উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
-      "options": [
-        "ক. SMTP",
-        "খ. VOIP",
-        "গ. FTP",
-        "খ. HTTP"
-      ],
-      "answer": "ঘ. HTTP",
-      "imageUrl": "",
-      "chapterId": "4"
-    },
-    {
-      "id": 5,
-      "question": "ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
-      "options": [
-        "ক. %c",
-        "খ. %s",
-        "গ. %lf",
-        "ঘ. %d"
-      ],
-      "answer": "ক. %c",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 6,
-      "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i=3; i <= 15; i+=2)\nif (i-- > 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
-      "options": [
-        "ক. ৩",
-        "খ. ৪",
-        "গ. ৫",
-        "ঘ. ৬"
-      ],
-      "answer": "খ. ৪",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 7,
-      "question": "ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
-      "options": [
-        "ক. সাশ্রয়ী ও সহজলভ্য",
-        "খ. লাইসেন্স ফি লাগে",
-        "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
-        "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
-      ],
-      "answer": "ক. সাশ্রয়ী ও সহজলভ্য",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 8,
-      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?",
-      "options": [
-        "ক. A'B + AB'",
-        "খ. AB + A'B",
-        "গ. AB'",
-        "ঘ. A+B"
-      ],
-      "answer": "ক. A'B + AB'",
-      "imageUrl": "",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 9,
-      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-",
-      "options": [
-        "ক. A=1, B=0",
-        "খ. A=0, B=1",
-        "গ. A=1, B=1",
-        "ঘ. A=0, B=0"
-      ],
-      "answer": "ক. A=1, B=0",
-      "imageUrl": "",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 10,
-      "question": "#FFFFFF কোন রং নির্দেশ করে?",
-      "options": [
-        "ক. সাদা",
-        "খ. নীল",
-        "গ. সায়ান",
-        "ঘ. লাল"
-      ],
-      "answer": "ক. সাদা",
-      "imageUrl": "",
-      "chapterId": "4"
-    },
-    {
-      "id": 11,
-      "question": "নিচের উদ্দীপকটি পড় প্রশ্নের উত্তর দাও।\nvoid main()\n{\nint i=15, j;\nj = i++;\nprintf(\"%d %d\", i,j);\n}\nউদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
-      "options": [
-        "ক. 15, 15",
-        "খ. 15, 16",
-        "গ. 16, 16",
-        "ঘ. 16, 17"
-      ],
-      "answer": "ক. 15, 15",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 12,
-      "question": "জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
-      "options": [
-        "ক. জিন",
-        "খ. জিনোম",
-        "গ. নিউক্লিয়াস",
-        "ঘ. ক্রোমোজোম"
-      ],
-      "answer": "খ. জিনোম",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 13,
-      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-      "options": [
-        "ক. রোবটিক্স",
-        "খ. বায়োমেট্রিক্স",
-        "গ. বায়োইনফরমেটিক্স",
-        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-      ],
-      "answer": "গ. বায়োইনফরমেটিক্স",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 14,
-      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-      "options": [
-        "ক. কী-বোর্ড",
-        "খ. পেজার",
-        "গ. এসএমএস",
-        "ঘ. মোবাইল"
-      ],
-      "answer": "খ. পেজার",
-      "imageUrl": "",
-      "chapterId": "2"
-    },
-    {
-      "id": 15,
-      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-      "options": [
-        "ক. main",
-        "খ. DIV",
-        "গ. return",
-        "ঘ. In"
-      ],
-      "answer": "খ. DIV",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 16,
-      "question": "একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
-      "options": [
-        "ক. (170)10",
-        "খ. (252)10",
-        "গ. (10101010)2",
-        "ঘ. উপরের কোনটি সঠিক?"
-      ],
-      "answer": "ক. (170)10",
-      "imageUrl": "",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 17,
-      "question": "নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
-      "options": [
-        "ক. <table bgcolor=\"green\">",
-        "খ. <tr bgcolor=\"green\">",
-        "গ. <td bgcolor=\"green\">",
-        "ঘ. <th bgcolor=\"green\">"
-      ],
-      "answer": "গ. <td bgcolor=\"green\">",
-      "imageUrl": "",
-      "chapterId": "4"
-    },
-    {
-      "id": 18,
-      "question": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
-      "options": [
-        "ক. EBCDIC",
-        "খ. ASCII-7",
-        "গ. ASCII-8",
-        "ঘ. Unicode"
-      ],
-      "answer": "ঘ. Unicode",
-      "imageUrl": "",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 19,
-      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-      "options": [
-        "ক. রোবটিক্স",
-        "খ. বায়োমেট্রিক্স",
-        "গ. বায়োইনফরমেটিক্স",
-        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-      ],
-      "answer": "গ. বায়োইনফরমেটিক্স",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 20,
-      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-      "options": [
-        "ক. কী-বোর্ড",
-        "খ. পেজার",
-        "গ. এসএমএস",
-        "ঘ. মোবাইল"
-      ],
-      "answer": "খ. পেজার",
-      "imageUrl": "",
-      "chapterId": "2"
-    },
-    {
-      "id": 21,
-      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-      "options": [
-        "ক. main",
-        "খ. DIV",
-        "গ. return",
-        "ঘ. In"
-      ],
-      "answer": "খ. DIV",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 22,
-      "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
-      "options": [
-        "ক) ওয়াই-ফাই",
-        "খ) ইনফ্রারেড",
-        "গ) মাইক্রোওয়েভ",
-        "ঘ) ওয়াই-ম্যাক্স"
-      ],
-      "answer": "গ) মাইক্রোওয়েভ",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "2"
-    },
-    {
-      "id": 23,
-      "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "2"
-    },
-    {
-      "id": 24,
-      "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
-      "options": [
-        "ক) 0, 1, 0",
-        "খ) 1, 0, 0",
-        "গ) 1, 0, 1",
-        "ঘ) 0, 1, 1"
-      ],
-      "answer": "ঘ) 0, 1, 1",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 25,
-      "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 26,
-      "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?",
-      "options": [
-        "ক) হার্ডওয়্যার",
-        "খ) সফটওয়্যার",
-        "গ) ইন্টারনেট",
-        "ঘ) মানুষের জ্ঞান"
-      ],
-      "answer": "খ) সফটওয়্যার",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 27,
-      "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ঘ) i, ii,iii",
+      "answer": "ক) তথ্য",
       "level": "medium",
       "chapterId": "1"
     },
     {
-      "id": 28,
-      "question": "অনলাইনে পারস্পরিক মিথস্ক্রিয়ায় শিক্ষা কার্যক্রম পরিচালনাকে কী বলে?",
-      "image": "",
-      "options": [
-        "ক) ই-স্টাডি",
-        "খ) ই-লার্নিং",
-        "গ) অন-লার্নিং",
-        "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"
-      ],
-      "answer": "খ) ই-লার্নিং",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 29,
-      "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 30,
-      "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 31,
-      "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?",
-      "image": "",
-      "options": [
-        "ক) বাস",
-        "খ) রিং",
-        "গ) মেশ",
-        "ঘ) স্টার"
-      ],
-      "answer": "গ) মেশ",
-      "level": "easy",
-      "chapterId": "2"
-    },
-    {
-      "id": 32,
-      "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "গ) i, iii",
-      "level": "medium",
-      "chapterId": "2"
-    },
-    {
-      "id": 33,
-      "question": "ডাটা কমিউনিকেশনের মৌলিক উপাদান কয়টি?",
-      "image": "",
+      "id": 76,
+      "question": "কম্পিউটারের প্রজন্ম কয়টি?",
       "options": [
         "ক) ২টি",
         "খ) ৩টি",
         "গ) ৪টি",
-        "ঘ) ৭টি"
+        "ঘ) ৫টি"
       ],
-      "answer": "ক) ২টি",
-      "level": "easy",
-      "chapterId": "2"
+      "answer": "ঘ) ৫টি",
+      "level": "hard",
+      "chapterId": "3.1"
     },
     {
-      "id": 34,
-      "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n উদ্দীপকের সার্ভিসটির নাম কী?",
-      "image": "",
+      "id": 77,
+      "question": "জেমস ক্লার্ক ম্যাক্সওয়েলের গবেষণার ফল কী?",
       "options": [
-        "ক) ক্লাউড কম্পিউটিং",
-        "খ) ওয়াই-ফাই",
-        "গ) ওয়াই-ম্যাক্স",
-        "ঘ) ব্লুটুথ"
+        "ক) ডেটা প্রসেসিং",
+        "খ) রেডিও ওয়েভ",
+        "গ) ই-কমার্স",
+        "ঘ) কৃত্রিম বুদ্ধিমত্তা"
       ],
-      "answer": "ক) ক্লাউড কম্পিউটিং",
+      "answer": "খ) রেডিও ওয়েভ",
+      "level": "easy",
+      "chapterId": "1"
+    },
+    {
+      "id": 78,
+      "question": "কৃত্রিম বুদ্ধিমত্তা কী ধরনের বিজ্ঞান?",
+      "options": [
+        "ক) ফলিত বিজ্ঞান",
+        "খ) কম্পিউটার বিজ্ঞান",
+        "গ) জীবন বিজ্ঞান",
+        "ঘ) পরিবেশ বিজ্ঞান"
+      ],
+      "answer": "খ) কম্পিউটার বিজ্ঞান",
       "level": "medium",
       "chapterId": "1"
     },
     {
-      "id": 35,
-      "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n সার্ভিসটির ক্ষেত্রে—\ni) ব্যবহারে অতিরিক্ত মূল্য দিতে হয় \nii) কেন্দ্রীয় রিমোট সার্ভারের মাধ্যমে ডেটা নিয়ন্ত্রণ\niii) রক্ষণাবেক্ষণের খরচ নেই",
-      "image": "",
+      "id": 79,
+      "question": "বায়োমেট্রিক্স পদ্ধতির সুবিধা কোনটি?",
+      "options": [
+        "ক) পাসওয়ার্ড ভুলে যাওয়ার সুযোগ নেই",
+        "খ) নকল করা সম্ভব",
+        "গ) কম ব্যয়বহুল",
+        "ঘ) ব্যবহারের সহজলভ্যতা"
+      ],
+      "answer": "ক) পাসওয়ার্ড ভুলে যাওয়ার সুযোগ নেই",
+      "level": "hard",
+      "chapterId": "1"
+    },
+    {
+      "id": 80,
+      "question": "ন্যানো টেকনোলজির সুবিধা হলো—\ni) দ্রুত কাজ করা যায়\nii) শক্তিশালী ও হালকা\niii) বর্জ্য পদার্থ কম উৎপন্ন হয়",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
@@ -1444,871 +1084,12 @@
         "ঘ) i, ii,iii"
       ],
       "answer": "খ) ii, iii",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 36,
-      "question": "ICT-তে (1011.11)₂ + (1101.10)₂ = ?",
-      "image": "",
-      "options": [
-        "ক) 101.10",
-        "খ) 11.11",
-        "গ) 11.10",
-        "ঘ) 10.10"
-      ],
-      "answer": "ঘ) 10.10",
-      "level": "hard",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 37,
-      "question": "বাইনারি সংখ্যা 1111010 ও 1010111 এর যোগফল কত?",
-      "image": "",
-      "options": [
-        "ক) 10100001",
-        "খ) 10101001",
-        "গ) 11010001",
-        "ঘ) 11010101"
-      ],
-      "answer": "গ) 11010001",
-      "level": "medium",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 38,
-      "question": "Google.com কী?",
-      "image": "",
-      "options": [
-        "ক) Browser",
-        "খ) Search engine",
-        "গ) Protocol",
-        "ঘ) E-mail address"
-      ],
-      "answer": "খ) Search engine",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 39,
-      "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?",
-      "image": "",
-      "options": [
-        "ক) কিলোবাইট",
-        "খ) বাইট",
-        "গ) বিট",
-        "ঘ) মেগাবাইট"
-      ],
-      "answer": "গ) বিট",
-      "level": "medium",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 40,
-      "question": "দৃশ্যকল্প-১: রুমি কলেজে ভর্তিও আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়। \n দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?",
-      "image": "",
-      "options": [
-        "ক) ওয়েব হোস্টিং",
-        "খ) ওয়েব সাইট",
-        "গ) ই-কমার্স",
-        "ঘ) ইলেকট্রনিক মেইলিং"
-      ],
-      "answer": "খ) ওয়েব সাইট",
-      "level": "medium",
-      "chapterId": "4"
-    },
-    {
-      "id": 41,
-      "question": "\n < html > < body > Cricket board < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ঘ) i, ii,iii",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 42,
-      "question": "সফটওয়্যার তৈরির জন্য কোনটি প্রয়োজন?",
-      "image": "",
-      "options": [
-        "ক) হার্ডওয়্যার",
-        "খ) প্রোগ্রাম",
-        "গ) কম্পিউটার ভাষা",
-        "ঘ) ফার্মওয়্যার"
-      ],
-      "answer": "গ) কম্পিউটার ভাষা",
-      "level": "medium",
-      "chapterId": "5"
-    },
-    {
-      "id": 43,
-      "question": "CSS এর পূর্ণরূপ কী?",
-      "image": "",
-      "options": [
-        "ক) Casading Style Sheet",
-        "খ) Casading Style Shit",
-        "গ) Case Style Sheet",
-        "ঘ) Casading Styling Sheet"
-      ],
-      "answer": "ক) Casading Style Sheet",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 44,
-      "question": "নিচের C প্রোগ্রামটি রান করলে আউটপুট কত হবে?\nint a = 3, b;\nb = 2 * a;\nprintf(\"%d\", b);",
-      "image": "",
-      "options": [
-        "ক) 3",
-        "খ) 4",
-        "গ) 5",
-        "ঘ) 6"
-      ],
-      "answer": "ঘ) 6",
-      "level": "medium",
-      "chapterId": "5"
-    },
-    {
-      "id": 45,
-      "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?",
-      "image": "",
-      "options": [
-        "ক) { }",
-        "খ) < >",
-        "গ) ( )",
-        "ঘ) [ ]"
-      ],
-      "answer": "খ) < >",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 46,
-      "question": "(10111)₂ এর দশমিক মান কত?",
-      "image": "",
-      "options": [
-        "ক) 22",
-        "খ) 23",
-        "গ) 31",
-        "ঘ) 43"
-      ],
-      "answer": "খ) 23",
-      "level": "easy",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 47,
-      "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
-      "image": "",
-      "options": [
-        "ক) %f",
-        "খ) %d",
-        "গ) %c",
-        "ঘ) %s"
-      ],
-      "answer": "ক) %f",
-      "level": "easy",
-      "chapterId": "5"
-    },
-    {
-      "id": 48,
-      "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "গ) i, iii",
-      "level": "medium",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 49,
-      "question": "চিত্রের ? স্থানে কোনটি হবে ",
-      "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
-      "options": [
-        "ক) Assembler",
-        "খ) Interpreter",
-        "গ)Compiler",
-        "ঘ) Linker "
-      ],
-      "answer": "গ)Compiler",
-      "level": "medium",
-      "chapterId": "5"
-    },
-    {
-      "id": 50,
-      "question": "গ্লোবাল ভিলেজ ধারণায় বিশ্বের যেকোনো প্রান্তের মানুষের সাথে তাৎক্ষণিক যোগাযোগ সম্ভব হয় কীভাবে?",
-      "options": [
-        "টেলিফোনের মাধ্যমে",
-        "ইন্টারনেটের মাধ্যমে",
-        "পত্রিকার মাধ্যমে",
-        "রেডিওর মাধ্যমে"
-      ],
-      "answer": "ইন্টারনেটের মাধ্যমে",
       "level": "easy",
       "chapterId": "1"
     },
     {
-      "id": 51,
-      "question": "বর্তমান যুগে ঘরে বসে বিশ্বের যেকোনো বিশ্ববিদ্যালয়ে ভর্তি হওয়া সম্ভব হয়েছে কোন প্রযুক্তির কারণে?",
-      "options": [
-        "কম্পিউটার",
-        "মোবাইল ফোন",
-        "ইন্টারনেট",
-        "টেলিভিশন"
-      ],
-      "answer": "ইন্টারনেট",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 52,
-      "question": "টেলিমেডিসিন সেবার মূল ভিত্তি কী?",
-      "options": [
-        "হাসপাতাল",
-        "ডাক্তার",
-        "রোগী",
-        "ICT"
-      ],
-      "answer": "ICT",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 53,
-      "question": "গ্লোবাল ভিলেজের ধারণায় গবেষণা কাজে যে সুবিধাটি পাওয়া যায় তা হলো-",
-      "options": [
-        "দ্রুত তথ্য সংগ্রহ",
-        "কম খরচ",
-        "সময় সাশ্রয়",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 54,
-      "question": "ভার্চুয়াল রিয়েলিটি কী?",
-      "options": [
-        "বাস্তব জগতের অনুকরণ",
-        "কাল্পনিক জগতের সৃষ্টি",
-        "কম্পিউটার নির্ভর ত্রিমাত্রিক পরিবেশ",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 55,
-      "question": "আর্টিফিশিয়াল ইন্টেলিজেন্স এর বাংলা পরিভাষা কী?",
-      "options": [
-        "কৃত্রিম মেধা",
-        "যান্ত্রিক বুদ্ধি",
-        "রোবট প্রযুক্তি",
-        "স্বয়ংক্রিয় পদ্ধতি"
-      ],
-      "answer": "কৃত্রিম মেধা",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 56,
-      "question": "IoT এর পূর্ণরূপ কী?",
-      "options": [
-        "Internet on Technology",
-        "Internet of Things",
-        "Information of Technology",
-        "Information on Things"
-      ],
-      "answer": "Internet of Things",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 57,
-      "question": "বায়োমেট্রিক পদ্ধতিতে শনাক্তকরণের ভিত্তি কী?",
-      "options": [
-        "পাসওয়ার্ড",
-        "কার্ড",
-        "শারীরিক বৈশিষ্ট্য",
-        "কোড নম্বর"
-      ],
-      "answer": "শারীরিক বৈশিষ্ট্য",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 58,
-      "question": "জেনেটিক ইঞ্জিনিয়ারিং এর প্রধান কাজ কী?",
-      "options": [
-        "জিনের পরিবর্তন",
-        "কোষ বিভাজন",
-        "প্রোটিন তৈরি",
-        "রক্ত সঞ্চালন"
-      ],
-      "answer": "জিনের পরিবর্তন",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 59,
-      "question": "ন্যানোটেকনোলজির একক কী?",
-      "options": [
-        "মিটার",
-        "সেন্টিমিটার",
-        "মিলিমিটার",
-        "ন্যানোমিটার"
-      ],
-      "answer": "ন্যানোমিটার",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 60,
-      "question": "ICT ব্যবহারে নৈতিকতার প্রধান দিক কোনটি?",
-      "options": [
-        "গোপনীয়তা রক্ষা",
-        "তথ্য চুরি না করা",
-        "সাইবার অপরাধ না করা",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 61,
-      "question": "সামাজিক জীবনে ICT এর ইতিবাচক প্রভাব হলো-",
-      "options": [
-        "দ্রুত তথ্য আদান-প্রদান",
-        "শিক্ষার সুযোগ বৃদ্ধি",
-        "কর্মসংস্থান সৃষ্টি",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 62,
-      "question": "ই-গভর্নেন্স এর উদ্দেশ্য কী?",
-      "options": [
-        "স্বচ্ছতা বৃদ্ধি",
-        "দুর্নীতি কমানো",
-        "সেবার মান উন্নতি",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 63,
-      "question": "বাংলাদেশের ডিজিটাল বাংলাদেশ গড়ার মূল লক্ষ্য কী?",
-      "options": [
-        "প্রযুক্তিনির্ভর সমাজ গঠন",
-        "দারিদ্র্য দূরীকরণ",
-        "শিক্ষার প্রসার",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 64,
-      "question": "ভার্চুয়াল অফিস এর সুবিধা কী?",
-      "options": [
-        "ঘরে বসে কাজ করা",
-        "ভ্রমণ খরচ সাশ্রয়",
-        "সময় সাশ্রয়",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 65,
-      "question": "রোবটিক্স প্রযুক্তির প্রধান বৈশিষ্ট্য কী?",
-      "options": [
-        "স্বয়ংক্রিয়তা",
-        "নির্ভুলতা",
-        "দ্রুততা",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 66,
-      "question": "বায়োইনফরমেটিক্স কী?",
-      "options": [
-        "জীববিজ্ঞান ও তথ্যপ্রযুক্তির সমন্বয়",
-        "শুধু জীববিজ্ঞান",
-        "শুধু তথ্যপ্রযুক্তি",
-        "চিকিৎসা বিজ্ঞান"
-      ],
-      "answer": "জীববিজ্ঞান ও তথ্যপ্রযুক্তির সমন্বয়",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 67,
-      "question": "মহাকাশ অনুসন্ধানে ICT এর ভূমিকা কী?",
-      "options": [
-        "উপগ্রহ নিয়ন্ত্রণ",
-        "তথ্য সংগ্রহ ও বিশ্লেষণ",
-        "যোগাযোগ রক্ষা",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 68,
-      "question": "ই-কমার্স এর সুবিধা কোনটি?",
-      "options": [
-        "২৪ ঘণ্টা কেনাকাটা",
-        "ঘরে বসে কেনাকাটা",
-        "দামের তুলনা",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 69,
-      "question": "ICT নির্ভর উৎপাদনের উদাহরণ কোনটি?",
-      "options": [
-        "অটোমেশন",
-        "রোবট ব্যবহার",
-        "কম্পিউটার নিয়ন্ত্রিত যন্ত্র",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 70,
-      "question": "প্রতিরক্ষা ক্ষেত্রে ICT এর ব্যবহার-",
-      "options": [
-        "গুপ্ত যোগাযোগ",
-        "স্মার্ট অস্ত্র",
-        "নিরাপত্তা ব্যবস্থা",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 71,
-      "question": "সামাজিক যোগাযোগ মাধ্যমের নেতিবাচক প্রভাব কোনটি?",
-      "options": [
-        "গুজব ছড়ানো",
-        "ব্যক্তিগত তথ্য চুরি",
-        "সাইবার বুলিং",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 72,
-      "question": "ই-গভর্নেন্স সেবার উদাহরণ কোনটি?",
-      "options": [
-        "অনলাইন ট্যাক্স প্রদান",
-        "অনলাইন জন্ম নিবন্ধন",
-        "অনলাইন পাসপোর্ট আবেদন",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "medium",
-      "chapterId": "1"
-    },
-    {
-      "id": 73,
-      "question": "ICT ব্যবহারে পরিবেশের উপর নেতিবাচক প্রভাব কোনটি?",
-      "options": [
-        "ই-বর্জ্য",
-        "বিদ্যুৎ খরচ বৃদ্ধি",
-        "রেডিয়েশন",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 74,
-      "question": "টেলিকনফারেন্সিং এর সুবিধা কী?",
-      "options": [
-        "ভ্রমণ খরচ সাশ্রয়",
-        "সময় সাশ্রয়",
-        "তাৎক্ষণিক আলোচনা",
-        "সবগুলোই"
-      ],
-      "answer": "সবগুলোই",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 1,
-      "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
-      "options": [
-        "ক. 101100",
-        "খ. 010010",
-        "গ. 101000",
-        "ঘ. 101111"
-      ],
-      "answer": "খ. 010010",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 2,
-      "question": "ফাইবার অপটিক ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
-      "options": [
-        "ক. লেজার",
-        "খ. গামা",
-        "গ. বিটা",
-        "ঘ. আলফা"
-      ],
-      "answer": "ক. লেজার",
-      "imageUrl": "",
-      "chapterId": "2"
-    },
-    {
-      "id": 3,
-      "question": "কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
-      "options": [
-        "ক. শিক্ষা",
-        "খ. বাণিজ্যিক",
-        "গ. সরকারি",
-        "ঘ. আন্তর্জাতিক"
-      ],
-      "answer": "খ. বাণিজ্যিক",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 4,
-      "question": "উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
-      "options": [
-        "ক. SMTP",
-        "খ. VOIP",
-        "গ. FTP",
-        "খ. HTTP"
-      ],
-      "answer": "ঘ. HTTP",
-      "imageUrl": "",
-      "chapterId": "4"
-    },
-    {
-      "id": 5,
-      "question": "ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
-      "options": [
-        "ক. %c",
-        "খ. %s",
-        "গ. %lf",
-        "ঘ. %d"
-      ],
-      "answer": "ক. %c",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 6,
-      "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i=3; i <= 15; i+=2)\nif (i-- > 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
-      "options": [
-        "ক. ৩",
-        "খ. ৪",
-        "গ. ৫",
-        "ঘ. ৬"
-      ],
-      "answer": "খ. ৪",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 7,
-      "question": "ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
-      "options": [
-        "ক. সাশ্রয়ী ও সহজলভ্য",
-        "খ. লাইসেন্স ফি লাগে",
-        "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
-        "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
-      ],
-      "answer": "ক. সাশ্রয়ী ও সহজলভ্য",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 8,
-      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?",
-      "options": [
-        "ক. A'B + AB'",
-        "খ. AB + A'B",
-        "গ. AB'",
-        "ঘ. A+B"
-      ],
-      "answer": "ক. A'B + AB'",
-      "imageUrl": "",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 9,
-      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-",
-      "options": [
-        "ক. A=1, B=0",
-        "খ. A=0, B=1",
-        "গ. A=1, B=1",
-        "ঘ. A=0, B=0"
-      ],
-      "answer": "ক. A=1, B=0",
-      "imageUrl": "",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 10,
-      "question": "#FFFFFF কোন রং নির্দেশ করে?",
-      "options": [
-        "ক. সাদা",
-        "খ. নীল",
-        "গ. সায়ান",
-        "ঘ. লাল"
-      ],
-      "answer": "ক. সাদা",
-      "imageUrl": "",
-      "chapterId": "4"
-    },
-    {
-      "id": 11,
-      "question": "নিচের উদ্দীপকটি পড় প্রশ্নের উত্তর দাও।\nvoid main()\n{\nint i=15, j;\nj = i++;\nprintf(\"%d %d\", i,j);\n}\nউদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
-      "options": [
-        "ক. 15, 15",
-        "খ. 15, 16",
-        "গ. 16, 16",
-        "ঘ. 16, 17"
-      ],
-      "answer": "ক. 15, 15",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 12,
-      "question": "জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
-      "options": [
-        "ক. জিন",
-        "খ. জিনোম",
-        "গ. নিউক্লিয়াস",
-        "ঘ. ক্রোমোজোম"
-      ],
-      "answer": "খ. জিনোম",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 13,
-      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-      "options": [
-        "ক. রোবটিক্স",
-        "খ. বায়োমেট্রিক্স",
-        "গ. বায়োইনফরমেটিক্স",
-        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-      ],
-      "answer": "গ. বায়োইনফরমেটিক্স",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 14,
-      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-      "options": [
-        "ক. কী-বোর্ড",
-        "খ. পেজার",
-        "গ. এসএমএস",
-        "ঘ. মোবাইল"
-      ],
-      "answer": "খ. পেজার",
-      "imageUrl": "",
-      "chapterId": "2"
-    },
-    {
-      "id": 15,
-      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-      "options": [
-        "ক. main",
-        "খ. DIV",
-        "গ. return",
-        "ঘ. In"
-      ],
-      "answer": "খ. DIV",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 16,
-      "question": "একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
-      "options": [
-        "ক. (170)10",
-        "খ. (252)10",
-        "গ. (10101010)2",
-        "ঘ. উপরের কোনটি সঠিক?"
-      ],
-      "answer": "ক. (170)10",
-      "imageUrl": "",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 17,
-      "question": "নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
-      "options": [
-        "ক. <table bgcolor=\"green\">",
-        "খ. <tr bgcolor=\"green\">",
-        "গ. <td bgcolor=\"green\">",
-        "ঘ. <th bgcolor=\"green\">"
-      ],
-      "answer": "গ. <td bgcolor=\"green\">",
-      "imageUrl": "",
-      "chapterId": "4"
-    },
-    {
-      "id": 18,
-      "question": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
-      "options": [
-        "ক. EBCDIC",
-        "খ. ASCII-7",
-        "গ. ASCII-8",
-        "ঘ. Unicode"
-      ],
-      "answer": "ঘ. Unicode",
-      "imageUrl": "",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 19,
-      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-      "options": [
-        "ক. রোবটিক্স",
-        "খ. বায়োমেট্রিক্স",
-        "গ. বায়োইনফরমেটিক্স",
-        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-      ],
-      "answer": "গ. বায়োইনফরমেটিক্স",
-      "imageUrl": "",
-      "chapterId": "1"
-    },
-    {
-      "id": 20,
-      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-      "options": [
-        "ক. কী-বোর্ড",
-        "খ. পেজার",
-        "গ. এসএমএস",
-        "ঘ. মোবাইল"
-      ],
-      "answer": "খ. পেজার",
-      "imageUrl": "",
-      "chapterId": "2"
-    },
-    {
-      "id": 21,
-      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-      "options": [
-        "ক. main",
-        "খ. DIV",
-        "গ. return",
-        "ঘ. In"
-      ],
-      "answer": "খ. DIV",
-      "imageUrl": "",
-      "chapterId": "5"
-    },
-    {
-      "id": 22,
-      "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
-      "options": [
-        "ক) ওয়াই-ফাই",
-        "খ) ইনফ্রারেড",
-        "গ) মাইক্রোওয়েভ",
-        "ঘ) ওয়াই-ম্যাক্স"
-      ],
-      "answer": "গ) মাইক্রোওয়েভ",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "2"
-    },
-    {
-      "id": 23,
-      "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "2"
-    },
-    {
-      "id": 24,
-      "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
-      "options": [
-        "ক) 0, 1, 0",
-        "খ) 1, 0, 0",
-        "গ) 1, 0, 1",
-        "ঘ) 0, 1, 1"
-      ],
-      "answer": "ঘ) 0, 1, 1",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 25,
-      "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "chapterId": "3.2"
-    },
-    {
-      "id": 26,
-      "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?",
-      "options": [
-        "ক) হার্ডওয়্যার",
-        "খ) সফটওয়্যার",
-        "গ) ইন্টারনেট",
-        "ঘ) মানুষের জ্ঞান"
-      ],
-      "answer": "খ) সফটওয়্যার",
-      "level": "easy",
-      "chapterId": "1"
-    },
-    {
-      "id": 27,
-      "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ",
+      "id": 81,
+      "question": "জেনেটিক ইঞ্জিনিয়ারিং এর প্রয়োগ ক্ষেত্র হলো—\ni) চিকিৎসা বিজ্ঞান\nii) কৃষি ক্ষেত্র\niii) শিল্প ক্ষেত্র",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
@@ -2320,289 +1101,151 @@
       "chapterId": "1"
     },
     {
-      "id": 28,
-      "question": "অনলাইনে পারস্পরিক মিথস্ক্রিয়ায় শিক্ষা কার্যক্রম পরিচালনাকে কী বলে?",
-      "image": "",
+      "id": 82,
+      "question": "ক্রায়োসার্জারি এর ক্ষেত্রে ব্যবহৃত হয়—\ni) তরল নাইট্রোজেন\nii) আর্গন\niii) কার্বন ডাই অক্সাইড",
       "options": [
-        "ক) ই-স্টাডি",
-        "খ) ই-লার্নিং",
-        "গ) অন-লার্নিং",
-        "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
       ],
-      "answer": "খ) ই-লার্নিং",
+      "answer": "ঘ) i, ii,iii",
+      "level": "hard",
+      "chapterId": "1"
+    },
+    {
+      "id": 83,
+      "question": "টেলিমেডিসিন এর ক্ষেত্রে কোনটি সঠিক নয়?",
+      "options": [
+        "ক) ব্যয় বেশি",
+        "খ) রোগীর ঝুঁকি কম",
+        "গ) সময় সাশ্রয়ী",
+        "ঘ) উন্নত চিকিৎসা সেবা"
+      ],
+      "answer": "ক) ব্যয় বেশি",
       "level": "easy",
       "chapterId": "1"
     },
     {
-      "id": 29,
-      "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল",
-      "image": "",
+      "id": 84,
+      "question": "ই-কমার্স এর মাধ্যমে ব্যবসায়ে কীসের সুযোগ সৃষ্টি হয়?",
       "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
+        "ক) প্রতিযোগিতা",
+        "খ) একচেটিয়া",
+        "গ) দ্রুততা",
+        "ঘ) সফলতা"
       ],
-      "answer": "ক) i, ii",
+      "answer": "ক) প্রতিযোগিতা",
       "level": "medium",
       "chapterId": "1"
     },
     {
-      "id": 30,
-      "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে",
-      "image": "",
+      "id": 85,
+      "question": "তথ্যপ্রযুক্তি ব্যবহারে নৈতিকতা হলো—\ni) তথ্যের মালিকানা সংরক্ষণ \nii) পাইরেসি থেকে বিরত থাকা\niii) অন্যের তথ্যের গোপনীয়তা রক্ষা করা",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
         "গ) i, iii",
         "ঘ) i, ii,iii"
       ],
-      "answer": "ক) i, ii",
-      "level": "medium",
+      "answer": "ঘ) i, ii,iii",
+      "level": "hard",
       "chapterId": "1"
     },
     {
-      "id": 31,
-      "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?",
-      "image": "",
-      "options": [
-        "ক) বাস",
-        "খ) রিং",
-        "গ) মেশ",
-        "ঘ) স্টার"
-      ],
-      "answer": "গ) মেশ",
-      "level": "easy",
-      "chapterId": "2"
-    },
-    {
-      "id": 32,
-      "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "গ) i, iii",
-      "level": "medium",
-      "chapterId": "2"
-    },
-    {
-      "id": 33,
-      "question": "ডাটা কমিউনিকেশনের মৌলিক উপাদান কয়টি?",
-      "image": "",
+      "id": 86,
+      "question": "ডেটা কমিউনিকেশন সিস্টেমে সাধারণত কয়টি অংশ থাকে?",
       "options": [
         "ক) ২টি",
         "খ) ৩টি",
         "গ) ৪টি",
-        "ঘ) ৭টি"
+        "ঘ) ৫টি"
+      ],
+      "answer": "ঘ) ৫টি",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 87,
+      "question": "ডেটা ট্রান্সমিশন মেথড কয়টি?",
+      "options": [
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
+      ],
+      "answer": "খ) ৩টি",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 88,
+      "question": "ডাটা কমিউনিকেশনের মাধ্যম কয়টি?",
+      "options": [
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
+      ],
+      "answer": "ক) ২টি",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 89,
+      "question": "টুইস্টেড পেয়ার ক্যাবল কয় ধরনের হয়?",
+      "options": [
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
       ],
       "answer": "ক) ২টি",
       "level": "easy",
       "chapterId": "2"
     },
     {
-      "id": 34,
-      "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n উদ্দীপকের সার্ভিসটির নাম কী?",
-      "image": "",
+      "id": 90,
+      "question": "কো-অ্যাক্সিয়াল ক্যাবল এর ডেটা স্থানান্তরের হার কত?",
       "options": [
-        "ক) ক্লাউড কম্পিউটিং",
-        "খ) ওয়াই-ফাই",
-        "গ) ওয়াই-ম্যাক্স",
-        "ঘ) ব্লুটুথ"
+        "ক) ১০ মেগাবাইট/সেকেন্ড",
+        "খ) ২০ মেগাবাইট/সেকেন্ড",
+        "গ) ৫০ মেগাবাইট/সেকেন্ড",
+        "ঘ) ১০০ মেগাবাইট/সেকেন্ড"
       ],
-      "answer": "ক) ক্লাউড কম্পিউটিং",
+      "answer": "ঘ) ১০০ মেগাবাইট/সেকেন্ড",
       "level": "medium",
-      "chapterId": "1"
+      "chapterId": "2"
     },
     {
-      "id": 35,
-      "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n সার্ভিসটির ক্ষেত্রে—\ni) ব্যবহারে অতিরিক্ত মূল্য দিতে হয় \nii) কেন্দ্রীয় রিমোট সার্ভারের মাধ্যমে ডেটা নিয়ন্ত্রণ\niii) রক্ষণাবেক্ষণের খরচ নেই",
-      "image": "",
+      "id": 91,
+      "question": "কোন ক্যাবল এর ডেটা স্থানান্তরের হার অনেক বেশি?",
+      "options": [
+        "ক) টুইস্টেড পেয়ার ক্যাবল",
+        "খ) কো-অ্যাক্সিয়াল ক্যাবল",
+        "গ) ফাইবার অপটিক ক্যাবল",
+        "ঘ) সবগুলি"
+      ],
+      "answer": "গ) ফাইবার অপটিক ক্যাবল",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 92,
+      "question": "টুইস্টেড পেয়ার ক্যাবলের সুবিধা হলো—\ni) দাম কম \nii) সহজে বহনযোগ্য\niii) উচ্চ ব্যান্ডউইথ",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
         "গ) i, iii",
         "ঘ) i, ii,iii"
       ],
-      "answer": "খ) ii, iii",
-      "level": "hard",
-      "chapterId": "1"
-    },
-    {
-      "id": 36,
-      "question": "ICT-তে (1011.11)₂ + (1101.10)₂ = ?",
-      "image": "",
-      "options": [
-        "ক) 101.10",
-        "খ) 11.11",
-        "গ) 11.10",
-        "ঘ) 10.10"
-      ],
-      "answer": "ঘ) 10.10",
-      "level": "hard",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 37,
-      "question": "বাইনারি সংখ্যা 1111010 ও 1010111 এর যোগফল কত?",
-      "image": "",
-      "options": [
-        "ক) 10100001",
-        "খ) 10101001",
-        "গ) 11010001",
-        "ঘ) 11010101"
-      ],
-      "answer": "গ) 11010001",
-      "level": "medium",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 38,
-      "question": "Google.com কী?",
-      "image": "",
-      "options": [
-        "ক) Browser",
-        "খ) Search engine",
-        "গ) Protocol",
-        "ঘ) E-mail address"
-      ],
-      "answer": "খ) Search engine",
+      "answer": "ক) i, ii",
       "level": "easy",
-      "chapterId": "4"
+      "chapterId": "2"
     },
     {
-      "id": 39,
-      "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?",
-      "image": "",
-      "options": [
-        "ক) কিলোবাইট",
-        "খ) বাইট",
-        "গ) বিট",
-        "ঘ) মেগাবাইট"
-      ],
-      "answer": "গ) বিট",
-      "level": "medium",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 40,
-      "question": "দৃশ্যকল্প-১: রুমি কলেজে ভর্তিও আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়। \n দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?",
-      "image": "",
-      "options": [
-        "ক) ওয়েব হোস্টিং",
-        "খ) ওয়েব সাইট",
-        "গ) ই-কমার্স",
-        "ঘ) ইলেকট্রনিক মেইলিং"
-      ],
-      "answer": "খ) ওয়েব সাইট",
-      "level": "medium",
-      "chapterId": "4"
-    },
-    {
-      "id": 41,
-      "question": "\n < html > < body > Cricket board < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
-      "image": "",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, iii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ঘ) i, ii,iii",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 42,
-      "question": "সফটওয়্যার তৈরির জন্য কোনটি প্রয়োজন?",
-      "image": "",
-      "options": [
-        "ক) হার্ডওয়্যার",
-        "খ) প্রোগ্রাম",
-        "গ) কম্পিউটার ভাষা",
-        "ঘ) ফার্মওয়্যার"
-      ],
-      "answer": "গ) কম্পিউটার ভাষা",
-      "level": "medium",
-      "chapterId": "5"
-    },
-    {
-      "id": 43,
-      "question": "CSS এর পূর্ণরূপ কী?",
-      "image": "",
-      "options": [
-        "ক) Casading Style Sheet",
-        "খ) Casading Style Shit",
-        "গ) Case Style Sheet",
-        "ঘ) Casading Styling Sheet"
-      ],
-      "answer": "ক) Casading Style Sheet",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 44,
-      "question": "নিচের C প্রোগ্রামটি রান করলে আউটপুট কত হবে?\nint a = 3, b;\nb = 2 * a;\nprintf(\"%d\", b);",
-      "image": "",
-      "options": [
-        "ক) 3",
-        "খ) 4",
-        "গ) 5",
-        "ঘ) 6"
-      ],
-      "answer": "ঘ) 6",
-      "level": "medium",
-      "chapterId": "5"
-    },
-    {
-      "id": 45,
-      "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?",
-      "image": "",
-      "options": [
-        "ক) { }",
-        "খ) < >",
-        "গ) ( )",
-        "ঘ) [ ]"
-      ],
-      "answer": "খ) < >",
-      "level": "easy",
-      "chapterId": "4"
-    },
-    {
-      "id": 46,
-      "question": "(10111)₂ এর দশমিক মান কত?",
-      "image": "",
-      "options": [
-        "ক) 22",
-        "খ) 23",
-        "গ) 31",
-        "ঘ) 43"
-      ],
-      "answer": "খ) 23",
-      "level": "easy",
-      "chapterId": "3.1"
-    },
-    {
-      "id": 47,
-      "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
-      "image": "",
-      "options": [
-        "ক) %f",
-        "খ) %d",
-        "গ) %c",
-        "ঘ) %s"
-      ],
-      "answer": "ক) %f",
-      "level": "easy",
-      "chapterId": "5"
-    },
-    {
-      "id": 48,
-      "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?",
-      "image": "",
+      "id": 93,
+      "question": "কো-অ্যাক্সিয়াল ক্যাবলের সুবিধা হলো—\ni) উচ্চ ব্যান্ডউইথ \nii) ডেটা স্থানান্তরের হার কম\niii) সহজে বহনযোগ্য",
       "options": [
         "ক) i, ii",
         "খ) ii, iii",
@@ -2611,346 +1254,1684 @@
       ],
       "answer": "গ) i, iii",
       "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 94,
+      "question": "নেটওয়ার্ক টপোলজি কয় ধরনের?",
+      "options": [
+        "ক) ৪ ধরনের",
+        "খ) ৫ ধরনের",
+        "গ) ৬ ধরনের",
+        "ঘ) ৭ ধরনের"
+      ],
+      "answer": "গ) ৬ ধরনের",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 95,
+      "question": "বাস টপোলজি তে টার্মিনেটরের প্রয়োজন কেন?",
+      "options": [
+        "ক) ডেটা প্রবাহের জন্য",
+        "খ) ডেটা স্থানান্তরের জন্য",
+        "গ) ডেটা সিগনাল প্রতিফলিত হওয়া রোধের জন্য",
+        "ঘ) ডেটা সুরক্ষিত রাখার জন্য"
+      ],
+      "answer": "গ) ডেটা সিগনাল প্রতিফলিত হওয়া রোধের জন্য",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 96,
+      "question": "স্টার টপোলজির অসুবিধা কোনটি?",
+      "options": [
+        "ক) কেন্দ্রীয় ডিভাইস নষ্ট হলে পুরো নেটওয়ার্ক অচল",
+        "খ) ক্যাবল বেশি দরকার",
+        "গ) ডেটা সংঘর্ষের সম্ভাবনা কম",
+        "ঘ) সহজে নেটওয়ার্ক সম্প্রসারণ করা যায়"
+      ],
+      "answer": "ক) কেন্দ্রীয় ডিভাইস নষ্ট হলে পুরো নেটওয়ার্ক অচল",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 97,
+      "question": "সংখ্যা পদ্ধতি কয় ধরনের?",
+      "options": [
+        "ক) ২ ধরনের",
+        "খ) ৩ ধরনের",
+        "গ) ৪ ধরনের",
+        "ঘ) ৫ ধরনের"
+      ],
+      "answer": "ক) ২ ধরনের",
+      "level": "hard",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 98,
+      "question": "বাইনারি সংখ্যা পদ্ধতির ভিত্তি কত?",
+      "options": [
+        "ক) ৮",
+        "খ) ২",
+        "গ) ১০",
+        "ঘ) ১৬"
+      ],
+      "answer": "খ) ২",
+      "level": "easy",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 99,
+      "question": "দশমিক সংখ্যা পদ্ধতির ভিত্তি কত?",
+      "options": [
+        "ক) ৮",
+        "খ) ২",
+        "গ) ১০",
+        "ঘ) ১৬"
+      ],
+      "answer": "গ) ১০",
+      "level": "medium",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 100,
+      "question": "অকটাল সংখ্যা পদ্ধতির ভিত্তি কত?",
+      "options": [
+        "ক) ৮",
+        "খ) ২",
+        "গ) ১০",
+        "ঘ) ১৬"
+      ],
+      "answer": "ক) ৮",
+      "level": "hard",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 101,
+      "question": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ভিত্তি কত?",
+      "options": [
+        "ক) ৮",
+        "খ) ২",
+        "গ) ১০",
+        "ঘ) ১৬"
+      ],
+      "answer": "ঘ) ১৬",
+      "level": "easy",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 102,
+      "question": "বাইনারি সংখ্যা (1101)₂ এর সমকক্ষ দশমিক সংখ্যা কোনটি?",
+      "options": [
+        "ক) ১৩",
+        "খ) ১৪",
+        "গ) ১৫",
+        "ঘ) ১৬"
+      ],
+      "answer": "ক) ১৩",
+      "level": "medium",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 103,
+      "question": "অকটাল সংখ্যা (70)₈ এর সমকক্ষ দশমিক সংখ্যা কোনটি?",
+      "options": [
+        "ক) ৫৬",
+        "খ) ৫৭",
+        "গ) ৫৮",
+        "ঘ) ৫৯"
+      ],
+      "answer": "ক) ৫৬",
+      "level": "hard",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 104,
+      "question": "হেক্সাডেসিমেল সংখ্যা (1A)₁₆ এর সমকক্ষ দশমিক সংখ্যা কোনটি?",
+      "options": [
+        "ক) ২৬",
+        "খ) ২৭",
+        "গ) ২৮",
+        "ঘ) ২৯"
+      ],
+      "answer": "ক) ২৬",
+      "level": "easy",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 105,
+      "question": "বাইনারি সংখ্যা (1111)₂ এর ১ এর পরিপূরক কত?",
+      "options": [
+        "ক) 0000",
+        "খ) 1000",
+        "গ) 1111",
+        "ঘ) 0111"
+      ],
+      "answer": "ক) 0000",
+      "level": "medium",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 106,
+      "question": "বাইনারি সংখ্যা (1111)₂ এর ২ এর পরিপূরক কত?",
+      "options": [
+        "ক) 0001",
+        "খ) 1000",
+        "গ) 1111",
+        "ঘ) 0111"
+      ],
+      "answer": "ক) 0001",
+      "level": "hard",
+      "chapterId": "3.1"
+    },
+    {
+      "id": 107,
+      "question": "লজিক গেট কত প্রকার?",
+      "options": [
+        "ক) ২ প্রকার",
+        "খ) ৩ প্রকার",
+        "গ) ৪ প্রকার",
+        "ঘ) ৫ প্রকার"
+      ],
+      "answer": "ক) ২ প্রকার",
+      "level": "easy",
       "chapterId": "3.2"
     },
     {
-      "id": 49,
-      "question": "চিত্রের ? স্থানে কোনটি হবে ",
-      "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
+      "id": 108,
+      "question": "মৌলিক গেট কয়টি?",
       "options": [
-        "ক) Assembler",
-        "খ) Interpreter",
-        "গ)Compiler",
-        "ঘ) Linker "
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
       ],
-      "answer": "গ)Compiler",
+      "answer": "খ) ৩টি",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 109,
+      "question": "সার্বজনীন গেট কোনটি?",
+      "options": [
+        "ক) AND, OR",
+        "খ) XOR, XNOR",
+        "গ) NAND, NOR",
+        "ঘ) NOT, AND"
+      ],
+      "answer": "গ) NAND, NOR",
+      "level": "hard",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 110,
+      "question": "কোন গেটকে অন্য গেট দ্বারা তৈরি করা যায় না?",
+      "options": [
+        "ক) মৌলিক গেট",
+        "খ) যৌগিক গেট",
+        "গ) সার্বজনীন গেট",
+        "ঘ) বিশেষ গেট"
+      ],
+      "answer": "ক) মৌলিক গেট",
+      "level": "easy",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 111,
+      "question": "অঙ্কনকারী প্রোগ্রাম কোনটি?",
+      "options": [
+        "ক) পেইন্ট",
+        "খ) সি",
+        "গ) সি++",
+        "ঘ) জাভা"
+      ],
+      "answer": "ক) পেইন্ট",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 112,
+      "question": "কম্পিউটারের প্রধান মেমরি কোনটি?",
+      "options": [
+        "ক) হার্ডডিস্ক",
+        "খ) রম",
+        "গ) সিডি রম",
+        "ঘ) পেনড্রাইভ"
+      ],
+      "answer": "খ) রম",
+      "level": "hard",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 113,
+      "question": "HTML কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "ক) ওয়েবসাইট ডিজাইন",
+        "খ) প্রোগ্রামিং ভাষা",
+        "গ) গেম ডেভেলপমেন্ট",
+        "ঘ) ডেটাবেজ ম্যানেজমেন্ট"
+      ],
+      "answer": "ক) ওয়েবসাইট ডিজাইন",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 114,
+      "question": "CSS এর কাজ কী?",
+      "options": [
+        "ক) ওয়েবসাইটের কাঠামো তৈরি",
+        "খ) ওয়েবসাইটের স্টাইল নির্ধারণ",
+        "গ) ডেটা প্রসেসিং",
+        "ঘ) ডেটাবেজ তৈরি"
+      ],
+      "answer": "খ) ওয়েবসাইটের স্টাইল নির্ধারণ",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 115,
+      "question": "কোনটি HTML এর ট্যাগ নয়?",
+      "options": [
+        "ক) <body>",
+        "খ) <head>",
+        "গ) <style>",
+        "ঘ) <title>"
+      ],
+      "answer": "গ) <style>",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 116,
+      "question": "HTML এ প্যারাগ্রাফ ট্যাগ কোনটি?",
+      "options": [
+        "ক) <p>",
+        "খ) <h1>",
+        "গ) <a>",
+        "ঘ) <img>"
+      ],
+      "answer": "ক) <p>",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 117,
+      "question": "HTML এ ইমেজ ট্যাগ কোনটি?",
+      "options": [
+        "ক) <p>",
+        "খ) <h1>",
+        "গ) <a>",
+        "ঘ) <img>"
+      ],
+      "answer": "ঘ) <img>",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 118,
+      "question": "HTML এ হাইপারলিংক ট্যাগ কোনটি?",
+      "options": [
+        "ক) <p>",
+        "খ) <h1>",
+        "গ) <a>",
+        "ঘ) <img>"
+      ],
+      "answer": "গ) <a>",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 119,
+      "question": "HTML এ হেডিং ট্যাগ কোনটি?",
+      "options": [
+        "ক) <p>",
+        "খ) <h1>",
+        "গ) <a>",
+        "ঘ) <img>"
+      ],
+      "answer": "খ) <h1>",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 120,
+      "question": "HTML এ টেবিলে সেল মার্জ করার জন্য কোন অ্যাট্রিবিউট ব্যবহার করা হয়?",
+      "options": [
+        "ক) colspan",
+        "খ) rowspan",
+        "গ) both",
+        "ঘ) কোনটিই নয়"
+      ],
+      "answer": "ক) colspan",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 121,
+      "question": "HTML এ রো মার্জ করার জন্য কোন অ্যাট্রিবিউট ব্যবহার করা হয়?",
+      "options": [
+        "ক) colspan",
+        "খ) rowspan",
+        "গ) both",
+        "ঘ) কোনটিই নয়"
+      ],
+      "answer": "খ) rowspan",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 122,
+      "question": "C প্রোগ্রামিং ভাষা কত সালে উদ্ভাবন হয়?",
+      "options": [
+        "ক) ১৯৬৯",
+        "খ) ১৯৭০",
+        "গ) ১৯৭১",
+        "ঘ) ১৯৭২"
+      ],
+      "answer": "ঘ) ১৯৭২",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 123,
+      "question": "C প্রোগ্রামিং ভাষা কে উদ্ভাবন করেন?",
+      "options": [
+        "ক) বিল গেটস",
+        "খ) ডেনিস রিচি",
+        "গ) জেমস গোসলিং",
+        "ঘ) ভ্যান রসম"
+      ],
+      "answer": "খ) ডেনিস রিচি",
       "level": "medium",
       "chapterId": "5"
     },
     {
-      "id": 50,
-      "question": "গ্লোবাল ভিলেজ ধারণায় বিশ্বের যেকোনো প্রান্তের মানুষের সাথে তাৎক্ষণিক যোগাযোগ সম্ভব হয় কীভাবে?",
+      "id": 124,
+      "question": "C প্রোগ্রামিং ভাষা কোন ল্যাঙ্গুয়েজ থেকে উদ্ভূত?",
       "options": [
-        "টেলিফোনের মাধ্যমে",
-        "ইন্টারনেটের মাধ্যমে",
-        "পত্রিকার মাধ্যমে",
-        "রেডিওর মাধ্যমে"
+        "ক) ফোরট্রান",
+        "খ) অ্যালগল",
+        "গ) বিসিপিএল",
+        "ঘ) বেসিক"
       ],
-      "answer": "ইন্টারনেটের মাধ্যমে",
+      "answer": "গ) বিসিপিএল",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 125,
+      "question": "C প্রোগ্রামিং ভাষার বৈশিষ্ট্য কোনটি?",
+      "options": [
+        "ক) উচ্চস্তরের ভাষা",
+        "খ) মধ্যমস্তরের ভাষা",
+        "গ) নিম্নস্তরের ভাষা",
+        "ঘ) কোনটিই নয়"
+      ],
+      "answer": "খ) মধ্যমস্তরের ভাষা",
       "level": "easy",
-      "chapterId": "1"
+      "chapterId": "5"
     },
     {
-      "id": 51,
-      "question": "বর্তমান যুগে ঘরে বসে বিশ্বের যেকোনো বিশ্ববিদ্যালয়ে ভর্তি হওয়া সম্ভব হয়েছে কোন প্রযুক্তির কারণে?",
+      "id": 126,
+      "question": "C প্রোগ্রামিং এ চলক বা ভেরিয়েবল কী কাজে ব্যবহৃত হয়?",
       "options": [
-        "কম্পিউটার",
-        "মোবাইল ফোন",
-        "ইন্টারনেট",
-        "টেলিভিশন"
+        "ক) ডেটা প্রসেসিং",
+        "খ) ডেটা সংরক্ষণ",
+        "গ) ডেটা ট্রান্সমিশন",
+        "ঘ) ডেটা এন্ট্রি"
       ],
-      "answer": "ইন্টারনেট",
+      "answer": "খ) ডেটা সংরক্ষণ",
       "level": "medium",
-      "chapterId": "1"
+      "chapterId": "5"
     },
     {
-      "id": 52,
-      "question": "টেলিমেডিসিন সেবার মূল ভিত্তি কী?",
+      "id": 127,
+      "question": "C প্রোগ্রামিং এ ইন্টিজার ডেটা টাইপের সাইজ কত?",
       "options": [
-        "হাসপাতাল",
-        "ডাক্তার",
-        "রোগী",
-        "ICT"
+        "ক) ১ বাইট",
+        "খ) ২ বাইট",
+        "গ) ৪ বাইট",
+        "ঘ) ৮ বাইট"
       ],
-      "answer": "ICT",
+      "answer": "খ) ২ বাইট",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 128,
+      "question": "C প্রোগ্রামিং এ অক্ষর বা ক্যারেক্টার ডেটা টাইপের সাইজ কত?",
+      "options": [
+        "ক) ১ বাইট",
+        "খ) ২ বাইট",
+        "গ) ৪ বাইট",
+        "ঘ) ৮ বাইট"
+      ],
+      "answer": "ক) ১ বাইট",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 129,
+      "question": "C প্রোগ্রামিং এ দশমিক সংখ্যা বা ফ্লোটিং পয়েন্ট ডেটা টাইপের সাইজ কত?",
+      "options": [
+        "ক) ১ বাইট",
+        "খ) ২ বাইট",
+        "গ) ৪ বাইট",
+        "ঘ) ৮ বাইট"
+      ],
+      "answer": "গ) ৪ বাইট",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 130,
+      "question": "C প্রোগ্রামিং এ কন্ডিশনাল স্টেটমেন্ট কোনটি?",
+      "options": [
+        "ক) if",
+        "খ) while",
+        "গ) for",
+        "ঘ) do while"
+      ],
+      "answer": "ক) if",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 131,
+      "question": "C প্রোগ্রামিং এ লুপ স্টেটমেন্ট কোনটি?",
+      "options": [
+        "ক) if",
+        "খ) while",
+        "গ) switch",
+        "ঘ) break"
+      ],
+      "answer": "খ) while",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 132,
+      "question": "C প্রোগ্রামিং এ লুপের ব্রেক স্টেটমেন্ট কোনটি?",
+      "options": [
+        "ক) if",
+        "খ) else",
+        "গ) switch",
+        "ঘ) break"
+      ],
+      "answer": "ঘ) break",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 133,
+      "question": "ডেটাবেজ ম্যানেজমেন্ট সিস্টেম কী?",
+      "options": [
+        "ক) ডেটা সংরক্ষণের সফটওয়্যার",
+        "খ) ডেটাবেজ তৈরির প্রক্রিয়া",
+        "গ) ডেটা প্রসেসিং এর পদ্ধতি",
+        "ঘ) ডেটা কমিউনিকেশনের মাধ্যম"
+      ],
+      "answer": "ক) ডেটা সংরক্ষণের সফটওয়্যার",
+      "level": "hard",
+      "chapterId": "6"
+    },
+    {
+      "id": 134,
+      "question": "ডেটাবেজ এর সুবিধা কোনটি?",
+      "options": [
+        "ক) ডেটার নির্ভুলতা",
+        "খ) ডেটার নিরাপত্তা",
+        "গ) দ্রুত ডেটা খুঁজে বের করা",
+        "ঘ) সবগুলোই"
+      ],
+      "answer": "ঘ) সবগুলোই",
+      "level": "easy",
+      "chapterId": "6"
+    },
+    {
+      "id": 135,
+      "question": "ডেটাবেজ এর উপাদান কয়টি?",
+      "options": [
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
+      ],
+      "answer": "খ) ৩টি",
+      "level": "medium",
+      "chapterId": "6"
+    },
+    {
+      "id": 136,
+      "question": "ডেটাবেজ টেবিলের সারিকে কী বলে?",
+      "options": [
+        "ক) ফিল্ড",
+        "খ) রেকর্ড",
+        "গ) এট্রিবিউট",
+        "ঘ) রিলেশন"
+      ],
+      "answer": "খ) রেকর্ড",
+      "level": "hard",
+      "chapterId": "6"
+    },
+    {
+      "id": 137,
+      "question": "ডেটাবেজ টেবিলের কলামকে কী বলে?",
+      "options": [
+        "ক) ফিল্ড",
+        "খ) রেকর্ড",
+        "গ) এট্রিবিউট",
+        "ঘ) রিলেশন"
+      ],
+      "answer": "ক) ফিল্ড",
+      "level": "easy",
+      "chapterId": "6"
+    },
+    {
+      "id": 138,
+      "question": "ডেটাবেজে ডেটার প্রকারভেদ কয়টি?",
+      "options": [
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
+      ],
+      "answer": "গ) ৪টি",
+      "level": "medium",
+      "chapterId": "6"
+    },
+    {
+      "id": 139,
+      "question": "ডেটাবেজে ডেটার নির্ভুলতা নিশ্চিত করে কোনটি?",
+      "options": [
+        "ক) ডেটা সিকিউরিটি",
+        "খ) ডেটা রিডানডেন্সি",
+        "গ) ডেটা ইন্টিগ্রিটি",
+        "ঘ) ডেটা রিকভারি"
+      ],
+      "answer": "গ) ডেটা ইন্টিগ্রিটি",
+      "level": "hard",
+      "chapterId": "6"
+    },
+    {
+      "id": 140,
+      "question": "ডেটাবেজে ডেটার অপ্রয়োজনীয় পুনরাবৃত্তি রোধ করে কোনটি?",
+      "options": [
+        "ক) ডেটা সিকিউরিটি",
+        "খ) ডেটা রিডানডেন্সি",
+        "গ) ডেটা ইন্টিগ্রিটি",
+        "ঘ) ডেটা রিকভারি"
+      ],
+      "answer": "খ) ডেটা রিডানডেন্সি",
+      "level": "easy",
+      "chapterId": "6"
+    },
+    {
+      "id": 141,
+      "question": "ডেটাবেজে প্রাইমারি কী এর কাজ কী?",
+      "options": [
+        "ক) ডেটা সুরক্ষিত রাখা",
+        "খ) ডেটার অপ্রয়োজনীয় পুনরাবৃত্তি রোধ",
+        "গ) ডেটাবেজে প্রতিটি রেকর্ডকে অদ্বিতীয়ভাবে শনাক্ত করা",
+        "ঘ) ডেটা পুনরুদ্ধার করা"
+      ],
+      "answer": "গ) ডেটাবেজে প্রতিটি রেকর্ডকে অদ্বিতীয়ভাবে শনাক্ত করা",
+      "level": "medium",
+      "chapterId": "6"
+    },
+    {
+      "id": 142,
+      "question": "ডেটাবেজে ফরেন কী কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "ক) ডেটা সুরক্ষিত রাখা",
+        "খ) ডেটার অপ্রয়োজনীয় পুনরাবৃত্তি রোধ",
+        "গ) টেবিলগুলোর মধ্যে সম্পর্ক স্থাপন",
+        "ঘ) ডেটা পুনরুদ্ধার করা"
+      ],
+      "answer": "গ) টেবিলগুলোর মধ্যে সম্পর্ক স্থাপন",
+      "level": "hard",
+      "chapterId": "6"
+    },
+    {
+      "id": 143,
+      "question": "রিলেশনাল ডেটাবেজ মডেলে রিলেশন মানে কী?",
+      "options": [
+        "ক) ডেটাবেজ",
+        "খ) টেবিল",
+        "গ) ফিল্ড",
+        "ঘ) রেকর্ড"
+      ],
+      "answer": "খ) টেবিল",
+      "level": "easy",
+      "chapterId": "6"
+    },
+    {
+      "id": 144,
+      "question": "রিলেশনাল ডেটাবেজ মডেলে এট্রিবিউট মানে কী?",
+      "options": [
+        "ক) ডেটাবেজ",
+        "খ) টেবিল",
+        "গ) ফিল্ড",
+        "ঘ) রেকর্ড"
+      ],
+      "answer": "গ) ফিল্ড",
+      "level": "medium",
+      "chapterId": "6"
+    },
+    {
+      "id": 145,
+      "question": "রিলেশনাল ডেটাবেজ মডেলে টাপল মানে কী?",
+      "options": [
+        "ক) ডেটাবেজ",
+        "খ) টেবিল",
+        "গ) ফিল্ড",
+        "ঘ) রেকর্ড"
+      ],
+      "answer": "ঘ) রেকর্ড",
+      "level": "hard",
+      "chapterId": "6"
+    },
+    {
+      "id": 146,
+      "question": "কোণটি নেটওয়ার্ক টপোলজি নয়?",
+      "options": [
+        "ক) মেশ",
+        "খ) রিং",
+        "গ) বাউন্ড",
+        "ঘ) বাস"
+      ],
+      "answer": "গ) বাউন্ড",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 147,
+      "question": "ডেটা কমিউনিকেশনের দ্রুততম মাধ্যম কোনটি?",
+      "options": [
+        "ক) টুইস্টেড পেয়ার ক্যাবল",
+        "খ) কো-অ্যাক্সিয়াল ক্যাবল",
+        "গ) ফাইবার অপটিক ক্যাবল",
+        "ঘ) ওয়াইফাই"
+      ],
+      "answer": "গ) ফাইবার অপটিক ক্যাবল",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 148,
+      "question": "ওয়াইফাই এর স্ট্যান্ডার্ড কোনটি?",
+      "options": [
+        "ক) IEEE 802.11",
+        "খ) IEEE 802.15",
+        "গ) IEEE 802.16",
+        "ঘ) IEEE 802.3"
+      ],
+      "answer": "ক) IEEE 802.11",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 149,
+      "question": "ব্লুটুথ এর স্ট্যান্ডার্ড কোনটি?",
+      "options": [
+        "ক) IEEE 802.11",
+        "খ) IEEE 802.15",
+        "গ) IEEE 802.16",
+        "ঘ) IEEE 802.3"
+      ],
+      "answer": "খ) IEEE 802.15",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 150,
+      "question": "ওয়াইম্যাক্স এর স্ট্যান্ডার্ড কোনটি?",
+      "options": [
+        "ক) IEEE 802.11",
+        "খ) IEEE 802.15",
+        "গ) IEEE 802.16",
+        "ঘ) IEEE 802.3"
+      ],
+      "answer": "গ) IEEE 802.16",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 151,
+      "question": "ইথারনেট এর স্ট্যান্ডার্ড কোনটি?",
+      "options": [
+        "ক) IEEE 802.11",
+        "খ) IEEE 802.15",
+        "গ) IEEE 802.16",
+        "ঘ) IEEE 802.3"
+      ],
+      "answer": "ঘ) IEEE 802.3",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 152,
+      "question": "ওয়াইফাই এর ডেটা ট্রান্সফার রেট কত?",
+      "options": [
+        "ক) ১১ এমবিপিএস",
+        "খ) ২০ এমবিপিএস",
+        "গ) ৫৪ এমবিপিএস",
+        "ঘ) ১০০ এমবিপিএস"
+      ],
+      "answer": "গ) ৫৪ এমবিপিএস",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 153,
+      "question": "ওয়াইম্যাক্স এর ডেটা ট্রান্সফার রেট কত?",
+      "options": [
+        "ক) ১১ এমবিপিএস",
+        "খ) ২০ এমবিপিএস",
+        "গ) ৫৪ এমবিপিএস",
+        "ঘ) ১০০ এমবিপিএস"
+      ],
+      "answer": "ঘ) ১০০ এমবিপিএস",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 154,
+      "question": "ব্লুটুথ এর রেঞ্জ কত?",
+      "options": [
+        "ক) ১-১০ মিটার",
+        "খ) ১০-১০০ মিটার",
+        "গ) ১০০-৫০০ মিটার",
+        "ঘ) ১-৫ কিমি"
+      ],
+      "answer": "ক) ১-১০ মিটার",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 155,
+      "question": "ওয়াইফাই এর রেঞ্জ কত?",
+      "options": [
+        "ক) ১-১০ মিটার",
+        "খ) ১০-১০০ মিটার",
+        "গ) ১০০-৫০০ মিটার",
+        "ঘ) ১-৫ কিমি"
+      ],
+      "answer": "খ) ১০-১০০ মিটার",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 156,
+      "question": "ওয়াইম্যাক্স এর রেঞ্জ কত?",
+      "options": [
+        "ক) ১-১০ মিটার",
+        "খ) ১০-১০০ মিটার",
+        "গ) ১০০-৫০০ মিটার",
+        "ঘ) ১-৫ কিমি"
+      ],
+      "answer": "ঘ) ১-৫ কিমি",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 157,
+      "question": "ওয়াইম্যাক্স এর সুবিধা হলো—\ni) উচ্চ গতি\nii) দীর্ঘ পাল্লা\niii) সহজে ব্যবহার",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ক) i, ii",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 158,
+      "question": "ওয়াইফাই এর অসুবিধা হলো—\ni) রেঞ্জ কম\nii) নিরাপত্তা কম\niii) গতি কম",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ক) i, ii",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 159,
+      "question": "ব্লুটুথ এর সুবিধা হলো—\ni) দামে সস্তা\nii) সহজেই ব্যবহার\niii) ডেটা স্থানান্তরের হার কম",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ক) i, ii",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 160,
+      "question": "অপটিক্যাল ফাইবারের সুবিধা হলো—\ni) উচ্চ গতি\nii) ডেটা সুরক্ষিত\niii) বিদ্যুৎ-চৌম্বক প্রভাবমুক্ত",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ঘ) i, ii,iii",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 161,
+      "question": "অপটিক্যাল ফাইবারের অসুবিধা হলো—\ni) ইনস্টলেশন ও রক্ষণাবেক্ষণ জটিল\nii) দামে সস্তা\niii) সহজে ব্যবহার",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ক) i, ii",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 162,
+      "question": "কম্পিউটারের প্রধান মেমরি কোনটি?",
+      "options": [
+        "ক) হার্ডডিস্ক",
+        "খ) রম",
+        "গ) সিডি রম",
+        "ঘ) পেনড্রাইভ"
+      ],
+      "answer": "খ) রম",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 163,
+      "question": "কম্পিউটারের সহায়ক মেমরি কোনটি?",
+      "options": [
+        "ক) হার্ডডিস্ক",
+        "খ) রম",
+        "গ) ক্যাশ মেমরি",
+        "ঘ) রেজিস্টার"
+      ],
+      "answer": "ক) হার্ডডিস্ক",
+      "level": "hard",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 164,
+      "question": "রম এর পূর্ণরূপ কী?",
+      "options": [
+        "ক) Read Only Memory",
+        "খ) Random Only Memory",
+        "গ) Read Other Memory",
+        "ঘ) Random Other Memory"
+      ],
+      "answer": "ক) Read Only Memory",
+      "level": "easy",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 165,
+      "question": "র‍্যাম এর পূর্ণরূপ কী?",
+      "options": [
+        "ক) Read Access Memory",
+        "খ) Random Access Memory",
+        "গ) Read All Memory",
+        "ঘ) Random All Memory"
+      ],
+      "answer": "খ) Random Access Memory",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 166,
+      "question": "রম এর বৈশিষ্ট্য কোনটি?",
+      "options": [
+        "ক) ডেটা পরিবর্তন করা যায়",
+        "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+        "গ) ডেটা পরিবর্তন করা সম্ভব",
+        "ঘ) অস্থায়ী মেমরি"
+      ],
+      "answer": "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+      "level": "hard",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 167,
+      "question": "র‍্যাম এর বৈশিষ্ট্য কোনটি?",
+      "options": [
+        "ক) ডেটা পরিবর্তন করা যায়",
+        "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+        "গ) ডেটা পরিবর্তন করা সম্ভব নয়",
+        "ঘ) স্থায়ী মেমরি"
+      ],
+      "answer": "ক) ডেটা পরিবর্তন করা যায়",
+      "level": "easy",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 168,
+      "question": "ক্যাশ মেমরি কেন ব্যবহৃত হয়?",
+      "options": [
+        "ক) ডেটা সংরক্ষণ",
+        "খ) প্রসেসরের গতি বাড়ানো",
+        "গ) ডেটা ট্রান্সমিশন",
+        "ঘ) ডেটা এন্ট্রি"
+      ],
+      "answer": "খ) প্রসেসরের গতি বাড়ানো",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 169,
+      "question": "ফ্লিপ-ফ্লপ কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "ক) ডেটা সংরক্ষণ",
+        "খ) ডেটা প্রসেসিং",
+        "গ) ডেটা ট্রান্সমিশন",
+        "ঘ) ডেটা এন্ট্রি"
+      ],
+      "answer": "ক) ডেটা সংরক্ষণ",
+      "level": "hard",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 170,
+      "question": "অ্যাডার কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "ক) ডেটা সংরক্ষণ",
+        "খ) ডেটা প্রসেসিং",
+        "গ) ডেটা যোগ করা",
+        "ঘ) ডেটা এন্ট্রি"
+      ],
+      "answer": "গ) ডেটা যোগ করা",
+      "level": "easy",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 171,
+      "question": "এনকোডার কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "ক) ডেটা সংরক্ষণ",
+        "খ) ডেটা প্রসেসিং",
+        "গ) ডেটা এনকোড করা",
+        "ঘ) ডেটা ডিকোড করা"
+      ],
+      "answer": "গ) ডেটা এনকোড করা",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 172,
+      "question": "ডিকোডার কী কাজে ব্যবহৃত হয়?",
+      "options": [
+        "ক) ডেটা সংরক্ষণ",
+        "খ) ডেটা প্রসেসিং",
+        "গ) ডেটা এনকোড করা",
+        "ঘ) ডেটা ডিকোড করা"
+      ],
+      "answer": "ঘ) ডেটা ডিকোড করা",
+      "level": "hard",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 173,
+      "question": "মাল্টিপ্লেক্সার এর কাজ কী?",
+      "options": [
+        "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+        "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+        "গ) একটি ইনপুট থেকে একটি আউটপুট",
+        "ঘ) কোনটিই নয়"
+      ],
+      "answer": "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+      "level": "easy",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 174,
+      "question": "ডি-মাল্টিপ্লেক্সার এর কাজ কী?",
+      "options": [
+        "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+        "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+        "গ) একটি ইনপুট থেকে একটি আউটপুট",
+        "ঘ) কোনটিই নয়"
+      ],
+      "answer": "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+      "level": "medium",
+      "chapterId": "3.2"
+    },
+    {
+      "id": 175,
+      "question": "কম্পিউটারের প্রজন্ম কয়টি?",
+      "options": [
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
+      ],
+      "answer": "ঘ) ৫টি",
       "level": "hard",
       "chapterId": "1"
     },
     {
-      "id": 53,
-      "question": "গ্লোবাল ভিলেজের ধারণায় গবেষণা কাজে যে সুবিধাটি পাওয়া যায় তা হলো-",
+      "id": 176,
+      "question": "আর্টিফিশিয়াল ইন্টেলিজেন্স এর জনক কে?",
       "options": [
-        "দ্রুত তথ্য সংগ্রহ",
-        "কম খরচ",
-        "সময় সাশ্রয়",
-        "সবগুলোই"
+        "ক) বিল গেটস",
+        "খ) জন ম্যাককার্থি",
+        "গ) ডেনিস রিচি",
+        "ঘ) ভ্যান রসম"
       ],
-      "answer": "সবগুলোই",
+      "answer": "খ) জন ম্যাককার্থি",
       "level": "easy",
       "chapterId": "1"
     },
     {
-      "id": 54,
-      "question": "ভার্চুয়াল রিয়েলিটি কী?",
+      "id": 177,
+      "question": "ভার্চুয়াল রিয়েলিটি এর উপাদান হলো—\ni) সিমুলেটর \nii) হেড মাউন্টেড ডিসপ্লে \niii) ডেটা গ্লাভস",
       "options": [
-        "বাস্তব জগতের অনুকরণ",
-        "কাল্পনিক জগতের সৃষ্টি",
-        "কম্পিউটার নির্ভর ত্রিমাত্রিক পরিবেশ",
-        "সবগুলোই"
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ঘ) i, ii,iii",
       "level": "medium",
       "chapterId": "1"
     },
     {
-      "id": 55,
-      "question": "আর্টিফিশিয়াল ইন্টেলিজেন্স এর বাংলা পরিভাষা কী?",
+      "id": 178,
+      "question": "বায়োমেট্রিক্স এর প্রকারভেদ কয়টি?",
       "options": [
-        "কৃত্রিম মেধা",
-        "যান্ত্রিক বুদ্ধি",
-        "রোবট প্রযুক্তি",
-        "স্বয়ংক্রিয় পদ্ধতি"
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
       ],
-      "answer": "কৃত্রিম মেধা",
+      "answer": "ক) ২টি",
       "level": "hard",
       "chapterId": "1"
     },
     {
-      "id": 56,
-      "question": "IoT এর পূর্ণরূপ কী?",
+      "id": 179,
+      "question": "জেনেটিক ইঞ্জিনিয়ারিং এর অপর নাম কী?",
       "options": [
-        "Internet on Technology",
-        "Internet of Things",
-        "Information of Technology",
-        "Information on Things"
+        "ক) জিনোম সিকোয়েন্সিং",
+        "খ) জেনেটিক মডিফিকেশন",
+        "গ) বায়োইনফরমেটিক্স",
+        "ঘ) ক্রায়োসার্জারি"
       ],
-      "answer": "Internet of Things",
+      "answer": "খ) জেনেটিক মডিফিকেশন",
       "level": "easy",
       "chapterId": "1"
     },
     {
-      "id": 57,
-      "question": "বায়োমেট্রিক পদ্ধতিতে শনাক্তকরণের ভিত্তি কী?",
+      "id": 180,
+      "question": "ক্রায়োসার্জারি এর মূলনীতি কী?",
       "options": [
-        "পাসওয়ার্ড",
-        "কার্ড",
-        "শারীরিক বৈশিষ্ট্য",
-        "কোড নম্বর"
+        "ক) উচ্চ তাপমাত্রা",
+        "খ) নিম্ন তাপমাত্রা",
+        "গ) রেডিও ওয়েভ",
+        "ঘ) অতিবেগুনি রশ্মি"
       ],
-      "answer": "শারীরিক বৈশিষ্ট্য",
+      "answer": "খ) নিম্ন তাপমাত্রা",
       "level": "medium",
       "chapterId": "1"
     },
     {
-      "id": 58,
-      "question": "জেনেটিক ইঞ্জিনিয়ারিং এর প্রধান কাজ কী?",
+      "id": 181,
+      "question": "ডেটা এনক্রিপশন কী কাজে ব্যবহৃত হয়?",
       "options": [
-        "জিনের পরিবর্তন",
-        "কোষ বিভাজন",
-        "প্রোটিন তৈরি",
-        "রক্ত সঞ্চালন"
+        "ক) ডেটা সুরক্ষিত রাখা",
+        "খ) ডেটা প্রসেসিং",
+        "গ) ডেটা ট্রান্সমিশন",
+        "ঘ) ডেটা এন্ট্রি"
       ],
-      "answer": "জিনের পরিবর্তন",
+      "answer": "ক) ডেটা সুরক্ষিত রাখা",
       "level": "hard",
       "chapterId": "1"
     },
     {
-      "id": 59,
-      "question": "ন্যানোটেকনোলজির একক কী?",
+      "id": 182,
+      "question": "হ্যাকিং কত প্রকার?",
       "options": [
-        "মিটার",
-        "সেন্টিমিটার",
-        "মিলিমিটার",
-        "ন্যানোমিটার"
+        "ক) ২টি",
+        "খ) ৩টি",
+        "গ) ৪টি",
+        "ঘ) ৫টি"
       ],
-      "answer": "ন্যানোমিটার",
+      "answer": "খ) ৩টি",
       "level": "easy",
       "chapterId": "1"
     },
     {
-      "id": 60,
-      "question": "ICT ব্যবহারে নৈতিকতার প্রধান দিক কোনটি?",
+      "id": 183,
+      "question": "সাইবার ক্রাইম এর উদাহরণ কোনটি?",
       "options": [
-        "গোপনীয়তা রক্ষা",
-        "তথ্য চুরি না করা",
-        "সাইবার অপরাধ না করা",
-        "সবগুলোই"
+        "ক) হ্যাকিং",
+        "খ) ফিশিং",
+        "গ) ডেটা চুরি",
+        "ঘ) সবগুলোই"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ঘ) সবগুলোই",
       "level": "medium",
       "chapterId": "1"
     },
     {
-      "id": 61,
-      "question": "সামাজিক জীবনে ICT এর ইতিবাচক প্রভাব হলো-",
+      "id": 184,
+      "question": "ডেটা এনক্রিপশন এর সুবিধা হলো—\ni) ডেটা সুরক্ষিত থাকে\nii) ডেটা চুরি রোধ\niii) তথ্যের গোপনীয়তা বজায় থাকে",
       "options": [
-        "দ্রুত তথ্য আদান-প্রদান",
-        "শিক্ষার সুযোগ বৃদ্ধি",
-        "কর্মসংস্থান সৃষ্টি",
-        "সবগুলোই"
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ঘ) i, ii,iii",
       "level": "hard",
       "chapterId": "1"
     },
     {
-      "id": 62,
-      "question": "ই-গভর্নেন্স এর উদ্দেশ্য কী?",
+      "id": 185,
+      "question": "পাওয়ারপয়েন্ট স্লাইডে ছবি যুক্ত করার জন্য কোন অপশন ব্যবহার করা হয়?",
       "options": [
-        "স্বচ্ছতা বৃদ্ধি",
-        "দুর্নীতি কমানো",
-        "সেবার মান উন্নতি",
-        "সবগুলোই"
+        "ক) Insert > Picture",
+        "খ) Design > Picture",
+        "গ) Animation > Picture",
+        "ঘ) Transition > Picture"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ক) Insert > Picture",
       "level": "easy",
-      "chapterId": "1"
+      "chapterId": "3.2"
     },
     {
-      "id": 63,
-      "question": "বাংলাদেশের ডিজিটাল বাংলাদেশ গড়ার মূল লক্ষ্য কী?",
+      "id": 186,
+      "question": "এক্সেল শীটে সেলের ডেটা যোগ করার জন্য কোন ফাংশন ব্যবহার করা হয়?",
       "options": [
-        "প্রযুক্তিনির্ভর সমাজ গঠন",
-        "দারিদ্র্য দূরীকরণ",
-        "শিক্ষার প্রসার",
-        "সবগুলোই"
+        "ক) AVERAGE()",
+        "খ) SUM()",
+        "গ) MAX()",
+        "ঘ) MIN()"
       ],
-      "answer": "সবগুলোই",
+      "answer": "খ) SUM()",
       "level": "medium",
-      "chapterId": "1"
+      "chapterId": "3.2"
     },
     {
-      "id": 64,
-      "question": "ভার্চুয়াল অফিস এর সুবিধা কী?",
+      "id": 187,
+      "question": "HTML এ অসম্পূর্ণ ট্যাগ কোনটি?",
       "options": [
-        "ঘরে বসে কাজ করা",
-        "ভ্রমণ খরচ সাশ্রয়",
-        "সময় সাশ্রয়",
-        "সবগুলোই"
+        "ক) <body>",
+        "খ) <img>",
+        "গ) <p>",
+        "ঘ) <h1>"
       ],
-      "answer": "সবগুলোই",
+      "answer": "খ) <img>",
       "level": "hard",
-      "chapterId": "1"
+      "chapterId": "4"
     },
     {
-      "id": 65,
-      "question": "রোবটিক্স প্রযুক্তির প্রধান বৈশিষ্ট্য কী?",
+      "id": 188,
+      "question": "C প্রোগ্রামিং এ চলক ঘোষণার জন্য কোনটি ব্যবহৃত হয়?",
       "options": [
-        "স্বয়ংক্রিয়তা",
-        "নির্ভুলতা",
-        "দ্রুততা",
-        "সবগুলোই"
+        "ক) int",
+        "খ) float",
+        "গ) char",
+        "ঘ) সবগুলোই"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ঘ) সবগুলোই",
       "level": "easy",
-      "chapterId": "1"
+      "chapterId": "5"
     },
     {
-      "id": 66,
-      "question": "বায়োইনফরমেটিক্স কী?",
+      "id": 189,
+      "question": "SQL এর পূর্ণরূপ কী?",
       "options": [
-        "জীববিজ্ঞান ও তথ্যপ্রযুক্তির সমন্বয়",
-        "শুধু জীববিজ্ঞান",
-        "শুধু তথ্যপ্রযুক্তি",
-        "চিকিৎসা বিজ্ঞান"
+        "ক) Structured Query Language",
+        "খ) Sequential Query Language",
+        "গ) Simple Query Language",
+        "ঘ) Standard Query Language"
       ],
-      "answer": "জীববিজ্ঞান ও তথ্যপ্রযুক্তির সমন্বয়",
+      "answer": "ক) Structured Query Language",
       "level": "medium",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 67,
-      "question": "মহাকাশ অনুসন্ধানে ICT এর ভূমিকা কী?",
+      "id": 190,
+      "question": "SQL এ ডেটা টেবিল থেকে ডেটা পুনরুদ্ধার করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "উপগ্রহ নিয়ন্ত্রণ",
-        "তথ্য সংগ্রহ ও বিশ্লেষণ",
-        "যোগাযোগ রক্ষা",
-        "সবগুলোই"
+        "ক) INSERT",
+        "খ) DELETE",
+        "গ) UPDATE",
+        "ঘ) SELECT"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ঘ) SELECT",
       "level": "hard",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 68,
-      "question": "ই-কমার্স এর সুবিধা কোনটি?",
+      "id": 191,
+      "question": "SQL এ নতুন রেকর্ড যুক্ত করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "২৪ ঘণ্টা কেনাকাটা",
-        "ঘরে বসে কেনাকাটা",
-        "দামের তুলনা",
-        "সবগুলোই"
+        "ক) INSERT",
+        "খ) DELETE",
+        "গ) UPDATE",
+        "ঘ) SELECT"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ক) INSERT",
       "level": "easy",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 69,
-      "question": "ICT নির্ভর উৎপাদনের উদাহরণ কোনটি?",
+      "id": 192,
+      "question": "SQL এ রেকর্ড পরিবর্তন করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "অটোমেশন",
-        "রোবট ব্যবহার",
-        "কম্পিউটার নিয়ন্ত্রিত যন্ত্র",
-        "সবগুলোই"
+        "ক) INSERT",
+        "খ) DELETE",
+        "গ) UPDATE",
+        "ঘ) SELECT"
       ],
-      "answer": "সবগুলোই",
+      "answer": "গ) UPDATE",
       "level": "medium",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 70,
-      "question": "প্রতিরক্ষা ক্ষেত্রে ICT এর ব্যবহার-",
+      "id": 193,
+      "question": "SQL এ রেকর্ড ডিলিট করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "গুপ্ত যোগাযোগ",
-        "স্মার্ট অস্ত্র",
-        "নিরাপত্তা ব্যবস্থা",
-        "সবগুলোই"
+        "ক) INSERT",
+        "খ) DELETE",
+        "গ) UPDATE",
+        "ঘ) SELECT"
       ],
-      "answer": "সবগুলোই",
+      "answer": "খ) DELETE",
       "level": "hard",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 71,
-      "question": "সামাজিক যোগাযোগ মাধ্যমের নেতিবাচক প্রভাব কোনটি?",
+      "id": 194,
+      "question": "SQL এ নতুন টেবিল তৈরি করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "গুজব ছড়ানো",
-        "ব্যক্তিগত তথ্য চুরি",
-        "সাইবার বুলিং",
-        "সবগুলোই"
+        "ক) CREATE TABLE",
+        "খ) DROP TABLE",
+        "গ) ALTER TABLE",
+        "ঘ) কোনটিই নয়"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ক) CREATE TABLE",
       "level": "easy",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 72,
-      "question": "ই-গভর্নেন্স সেবার উদাহরণ কোনটি?",
+      "id": 195,
+      "question": "SQL এ টেবিল ডিলিট করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "অনলাইন ট্যাক্স প্রদান",
-        "অনলাইন জন্ম নিবন্ধন",
-        "অনলাইন পাসপোর্ট আবেদন",
-        "সবগুলোই"
+        "ক) CREATE TABLE",
+        "খ) DROP TABLE",
+        "গ) ALTER TABLE",
+        "ঘ) কোনটিই নয়"
       ],
-      "answer": "সবগুলোই",
+      "answer": "খ) DROP TABLE",
       "level": "medium",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 73,
-      "question": "ICT ব্যবহারে পরিবেশের উপর নেতিবাচক প্রভাব কোনটি?",
+      "id": 196,
+      "question": "SQL এ টেবিল এর কাঠামো পরিবর্তন করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
       "options": [
-        "ই-বর্জ্য",
-        "বিদ্যুৎ খরচ বৃদ্ধি",
-        "রেডিয়েশন",
-        "সবগুলোই"
+        "ক) CREATE TABLE",
+        "খ) DROP TABLE",
+        "গ) ALTER TABLE",
+        "ঘ) কোনটিই নয়"
       ],
-      "answer": "সবগুলোই",
+      "answer": "গ) ALTER TABLE",
       "level": "hard",
-      "chapterId": "1"
+      "chapterId": "6"
     },
     {
-      "id": 74,
-      "question": "টেলিকনফারেন্সিং এর সুবিধা কী?",
+      "id": 197,
+      "question": "ডেটাবেজ এর সুবিধা হলো—\ni) ডেটার নিরাপত্তা \nii) ডেটার নির্ভুলতা \niii) দ্রুত ডেটা খুঁজে বের করা",
       "options": [
-        "ভ্রমণ খরচ সাশ্রয়",
-        "সময় সাশ্রয়",
-        "তাৎক্ষণিক আলোচনা",
-        "সবগুলোই"
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
       ],
-      "answer": "সবগুলোই",
+      "answer": "ঘ) i, ii,iii",
       "level": "easy",
-      "chapterId": "1"
+      "chapterId": "6"
+    },
+    {
+      "id": 198,
+      "question": "SQL এ ফিল্ড এর ডেটা টাইপ কোনটি নয়?",
+      "options": [
+        "ক) INT",
+        "খ) FLOAT",
+        "গ) BOOLEAN",
+        "ঘ) TEXT"
+      ],
+      "answer": "গ) BOOLEAN",
+      "level": "medium",
+      "chapterId": "6"
+    },
+    {
+      "id": 199,
+      "question": "ডেটাবেজ এর অসুবিধা কোনটি?",
+      "options": [
+        "ক) ডেটার অপ্রয়োজনীয় পুনরাবৃত্তি",
+        "খ) ডেটাবেজ তৈরির জটিলতা",
+        "গ) ডেটা চুরি",
+        "ঘ) কোনটিই নয়"
+      ],
+      "answer": "খ) ডেটাবেজ তৈরির জটিলতা",
+      "level": "hard",
+      "chapterId": "6"
+    },
+    {
+      "id": 200,
+      "question": "কোনটি HTML এর ট্যাগ নয়?",
+      "options": [
+        "ক) <html>",
+        "খ) <head>",
+        "গ) <bodyy>",
+        "ঘ) <title>"
+      ],
+      "answer": "গ) <bodyy>",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 201,
+      "question": "C প্রোগ্রামিং এ ইনপুট ফাংশন কোনটি?",
+      "options": [
+        "ক) printf()",
+        "খ) scanf()",
+        "গ) main()",
+        "ঘ) return()"
+      ],
+      "answer": "খ) scanf()",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 202,
+      "question": "C প্রোগ্রামিং এ আউটপুট ফাংশন কোনটি?",
+      "options": [
+        "ক) printf()",
+        "খ) scanf()",
+        "গ) main()",
+        "ঘ) return()"
+      ],
+      "answer": "ক) printf()",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 203,
+      "question": "C প্রোগ্রামিং এ প্রধান ফাংশন কোনটি?",
+      "options": [
+        "ক) printf()",
+        "খ) scanf()",
+        "গ) main()",
+        "ঘ) return()"
+      ],
+      "answer": "গ) main()",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 204,
+      "question": "C প্রোগ্রামিং এ কোন প্রতীক লুপের স্টেটমেন্টকে শেষ করে?",
+      "options": [
+        "ক) ;",
+        "খ) {}",
+        "গ) ()",
+        "ঘ) []"
+      ],
+      "answer": "ক) ;",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 205,
+      "question": "C প্রোগ্রামিং এ কোন প্রতীক ফাংশনের বডি নির্দেশ করে?",
+      "options": [
+        "ক) ;",
+        "খ) {}",
+        "গ) ()",
+        "ঘ) []"
+      ],
+      "answer": "খ) {}",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 206,
+      "question": "C প্রোগ্রামিং এ কোন প্রতীক ফাংশনের আর্গুমেন্ট নির্দেশ করে?",
+      "options": [
+        "ক) ;",
+        "খ) {}",
+        "গ) ()",
+        "ঘ) []"
+      ],
+      "answer": "গ) ()",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 207,
+      "question": "C প্রোগ্রামিং এ কোন প্রতীক অ্যারে নির্দেশ করে?",
+      "options": [
+        "ক) ;",
+        "খ) {}",
+        "গ) ()",
+        "ঘ) []"
+      ],
+      "answer": "ঘ) []",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 208,
+      "question": "C প্রোগ্রামিং এ মন্তব্য লেখার জন্য কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) //",
+        "খ) #",
+        "গ) $",
+        "ঘ) @"
+      ],
+      "answer": "ক) //",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 209,
+      "question": "C প্রোগ্রামিং এ হেডার ফাইল যুক্ত করার জন্য কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) //",
+        "খ) #include",
+        "গ) $",
+        "ঘ) @"
+      ],
+      "answer": "খ) #include",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 210,
+      "question": "C প্রোগ্রামিং এ নতুন লাইনে যাওয়ার জন্য কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) \n",
+        "খ) \t",
+        "গ) \\",
+        "ঘ) \"\""
+      ],
+      "answer": "ক) \n",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 211,
+      "question": "C প্রোগ্রামিং এ ট্যাব দেওয়ার জন্য কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) \n",
+        "খ) \t",
+        "গ) \\",
+        "ঘ) \"\""
+      ],
+      "answer": "খ) \t",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 212,
+      "question": "C প্রোগ্রামিং এ উদ্ধৃতি চিহ্ন দেওয়ার জন্য কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) \n",
+        "খ) \t",
+        "গ) \\",
+        "ঘ) \"\""
+      ],
+      "answer": "ঘ) \"\"",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 213,
+      "question": "C প্রোগ্রামিং এ ব্যাকস্ল্যাশ দেওয়ার জন্য কোনটি ব্যবহৃত হয়?",
+      "options": [
+        "ক) \n",
+        "খ) \t",
+        "গ) \\",
+        "ঘ) \"\""
+      ],
+      "answer": "গ) \\",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 214,
+      "question": "C প্রোগ্রামিং এ একটি পূর্ণ সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "options": [
+        "ক) %d",
+        "খ) %f",
+        "গ) %c",
+        "ঘ) %s"
+      ],
+      "answer": "ক) %d",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 215,
+      "question": "C প্রোগ্রামিং এ একটি দশমিক সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "options": [
+        "ক) %d",
+        "খ) %f",
+        "গ) %c",
+        "ঘ) %s"
+      ],
+      "answer": "খ) %f",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 216,
+      "question": "C প্রোগ্রামিং এ একটি অক্ষর ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "options": [
+        "ক) %d",
+        "খ) %f",
+        "গ) %c",
+        "ঘ) %s"
+      ],
+      "answer": "গ) %c",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 217,
+      "question": "C প্রোগ্রামিং এ একটি স্ট্রিং ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "options": [
+        "ক) %d",
+        "খ) %f",
+        "গ) %c",
+        "ঘ) %s"
+      ],
+      "answer": "ঘ) %s",
+      "level": "hard",
+      "chapterId": "5"
+    },
+    {
+      "id": 218,
+      "question": "C প্রোগ্রামিং এ কন্ডিশনাল স্টেটমেন্ট হলো—\ni) if \nii) else \niii) switch",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ঘ) i, ii,iii",
+      "level": "easy",
+      "chapterId": "5"
+    },
+    {
+      "id": 219,
+      "question": "C প্রোগ্রামিং এ লুপ স্টেটমেন্ট হলো—\ni) while \nii) for \niii) do while",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ঘ) i, ii,iii",
+      "level": "medium",
+      "chapterId": "5"
+    },
+    {
+      "id": 220,
+      "question": "HTML এ টেবিল ট্যাগ কোনটি?",
+      "options": [
+        "ক) <table>",
+        "খ) <tr>",
+        "গ) <td>",
+        "ঘ) <th>"
+      ],
+      "answer": "ক) <table>",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 221,
+      "question": "HTML এ টেবিল রো ট্যাগ কোনটি?",
+      "options": [
+        "ক) <table>",
+        "খ) <tr>",
+        "গ) <td>",
+        "ঘ) <th>"
+      ],
+      "answer": "খ) <tr>",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 222,
+      "question": "HTML এ টেবিল ডেটা ট্যাগ কোনটি?",
+      "options": [
+        "ক) <table>",
+        "খ) <tr>",
+        "গ) <td>",
+        "ঘ) <th>"
+      ],
+      "answer": "গ) <td>",
+      "level": "medium",
+      "chapterId": "4"
     }
   ]
 }
