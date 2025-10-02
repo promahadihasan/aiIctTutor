@@ -1,304 +1,1296 @@
 {
    "mcqs":[
-      {
-         "id":1,
-         "question":"101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
-         "options":[
-            "ক. 101100",
-            "খ. 010010",
-            "গ. 101000",
-            "ঘ. 101111"
-         ],
-         "answer":"খ. 010010",
-         "level":"easy"
-      },
-      {
-         "id":2,
-         "question":"ফাইবার অপটিক ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
-         "options":[
-            "ক. লেজার",
-            "খ. গামা",
-            "গ. বিটা",
-            "ঘ. আলফা"
-         ],
-         "answer":"ক. লেজার",
-         "level":"easy"
-      },
-      {
-         "id":3,
-         "question":"কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
-         "options":[
-            "ক. শিক্ষা",
-            "খ. বাণিজ্যিক",
-            "গ. সরকারি",
-            "ঘ. আন্তর্জাতিক"
-         ],
-         "answer":"খ. বাণিজ্যিক",
-         "level":"medium"
-      },
-      {
-         "id":4,
-         "question":"উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
-         "options":[
-            "ক. SMTP",
-            "খ. VOIP",
-            "গ. FTP",
-            "খ. HTTP"
-         ],
-         "answer":"ঘ. HTTP",
-         "level":"medium"
-      },
-      {
-         "id":5,
-         "question":"ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
-         "options":[
-            "ক. %c",
-            "খ. %s",
-            "গ. %lf",
-            "ঘ. %d"
-         ],
-         "answer":"ক. %c",
-         "level":"easy"
-      },
-      {
-         "id":6,
-         "question":"নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i=3; i <= 15; i+=2)\nif (i-- > 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
-         "options":[
-            "ক. ৩",
-            "খ. ৪",
-            "গ. ৫",
-            "ঘ. ৬"
-         ],
-         "answer":"খ. ৪",
-         "level":"medium"
-      },
-      {
-         "id":7,
-         "question":"ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
-         "options":[
-            "ক. সাশ্রয়ী ও সহজলভ্য",
-            "খ. লাইসেন্স ফি লাগে",
-            "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
-            "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
-         ],
-         "answer":"ক. সাশ্রয়ী ও সহজলভ্য",
-         "level":"easy"
-      },
-      {
-         "id":8,
-         "question":"নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?",
-         "options":[
-            "ক. A'B + AB'",
-            "খ. AB + A'B",
-            "গ. AB'",
-            "ঘ. A+B"
-         ],
-         "answer":"ক. A'B + AB'",
-         "level":"medium"
-      },
-      {
-         "id":9,
-         "question":"নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-",
-         "options":[
-            "ক. A=1, B=0",
-            "খ. A=0, B=1",
-            "গ. A=1, B=1",
-            "ঘ. A=0, B=0"
-         ],
-         "answer":"ক. A=1, B=0",
-         "level":"medium"
-      },
-      {
-         "id":10,
-         "question":"#FFFFFF কোন রং নির্দেশ করে?",
-         "options":[
-            "ক. সাদা",
-            "খ. নীল",
-            "গ. সায়ান",
-            "ঘ. লাল"
-         ],
-         "answer":"ক. সাদা",
-         "level":"easy"
-      },
-      {
-         "id":11,
-         "question":"নিচের উদ্দীপকটি পড় প্রশ্নের উত্তর দাও।\nvoid main()\n{\nint i=15, j;\nj = i++;\nprintf(\"%d %d\", i,j);\n}\nউদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
-         "options":[
-            "ক. 15, 15",
-            "খ. 15, 16",
-            "গ. 16, 16",
-            "ঘ. 16, 17"
-         ],
-         "answer":"ক. 15, 15",
-         "level":"medium"
-      },
-      {
-         "id":12,
-         "question":"জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
-         "options":[
-            "ক. জিন",
-            "খ. জিনোম",
-            "গ. নিউক্লিয়াস",
-            "ঘ. ক্রোমোজোম"
-         ],
-         "answer":"খ. জিনোম",
-         "level":"easy"
-      },
-      {
-         "id":13,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":14,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":15,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":16,
-         "question":"একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
-         "options":[
-            "ক. (170)10",
-            "খ. (252)10",
-            "গ. (10101010)2",
-            "ঘ. উপরের কোনটি সঠিক?"
-         ],
-         "answer":"ক. (170)10",
-         "level":"hard"
-      },
-      {
-         "id":17,
-         "question":"নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
-         "options":[
-            "ক. <table bgcolor=\"green\">",
-            "খ. <tr bgcolor=\"green\">",
-            "গ. <td bgcolor=\"green\">",
-            "ঘ. <th bgcolor=\"green\">"
-         ],
-         "answer":"গ. <td bgcolor=\"green\">",
-         "level":"medium"
-      },
-      {
-         "id":18,
-         "question":"হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
-         "options":[
-            "ক. EBCDIC",
-            "খ. ASCII-7",
-            "গ. ASCII-8",
-            "ঘ. Unicode"
-         ],
-         "answer":"ঘ. Unicode",
-         "level":"easy"
-      },
-      {
-         "id":19,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":20,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":21,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":22,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":23,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":24,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":25,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      }
-   ]
+  {
+    "id": 1,
+    "question": "ফ্রন্ট এন্ড হচ্ছে-",
+    "imageUrl": "",
+    "options": [
+      "ক) কুয়েরি সম্পাদনা",
+      "খ) অপটিমাইজেশন",
+      "গ) রিকভারি",
+      "ঘ) রিপোর্ট"
+    ],
+    "answer": "ঘ) রিপোর্ট",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 2,
+    "question": "কোনটি ডেটাবেজের ভিত্তি?",
+    "imageUrl": "",
+    "options": [
+      "ক) ফিল্ড",
+      "খ) রেকর্ড",
+      "গ) কুয়েরি",
+      "ঘ) টেবিল"
+    ],
+    "answer": "ঘ) টেবিল",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 3,
+    "question": "ডেটা টেবিলে ইমেজ সংযোজনের জন্য কোন ধরনের ডেটা টাইপ ব্যবহার করতে হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Calculated",
+      "খ) Look up Wizard",
+      "গ) OLE Object",
+      "ঘ) Logical"
+    ],
+    "answer": "গ) OLE Object",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 4,
+    "question": "একজন শিক্ষার্থীর বায়োডাটাতে Photograph কোন ধরনের ডেটা টাইপ?",
+    "imageUrl": "",
+    "options": [
+      "ক) Text",
+      "খ) Memo",
+      "গ) Number",
+      "ঘ) OLE Object"
+    ],
+    "answer": "ঘ) OLE Object",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 5,
+    "question": "ডেটাবেজে ই-অ্যাড্রেস সংরক্ষণের জন্য কোন ডেটা টাইপ নির্বাচন করতে হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Text",
+      "খ) Hyperlink",
+      "গ) Memo",
+      "ঘ) Attachment"
+    ],
+    "answer": "খ) Hyperlink",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 6,
+    "question": "অনেকগুলো ফিল্ডের সমন্বয়ে গঠিত হয়-",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা",
+      "খ) রেকর্ড",
+      "গ) টেবিল",
+      "ঘ) ডেটাবেজ"
+    ],
+    "answer": "খ) রেকর্ড",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 7,
+    "question": "DBMS কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) Database Basic Management System",
+      "খ) Data Backup Management System",
+      "গ) Database Management System",
+      "ঘ) Database Manipulation System"
+    ],
+    "answer": "গ) Database Management System",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 8,
+    "question": "ডাটাবেজ হতে দ্রুত তথ্য খুঁজে বের করার প্রক্রিয়াকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Sort",
+      "খ) Index",
+      "গ) Query",
+      "ঘ) Filter"
+    ],
+    "answer": "গ) Query",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 9,
+    "question": "DBMS এর কাজ হলো-",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা তৈরি করা",
+      "খ) ডেটা পরিবর্তন করা",
+      "গ) ডেটা সংরক্ষণ করা",
+      "ঘ) সবগুলো"
+    ],
+    "answer": "ঘ) সবগুলো",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 10,
+    "question": "দুটি ভিন্ন ডেটা টেবিলের মধ্যে সম্পর্ক স্থাপনের জন্য কোন ফিল্ড ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) কম্পোজিট কি",
+      "খ) অ্যাল্টারনেটিভ কি",
+      "গ) প্রাইমারি কি",
+      "ঘ) ফরেন কি"
+    ],
+    "answer": "ঘ) ফরেন কি",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 11,
+    "question": "কোন ফিল্ডের উপর ভিত্তি করে একটি রিলেশনাল ডেটাবেজ গঠিত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা",
+      "খ) রেকর্ড",
+      "গ) টেবিল",
+      "ঘ) ফিল্ড"
+    ],
+    "answer": "ঘ) ফিল্ড",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 12,
+    "question": "ডেটাবেজকে নিরাপত্তা দানের জন্য কোন প্রযুক্তি ব্যবহার করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Encryption",
+      "খ) FTP",
+      "গ) HTML",
+      "ঘ) DBMS"
+    ],
+    "answer": "ক) Encryption",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 13,
+    "question": "ডেটাবেজের ফিল্ডে ডেটা টাইপ হিসেবে 'Memo' ব্যবহার করা হয়-",
+    "imageUrl": "",
+    "options": [
+      "ক) ছোট টেক্সট সংরক্ষণের জন্য",
+      "খ) বড় টেক্সট সংরক্ষণের জন্য",
+      "গ) গণনার জন্য",
+      "ঘ) তারিখ ও সময় সংরক্ষণের জন্য"
+    ],
+    "answer": "খ) বড় টেক্সট সংরক্ষণের জন্য",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 14,
+    "question": "ডেটাবেজ রিলেশন কয় ধরনের?",
+    "imageUrl": "",
+    "options": [
+      "ক) ২",
+      "খ) ৩",
+      "গ) ৪",
+      "ঘ) ৫"
+    ],
+    "answer": "খ) ৩",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 15,
+    "question": "Foreign Key এর সাথে Primary Key এর রিলেশন কিরূপ?",
+    "imageUrl": "",
+    "options": [
+      "ক) one to one",
+      "খ) one to many",
+      "গ) many to one",
+      "ঘ) many to many"
+    ],
+    "answer": "খ) one to many",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 16,
+    "question": "কোন ধরনের ডেটাবেজ রিলেশনে জাংশন টেবিল ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) one to one",
+      "খ) one to many",
+      "গ) many to one",
+      "ঘ) many to many"
+    ],
+    "answer": "ঘ) many to many",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 17,
+    "question": "একটি রেকর্ডের সাথে অনেকগুলো রেকর্ড সম্পর্কযুক্ত হয় কোনটিতে?",
+    "imageUrl": "",
+    "options": [
+      "ক) one to one",
+      "খ) one to many",
+      "গ) many to one",
+      "ঘ) many to many"
+    ],
+    "answer": "খ) one to many",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 18,
+    "question": "৩য় টেবিল থাকে-",
+    "imageUrl": "",
+    "options": [
+      "ক) ওয়ান টু ওয়ান রিলেশনে",
+      "খ) ওয়ান টু মেনি রিলেশনে",
+      "গ) মেনি টু মেনি রিলেশনে",
+      "ঘ) মেনি টু ওয়ান রিলেশনে"
+    ],
+    "answer": "গ) মেনি টু মেনি রিলেশনে",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 19,
+    "question": "DBMS সফটওয়্যার কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) Google Chrome",
+      "খ) MS Word",
+      "গ) MS Access",
+      "ঘ) Notepad"
+    ],
+    "answer": "গ) MS Access",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 20,
+    "question": "রিলেশনাল ডেটাবেজ ম্যানেজমেন্ট সফটওয়্যার কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) FoxPro",
+      "খ) SQL",
+      "গ) MS Access",
+      "ঘ) MySQL"
+    ],
+    "answer": "ঘ) MySQL",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 21,
+    "question": "কোন সফটওয়্যার ব্যবহার করে ডেটাবেজ তৈরি করা যায়?",
+    "imageUrl": "",
+    "options": [
+      "ক) DBMS",
+      "খ) DOS",
+      "গ) Word",
+      "ঘ) Excel"
+    ],
+    "answer": "ক) DBMS",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 22,
+    "question": "কোনটি একটি আর.ডি.বি.এম.এস (RDBMS)?",
+    "imageUrl": "",
+    "options": [
+      "ক) Oracle",
+      "খ) MS Power Point",
+      "গ) MS Excel",
+      "ঘ) MS Word"
+    ],
+    "answer": "ক) Oracle",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 23,
+    "question": "ডেটাবেজ থেকে প্রয়োজনীয় ডেটা বের করে আনার পদ্ধতিকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) রিপোর্ট",
+      "খ) টেবিল",
+      "গ) ফর্ম",
+      "ঘ) কুয়েরি"
+    ],
+    "answer": "ঘ) কুয়েরি",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 24,
+    "question": "ডেটাবেজ টেবিল থেকে ডেটা খুঁজে বের করার জন্য কোনটি ব্যবহার করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) রিপোর্ট",
+      "খ) টেবিল",
+      "গ) ফর্ম",
+      "ঘ) কুয়েরি"
+    ],
+    "answer": "ঘ) কুয়েরি",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 25,
+    "question": "ডেটাবেজের কুয়েরি কী ধরনের কাজ করে?",
+    "imageUrl": "",
+    "options": [
+      "ক) নির্দিষ্ট ডেটা প্রদর্শন করে",
+      "খ) ডেটা ইনপুট নেয়",
+      "গ) ডেটাবেজ তৈরি করে",
+      "ঘ) ডেটা মুছে দেয়"
+    ],
+    "answer": "ক) নির্দিষ্ট ডেটা প্রদর্শন করে",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 26,
+    "question": "কুয়েরির মাধ্যমে ডেটাবেজের কোন উপাদানটি সবচেয়ে বেশি প্রভাবিত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) টেবিল",
+      "খ) রিপোর্ট",
+      "গ) ফর্ম",
+      "ঘ) মডিউল"
+    ],
+    "answer": "খ) রিপোর্ট",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 27,
+    "question": "ডেটাবেজের রেকর্ডকে সাজানোকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) ইনডেক্সিং",
+      "খ) কুয়েরিং",
+      "গ) সর্টিং",
+      "ঘ) ফিল্টারিং"
+    ],
+    "answer": "গ) সর্টিং",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 28,
+    "question": "ডেটাবেজ থেকে তথ্য খুঁজে বের করার প্রক্রিয়াকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) সর্টিং",
+      "খ) ইনডেক্সিং",
+      "গ) কুয়েরি",
+      "ঘ) রিলেশন"
+    ],
+    "answer": "গ) কুয়েরি",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 29,
+    "question": "DBMS এর পূর্ণরূপ-",
+    "imageUrl": "",
+    "options": [
+      "ক) Data Based Management Software",
+      "খ) Database Management System",
+      "গ) Database Basic Management Software",
+      "ঘ) Digital Basis Management System"
+    ],
+    "answer": "খ) Database Management System",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 30,
+    "question": "ডেটাবেজ টেবিলে কী সংরক্ষণ করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা ও রেকর্ড",
+      "খ) কুয়েরি",
+      "গ) ফর্ম",
+      "ঘ) রিপোর্ট"
+    ],
+    "answer": "ক) ডেটা ও রেকর্ড",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 31,
+    "question": "Query langulage are -  \n i. QBE ii. SQL iii.QUEL",
+    "imageUrl": "",
+    "options": [
+      "ক) i,ii ",
+      "খ) i,iii",
+      "গ) ii,iii",
+      "ঘ) i,ii and iii"
+    ],
+    "answer": "ঘ) i,ii and iii",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 32,
+    "question": "কোনটি ডেটাবেজের অবজেক্ট?",
+    "imageUrl": "",
+    "options": [
+      "ক) টেবিল",
+      "খ) ফাইল",
+      "গ) ওয়ার্ড",
+      "ঘ) ফোল্ডার"
+    ],
+    "answer": "ক) টেবিল",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 33,
+    "question": "ডেটাবেজকে নিরাপত্তা দানের জন্য এনক্রিপশন (Encryption) ব্যবহার করা হলে, এনক্রিপ্ট করার আগের ডেটাকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Ciphertext",
+      "খ) Secret Key",
+      "গ) Public Key",
+      "ঘ) Plaintext"
+    ],
+    "answer": "ঘ) Plaintext",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 34,
+    "question": "Encrypt করার পর ডেটাবেজের ডেটা কী নামে পরিচিত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Plaintext",
+      "খ) Ciphertext",
+      "গ) Key",
+      "ঘ) Code"
+    ],
+    "answer": "খ) Ciphertext",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 35,
+    "question": "ডেটাবেজ টেবিলের ডেটাগুলোকে ছোট থেকে বড় অথবা বড় থেকে ছোট আকারে সাজানোকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) কুয়েরি",
+      "খ) ইনডেক্সিং",
+      "গ) সর্টিং",
+      "ঘ) ফিল্টারিং"
+    ],
+    "answer": "গ) সর্টিং",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 36,
+    "question": "ডেটাবেজ টেবিলে কোনো ফিল্ডে ডেটা এন্ট্রিকে কী বলা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) রেকর্ড",
+      "খ) কুয়েরি",
+      "গ) ডেটা",
+      "ঘ) insert"
+    ],
+    "answer": "ঘ) insert",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 37,
+    "question": "ডেটাবেজে রেকর্ডগুলোর ক্রম পরিবর্তন না করে শুধুমাত্র কী-ফিল্ডের উপর ভিত্তি করে সাজানোকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) কুয়েরি",
+      "খ) সর্টিং",
+      "গ) ইনডেক্সিং",
+      "ঘ) ফিল্টারিং"
+    ],
+    "answer": "গ) ইনডেক্সিং",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 38,
+    "question": "ডাটাবেজ থেকে তথ্য বের করার প্রক্রিয়ার নাম কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) কুয়েরি",
+      "খ) সর্টিং",
+      "গ) ইনডেক্সিং",
+      "ঘ) রিপোর্ট"
+    ],
+    "answer": "ক) কুয়েরি",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 39,
+    "question": "MS Access এ ডেটাবেজের প্রতিটি রো বা সারিকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) টেবিল",
+      "খ) রেকর্ড",
+      "গ) ফিল্ড",
+      "ঘ) রিপোর্ট"
+    ],
+    "answer": "খ) রেকর্ড",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 40,
+    "question": "ডেটাবেজ থেকে ডেটা খোঁজা ও প্রদর্শন করাকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) ইনডেক্সিং",
+      "খ) সর্টিং",
+      "গ) কুয়েরি",
+      "ঘ) রিপোর্ট"
+    ],
+    "answer": "গ) কুয়েরি",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 41,
+    "question": "ডেটাবেজে ডেটা মুছে ফেলার জন্য কোন কমান্ডটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Delete",
+      "খ) Remove",
+      "গ) Drop",
+      "ঘ) Erase"
+    ],
+    "answer": "ক) Delete",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 42,
+    "question": "ডেটাবেজকে নিরাপত্তা দানের জন্য এনক্রিপশনকে পূর্বের অবস্থায় ফিরিয়ে আনার প্রক্রিয়াকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Encryption",
+      "খ) Decryption",
+      "গ) Coding",
+      "ঘ) Filtering"
+    ],
+    "answer": "খ) Decryption",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 43,
+    "question": "ডেটাবেজ তৈরিতে কোন ভাষা ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) SQL",
+      "খ) HTML",
+      "গ) Java",
+      "ঘ) C++"
+    ],
+    "answer": "ক) SQL",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 44,
+    "question": "SQL এর পূর্ণরূপ কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) Standard Query Language",
+      "খ) Structured Query Language",
+      "গ) System Query Logic",
+      "ঘ) Sequential Query Language"
+    ],
+    "answer": "খ) Structured Query Language",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 45,
+    "question": "ডেটাবেজে একটি ডেটা টেবিলের ফিল্ডকে অন্য ডেটা টেবিলের সাথে সম্পর্কযুক্ত করার জন্য কোন কি (Key) ব্যবহার করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Primary Key",
+      "খ) Foreign Key",
+      "গ) Composite Key",
+      "ঘ) Candidate Key"
+    ],
+    "answer": "খ) Foreign Key",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 46,
+    "question": "ডেটাবেজ তৈরি এবং সংশোধনের জন্য ব্যবহৃত কমান্ডগুলোকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) DML",
+      "খ) DCL",
+      "গ) DDL",
+      "ঘ) TCL"
+    ],
+    "answer": "গ) DDL",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 47,
+    "question": "ডেটাবেজে নতুন ডেটা সংযোজনের জন্য কোন কমান্ড ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) UPDATE",
+      "খ) INSERT INTO",
+      "গ) CREATE TABLE",
+      "ঘ) SELECT"
+    ],
+    "answer": "খ) INSERT INTO",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 48,
+    "question": "ডেটাবেজ থেকে ডেটা প্রদর্শনের জন্য কোন কমান্ডটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) UPDATE",
+      "খ) INSERT",
+      "গ) CREATE",
+      "ঘ) SELECT"
+    ],
+    "answer": "ঘ) SELECT",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 49,
+    "question": "ডেটাবেজে ডেটা পরিবর্তনের জন্য কোন কমান্ডটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) UPDATE",
+      "খ) ALTER",
+      "গ) MODIFY",
+      "ঘ) CHANGE"
+    ],
+    "answer": "ক) UPDATE",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 50,
+    "question": "ডেটাবেজে ডেটা ম্যানিপুলেশন (সংযোজন, বিয়োজন, পরিবর্তন) এর জন্য কোন কমান্ডগুলো ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) DDL",
+      "খ) DCL",
+      "গ) DML",
+      "ঘ) TCL"
+    ],
+    "answer": "গ) DML",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 51,
+    "question": "SQL এর কোন কমান্ডটি DDL এর অন্তর্ভুক্ত?",
+    "imageUrl": "",
+    "options": [
+      "ক) INSERT",
+      "খ) SELECT",
+      "গ) UPDATE",
+      "ঘ) CREATE TABLE"
+    ],
+    "answer": "ঘ) CREATE TABLE",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 52,
+    "question": "যে ফিল্ডের উপর ভিত্তি করে ডেটাবেজে সম্পর্ক স্থাপন করা হয়, তাকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Foreign Key",
+      "খ) Primary Key",
+      "গ) Candidate Key",
+      "ঘ) Secondary Key"
+    ],
+    "answer": "খ) Primary Key",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 53,
+    "question": "কোন ফিল্ডের উপর ভিত্তি করে ডেটা টেবিলকে শনাক্ত করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Primary Key",
+      "খ) Foreign Key",
+      "গ) Composite Key",
+      "ঘ) Candidate Key"
+    ],
+    "answer": "ক) Primary Key",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 54,
+    "question": "কোন কি (Key) কখনোই NULL হতে পারে না?",
+    "imageUrl": "",
+    "options": [
+      "ক) Foreign Key",
+      "খ) Alternate Key",
+      "গ) Primary Key",
+      "ঘ) Secondary Key"
+    ],
+    "answer": "গ) Primary Key",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 55,
+    "question": "DBMS সফটওয়্যারের প্রধান উদ্দেশ্য কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা সংরক্ষণ",
+      "খ) ডেটা পরিচালনা",
+      "গ) ডেটা নিরাপত্তা",
+      "ঘ) সবগুলো"
+    ],
+    "answer": "ঘ) সবগুলো",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 56,
+    "question": "কোনটি একটি রিলেশনাল ডেটাবেজ ম্যানেজমেন্ট সিস্টেম (RDBMS)?",
+    "imageUrl": "",
+    "options": [
+      "ক) FoxPro",
+      "খ) postgre",
+      "গ) Dbase",
+      "ঘ) Paradox"
+    ],
+    "answer": "খ) postgre",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 57,
+    "question": "DBMS এর বৈশিষ্ট্য কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা সংরক্ষণ",
+      "খ) ডেটা পুনরুদ্ধার",
+      "গ) ডেটা রিলেশন",
+      "ঘ) সবগুলো"
+    ],
+    "answer": "ঘ) সবগুলো",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 58,
+    "question": "ডেটাবেজ সিস্টেমে ডেটা ফাইল, ইনপুট ডিভাইস, আউটপুট ডিভাইস এগুলো কিসের অন্তর্ভুক্ত?",
+    "imageUrl": "",
+    "options": [
+      "ক) ব্যবহারকারী",
+      "খ) হার্ডওয়্যার",
+      "গ) সফটওয়্যার",
+      "ঘ) ডেটা"
+    ],
+    "answer": "খ) হার্ডওয়্যার",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 59,
+    "question": "কোনটি ডেটাবেজ ল্যাঙ্গুয়েজ?",
+    "imageUrl": "",
+    "options": [
+      "ক) Java",
+      "খ) C#",
+      "গ) HTML",
+      "ঘ) SQL"
+    ],
+    "answer": "ঘ) SQL",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 60,
+    "question": "ডেটাবেজকে নিরাপত্তা দানের পদ্ধতিকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডিক্রিপশন",
+      "খ) ইনডেক্সিং",
+      "গ) এনক্রিপশন",
+      "ঘ) সর্টিং"
+    ],
+    "answer": "গ) এনক্রিপশন",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 61,
+    "question": "কোনটি ডেটাবেজ ম্যানেজমেন্ট সিস্টেমের সুবিধা?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটার নির্ভরশীলতা",
+      "খ) ডেটার পুনরাবৃত্তি",
+      "গ) ডেটার স্বাধীনতা",
+      "ঘ) ডেটার ডুপ্লিকেসি"
+    ],
+    "answer": "গ) ডেটার স্বাধীনতা",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 62,
+    "question": "ডেটাবেজে এক বা একাধিক ফিল্ডের সমন্বয়ে গঠিত হয়-",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটাবেজ",
+      "খ) রেকর্ড",
+      "গ) টেবিল",
+      "ঘ) কুয়েরি"
+    ],
+    "answer": "খ) রেকর্ড",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 63,
+    "question": "ডেটাবেজে ডেটা মুছে ফেলার জন্য কোন কমান্ডটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) DELETE",
+      "খ) REMOVE",
+      "গ) ALTER",
+      "ঘ) UPDATE"
+    ],
+    "answer": "ক) DELETE",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 64,
+    "question": "ডেটাবেজে টেবিল delete করার জন্য কোন কমান্ডটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) INSERT",
+      "খ) UPDATE",
+      "গ) DROP",
+      "ঘ) DELETE"
+    ],
+    "answer": "গ) DROP",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 65,
+    "question": "ডেটাবেজে ডেটা পরিবর্তনের জন্য কোন কমান্ডটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) INSERT INTO",
+      "খ) UPDATE",
+      "গ) CREATE TABLE",
+      "ঘ) SELECT"
+    ],
+    "answer": "খ) UPDATE",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 66,
+    "question": "ডেটাবেজে সম্পর্ক স্থাপনের জন্য কোন কি (Key) ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Primary Key",
+      "খ) Foreign Key",
+      "গ) Composite Key",
+      "ঘ) Candidate Key"
+    ],
+    "answer": "খ) Foreign Key",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 67,
+    "question": "ডেটাবেজে ফিল্ডের ডেটা টাইপ কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) Text",
+      "খ) Number",
+      "গ) Date/Time",
+      "ঘ) সবগুলো"
+    ],
+    "answer": "ঘ) সবগুলো",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 68,
+    "question": "কোনটি ডেটাবেজ সফটওয়্যার নয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Mongo",
+      "খ) MySQL",
+      "গ) Oracle",
+      "ঘ) MS Word"
+    ],
+    "answer": "ঘ) MS Word",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 69,
+    "question": "ডেটাবেজে ডেটা এন্ট্রি করার জন্য কোনটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Report",
+      "খ) Query",
+      "গ) Form",
+      "ঘ) Module"
+    ],
+    "answer": "খ) Query",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 70,
+    "question": "ডেটাবেজে ডেটাবেজের ডেটা দেখার জন্য কোনটি ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Create",
+      "খ) select",
+      "গ) update",
+      "ঘ) Query"
+    ],
+    "answer": "খ) select",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 71,
+    "question": "DBMS ব্যবহারের সুবিধা হলো-",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটার নির্ভুলতা বৃদ্ধি",
+      "খ) ডেটার নিরাপত্তা বৃদ্ধি",
+      "গ) ডেটার পুনরাবৃত্তি হ্রাস",
+      "ঘ) সবগুলো"
+    ],
+    "answer": "ঘ) সবগুলো",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 72,
+    "question": "ডেটাবেজকে দ্রুত ও কার্যকরভাবে ব্যবহার করার জন্য কোনটি দরকার?",
+    "imageUrl": "",
+    "options": [
+      "ক) DBMS",
+      "খ) DOS",
+      "গ) Word",
+      "ঘ) Excel"
+    ],
+    "answer": "ক) DBMS",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 73,
+    "question": "ডেটাবেজ টেবিলে একটি কলামকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) রেকর্ড",
+      "খ) টেবিল",
+      "গ) ফিল্ড",
+      "ঘ) কুয়েরি"
+    ],
+    "answer": "গ) ফিল্ড",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 74,
+    "question": "রিলেশনাল ডেটাবেজ ম্যানেজমেন্ট সিস্টেমে একাধিক টেবিলের মধ্যে সম্পর্ক স্থাপনকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Query",
+      "খ) Indexing",
+      "গ) Relation",
+      "ঘ) Sorting"
+    ],
+    "answer": "গ) Relation",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 75,
+    "question": "কোন কি (Key) ডেটা টেবিলে এককভাবে রেকর্ডকে শনাক্ত করতে পারে না?",
+    "imageUrl": "",
+    "options": [
+      "ক) Primary Key",
+      "খ) Composite Key",
+      "গ) Candidate Key",
+      "ঘ) Alternate Key"
+    ],
+    "answer": "খ) Composite Key",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 76,
+    "question": "ডেটাবেজে কোনো টেক্সটকে হাইপারলিংক করার জন্য কোন ডেটা টাইপ নির্বাচন করতে হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Text",
+      "খ) Memo",
+      "গ) Hyperlink",
+      "ঘ) Lookup Wizard"
+    ],
+    "answer": "গ) Hyperlink",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 77,
+    "question": "ডাটাবেজ থেকে তথ্য দ্রুত খুঁজে বের করার প্রক্রিয়াকে কী বলে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Sort",
+      "খ) Query",
+      "গ) Filter",
+      "ঘ) Index"
+    ],
+    "answer": "খ) Query",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 78,
+    "question": "ডেটাবেজের ফাইলকে কী নামে আখ্যায়িত করা যায়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Field",
+      "খ) Record",
+      "গ) Table",
+      "ঘ) Query"
+    ],
+    "answer": "গ) Table",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 79,
+    "question": "ডেটাবেজ সফটওয়্যার কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) MS Word",
+      "খ) MS Excel",
+      "গ) MS Access",
+      "ঘ) MS PowerPoint"
+    ],
+    "answer": "গ) MS Access",
+    "level": "easy",
+    "chapterId": "6"
+  },
+ 
+  
+  {
+    "id": 80,
+    "question": "ডেটাবেজ সিস্টেমের সুবিধা হলো-",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটার ডুপ্লিকেশন হ্রাস",
+      "খ) ডেটার নিরাপত্তা হ্রাস",
+      "গ) কম ডেটা নিয়ন্ত্রণ",
+      "ঘ) কম তথ্য শেয়ার"
+    ],
+    "answer": "ক) ডেটার ডুপ্লিকেশন হ্রাস",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  
+  {
+    "id": 81,
+    "question": "DBMS এর কাজগুলো হলো-",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা তৈরি করা",
+      "খ) ডেটা পরিবর্তন করা",
+      "গ) ডেটা সংরক্ষণ করা",
+      "ঘ) সবগুলো"
+    ],
+    "answer": "ঘ) সবগুলো",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 82,
+    "question": "একটি রিলেশনাল ডেটাবেজ ম্যানেজমেন্ট সফটওয়্যার হলো-",
+    "imageUrl": "",
+    "options": [
+      "ক) MS Excel",
+      "খ) MS Word",
+      "গ) Oracle",
+      "ঘ) PowerPoint"
+    ],
+    "answer": "গ) Oracle",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 83,
+    "question": "দুটি ভিন্ন টেবিলের মধ্যে সম্পর্ক স্থাপনের জন্য কোন কি (Key) ব্যবহৃত হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Primary Key",
+      "খ) Foreign Key",
+      "গ) Candidate Key",
+      "ঘ) Composite Key"
+    ],
+    "answer": "খ) Foreign Key",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 84,
+    "question": "উদ্দীপকে উল্লিখিত কাজ কোনটির সাহায্যে সহজে করা যায়? (উদ্দীপক: রনি তার দোকানের দৈনিক হিসাব লিখেন। এতে তার অনেক সময় ও ব্যবসায় ক্ষতি হয়। সমস্যা সমাধানের জন্য বিশেষজ্ঞের পরামর্শে DBMS ব্যবহারের সিদ্ধান্ত নেন।)",
+    "imageUrl": "",
+    "options": [
+      "ক) MS Excel",
+      "খ) MS Access",
+      "গ) MS Word",
+      "ঘ) HTML"
+    ],
+    "answer": "খ) MS Access",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 85,
+    "question": "বিশেষজ্ঞের পরামর্শে রনি সুবিধা পাবে-",
+    "imageUrl": "",
+    "options": [
+      "ক) i. রিপোর্ট তৈরিতে, ii. বায়োডেটা তৈরিতে, iii. রেকর্ড অনুসন্ধানে",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "খ) i ও iii",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  
+  {
+    "id": 86,
+    "question": "উদ্দীপকের ডেটাগুলো যে প্রক্রিয়ায় সাজানো সম্ভভ- (উদ্দীপক: নিচের ডেটা টেবিলে একটি স্কুলের ডেটাবেজ তৈরির জন্য ডেটা রাখা হয়েছে: রোল, নাম, রেজিঃ নং, ফলাফল)  \n  i. সর্টিং, ii. কুয়েরি, iii. ইনডেক্সিং",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "খ) i ও ii",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 87,
+    "question": "শিক্ষার্থীদের তথ্য সংরক্ষণে উদ্দীপকের ফিল্ডগুলোর মধ্যে ডেটা টাইপ হতে পারে- (উদ্দীপক: নিচের ডেটা টেবিলে একটি স্কুলের ডেটাবেজ তৈরির জন্য ডেটা রাখা হয়েছে: রোল, নাম, রেজিঃ নং, ফলাফল)",
+    "imageUrl": "",
+    "options": [
+      "ক) রোল : Number, নাম : Text",
+      "খ) রেজিঃ নং : Text, নাম : Number",
+      "গ) ফলাফল : Number, নাম : Date/Time",
+      "ঘ) রোল : Text, ফলাফল : Currency"
+    ],
+    "answer": "ক) রোল : Number, নাম : Text",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 88,
+    "question": "উদ্দীপকের ডেটাবেজের ভিত্তি কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) রোল",
+      "খ) ফলাফল",
+      "গ) টেবিল",
+      "ঘ) নাম"
+    ],
+    "answer": "গ) টেবিল",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 89,
+    "question": " উদ্দীপকের ডেটাগুলো কোন প্রোগ্রামের জন্য প্রযোজ্য? (উদ্দীপক: নিচের ডেটা টেবিলে একটি স্কুলের ডেটাবেজ তৈরির জন্য ডেটা রাখা হয়েছে: রোল, নাম, রেজিঃ নং, ফলাফল)",
+    "imageUrl": "",
+    "options": [
+      "ক) MS Word",
+      "খ) MS Access",
+      "গ) MS Excel",
+      "ঘ) Notepad"
+    ],
+    "answer": "খ) MS Access",
+    "level": "hard",
+    "chapterId": "6"
+  },
+  {
+    "id": 90,
+    "question": "উদ্দীপকের ডেটা টেবিলে Record কয়টি? (ডেটা: \"রোল\",\"নাম\",\"রেজিঃ নং\",\"ফলাফল\"; \"১০০০০১\",\"জাহিদ\",\"৬৩২৫৫০\",\"A+\"; \"১০০০০২\",\"নেহাল\",\"৬৩২৫৫১\",\"A\"; \"১০০০০৩\",\"লাবনী\",\"৬৩২৫৫২\",\"B\"; \"১০০০০৪\",\"সাত্তার\",\"৬৩২৫৫৩\",\"A\")",
+    "imageUrl": "",
+    "options": [
+      "ক) ৪টি",
+      "খ) ৫টি",
+      "গ) ৬টি",
+      "ঘ) ৭টি"
+    ],
+    "answer": "ক) ৪টি",
+    "level": "easy",
+    "chapterId": "6"
+  },
+  {
+    "id": 91,
+    "question": "উদ্দীপকের যে ফিল্ডগুলো প্রাইমারি কী হতে পারে- (ডেটা: \"রোল\",\"নাম\",\"রেজিঃ নং\",\"ফলাফল\"; \"১০০০০১\",\"জাহিদ\",\"৬৩২৫৫০\",\"A+\"; \"১০০০০২\",\"নেহাল\",\"৬৩২৫৫১\",\"A\"; \"১০০০০৩\",\"লাবনী\",\"৬৩২৫৫২\",\"B\"; \"১০০০০৪\",\"সাত্তার\",\"৬৩২৫৫৩\",\"A\") \n i. নাম, ii. রোল নং, iii. রেজিঃ নং",
+    "imageUrl": "",
+    "options": [
+      "ক) i",
+      "খ) i ও ii",
+      "গ) i ও iii",
+      "ঘ) ii ও iii"
+    ],
+    "answer": "ঘ) ii ও iii",
+    "level": "medium",
+    "chapterId": "6"
+  },
+  {
+    "id": 92,
+    "question": "যে রোল নম্বরগুলো A পেয়েছে তাদের দ্রুত খুঁজে বের করা যায় কোন পদ্ধতিতে?",
+    "imageUrl": "",
+    "options": [
+      "ক) সর্টিং",
+      "খ) কুয়েরি",
+      "গ) ইনডেক্সিং",
+      "ঘ) রিলেশন"
+    ],
+    "answer": "খ) কুয়েরি",
+    "level": "hard",
+    "chapterId": "6"
+  }
+]
 }
