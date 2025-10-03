@@ -1,20 +1,20 @@
 {
   "leaderboard": [
     {
+      "id": "1090302026125",
+      "name": "JARIN TASNIM MIM",
+      "group": "SCIENCE",
+      "xp_points": 1514,
+      "level": "Newcomer",
+      "last_updated": "2025-10-02 07:41:12"
+    },
+    {
       "id": "20263",
       "name": "ROKEYA AKTER MIM",
       "group": "SCIENCE",
       "xp_points": 1500,
       "level": "Pro",
       "last_updated": "2025-09-15T22:00:00Z"
-    },
-    {
-      "id": "1090302026125",
-      "name": "JARIN TASNIM MIM",
-      "group": "SCIENCE",
-      "xp_points": 1374,
-      "level": "Newcomer",
-      "last_updated": "2025-10-02 07:41:12"
     },
     {
       "id": "20262",
