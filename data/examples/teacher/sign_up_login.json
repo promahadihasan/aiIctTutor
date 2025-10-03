@@ -3,7 +3,7 @@
   {
     "id": "11",
     "name": "Mahadi Hasan Sunny",
-    "phone": "01",
+    "mobileNo": "01",
     "eiin": "114678",
     "collegeName": "Tangail Collectorate Girls School & College",
     "createdModelTests": [
@@ -24,7 +24,7 @@
   {
     "id": "1090300173",
     "name": "Md. Shibbir Hossen",
-    "phone": "0173",
+    "mobileNo": "0173",
     "eiin": "109030",
     "collegeName": "Gazipur Mohila College",
     "createdModelTests": [
@@ -39,7 +39,7 @@
   {
     "id": "7890120181",
     "name": "Mahmud Hasan",
-    "phone": "01812345678",
+    "mobileNo": "01812345678",
     "eiin": "789012",
     "collegeName": "Tangail Collectorate College",
     "createdModelTests": []
