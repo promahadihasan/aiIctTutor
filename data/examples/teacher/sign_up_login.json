@@ -1,1 +1,69 @@
-{"teachers":[{"collegeName":"Tangail Collectorate Girls School \u0026 College","eiin":"114678","id":"11","mobileNo":"01","name":"Mahadi Hasan Sunny"},{"collegeName":"Gazipur Mohila College","eiin":"109030","id":"1090300173","mobileNo":"0173","name":"Md. Shibbir Hossen"},{"collegeName":"Tangail Collectorate College","eiin":"789012","id":"7890120181","mobileNo":"01812345678","name":"Mahmud Hasan"},{"collegeName":"ffd","eiin":"11","id":"11012","mobileNo":"012","name":"ff"},{"collegeName":"Gazi","eiin":"10","id":"1010","mobileNo":"10","name":"Shibb"}]}
+{
+  "teachers": [
+    {
+      "id": "01",
+      "name": "Md. Shibbir Hossen",
+      "mobileNo": "017XXXXXXXX",
+      "eiin": "01",
+      "college_name": "Gazipur Govt. Mohila College",
+      "created_model_tests": [
+        {
+          "model_test_id": "MT101",
+          "title": "ICT Model Test - 1",
+          "chapter": "Logic Gate & Boolean Algebra",
+          "total_questions": 50,
+          "difficulty": "Medium",
+          "submission_deadline": "2025-10-10",
+          "participants": [
+            {
+              "student_id": "20261",
+              "student_name": "Israt Jahan Jui",
+              "eiin": "12345",
+              "score": 42,
+              "total_marks": 50,
+              "accuracy_rate": 84,
+              "time_taken_min": 17,
+              "submitted_on": "2025-10-09T19:32:00Z"
+            },
+            {
+              "student_id": "20262",
+              "student_name": "Sheikh Rayeedah Raisa",
+              "eiin": "12345",
+              "score": 35,
+              "total_marks": 50,
+              "accuracy_rate": 70,
+              "time_taken_min": 22,
+              "submitted_on": "2025-10-09T19:50:00Z"
+            }
+          ],
+          "performance_summary": {
+            "average_score": 38.5,
+            "highest_score": 45,
+            "lowest_score": 25,
+            "total_participants": 25,
+            "weak_topics": [
+              "Networking",
+              "Binary Arithmetic"
+            ]
+          }
+        },
+        {
+          "model_test_id": "MT102",
+          "title": "Database & SQL Test",
+          "chapter": "Database",
+          "total_questions": 40,
+          "difficulty": "Hard",
+          "submission_deadline": "2025-10-18",
+          "participants": [],
+          "performance_summary": {
+            "average_score": 0,
+            "highest_score": 0,
+            "lowest_score": 0,
+            "total_participants": 0,
+            "weak_topics": []
+          }
+        }
+      ]
+    }
+  ]
+}
