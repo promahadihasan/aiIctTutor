@@ -2,8 +2,11 @@
   "model_tests": [
     {
       "id": 1,
+      "model_test_id": 1,
+      "teacher_id": 11467801713,
+      "difficulty": "easy",
       "test_name": "Model Test - Dhaka Board (2025)",
-      "chapter_name": "Chapter 1",
+      "chapter_name": "All Chapter",
       "total_questions": 25,
       "last_date": "2025-12-31",
       "validity_time_minutes": 25,
