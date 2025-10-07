@@ -1,6 +1,343 @@
 {
   "model_tests": [
   {
+    "model_test_id": 4,
+    "teacher_id": 11467801713,
+    "difficulty": "All",
+    "test_name": "Model With Exas",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-10-09",
+    "validity_time_minutes": 25,
+    "mcqs": [
+      {
+        "id": 61,
+        "question": "সামাজিক জীবনে ICT এর ইতিবাচক প্রভাব হলো-",
+        "options": [
+          "দ্রুত তথ্য আদান-প্রদান",
+          "শিক্ষার সুযোগ বৃদ্ধি",
+          "কর্মসংস্থান সৃষ্টি",
+          "সবগুলোই"
+        ],
+        "answer": "সবগুলোই",
+        "level": "hard",
+        "chapter_id": "1"
+      },
+      {
+        "id": 215,
+        "question": "C প্রোগ্রামিং এ একটি দশমিক সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "answer": "খ) %f",
+        "level": "easy",
+        "chapter_id": "5"
+      },
+      {
+        "id": 87,
+        "question": "ডেটা ট্রান্সমিশন মেথড কয়টি?",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "answer": "খ) ৩টি",
+        "level": "medium",
+        "chapter_id": "2"
+      },
+      {
+        "id": 38,
+        "question": "Google.com কী?",
+        "options": [
+          "ক) Browser",
+          "খ) Search engine",
+          "গ) Protocol",
+          "ঘ) E-mail address"
+        ],
+        "answer": "খ) Search engine",
+        "level": "easy",
+        "chapter_id": "4"
+      },
+      {
+        "id": 17,
+        "question": "নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
+        "options": [
+          "ক. \u003ctable bgcolor\u003d\"green\"\u003e",
+          "খ. \u003ctr bgcolor\u003d\"green\"\u003e",
+          "গ. \u003ctd bgcolor\u003d\"green\"\u003e",
+          "ঘ. \u003cth bgcolor\u003d\"green\"\u003e"
+        ],
+        "answer": "গ. \u003ctd bgcolor\u003d\"green\"\u003e",
+        "level": "medium",
+        "chapter_id": "4"
+      },
+      {
+        "id": 204,
+        "question": "C প্রোগ্রামিং এ কোন প্রতীক লুপের স্টেটমেন্টকে শেষ করে?",
+        "options": [
+          "ক) ;",
+          "খ) {}",
+          "গ) ()",
+          "ঘ) []"
+        ],
+        "answer": "ক) ;",
+        "level": "medium",
+        "chapter_id": "5"
+      },
+      {
+        "id": 162,
+        "question": "কম্পিউটারের প্রধান মেমরি কোনটি?",
+        "options": [
+          "ক) হার্ডডিস্ক",
+          "খ) রম",
+          "গ) সিডি রম",
+          "ঘ) পেনড্রাইভ"
+        ],
+        "answer": "খ) রম",
+        "level": "medium",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 56,
+        "question": "IoT এর পূর্ণরূপ কী?",
+        "options": [
+          "Internet on Technology",
+          "Internet of Things",
+          "Information of Technology",
+          "Information on Things"
+        ],
+        "answer": "Internet of Things",
+        "level": "easy",
+        "chapter_id": "1"
+      },
+      {
+        "id": 30,
+        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "medium",
+        "chapter_id": "1"
+      },
+      {
+        "id": 203,
+        "question": "C প্রোগ্রামিং এ প্রধান ফাংশন কোনটি?",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return()"
+        ],
+        "answer": "গ) main()",
+        "level": "easy",
+        "chapter_id": "5"
+      },
+      {
+        "id": 44,
+        "question": "নিচের C প্রোগ্রামটি রান করলে আউটপুট কত হবে?\nint a \u003d 3, b;\nb \u003d 2 * a;\nprintf(\"%d\", b);",
+        "options": [
+          "ক) 3",
+          "খ) 4",
+          "গ) 5",
+          "ঘ) 6"
+        ],
+        "answer": "ঘ) 6",
+        "level": "medium",
+        "chapter_id": "5"
+      },
+      {
+        "id": 85,
+        "question": "তথ্যপ্রযুক্তি ব্যবহারে নৈতিকতা হলো—\ni) তথ্যের মালিকানা সংরক্ষণ \nii) পাইরেসি থেকে বিরত থাকা\niii) অন্যের তথ্যের গোপনীয়তা রক্ষা করা",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ঘ) i, ii,iii",
+        "level": "hard",
+        "chapter_id": "1"
+      },
+      {
+        "id": 118,
+        "question": "HTML এ হাইপারলিংক ট্যাগ কোনটি?",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "answer": "গ) \u003ca\u003e",
+        "level": "hard",
+        "chapter_id": "4"
+      },
+      {
+        "id": 127,
+        "question": "C প্রোগ্রামিং এ ইন্টিজার ডেটা টাইপের সাইজ কত?",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "answer": "খ) ২ বাইট",
+        "level": "hard",
+        "chapter_id": "5"
+      },
+      {
+        "id": 153,
+        "question": "ওয়াইম্যাক্স এর ডেটা ট্রান্সফার রেট কত?",
+        "options": [
+          "ক) ১১ এমবিপিএস",
+          "খ) ২০ এমবিপিএস",
+          "গ) ৫৪ এমবিপিএস",
+          "ঘ) ১০০ এমবিপিএস"
+        ],
+        "answer": "ঘ) ১০০ এমবিপিএস",
+        "level": "medium",
+        "chapter_id": "2"
+      },
+      {
+        "id": 96,
+        "question": "স্টার টপোলজির অসুবিধা কোনটি?",
+        "options": [
+          "ক) কেন্দ্রীয় ডিভাইস নষ্ট হলে পুরো নেটওয়ার্ক অচল",
+          "খ) ক্যাবল বেশি দরকার",
+          "গ) ডেটা সংঘর্ষের সম্ভাবনা কম",
+          "ঘ) সহজে নেটওয়ার্ক সম্প্রসারণ করা যায়"
+        ],
+        "answer": "ক) কেন্দ্রীয় ডিভাইস নষ্ট হলে পুরো নেটওয়ার্ক অচল",
+        "level": "medium",
+        "chapter_id": "2"
+      },
+      {
+        "id": 174,
+        "question": "ডি-মাল্টিপ্লেক্সার এর কাজ কী?",
+        "options": [
+          "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+          "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+          "গ) একটি ইনপুট থেকে একটি আউটপুট",
+          "ঘ) কোনটিই নয়"
+        ],
+        "answer": "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+        "level": "medium",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 123,
+        "question": "C প্রোগ্রামিং ভাষা কে উদ্ভাবন করেন?",
+        "options": [
+          "ক) বিল গেটস",
+          "খ) ডেনিস রিচি",
+          "গ) জেমস গোসলিং",
+          "ঘ) ভ্যান রসম"
+        ],
+        "answer": "খ) ডেনিস রিচি",
+        "level": "medium",
+        "chapter_id": "5"
+      },
+      {
+        "id": 68,
+        "question": "ই-কমার্স এর সুবিধা কোনটি?",
+        "options": [
+          "২৪ ঘণ্টা কেনাকাটা",
+          "ঘরে বসে কেনাকাটা",
+          "দামের তুলনা",
+          "সবগুলোই"
+        ],
+        "answer": "সবগুলোই",
+        "level": "easy",
+        "chapter_id": "1"
+      },
+      {
+        "id": 171,
+        "question": "এনকোডার কী কাজে ব্যবহৃত হয়?",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা এনকোড করা",
+          "ঘ) ডেটা ডিকোড করা"
+        ],
+        "answer": "গ) ডেটা এনকোড করা",
+        "level": "medium",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 47,
+        "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+        "options": [
+          "ক) %f",
+          "খ) %d",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "answer": "ক) %f",
+        "level": "easy",
+        "chapter_id": "5"
+      },
+      {
+        "id": 122,
+        "question": "C প্রোগ্রামিং ভাষা কত সালে উদ্ভাবন হয়?",
+        "options": [
+          "ক) ১৯৬৯",
+          "খ) ১৯৭০",
+          "গ) ১৯৭১",
+          "ঘ) ১৯৭২"
+        ],
+        "answer": "ঘ) ১৯৭২",
+        "level": "easy",
+        "chapter_id": "5"
+      },
+      {
+        "id": 197,
+        "question": "ডেটাবেজ এর সুবিধা হলো—\ni) ডেটার নিরাপত্তা \nii) ডেটার নির্ভুলতা \niii) দ্রুত ডেটা খুঁজে বের করা",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ঘ) i, ii,iii",
+        "level": "easy",
+        "chapter_id": "6"
+      },
+      {
+        "id": 143,
+        "question": "রিলেশনাল ডেটাবেজ মডেলে রিলেশন মানে কী?",
+        "options": [
+          "ক) ডেটাবেজ",
+          "খ) টেবিল",
+          "গ) ফিল্ড",
+          "ঘ) রেকর্ড"
+        ],
+        "answer": "খ) টেবিল",
+        "level": "easy",
+        "chapter_id": "6"
+      },
+      {
+        "id": 219,
+        "question": "C প্রোগ্রামিং এ লুপ স্টেটমেন্ট হলো—\ni) while \nii) for \niii) do while",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ঘ) i, ii,iii",
+        "level": "medium",
+        "chapter_id": "5"
+      }
+    ]
+  },
+  {
     "model_test_id": 3,
     "teacher_id": 11467801713,
     "difficulty": "All",
