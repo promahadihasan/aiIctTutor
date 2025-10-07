@@ -1,6 +1,215 @@
 {
   "model_tests": [
   {
+    "model_test_id": 9,
+    "teacher_id": 11467801713,
+    "difficulty": "All",
+    "test_name": "Final",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-07",
+    "validity_time_minutes": 25,
+    "mcqs": [
+      {
+        "id": 196,
+        "question": "SQL এ টেবিল এর কাঠামো পরিবর্তন করার জন্য কোন কমান্ড ব্যবহৃত হয়?",
+        "options": [
+          "ক) CREATE TABLE",
+          "খ) DROP TABLE",
+          "গ) ALTER TABLE",
+          "ঘ) কোনটিই নয়"
+        ],
+        "answer": "গ) ALTER TABLE",
+        "level": "hard",
+        "chapter_id": "6"
+      },
+      {
+        "id": 169,
+        "question": "ফ্লিপ-ফ্লপ কী কাজে ব্যবহৃত হয়?",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা ট্রান্সমিশন",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "answer": "ক) ডেটা সংরক্ষণ",
+        "level": "hard",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 197,
+        "question": "ডেটাবেজ এর সুবিধা হলো—\ni) ডেটার নিরাপত্তা \nii) ডেটার নির্ভুলতা \niii) দ্রুত ডেটা খুঁজে বের করা",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ঘ) i, ii,iii",
+        "level": "easy",
+        "chapter_id": "6"
+      },
+      {
+        "id": 95,
+        "question": "বাস টপোলজি তে টার্মিনেটরের প্রয়োজন কেন?",
+        "options": [
+          "ক) ডেটা প্রবাহের জন্য",
+          "খ) ডেটা স্থানান্তরের জন্য",
+          "গ) ডেটা সিগনাল প্রতিফলিত হওয়া রোধের জন্য",
+          "ঘ) ডেটা সুরক্ষিত রাখার জন্য"
+        ],
+        "answer": "গ) ডেটা সিগনাল প্রতিফলিত হওয়া রোধের জন্য",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 62,
+        "question": "ই-গভর্নেন্স এর উদ্দেশ্য কী?",
+        "options": [
+          "স্বচ্ছতা বৃদ্ধি",
+          "দুর্নীতি কমানো",
+          "সেবার মান উন্নতি",
+          "সবগুলোই"
+        ],
+        "answer": "সবগুলোই",
+        "level": "easy",
+        "chapter_id": "1"
+      },
+      {
+        "id": 25,
+        "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, ii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "easy",
+        "chapter_id": "3.2",
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      },
+      {
+        "id": 15,
+        "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
+        "options": [
+          "ক. main",
+          "খ. DIV",
+          "গ. return",
+          "ঘ. In"
+        ],
+        "answer": "খ. DIV",
+        "level": "hard",
+        "chapter_id": "5"
+      },
+      {
+        "id": 184,
+        "question": "ডেটা এনক্রিপশন এর সুবিধা হলো—\ni) ডেটা সুরক্ষিত থাকে\nii) ডেটা চুরি রোধ\niii) তথ্যের গোপনীয়তা বজায় থাকে",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ঘ) i, ii,iii",
+        "level": "hard",
+        "chapter_id": "1"
+      },
+      {
+        "id": 161,
+        "question": "অপটিক্যাল ফাইবারের অসুবিধা হলো—\ni) ইনস্টলেশন ও রক্ষণাবেক্ষণ জটিল\nii) দামে সস্তা\niii) সহজে ব্যবহার",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 49,
+        "question": "চিত্রের ? স্থানে কোনটি হবে ",
+        "options": [
+          "ক) Assembler",
+          "খ) Interpreter",
+          "গ)Compiler",
+          "ঘ) Linker "
+        ],
+        "answer": "গ)Compiler",
+        "level": "medium",
+        "chapter_id": "5",
+        "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw\u003dtrue"
+      },
+      {
+        "id": 160,
+        "question": "অপটিক্যাল ফাইবারের সুবিধা হলো—\ni) উচ্চ গতি\nii) ডেটা সুরক্ষিত\niii) বিদ্যুৎ-চৌম্বক প্রভাবমুক্ত",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ঘ) i, ii,iii",
+        "level": "hard",
+        "chapter_id": "2"
+      },
+      {
+        "id": 75,
+        "question": "তথ্য ও যোগাযোগ প্রযুক্তি : বিশ্ব ও বাংলাদেশ প্রেক্ষিত",
+        "options": [
+          "ক) তথ্য",
+          "খ) যোগাযোগ",
+          "গ) প্রযুক্তি",
+          "ঘ) বিশ্ব"
+        ],
+        "answer": "ক) তথ্য",
+        "level": "medium",
+        "chapter_id": "1"
+      },
+      {
+        "id": 112,
+        "question": "কম্পিউটারের প্রধান মেমরি কোনটি?",
+        "options": [
+          "ক) হার্ডডিস্ক",
+          "খ) রম",
+          "গ) সিডি রম",
+          "ঘ) পেনড্রাইভ"
+        ],
+        "answer": "খ) রম",
+        "level": "hard",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 91,
+        "question": "কোন ক্যাবল এর ডেটা স্থানান্তরের হার অনেক বেশি?",
+        "options": [
+          "ক) টুইস্টেড পেয়ার ক্যাবল",
+          "খ) কো-অ্যাক্সিয়াল ক্যাবল",
+          "গ) ফাইবার অপটিক ক্যাবল",
+          "ঘ) সবগুলি"
+        ],
+        "answer": "গ) ফাইবার অপটিক ক্যাবল",
+        "level": "hard",
+        "chapter_id": "2"
+      },
+      {
+        "id": 83,
+        "question": "টেলিমেডিসিন এর ক্ষেত্রে কোনটি সঠিক নয়?",
+        "options": [
+          "ক) ব্যয় বেশি",
+          "খ) রোগীর ঝুঁকি কম",
+          "গ) সময় সাশ্রয়ী",
+          "ঘ) উন্নত চিকিৎসা সেবা"
+        ],
+        "answer": "ক) ব্যয় বেশি",
+        "level": "easy",
+        "chapter_id": "1"
+      }
+    ]
+  },
+  {
     "model_test_id": 8,
     "teacher_id": 11467801713,
     "difficulty": "All",
