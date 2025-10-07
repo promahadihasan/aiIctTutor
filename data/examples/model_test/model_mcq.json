@@ -1,6 +1,215 @@
 {
   "model_tests": [
   {
+    "model_test_id": 7,
+    "teacher_id": 11467801713,
+    "difficulty": "All",
+    "test_name": "ggg",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-07",
+    "validity_time_minutes": 25,
+    "mcqs": [
+      {
+        "id": 56,
+        "question": "IoT এর পূর্ণরূপ কী?",
+        "options": [
+          "Internet on Technology",
+          "Internet of Things",
+          "Information of Technology",
+          "Information on Things"
+        ],
+        "answer": "Internet of Things",
+        "level": "easy",
+        "chapter_id": "1"
+      },
+      {
+        "id": 92,
+        "question": "টুইস্টেড পেয়ার ক্যাবলের সুবিধা হলো—\ni) দাম কম \nii) সহজে বহনযোগ্য\niii) উচ্চ ব্যান্ডউইথ",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 180,
+        "question": "ক্রায়োসার্জারি এর মূলনীতি কী?",
+        "options": [
+          "ক) উচ্চ তাপমাত্রা",
+          "খ) নিম্ন তাপমাত্রা",
+          "গ) রেডিও ওয়েভ",
+          "ঘ) অতিবেগুনি রশ্মি"
+        ],
+        "answer": "খ) নিম্ন তাপমাত্রা",
+        "level": "medium",
+        "chapter_id": "1"
+      },
+      {
+        "id": 79,
+        "question": "বায়োমেট্রিক্স পদ্ধতির সুবিধা কোনটি?",
+        "options": [
+          "ক) পাসওয়ার্ড ভুলে যাওয়ার সুযোগ নেই",
+          "খ) নকল করা সম্ভব",
+          "গ) কম ব্যয়বহুল",
+          "ঘ) ব্যবহারের সহজলভ্যতা"
+        ],
+        "answer": "ক) পাসওয়ার্ড ভুলে যাওয়ার সুযোগ নেই",
+        "level": "hard",
+        "chapter_id": "1"
+      },
+      {
+        "id": 202,
+        "question": "C প্রোগ্রামিং এ আউটপুট ফাংশন কোনটি?",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return()"
+        ],
+        "answer": "ক) printf()",
+        "level": "hard",
+        "chapter_id": "5"
+      },
+      {
+        "id": 36,
+        "question": "ICT-তে (1011.11)₂ + (1101.10)₂ \u003d ?",
+        "options": [
+          "ক) 101.10",
+          "খ) 11.11",
+          "গ) 11.10",
+          "ঘ) 10.10"
+        ],
+        "answer": "ঘ) 10.10",
+        "level": "hard",
+        "chapter_id": "3.1"
+      },
+      {
+        "id": 1,
+        "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
+        "options": [
+          "ক. 101100",
+          "খ. 010010",
+          "গ. 101000",
+          "ঘ. 101111"
+        ],
+        "answer": "খ. 010010",
+        "level": "easy",
+        "chapter_id": "3.1",
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      },
+      {
+        "id": 61,
+        "question": "সামাজিক জীবনে ICT এর ইতিবাচক প্রভাব হলো-",
+        "options": [
+          "দ্রুত তথ্য আদান-প্রদান",
+          "শিক্ষার সুযোগ বৃদ্ধি",
+          "কর্মসংস্থান সৃষ্টি",
+          "সবগুলোই"
+        ],
+        "answer": "সবগুলোই",
+        "level": "hard",
+        "chapter_id": "1"
+      },
+      {
+        "id": 110,
+        "question": "কোন গেটকে অন্য গেট দ্বারা তৈরি করা যায় না?",
+        "options": [
+          "ক) মৌলিক গেট",
+          "খ) যৌগিক গেট",
+          "গ) সার্বজনীন গেট",
+          "ঘ) বিশেষ গেট"
+        ],
+        "answer": "ক) মৌলিক গেট",
+        "level": "easy",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 127,
+        "question": "C প্রোগ্রামিং এ ইন্টিজার ডেটা টাইপের সাইজ কত?",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "answer": "খ) ২ বাইট",
+        "level": "hard",
+        "chapter_id": "5"
+      },
+      {
+        "id": 146,
+        "question": "কোণটি নেটওয়ার্ক টপোলজি নয়?",
+        "options": [
+          "ক) মেশ",
+          "খ) রিং",
+          "গ) বাউন্ড",
+          "ঘ) বাস"
+        ],
+        "answer": "গ) বাউন্ড",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 23,
+        "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, ii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "medium",
+        "chapter_id": "2",
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      },
+      {
+        "id": 105,
+        "question": "বাইনারি সংখ্যা (1111)₂ এর ১ এর পরিপূরক কত?",
+        "options": [
+          "ক) 0000",
+          "খ) 1000",
+          "গ) 1111",
+          "ঘ) 0111"
+        ],
+        "answer": "ক) 0000",
+        "level": "medium",
+        "chapter_id": "3.1"
+      },
+      {
+        "id": 119,
+        "question": "HTML এ হেডিং ট্যাগ কোনটি?",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "answer": "খ) \u003ch1\u003e",
+        "level": "easy",
+        "chapter_id": "4"
+      },
+      {
+        "id": 147,
+        "question": "ডেটা কমিউনিকেশনের দ্রুততম মাধ্যম কোনটি?",
+        "options": [
+          "ক) টুইস্টেড পেয়ার ক্যাবল",
+          "খ) কো-অ্যাক্সিয়াল ক্যাবল",
+          "গ) ফাইবার অপটিক ক্যাবল",
+          "ঘ) ওয়াইফাই"
+        ],
+        "answer": "গ) ফাইবার অপটিক ক্যাবল",
+        "level": "medium",
+        "chapter_id": "2"
+      }
+    ]
+  },
+  {
     "model_test_id": 6,
     "teacher_id": 11467801713,
     "difficulty": "All",
