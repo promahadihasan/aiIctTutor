@@ -1,6 +1,215 @@
 {
   "model_tests": [
   {
+    "model_test_id": 8,
+    "teacher_id": 11467801713,
+    "difficulty": "All",
+    "test_name": "Hello",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-07",
+    "validity_time_minutes": 25,
+    "mcqs": [
+      {
+        "id": 207,
+        "question": "C প্রোগ্রামিং এ কোন প্রতীক অ্যারে নির্দেশ করে?",
+        "options": [
+          "ক) ;",
+          "খ) {}",
+          "গ) ()",
+          "ঘ) []"
+        ],
+        "answer": "ঘ) []",
+        "level": "medium",
+        "chapter_id": "5"
+      },
+      {
+        "id": 6,
+        "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i\u003d3; i \u003c\u003d 15; i+\u003d2)\nif (i-- \u003e 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে \u0027ICT\u0027 কতবার প্রদর্শিত হবে?",
+        "options": [
+          "ক. ৩",
+          "খ. ৪",
+          "গ. ৫",
+          "ঘ. ৬"
+        ],
+        "answer": "খ. ৪",
+        "level": "hard",
+        "chapter_id": "5"
+      },
+      {
+        "id": 62,
+        "question": "ই-গভর্নেন্স এর উদ্দেশ্য কী?",
+        "options": [
+          "স্বচ্ছতা বৃদ্ধি",
+          "দুর্নীতি কমানো",
+          "সেবার মান উন্নতি",
+          "সবগুলোই"
+        ],
+        "answer": "সবগুলোই",
+        "level": "easy",
+        "chapter_id": "1"
+      },
+      {
+        "id": 152,
+        "question": "ওয়াইফাই এর ডেটা ট্রান্সফার রেট কত?",
+        "options": [
+          "ক) ১১ এমবিপিএস",
+          "খ) ২০ এমবিপিএস",
+          "গ) ৫৪ এমবিপিএস",
+          "ঘ) ১০০ এমবিপিএস"
+        ],
+        "answer": "গ) ৫৪ এমবিপিএস",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 22,
+        "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
+        "options": [
+          "ক) ওয়াই-ফাই",
+          "খ) ইনফ্রারেড",
+          "গ) মাইক্রোওয়েভ",
+          "ঘ) ওয়াই-ম্যাক্স"
+        ],
+        "answer": "গ) মাইক্রোওয়েভ",
+        "level": "easy",
+        "chapter_id": "2",
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png"
+      },
+      {
+        "id": 138,
+        "question": "ডেটাবেজে ডেটার প্রকারভেদ কয়টি?",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "answer": "গ) ৪টি",
+        "level": "medium",
+        "chapter_id": "6"
+      },
+      {
+        "id": 105,
+        "question": "বাইনারি সংখ্যা (1111)₂ এর ১ এর পরিপূরক কত?",
+        "options": [
+          "ক) 0000",
+          "খ) 1000",
+          "গ) 1111",
+          "ঘ) 0111"
+        ],
+        "answer": "ক) 0000",
+        "level": "medium",
+        "chapter_id": "3.1"
+      },
+      {
+        "id": 161,
+        "question": "অপটিক্যাল ফাইবারের অসুবিধা হলো—\ni) ইনস্টলেশন ও রক্ষণাবেক্ষণ জটিল\nii) দামে সস্তা\niii) সহজে ব্যবহার",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 16,
+        "question": "একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
+        "options": [
+          "ক. (170)10",
+          "খ. (252)10",
+          "গ. (10101010)2",
+          "ঘ. উপরের কোনটি সঠিক?"
+        ],
+        "answer": "ক. (170)10",
+        "level": "easy",
+        "chapter_id": "3.1"
+      },
+      {
+        "id": 89,
+        "question": "টুইস্টেড পেয়ার ক্যাবল কয় ধরনের হয়?",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "answer": "ক) ২টি",
+        "level": "easy",
+        "chapter_id": "2"
+      },
+      {
+        "id": 104,
+        "question": "হেক্সাডেসিমেল সংখ্যা (1A)₁₆ এর সমকক্ষ দশমিক সংখ্যা কোনটি?",
+        "options": [
+          "ক) ২৬",
+          "খ) ২৭",
+          "গ) ২৮",
+          "ঘ) ২৯"
+        ],
+        "answer": "ক) ২৬",
+        "level": "easy",
+        "chapter_id": "3.1"
+      },
+      {
+        "id": 170,
+        "question": "অ্যাডার কী কাজে ব্যবহৃত হয়?",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা যোগ করা",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "answer": "গ) ডেটা যোগ করা",
+        "level": "easy",
+        "chapter_id": "3.2"
+      },
+      {
+        "id": 157,
+        "question": "ওয়াইম্যাক্স এর সুবিধা হলো—\ni) উচ্চ গতি\nii) দীর্ঘ পাল্লা\niii) সহজে ব্যবহার",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "answer": "ক) i, ii",
+        "level": "hard",
+        "chapter_id": "2"
+      },
+      {
+        "id": 139,
+        "question": "ডেটাবেজে ডেটার নির্ভুলতা নিশ্চিত করে কোনটি?",
+        "options": [
+          "ক) ডেটা সিকিউরিটি",
+          "খ) ডেটা রিডানডেন্সি",
+          "গ) ডেটা ইন্টিগ্রিটি",
+          "ঘ) ডেটা রিকভারি"
+        ],
+        "answer": "গ) ডেটা ইন্টিগ্রিটি",
+        "level": "hard",
+        "chapter_id": "6"
+      },
+      {
+        "id": 49,
+        "question": "চিত্রের ? স্থানে কোনটি হবে ",
+        "options": [
+          "ক) Assembler",
+          "খ) Interpreter",
+          "গ)Compiler",
+          "ঘ) Linker "
+        ],
+        "answer": "গ)Compiler",
+        "level": "medium",
+        "chapter_id": "5",
+        "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw\u003dtrue"
+      }
+    ]
+  },
+  {
     "model_test_id": 7,
     "teacher_id": 11467801713,
     "difficulty": "All",
