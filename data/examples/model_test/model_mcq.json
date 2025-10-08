@@ -1,6 +1,216 @@
 {
   "model_tests": [
   {
+    "model_test_id": 14,
+    "teacher_id": 1146780155,
+    "difficulty": "All",
+    "test_name": "Test for debug",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-08",
+    "validity_time_minutes": 15,
+    "mcqs": [
+      {
+        "answer": "খ. ৪",
+        "chapterId": "5",
+        "id": 6,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. ৩",
+          "খ. ৪",
+          "গ. ৫",
+          "ঘ. ৬"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i\u003d3; i \u003c\u003d 15; i+\u003d2)\nif (i-- \u003e 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে \u0027ICT\u0027 কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "ক. সাদা",
+        "chapterId": "4",
+        "id": 10,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. সাদা",
+          "খ. নীল",
+          "গ. সায়ান",
+          "ঘ. লাল"
+        ],
+        "question": "#FFFFFF কোন রং নির্দেশ করে?"
+      },
+      {
+        "answer": "গ) মাইক্রোওয়েভ",
+        "chapterId": "2",
+        "id": 22,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "easy",
+        "options": [
+          "ক) ওয়াই-ফাই",
+          "খ) ইনফ্রারেড",
+          "গ) মাইক্রোওয়েভ",
+          "ঘ) ওয়াই-ম্যাক্স"
+        ],
+        "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 30,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে"
+      },
+      {
+        "answer": "খ) রেডিও ওয়েভ",
+        "chapterId": "1",
+        "id": 77,
+        "level": "easy",
+        "options": [
+          "ক) ডেটা প্রসেসিং",
+          "খ) রেডিও ওয়েভ",
+          "গ) ই-কমার্স",
+          "ঘ) কৃত্রিম বুদ্ধিমত্তা"
+        ],
+        "question": "জেমস ক্লার্ক ম্যাক্সওয়েলের গবেষণার ফল কী?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 82,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ক্রায়োসার্জারি এর ক্ষেত্রে ব্যবহৃত হয়—\ni) তরল নাইট্রোজেন\nii) আর্গন\niii) কার্বন ডাই অক্সাইড"
+      },
+      {
+        "answer": "গ) ১০",
+        "chapterId": "3.1",
+        "id": 99,
+        "level": "medium",
+        "options": [
+          "ক) ৮",
+          "খ) ২",
+          "গ) ১০",
+          "ঘ) ১৬"
+        ],
+        "question": "দশমিক সংখ্যা পদ্ধতির ভিত্তি কত?"
+      },
+      {
+        "answer": "ক) ৮",
+        "chapterId": "3.1",
+        "id": 100,
+        "level": "hard",
+        "options": [
+          "ক) ৮",
+          "খ) ২",
+          "গ) ১০",
+          "ঘ) ১৬"
+        ],
+        "question": "অকটাল সংখ্যা পদ্ধতির ভিত্তি কত?"
+      },
+      {
+        "answer": "ক) ২ প্রকার",
+        "chapterId": "3.2",
+        "id": 107,
+        "level": "easy",
+        "options": [
+          "ক) ২ প্রকার",
+          "খ) ৩ প্রকার",
+          "গ) ৪ প্রকার",
+          "ঘ) ৫ প্রকার"
+        ],
+        "question": "লজিক গেট কত প্রকার?"
+      },
+      {
+        "answer": "ক) মৌলিক গেট",
+        "chapterId": "3.2",
+        "id": 110,
+        "level": "easy",
+        "options": [
+          "ক) মৌলিক গেট",
+          "খ) যৌগিক গেট",
+          "গ) সার্বজনীন গেট",
+          "ঘ) বিশেষ গেট"
+        ],
+        "question": "কোন গেটকে অন্য গেট দ্বারা তৈরি করা যায় না?"
+      },
+      {
+        "answer": "গ) \u003cstyle\u003e",
+        "chapterId": "4",
+        "id": 115,
+        "level": "hard",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cstyle\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "কোনটি HTML এর ট্যাগ নয়?"
+      },
+      {
+        "answer": "ক) \u003cp\u003e",
+        "chapterId": "4",
+        "id": 116,
+        "level": "easy",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "question": "HTML এ প্যারাগ্রাফ ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ঘ) সবগুলোই",
+        "chapterId": "5",
+        "id": 188,
+        "level": "easy",
+        "options": [
+          "ক) int",
+          "খ) float",
+          "গ) char",
+          "ঘ) সবগুলোই"
+        ],
+        "question": "C প্রোগ্রামিং এ চলক ঘোষণার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) \\",
+        "chapterId": "5",
+        "id": 213,
+        "level": "medium",
+        "options": [
+          "ক) \n",
+          "খ) \t",
+          "গ) \\",
+          "ঘ) \"\""
+        ],
+        "question": "C প্রোগ্রামিং এ ব্যাকস্ল্যাশ দেওয়ার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) %f",
+        "chapterId": "5",
+        "id": 215,
+        "level": "easy",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামিং এ একটি দশমিক সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": 13,
     "teacher_id": 1146780155,
     "difficulty": "All",
