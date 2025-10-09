@@ -1,6 +1,222 @@
 {
   "model_tests": [
   {
+    "model_test_id": 17,
+    "teacher_id": 1090300173,
+    "difficulty": "All",
+    "test_name": "Sh01",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-09",
+    "validity_time_minutes": 25,
+    "is_allowed": true,
+    "selected_student_ids": [
+      "2027101",
+      "11467820261140"
+    ],
+    "mcqs": [
+      {
+        "answer": "গ. বায়োইনফরমেটিক্স",
+        "chapterId": "1",
+        "id": 13,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. রোবটিক্স",
+          "খ. বায়োমেট্রিক্স",
+          "গ. বায়োইনফরমেটিক্স",
+          "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+        ],
+        "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?"
+      },
+      {
+        "answer": "ঘ. Unicode",
+        "chapterId": "3.1",
+        "id": 18,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. EBCDIC",
+          "খ. ASCII-7",
+          "গ. ASCII-8",
+          "ঘ. Unicode"
+        ],
+        "question": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?"
+      },
+      {
+        "answer": "গ) মাইক্রোওয়েভ",
+        "chapterId": "2",
+        "id": 22,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "easy",
+        "options": [
+          "ক) ওয়াই-ফাই",
+          "খ) ইনফ্রারেড",
+          "গ) মাইক্রোওয়েভ",
+          "ঘ) ওয়াই-ম্যাক্স"
+        ],
+        "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "3.2",
+        "id": 25,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "easy",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, ii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND"
+      },
+      {
+        "answer": "খ) Search engine",
+        "chapterId": "4",
+        "id": 38,
+        "level": "easy",
+        "options": [
+          "ক) Browser",
+          "খ) Search engine",
+          "গ) Protocol",
+          "ঘ) E-mail address"
+        ],
+        "question": "Google.com কী?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 53,
+        "level": "easy",
+        "options": [
+          "দ্রুত তথ্য সংগ্রহ",
+          "কম খরচ",
+          "সময় সাশ্রয়",
+          "সবগুলোই"
+        ],
+        "question": "গ্লোবাল ভিলেজের ধারণায় গবেষণা কাজে যে সুবিধাটি পাওয়া যায় তা হলো-"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 71,
+        "level": "easy",
+        "options": [
+          "গুজব ছড়ানো",
+          "ব্যক্তিগত তথ্য চুরি",
+          "সাইবার বুলিং",
+          "সবগুলোই"
+        ],
+        "question": "সামাজিক যোগাযোগ মাধ্যমের নেতিবাচক প্রভাব কোনটি?"
+      },
+      {
+        "answer": "খ) কম্পিউটার বিজ্ঞান",
+        "chapterId": "1",
+        "id": 78,
+        "level": "medium",
+        "options": [
+          "ক) ফলিত বিজ্ঞান",
+          "খ) কম্পিউটার বিজ্ঞান",
+          "গ) জীবন বিজ্ঞান",
+          "ঘ) পরিবেশ বিজ্ঞান"
+        ],
+        "question": "কৃত্রিম বুদ্ধিমত্তা কী ধরনের বিজ্ঞান?"
+      },
+      {
+        "answer": "ঘ) ৫টি",
+        "chapterId": "2",
+        "id": 86,
+        "level": "easy",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "ডেটা কমিউনিকেশন সিস্টেমে সাধারণত কয়টি অংশ থাকে?"
+      },
+      {
+        "answer": "খ) ৩টি",
+        "chapterId": "3.2",
+        "id": 108,
+        "level": "medium",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "মৌলিক গেট কয়টি?"
+      },
+      {
+        "answer": "খ) টেবিল",
+        "chapterId": "6",
+        "id": 143,
+        "level": "easy",
+        "options": [
+          "ক) ডেটাবেজ",
+          "খ) টেবিল",
+          "গ) ফিল্ড",
+          "ঘ) রেকর্ড"
+        ],
+        "question": "রিলেশনাল ডেটাবেজ মডেলে রিলেশন মানে কী?"
+      },
+      {
+        "answer": "গ) বাউন্ড",
+        "chapterId": "2",
+        "id": 146,
+        "level": "easy",
+        "options": [
+          "ক) মেশ",
+          "খ) রিং",
+          "গ) বাউন্ড",
+          "ঘ) বাস"
+        ],
+        "question": "কোণটি নেটওয়ার্ক টপোলজি নয়?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 161,
+        "level": "easy",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "অপটিক্যাল ফাইবারের অসুবিধা হলো—\ni) ইনস্টলেশন ও রক্ষণাবেক্ষণ জটিল\nii) দামে সস্তা\niii) সহজে ব্যবহার"
+      },
+      {
+        "answer": "ক) ডেটা সংরক্ষণ",
+        "chapterId": "3.2",
+        "id": 169,
+        "level": "hard",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা ট্রান্সমিশন",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "question": "ফ্লিপ-ফ্লপ কী কাজে ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) SUM()",
+        "chapterId": "3.2",
+        "id": 186,
+        "level": "medium",
+        "options": [
+          "ক) AVERAGE()",
+          "খ) SUM()",
+          "গ) MAX()",
+          "ঘ) MIN()"
+        ],
+        "question": "এক্সেল শীটে সেলের ডেটা যোগ করার জন্য কোন ফাংশন ব্যবহার করা হয়?"
+      }
+    ]
+  },
+  {
     "model_test_id": 16,
     "teacher_id": 1090300173,
     "difficulty": "All",
@@ -9,6 +225,8 @@
     "total_questions": 15,
     "last_date": "2025-10-09",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "answer": "খ. 010010",
@@ -218,6 +436,8 @@
     "total_questions": 15,
     "last_date": "2025-10-09",
     "validity_time_minutes": 10,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "answer": "খ. ৪",
@@ -428,6 +648,8 @@
     "total_questions": 15,
     "last_date": "2025-10-12",
     "validity_time_minutes": 15,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "answer": "খ. ৪",
@@ -638,6 +860,8 @@
     "total_questions": 15,
     "last_date": "2025-10-10",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "answer": "খ. ৪",
@@ -849,6 +1073,8 @@
     "total_questions": 25,
     "last_date": "2025-10-12",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "answer": "খ. DIV",
@@ -1188,6 +1414,8 @@
     "total_questions": 25,
     "last_date": "2025-10-12",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "answer": "খ. 010010",
@@ -1530,6 +1758,8 @@
     "total_questions": 15,
     "last_date": "2025-10-12",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "id": 196,
@@ -1739,6 +1969,8 @@
     "total_questions": 15,
     "last_date": "2025-10-12",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "id": 207,
@@ -1948,6 +2180,8 @@
     "total_questions": 15,
     "last_date": "2025-10-12",
     "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
     "mcqs": [
       {
         "id": 56,
