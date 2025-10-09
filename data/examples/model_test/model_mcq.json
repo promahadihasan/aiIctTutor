@@ -1,6 +1,216 @@
 {
   "model_tests": [
   {
+    "model_test_id": 15,
+    "teacher_id": 1146780155,
+    "difficulty": "All",
+    "test_name": "wer",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-09",
+    "validity_time_minutes": 10,
+    "mcqs": [
+      {
+        "answer": "খ. ৪",
+        "chapterId": "5",
+        "id": 6,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. ৩",
+          "খ. ৪",
+          "গ. ৫",
+          "ঘ. ৬"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i\u003d3; i \u003c\u003d 15; i+\u003d2)\nif (i-- \u003e 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে \u0027ICT\u0027 কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "ক. A\u0027B + AB\u0027",
+        "chapterId": "3.2",
+        "id": 8,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. A\u0027B + AB\u0027",
+          "খ. AB + A\u0027B",
+          "গ. AB\u0027",
+          "ঘ. A+B"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?"
+      },
+      {
+        "answer": "ঘ. Unicode",
+        "chapterId": "3.1",
+        "id": 18,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. EBCDIC",
+          "খ. ASCII-7",
+          "গ. ASCII-8",
+          "ঘ. Unicode"
+        ],
+        "question": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 27,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ"
+      },
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "2",
+        "id": 32,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ"
+      },
+      {
+        "answer": "খ) ওয়েব সাইট",
+        "chapterId": "4",
+        "id": 40,
+        "level": "medium",
+        "options": [
+          "ক) ওয়েব হোস্টিং",
+          "খ) ওয়েব সাইট",
+          "গ) ই-কমার্স",
+          "ঘ) ইলেকট্রনিক মেইলিং"
+        ],
+        "question": "দৃশ্যকল্প-১: রুমি কলেজে ভর্তিও আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়। \n দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?"
+      },
+      {
+        "answer": "ঘ) IEEE 802.3",
+        "chapterId": "2",
+        "id": 151,
+        "level": "hard",
+        "options": [
+          "ক) IEEE 802.11",
+          "খ) IEEE 802.15",
+          "গ) IEEE 802.16",
+          "ঘ) IEEE 802.3"
+        ],
+        "question": "ইথারনেট এর স্ট্যান্ডার্ড কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "2",
+        "id": 160,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "অপটিক্যাল ফাইবারের সুবিধা হলো—\ni) উচ্চ গতি\nii) ডেটা সুরক্ষিত\niii) বিদ্যুৎ-চৌম্বক প্রভাবমুক্ত"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 177,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ভার্চুয়াল রিয়েলিটি এর উপাদান হলো—\ni) সিমুলেটর \nii) হেড মাউন্টেড ডিসপ্লে \niii) ডেটা গ্লাভস"
+      },
+      {
+        "answer": "ক) Insert \u003e Picture",
+        "chapterId": "3.2",
+        "id": 185,
+        "level": "easy",
+        "options": [
+          "ক) Insert \u003e Picture",
+          "খ) Design \u003e Picture",
+          "গ) Animation \u003e Picture",
+          "ঘ) Transition \u003e Picture"
+        ],
+        "question": "পাওয়ারপয়েন্ট স্লাইডে ছবি যুক্ত করার জন্য কোন অপশন ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ঘ) সবগুলোই",
+        "chapterId": "5",
+        "id": 188,
+        "level": "easy",
+        "options": [
+          "ক) int",
+          "খ) float",
+          "গ) char",
+          "ঘ) সবগুলোই"
+        ],
+        "question": "C প্রোগ্রামিং এ চলক ঘোষণার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) INSERT",
+        "chapterId": "6",
+        "id": 191,
+        "level": "easy",
+        "options": [
+          "ক) INSERT",
+          "খ) DELETE",
+          "গ) UPDATE",
+          "ঘ) SELECT"
+        ],
+        "question": "SQL এ নতুন রেকর্ড যুক্ত করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) \n",
+        "chapterId": "5",
+        "id": 210,
+        "level": "medium",
+        "options": [
+          "ক) \n",
+          "খ) \t",
+          "গ) \\",
+          "ঘ) \"\""
+        ],
+        "question": "C প্রোগ্রামিং এ নতুন লাইনে যাওয়ার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) %d",
+        "chapterId": "5",
+        "id": 214,
+        "level": "hard",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামিং এ একটি পূর্ণ সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      },
+      {
+        "answer": "গ) \u003ctd\u003e",
+        "chapterId": "4",
+        "id": 222,
+        "level": "medium",
+        "options": [
+          "ক) \u003ctable\u003e",
+          "খ) \u003ctr\u003e",
+          "গ) \u003ctd\u003e",
+          "ঘ) \u003cth\u003e"
+        ],
+        "question": "HTML এ টেবিল ডেটা ট্যাগ কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": 14,
     "teacher_id": 1146780155,
     "difficulty": "All",
