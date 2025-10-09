@@ -1,12 +1,28 @@
 {
   "teachers": [
     {
-      "college_name": "Tangail College ",
-      "created_model_tests": [],
-      "eiin": "114678",
-      "mobileNo": "0123",
+      "teacher_id": 1146780123,
       "name": "Sunny1",
-      "teacher_id": "1146780123"
+      "college_name": "Tangail College ",
+      "mobileNo": "0123",
+      "eiin": "114678",
+      "created_model_tests": [
+        {
+          "teacher_id": "1146780123",
+          "test_name": "Sunny 01",
+          "chapter_name": "All Chapters",
+          "total_questions": 25,
+          "difficulty": "All",
+          "last_date": "2025-10-10",
+          "validity_time_minutes": 25,
+          "is_allowed": true,
+          "selected_student_ids": [
+            "2027101"
+          ],
+          "model_test_id": "18",
+          "participants": []
+        }
+      ]
     }
   ]
 }
