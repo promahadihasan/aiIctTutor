@@ -69,16 +69,6 @@
           "model_test_id": 15,
           "participants": [
             {
-              "accuracy_rate": 13,
-              "eiin": "109030",
-              "score": 2,
-              "student_id": "1090302026125",
-              "student_name": "JARIN TASNIM MIM",
-              "submitted_on": "2025-10-09 16:09",
-              "time_taken_min": 0,
-              "total_marks": 15
-            },
-            {
               "accuracy_rate": 33,
               "eiin": "114678",
               "score": 5,
@@ -86,6 +76,16 @@
               "student_name": "ESRAT JAHAN TOMA ",
               "submitted_on": "2025-10-09 19:12",
               "time_taken_min": 0,
+              "total_marks": 15
+            },
+            {
+              "accuracy_rate": 80,
+              "eiin": "109030",
+              "score": 12,
+              "student_id": "1090302026125",
+              "student_name": "JARIN TASNIM MIM",
+              "submitted_on": "2025-10-09 19:15",
+              "time_taken_min": 1,
               "total_marks": 15
             }
           ],
