@@ -40,7 +40,7 @@
         {
           "chapter_name": "All Chapters",
           "difficulty": "All",
-          "is_allowed": false,
+          "is_allowed": ture,
           "last_date": "2025-10-08",
           "model_test_id": 14,
           "participants": [
