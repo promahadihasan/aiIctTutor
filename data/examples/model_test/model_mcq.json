@@ -1,7 +1,349 @@
 {
   "model_tests": [
   {
-    "model_test_id": 17,
+    "model_test_id": "18",
+    "teacher_id": "1146780123",
+    "difficulty": "All",
+    "test_name": "Sunny 01",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-10-10",
+    "validity_time_minutes": 25,
+    "is_allowed": true,
+    "selected_student_ids": [
+      "2027101"
+    ],
+    "mcqs": [
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 23,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, ii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 41,
+        "level": "easy",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "\n \u003c html \u003e \u003c body \u003e Cricket board \u003c /body \u003e \u003c/ html \u003e\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার"
+      },
+      {
+        "answer": "ইন্টারনেটের মাধ্যমে",
+        "chapterId": "1",
+        "id": 51,
+        "level": "medium",
+        "options": [
+          "কম্পিউটার",
+          "মোবাইল ফোন",
+          "ইন্টারনেট",
+          "টেলিভিশন"
+        ],
+        "question": "বর্তমান যুগে ঘরে বসে বিশ্বের যেকোনো বিশ্ববিদ্যালয়ে ভর্তি হওয়া সম্ভব হয়েছে কোন প্রযুক্তির কারণে?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 54,
+        "level": "medium",
+        "options": [
+          "বাস্তব জগতের অনুকরণ",
+          "কাল্পনিক জগতের সৃষ্টি",
+          "কম্পিউটার নির্ভর ত্রিমাত্রিক পরিবেশ",
+          "সবগুলোই"
+        ],
+        "question": "ভার্চুয়াল রিয়েলিটি কী?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 60,
+        "level": "medium",
+        "options": [
+          "গোপনীয়তা রক্ষা",
+          "তথ্য চুরি না করা",
+          "সাইবার অপরাধ না করা",
+          "সবগুলোই"
+        ],
+        "question": "ICT ব্যবহারে নৈতিকতার প্রধান দিক কোনটি?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 64,
+        "level": "hard",
+        "options": [
+          "ঘরে বসে কাজ করা",
+          "ভ্রমণ খরচ সাশ্রয়",
+          "সময় সাশ্রয়",
+          "সবগুলোই"
+        ],
+        "question": "ভার্চুয়াল অফিস এর সুবিধা কী?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 73,
+        "level": "hard",
+        "options": [
+          "ই-বর্জ্য",
+          "বিদ্যুৎ খরচ বৃদ্ধি",
+          "রেডিয়েশন",
+          "সবগুলোই"
+        ],
+        "question": "ICT ব্যবহারে পরিবেশের উপর নেতিবাচক প্রভাব কোনটি?"
+      },
+      {
+        "answer": "খ) রেডিও ওয়েভ",
+        "chapterId": "1",
+        "id": 77,
+        "level": "easy",
+        "options": [
+          "ক) ডেটা প্রসেসিং",
+          "খ) রেডিও ওয়েভ",
+          "গ) ই-কমার্স",
+          "ঘ) কৃত্রিম বুদ্ধিমত্তা"
+        ],
+        "question": "জেমস ক্লার্ক ম্যাক্সওয়েলের গবেষণার ফল কী?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 85,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "তথ্যপ্রযুক্তি ব্যবহারে নৈতিকতা হলো—\ni) তথ্যের মালিকানা সংরক্ষণ \nii) পাইরেসি থেকে বিরত থাকা\niii) অন্যের তথ্যের গোপনীয়তা রক্ষা করা"
+      },
+      {
+        "answer": "ক) ২৬",
+        "chapterId": "3.1",
+        "id": 104,
+        "level": "easy",
+        "options": [
+          "ক) ২৬",
+          "খ) ২৭",
+          "গ) ২৮",
+          "ঘ) ২৯"
+        ],
+        "question": "হেক্সাডেসিমেল সংখ্যা (1A)₁₆ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "ক) পেইন্ট",
+        "chapterId": "3.2",
+        "id": 111,
+        "level": "medium",
+        "options": [
+          "ক) পেইন্ট",
+          "খ) সি",
+          "গ) সি++",
+          "ঘ) জাভা"
+        ],
+        "question": "অঙ্কনকারী প্রোগ্রাম কোনটি?"
+      },
+      {
+        "answer": "ক) colspan",
+        "chapterId": "4",
+        "id": 120,
+        "level": "medium",
+        "options": [
+          "ক) colspan",
+          "খ) rowspan",
+          "গ) both",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "HTML এ টেবিলে সেল মার্জ করার জন্য কোন অ্যাট্রিবিউট ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "খ) rowspan",
+        "chapterId": "4",
+        "id": 121,
+        "level": "hard",
+        "options": [
+          "ক) colspan",
+          "খ) rowspan",
+          "গ) both",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "HTML এ রো মার্জ করার জন্য কোন অ্যাট্রিবিউট ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "গ) বিসিপিএল",
+        "chapterId": "5",
+        "id": 124,
+        "level": "hard",
+        "options": [
+          "ক) ফোরট্রান",
+          "খ) অ্যালগল",
+          "গ) বিসিপিএল",
+          "ঘ) বেসিক"
+        ],
+        "question": "C প্রোগ্রামিং ভাষা কোন ল্যাঙ্গুয়েজ থেকে উদ্ভূত?"
+      },
+      {
+        "answer": "গ) ৪টি",
+        "chapterId": "6",
+        "id": 138,
+        "level": "medium",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "ডেটাবেজে ডেটার প্রকারভেদ কয়টি?"
+      },
+      {
+        "answer": "গ) ৫৪ এমবিপিএস",
+        "chapterId": "2",
+        "id": 152,
+        "level": "easy",
+        "options": [
+          "ক) ১১ এমবিপিএস",
+          "খ) ২০ এমবিপিএস",
+          "গ) ৫৪ এমবিপিএস",
+          "ঘ) ১০০ এমবিপিএস"
+        ],
+        "question": "ওয়াইফাই এর ডেটা ট্রান্সফার রেট কত?"
+      },
+      {
+        "answer": "ঘ) ১০০ এমবিপিএস",
+        "chapterId": "2",
+        "id": 153,
+        "level": "medium",
+        "options": [
+          "ক) ১১ এমবিপিএস",
+          "খ) ২০ এমবিপিএস",
+          "গ) ৫৪ এমবিপিএস",
+          "ঘ) ১০০ এমবিপিএস"
+        ],
+        "question": "ওয়াইম্যাক্স এর ডেটা ট্রান্সফার রেট কত?"
+      },
+      {
+        "answer": "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+        "chapterId": "3.2",
+        "id": 166,
+        "level": "hard",
+        "options": [
+          "ক) ডেটা পরিবর্তন করা যায়",
+          "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+          "গ) ডেটা পরিবর্তন করা সম্ভব",
+          "ঘ) অস্থায়ী মেমরি"
+        ],
+        "question": "রম এর বৈশিষ্ট্য কোনটি?"
+      },
+      {
+        "answer": "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+        "chapterId": "3.2",
+        "id": 173,
+        "level": "easy",
+        "options": [
+          "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+          "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+          "গ) একটি ইনপুট থেকে একটি আউটপুট",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "মাল্টিপ্লেক্সার এর কাজ কী?"
+      },
+      {
+        "answer": "খ) ৩টি",
+        "chapterId": "1",
+        "id": 182,
+        "level": "easy",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "হ্যাকিং কত প্রকার?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 184,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডেটা এনক্রিপশন এর সুবিধা হলো—\ni) ডেটা সুরক্ষিত থাকে\nii) ডেটা চুরি রোধ\niii) তথ্যের গোপনীয়তা বজায় থাকে"
+      },
+      {
+        "answer": "ক) INSERT",
+        "chapterId": "6",
+        "id": 191,
+        "level": "easy",
+        "options": [
+          "ক) INSERT",
+          "খ) DELETE",
+          "গ) UPDATE",
+          "ঘ) SELECT"
+        ],
+        "question": "SQL এ নতুন রেকর্ড যুক্ত করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) \u003cbodyy\u003e",
+        "chapterId": "4",
+        "id": 200,
+        "level": "easy",
+        "options": [
+          "ক) \u003chtml\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cbodyy\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "কোনটি HTML এর ট্যাগ নয়?"
+      },
+      {
+        "answer": "খ) %f",
+        "chapterId": "5",
+        "id": 215,
+        "level": "easy",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামিং এ একটি দশমিক সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 218,
+        "level": "easy",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামিং এ কন্ডিশনাল স্টেটমেন্ট হলো—\ni) if \nii) else \niii) switch"
+      }
+    ]
+  },
+  {
+    "model_test_id": "17",
     "teacher_id": "1090300173",
     "difficulty": "All",
     "test_name": "Sh01",
