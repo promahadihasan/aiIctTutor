@@ -1,12 +1,28 @@
 {
   "teachers": [
     {
-      "college_name": "nnj",
-      "created_model_tests": [],
-      "eiin": "114678",
-      "mobileNo": "0100",
+      "teacher_id": 1146780100,
       "name": "hhh",
-      "teacher_id": "1146780100"
+      "college_name": "nnj",
+      "mobileNo": "0100",
+      "eiin": "114678",
+      "created_model_tests": [
+        {
+          "teacher_id": "1146780100",
+          "test_name": "Hard",
+          "chapter_name": "All Chapters",
+          "total_questions": 15,
+          "difficulty": "medium",
+          "last_date": "2025-10-10",
+          "validity_time_minutes": 5,
+          "is_allowed": true,
+          "selected_student_ids": [
+            "2027101"
+          ],
+          "model_test_id": "19",
+          "participants": []
+        }
+      ]
     }
   ]
 }
