@@ -1,6 +1,217 @@
 {
   "model_tests": [
   {
+    "model_test_id": "19",
+    "teacher_id": "1146780100",
+    "difficulty": "medium",
+    "test_name": "Hard",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-10",
+    "validity_time_minutes": 5,
+    "is_allowed": true,
+    "selected_student_ids": [
+      "2027101"
+    ],
+    "mcqs": [
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 27,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 29,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল"
+      },
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "2",
+        "id": 32,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ"
+      },
+      {
+        "answer": "গ) ১০",
+        "chapterId": "3.1",
+        "id": 99,
+        "level": "medium",
+        "options": [
+          "ক) ৮",
+          "খ) ২",
+          "গ) ১০",
+          "ঘ) ১৬"
+        ],
+        "question": "দশমিক সংখ্যা পদ্ধতির ভিত্তি কত?"
+      },
+      {
+        "answer": "ক) 0000",
+        "chapterId": "3.1",
+        "id": 105,
+        "level": "medium",
+        "options": [
+          "ক) 0000",
+          "খ) 1000",
+          "গ) 1111",
+          "ঘ) 0111"
+        ],
+        "question": "বাইনারি সংখ্যা (1111)₂ এর ১ এর পরিপূরক কত?"
+      },
+      {
+        "answer": "খ) ডেনিস রিচি",
+        "chapterId": "5",
+        "id": 123,
+        "level": "medium",
+        "options": [
+          "ক) বিল গেটস",
+          "খ) ডেনিস রিচি",
+          "গ) জেমস গোসলিং",
+          "ঘ) ভ্যান রসম"
+        ],
+        "question": "C প্রোগ্রামিং ভাষা কে উদ্ভাবন করেন?"
+      },
+      {
+        "answer": "গ) ৪টি",
+        "chapterId": "6",
+        "id": 138,
+        "level": "medium",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "ডেটাবেজে ডেটার প্রকারভেদ কয়টি?"
+      },
+      {
+        "answer": "গ) ফাইবার অপটিক ক্যাবল",
+        "chapterId": "2",
+        "id": 147,
+        "level": "medium",
+        "options": [
+          "ক) টুইস্টেড পেয়ার ক্যাবল",
+          "খ) কো-অ্যাক্সিয়াল ক্যাবল",
+          "গ) ফাইবার অপটিক ক্যাবল",
+          "ঘ) ওয়াইফাই"
+        ],
+        "question": "ডেটা কমিউনিকেশনের দ্রুততম মাধ্যম কোনটি?"
+      },
+      {
+        "answer": "খ) প্রসেসরের গতি বাড়ানো",
+        "chapterId": "3.2",
+        "id": 168,
+        "level": "medium",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) প্রসেসরের গতি বাড়ানো",
+          "গ) ডেটা ট্রান্সমিশন",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "question": "ক্যাশ মেমরি কেন ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) SUM()",
+        "chapterId": "3.2",
+        "id": 186,
+        "level": "medium",
+        "options": [
+          "ক) AVERAGE()",
+          "খ) SUM()",
+          "গ) MAX()",
+          "ঘ) MIN()"
+        ],
+        "question": "এক্সেল শীটে সেলের ডেটা যোগ করার জন্য কোন ফাংশন ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "গ) UPDATE",
+        "chapterId": "6",
+        "id": 192,
+        "level": "medium",
+        "options": [
+          "ক) INSERT",
+          "খ) DELETE",
+          "গ) UPDATE",
+          "ঘ) SELECT"
+        ],
+        "question": "SQL এ রেকর্ড পরিবর্তন করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) DROP TABLE",
+        "chapterId": "6",
+        "id": 195,
+        "level": "medium",
+        "options": [
+          "ক) CREATE TABLE",
+          "খ) DROP TABLE",
+          "গ) ALTER TABLE",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "SQL এ টেবিল ডিলিট করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) scanf()",
+        "chapterId": "5",
+        "id": 201,
+        "level": "medium",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return()"
+        ],
+        "question": "C প্রোগ্রামিং এ ইনপুট ফাংশন কোনটি?"
+      },
+      {
+        "answer": "গ) %c",
+        "chapterId": "5",
+        "id": 216,
+        "level": "medium",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামিং এ একটি অক্ষর ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 219,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামিং এ লুপ স্টেটমেন্ট হলো—\ni) while \nii) for \niii) do while"
+      }
+    ]
+  },
+  {
     "model_test_id": "18",
     "teacher_id": "1146780123",
     "difficulty": "All",
