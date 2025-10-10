@@ -1,6 +1,350 @@
 {
   "model_tests": [
   {
+    "model_test_id": "23",
+    "teacher_id": "1146780100",
+    "difficulty": "All",
+    "test_name": "New 01 Instant ",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-10-11",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "খ. বাণিজ্যিক",
+        "chapterId": "1",
+        "id": 3,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. শিক্ষা",
+          "খ. বাণিজ্যিক",
+          "গ. সরকারি",
+          "ঘ. আন্তর্জাতিক"
+        ],
+        "question": "কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?"
+      },
+      {
+        "answer": "ক. সাশ্রয়ী ও সহজলভ্য",
+        "chapterId": "1",
+        "id": 7,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. সাশ্রয়ী ও সহজলভ্য",
+          "খ. লাইসেন্স ফি লাগে",
+          "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
+          "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
+        ],
+        "question": "ক্লাউড কম্পিউটিং এর সুফল কোনটি?"
+      },
+      {
+        "answer": "ক. A\u0027B + AB\u0027",
+        "chapterId": "3.2",
+        "id": 8,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. A\u0027B + AB\u0027",
+          "খ. AB + A\u0027B",
+          "গ. AB\u0027",
+          "ঘ. A+B"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?"
+      },
+      {
+        "answer": "গ. বায়োইনফরমেটিক্স",
+        "chapterId": "1",
+        "id": 19,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. রোবটিক্স",
+          "খ. বায়োমেট্রিক্স",
+          "গ. বায়োইনফরমেটিক্স",
+          "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+        ],
+        "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?"
+      },
+      {
+        "answer": "ঘ) 0, 1, 1",
+        "chapterId": "3.2",
+        "id": 24,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "hard",
+        "options": [
+          "ক) 0, 1, 0",
+          "খ) 1, 0, 0",
+          "গ) 1, 0, 1",
+          "ঘ) 0, 1, 1"
+        ],
+        "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?"
+      },
+      {
+        "answer": "গ) বিট",
+        "chapterId": "3.1",
+        "id": 39,
+        "level": "medium",
+        "options": [
+          "ক) কিলোবাইট",
+          "খ) বাইট",
+          "গ) বিট",
+          "ঘ) মেগাবাইট"
+        ],
+        "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?"
+      },
+      {
+        "answer": "খ) \u003c \u003e",
+        "chapterId": "4",
+        "id": 45,
+        "level": "easy",
+        "options": [
+          "ক) { }",
+          "খ) \u003c \u003e",
+          "গ) ( )",
+          "ঘ) [ ]"
+        ],
+        "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?"
+      },
+      {
+        "answer": "খ) 23",
+        "chapterId": "3.1",
+        "id": 46,
+        "level": "easy",
+        "options": [
+          "ক) 22",
+          "খ) 23",
+          "গ) 31",
+          "ঘ) 43"
+        ],
+        "question": "(10111)₂ এর দশমিক মান কত?"
+      },
+      {
+        "answer": "Internet of Things",
+        "chapterId": "1",
+        "id": 56,
+        "level": "easy",
+        "options": [
+          "Internet on Technology",
+          "Internet of Things",
+          "Information of Technology",
+          "Information on Things"
+        ],
+        "question": "IoT এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 61,
+        "level": "hard",
+        "options": [
+          "দ্রুত তথ্য আদান-প্রদান",
+          "শিক্ষার সুযোগ বৃদ্ধি",
+          "কর্মসংস্থান সৃষ্টি",
+          "সবগুলোই"
+        ],
+        "question": "সামাজিক জীবনে ICT এর ইতিবাচক প্রভাব হলো-"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 72,
+        "level": "medium",
+        "options": [
+          "অনলাইন ট্যাক্স প্রদান",
+          "অনলাইন জন্ম নিবন্ধন",
+          "অনলাইন পাসপোর্ট আবেদন",
+          "সবগুলোই"
+        ],
+        "question": "ই-গভর্নেন্স সেবার উদাহরণ কোনটি?"
+      },
+      {
+        "answer": "ক) ব্যয় বেশি",
+        "chapterId": "1",
+        "id": 83,
+        "level": "easy",
+        "options": [
+          "ক) ব্যয় বেশি",
+          "খ) রোগীর ঝুঁকি কম",
+          "গ) সময় সাশ্রয়ী",
+          "ঘ) উন্নত চিকিৎসা সেবা"
+        ],
+        "question": "টেলিমেডিসিন এর ক্ষেত্রে কোনটি সঠিক নয়?"
+      },
+      {
+        "answer": "ক) ১৩",
+        "chapterId": "3.1",
+        "id": 102,
+        "level": "medium",
+        "options": [
+          "ক) ১৩",
+          "খ) ১৪",
+          "গ) ১৫",
+          "ঘ) ১৬"
+        ],
+        "question": "বাইনারি সংখ্যা (1101)₂ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "খ) \u003ch1\u003e",
+        "chapterId": "4",
+        "id": 119,
+        "level": "easy",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "question": "HTML এ হেডিং ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "গ) ৪টি",
+        "chapterId": "6",
+        "id": 138,
+        "level": "medium",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "ডেটাবেজে ডেটার প্রকারভেদ কয়টি?"
+      },
+      {
+        "answer": "গ) ফাইবার অপটিক ক্যাবল",
+        "chapterId": "2",
+        "id": 147,
+        "level": "medium",
+        "options": [
+          "ক) টুইস্টেড পেয়ার ক্যাবল",
+          "খ) কো-অ্যাক্সিয়াল ক্যাবল",
+          "গ) ফাইবার অপটিক ক্যাবল",
+          "ঘ) ওয়াইফাই"
+        ],
+        "question": "ডেটা কমিউনিকেশনের দ্রুততম মাধ্যম কোনটি?"
+      },
+      {
+        "answer": "খ) রম",
+        "chapterId": "3.2",
+        "id": 162,
+        "level": "medium",
+        "options": [
+          "ক) হার্ডডিস্ক",
+          "খ) রম",
+          "গ) সিডি রম",
+          "ঘ) পেনড্রাইভ"
+        ],
+        "question": "কম্পিউটারের প্রধান মেমরি কোনটি?"
+      },
+      {
+        "answer": "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+        "chapterId": "3.2",
+        "id": 173,
+        "level": "easy",
+        "options": [
+          "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+          "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+          "গ) একটি ইনপুট থেকে একটি আউটপুট",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "মাল্টিপ্লেক্সার এর কাজ কী?"
+      },
+      {
+        "answer": "ঘ) ৫টি",
+        "chapterId": "1",
+        "id": 175,
+        "level": "hard",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "কম্পিউটারের প্রজন্ম কয়টি?"
+      },
+      {
+        "answer": "খ) SUM()",
+        "chapterId": "3.2",
+        "id": 186,
+        "level": "medium",
+        "options": [
+          "ক) AVERAGE()",
+          "খ) SUM()",
+          "গ) MAX()",
+          "ঘ) MIN()"
+        ],
+        "question": "এক্সেল শীটে সেলের ডেটা যোগ করার জন্য কোন ফাংশন ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ক) INSERT",
+        "chapterId": "6",
+        "id": 191,
+        "level": "easy",
+        "options": [
+          "ক) INSERT",
+          "খ) DELETE",
+          "গ) UPDATE",
+          "ঘ) SELECT"
+        ],
+        "question": "SQL এ নতুন রেকর্ড যুক্ত করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) \u003cbodyy\u003e",
+        "chapterId": "4",
+        "id": 200,
+        "level": "easy",
+        "options": [
+          "ক) \u003chtml\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cbodyy\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "কোনটি HTML এর ট্যাগ নয়?"
+      },
+      {
+        "answer": "খ) {}",
+        "chapterId": "5",
+        "id": 205,
+        "level": "hard",
+        "options": [
+          "ক) ;",
+          "খ) {}",
+          "গ) ()",
+          "ঘ) []"
+        ],
+        "question": "C প্রোগ্রামিং এ কোন প্রতীক ফাংশনের বডি নির্দেশ করে?"
+      },
+      {
+        "answer": "ক) \n",
+        "chapterId": "5",
+        "id": 210,
+        "level": "medium",
+        "options": [
+          "ক) \n",
+          "খ) \t",
+          "গ) \\",
+          "ঘ) \"\""
+        ],
+        "question": "C প্রোগ্রামিং এ নতুন লাইনে যাওয়ার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) \u003ctable\u003e",
+        "chapterId": "4",
+        "id": 220,
+        "level": "hard",
+        "options": [
+          "ক) \u003ctable\u003e",
+          "খ) \u003ctr\u003e",
+          "গ) \u003ctd\u003e",
+          "ঘ) \u003cth\u003e"
+        ],
+        "question": "HTML এ টেবিল ট্যাগ কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": "22",
     "teacher_id": "11467801713",
     "difficulty": "All",
