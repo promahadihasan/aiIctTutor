@@ -1,6 +1,216 @@
 {
   "model_tests": [
   {
+    "model_test_id": "20",
+    "teacher_id": "1146780100",
+    "difficulty": "All",
+    "test_name": "ghh",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-10",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ঘ) 0, 1, 1",
+        "chapterId": "3.2",
+        "id": 24,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "hard",
+        "options": [
+          "ক) 0, 1, 0",
+          "খ) 1, 0, 0",
+          "গ) 1, 0, 1",
+          "ঘ) 0, 1, 1"
+        ],
+        "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?"
+      },
+      {
+        "answer": "গ) বিট",
+        "chapterId": "3.1",
+        "id": 39,
+        "level": "medium",
+        "options": [
+          "ক) কিলোবাইট",
+          "খ) বাইট",
+          "গ) বিট",
+          "ঘ) মেগাবাইট"
+        ],
+        "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?"
+      },
+      {
+        "answer": "খ) 23",
+        "chapterId": "3.1",
+        "id": 46,
+        "level": "easy",
+        "options": [
+          "ক) 22",
+          "খ) 23",
+          "গ) 31",
+          "ঘ) 43"
+        ],
+        "question": "(10111)₂ এর দশমিক মান কত?"
+      },
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "3.2",
+        "id": 48,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "Internet of Things",
+        "chapterId": "1",
+        "id": 56,
+        "level": "easy",
+        "options": [
+          "Internet on Technology",
+          "Internet of Things",
+          "Information of Technology",
+          "Information on Things"
+        ],
+        "question": "IoT এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 81,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "জেনেটিক ইঞ্জিনিয়ারিং এর প্রয়োগ ক্ষেত্র হলো—\ni) চিকিৎসা বিজ্ঞান\nii) কৃষি ক্ষেত্র\niii) শিল্প ক্ষেত্র"
+      },
+      {
+        "answer": "ক) ২৬",
+        "chapterId": "3.1",
+        "id": 104,
+        "level": "easy",
+        "options": [
+          "ক) ২৬",
+          "খ) ২৭",
+          "গ) ২৮",
+          "ঘ) ২৯"
+        ],
+        "question": "হেক্সাডেসিমেল সংখ্যা (1A)₁₆ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "খ) ৩টি",
+        "chapterId": "3.2",
+        "id": 108,
+        "level": "medium",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "মৌলিক গেট কয়টি?"
+      },
+      {
+        "answer": "খ) ওয়েবসাইটের স্টাইল নির্ধারণ",
+        "chapterId": "4",
+        "id": 114,
+        "level": "medium",
+        "options": [
+          "ক) ওয়েবসাইটের কাঠামো তৈরি",
+          "খ) ওয়েবসাইটের স্টাইল নির্ধারণ",
+          "গ) ডেটা প্রসেসিং",
+          "ঘ) ডেটাবেজ তৈরি"
+        ],
+        "question": "CSS এর কাজ কী?"
+      },
+      {
+        "answer": "খ) rowspan",
+        "chapterId": "4",
+        "id": 121,
+        "level": "hard",
+        "options": [
+          "ক) colspan",
+          "খ) rowspan",
+          "গ) both",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "HTML এ রো মার্জ করার জন্য কোন অ্যাট্রিবিউট ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 157,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ওয়াইম্যাক্স এর সুবিধা হলো—\ni) উচ্চ গতি\nii) দীর্ঘ পাল্লা\niii) সহজে ব্যবহার"
+      },
+      {
+        "answer": "গ) ডেটা যোগ করা",
+        "chapterId": "3.2",
+        "id": 170,
+        "level": "easy",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা যোগ করা",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "question": "অ্যাডার কী কাজে ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) ডেটা সুরক্ষিত রাখা",
+        "chapterId": "1",
+        "id": 181,
+        "level": "hard",
+        "options": [
+          "ক) ডেটা সুরক্ষিত রাখা",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা ট্রান্সমিশন",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "question": "ডেটা এনক্রিপশন কী কাজে ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) \u003cbodyy\u003e",
+        "chapterId": "4",
+        "id": 200,
+        "level": "easy",
+        "options": [
+          "ক) \u003chtml\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cbodyy\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "কোনটি HTML এর ট্যাগ নয়?"
+      },
+      {
+        "answer": "খ) \u003ctr\u003e",
+        "chapterId": "4",
+        "id": 221,
+        "level": "easy",
+        "options": [
+          "ক) \u003ctable\u003e",
+          "খ) \u003ctr\u003e",
+          "গ) \u003ctd\u003e",
+          "ঘ) \u003cth\u003e"
+        ],
+        "question": "HTML এ টেবিল রো ট্যাগ কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": "19",
     "teacher_id": "1146780100",
     "difficulty": "medium",
