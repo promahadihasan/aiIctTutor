@@ -39,19 +39,6 @@
           "test_name": "hello",
           "total_questions": 25,
           "validity_time_minutes": 25
-        },
-        {
-          "chapter_name": "All Chapters",
-          "difficulty": "All",
-          "is_allowed": false,
-          "last_date": "2025-10-11",
-          "model_test_id": "25",
-          "participants": [],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "Te hhhj",
-          "total_questions": 15,
-          "validity_time_minutes": 25
         }
       ],
       "eiin": "114678",
