@@ -1,4 +1,682 @@
 {
+  "2024": [
+    {
+      "Sylhet Board": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?",
+              "options": [
+                "ক) হার্ডওয়্যার",
+                "খ) সফটওয়্যার",
+                "গ) ইন্টারনেট",
+                "ঘ) মানুষের জ্ঞান"
+              ],
+              "answer": "খ) সফটওয়্যার",
+              "level": "easy"
+            },
+            {
+              "id": 2,
+              "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "ঘ) i, ii,iii",
+              "level": "medium"
+            },
+            {
+              "id": 3,
+              "question": "অনলাইনে পারস্পরিক মিথস্ক্রিয়ায় শিক্ষা কার্যক্রম পরিচালনাকে কী বলে?",
+              "image": "",
+              "options": [
+                "ক) ই-স্টাডি",
+                "খ) ই-লার্নিং",
+                "গ) অন-লার্নিং",
+                "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"
+              ],
+              "answer": "খ) ই-লার্নিং",
+              "level": "easy"
+            },
+            {
+              "id": 4,
+              "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল",
+              "image": "",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "ক) i, ii",
+              "level": "medium"
+            },
+            {
+              "id": 5,
+              "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে",
+              "image": "",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "ক) i, ii",
+              "level": "medium"
+            },
+            {
+              "id": 6,
+              "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?",
+              "image": "",
+              "options": [
+                "ক) বাস",
+                "খ) রিং",
+                "গ) মেশ",
+                "ঘ) স্টার"
+              ],
+              "answer": "গ) মেশ",
+              "level": "easy"
+            },
+            {
+              "id": 7,
+              "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ",
+              "image": "",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "গ) i, iii",
+              "level": "medium"
+            },
+            {
+              "id": 8,
+              "question": "ডাটা কমিউনিকেশনের মৌলিক উপাদান কয়টি?",
+              "image": "",
+              "options": [
+                "ক) ২টি",
+                "খ) ৩টি",
+                "গ) ৪টি",
+                "ঘ) ৭টি"
+              ],
+              "answer": "ক) ২টি",
+              "level": "easy"
+            },
+            {
+              "id": 9,
+              "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n উদ্দীপকের সার্ভিসটির নাম কী?",
+              "image": "",
+              "options": [
+                "ক) ক্লাউড কম্পিউটিং",
+                "খ) ওয়াই-ফাই",
+                "গ) ওয়াই-ম্যাক্স",
+                "ঘ) ব্লুটুথ"
+              ],
+              "answer": "ক) ক্লাউড কম্পিউটিং",
+              "level": "medium"
+            },
+            {
+              "id": 10,
+              "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n সার্ভিসটির ক্ষেত্রে—\ni) ব্যবহারে অতিরিক্ত মূল্য দিতে হয় \nii) কেন্দ্রীয় রিমোট সার্ভারের মাধ্যমে ডেটা নিয়ন্ত্রণ\niii) রক্ষণাবেক্ষণের খরচ নেই",
+              "image": "",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "খ) ii, iii",
+              "level": "hard"
+            },
+            {
+              "id": 11,
+              "question": "ICT-তে (1011.11)₂ + (1101.10)₂ = ?",
+              "image": "",
+              "options": [
+                "ক) 101.10",
+                "খ) 11.11",
+                "গ) 11.10",
+                "ঘ) 10.10"
+              ],
+              "answer": "ঘ) 10.10",
+              "level": "hard"
+            },
+            {
+              "id": 12,
+              "question": "বাইনারি সংখ্যা 1111010 ও 1010111 এর যোগফল কত?",
+              "image": "",
+              "options": [
+                "ক) 10100001",
+                "খ) 10101001",
+                "গ) 11010001",
+                "ঘ) 11010101"
+              ],
+              "answer": "গ) 11010001",
+              "level": "medium"
+            },
+            {
+              "id": 13,
+              "question": "Google.com কী?",
+              "image": "",
+              "options": [
+                "ক) Browser",
+                "খ) Search engine",
+                "গ) Protocol",
+                "ঘ) E-mail address"
+              ],
+              "answer": "খ) Search engine",
+              "level": "easy"
+            },
+            {
+              "id": 14,
+              "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?",
+              "image": "",
+              "options": [
+                "ক) কিলোবাইট",
+                "খ) বাইট",
+                "গ) বিট",
+                "ঘ) মেগাবাইট"
+              ],
+              "answer": "গ) বিট",
+              "level": "medium"
+            },
+            {
+              "id": 15,
+              "question": "দৃশ্যকল্প-১: রুমি কলেজে ভর্তিও আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়। \n দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?",
+              "image": "",
+              "options": [
+                "ক) ওয়েব হোস্টিং",
+                "খ) ওয়েব সাইট",
+                "গ) ই-কমার্স",
+                "ঘ) ইলেকট্রনিক মেইলিং"
+              ],
+              "answer": "খ) ওয়েব সাইট",
+              "level": "medium"
+            },
+            {
+              "id": 16,
+              "question": "\n < html > < body > Cricket board < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
+              "image": "",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "ঘ) i, ii,iii",
+              "level": "easy"
+            },
+            {
+              "id": 17,
+              "question": "সফটওয়্যার তৈরির জন্য কোনটি প্রয়োজন?",
+              "image": "",
+              "options": [
+                "ক) হার্ডওয়্যার",
+                "খ) প্রোগ্রাম",
+                "গ) কম্পিউটার ভাষা",
+                "ঘ) ফার্মওয়্যার"
+              ],
+              "answer": "গ) কম্পিউটার ভাষা",
+              "level": "medium"
+            },
+            {
+              "id": 18,
+              "question": "CSS এর পূর্ণরূপ কী?",
+              "image": "",
+              "options": [
+                "ক) Casading Style Sheet",
+                "খ) Casading Style Shit",
+                "গ) Case Style Sheet",
+                "ঘ) Casading Styling Sheet"
+              ],
+              "answer": "ক) Casading Style Sheet",
+              "level": "easy"
+            },
+            {
+              "id": 19,
+              "question": "নিচের C প্রোগ্রামটি রান করলে আউটপুট কত হবে?\nint a = 3, b;\nb = 2 * a;\nprintf(\"%d\", b);",
+              "image": "",
+              "options": [
+                "ক) 3",
+                "খ) 4",
+                "গ) 5",
+                "ঘ) 6"
+              ],
+              "answer": "ঘ) 6",
+              "level": "medium"
+            },
+            {
+              "id": 20,
+              "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?",
+              "image": "",
+              "options": [
+                "ক) { }",
+                "খ) < >",
+                "গ) ( )",
+                "ঘ) [ ]"
+              ],
+              "answer": "খ) < >",
+              "level": "easy"
+            },
+            {
+              "id": 21,
+              "question": "(10111)₂ এর দশমিক মান কত?",
+              "image": "",
+              "options": [
+                "ক) 22",
+                "খ) 23",
+                "গ) 31",
+                "ঘ) 43"
+              ],
+              "answer": "খ) 23",
+              "level": "easy"
+            },
+            {
+              "id": 22,
+              "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+              "image": "",
+              "options": [
+                "ক) %f",
+                "খ) %d",
+                "গ) %c",
+                "ঘ) %s"
+              ],
+              "answer": "ক) %f",
+              "level": "easy"
+            },
+            {
+              "id": 23,
+              "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?",
+              "image": "",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, iii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "গ) i, iii",
+              "level": "medium"
+            },
+            {
+              "id": 24,
+              "question": "চিত্রের ? স্থানে কোনটি হবে ",
+              "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
+              "options": [
+                "ক) Assembler",
+                "খ) Interpreter",
+                "গ)Compiler",
+                "ঘ) Linker "
+              ],
+              "answer": "গ)Compiler",
+              "level": "medium"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Dhaka Board": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "নিচের কোনটি নন মেটালিক ক্যাবল?",
+              "imageUrl": "",
+              "options": [
+                "ক) টুইস্টেড পেয়ার ক্যাবল",
+                "খ) কো-এক্সিয়াল ক্যাবল",
+                "গ) ফাইবার অপটিক ক্যাবল",
+                "ঘ) টেলিফোন ক্যাবল"
+              ],
+              "answer": "গ) ফাইবার অপটিক ক্যাবল",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 2,
+              "question": "নিচের উদ্দীপকটি পড় এবং ২ ও ৩ নং প্রশ্নের উত্তর দাও: \n ক কলেজের কম্পিউটার ল্যাবে নেটওয়ার্কভুক্ত ৮টি কম্পিউটার আছে এবং প্রতিটি কম্পিউটার একটি ডিভাইসের অধীনে যুক্ত আছে।\n উদ্দীপকের নেটওয়ার্ক টপোলজি হচ্ছে-",
+              "imageUrl": "",
+              "options": [
+                "ক) বাস",
+                "খ) স্টার",
+                "গ) রিং",
+                "ঘ) মেশ"
+              ],
+              "answer": "খ) স্টার",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 3,
+              "question": " ক কলেজের কম্পিউটার ল্যাবে নেটওয়ার্কভুক্ত ৮টি কম্পিউটার আছে এবং প্রতিটি কম্পিউটার একটি ডিভাইসের অধীনে যুক্ত আছে।\n উদ্দীপকের নেটওয়ার্ক টপোলজি হচ্ছে- \nউদ্দীপকে ব্যবহৃত ডিভাইস- i. ডেটা সংঘর্ষের সম্ভাবনা কমায় ii. ডেটা ফিল্টারিং করতে পারে iii. একাধিক নেটওয়ার্ককে সংযুক্ত করতে পারে",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "hard",
+              "chapterId": "2"
+            },
+            {
+              "id": 4,
+              "question": "বংলা বর্ণমালা কোন কোডভুক্ত",
+              "imageUrl": "",
+              "options": [
+                "ক) BCD",
+                "খ) ASCII",
+                "গ) EBCDIC",
+                "ঘ) UNICODE"
+              ],
+              "answer": "ঘ) UNICODE",
+              "level": "easy",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 5,
+              "question": "(11001.0100)$₂$ এর সমতুল্য অক্টাল সংখ্যা কত?",
+              "imageUrl": "",
+              "options": [
+                "ক) (25.25)$_8$",
+                "খ) (52.52)$_8$",
+                "গ) (31.20)$_8$",
+                "ঘ) (62.20)$_8$"
+              ],
+              "answer": "গ) (31.20)$_8$",
+              "level": "medium",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 6,
+              "question": "নিচের কোনটি টেক্সট এডিটর?",
+              "imageUrl": "",
+              "options": [
+                "ক) নোটপ্যাড",
+                "খ) জাভা",
+                "গ) পাইথন",
+                "ঘ) ওরাকল"
+              ],
+              "answer": "ক) নোটপ্যাড",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 7,
+              "question": "Y এর মান কোনটি?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/dhaQ78.png",
+              "options": [
+                "ক) A+B",
+                "খ) A̅+B",
+                "গ) A+B̅",
+                "ঘ) A̅+B̅"
+              ],
+              "answer": "খ) A̅+B",
+              "level": "easy",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 8,
+              "question": "উদ্দীপকে Y=0 যখন-",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/dhaQ78.png",
+              "options": [
+                "ক) A=0, B=0",
+                "খ) A=0, B=1",
+                "গ) A=1, B=0",
+                "ঘ) A=I, B=I"
+              ],
+              "answer": "গ) A=1, B=0",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 9,
+              "question": "সবচেয়ে বড় হেডিং ট্যাগ কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) <h1>",
+                "খ) <h2>",
+                "গ) <h3>",
+                "ঘ) <h6>"
+              ],
+              "answer": "ক) <h1>",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 10,
+              "question": "তালিকা তৈরির জন্য ব্যবহৃত আবশ্যক ট্যাগ হচ্ছে- \n i. <ol> ii. <ul> iii. <li>",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 11,
+              "question": "(FF)$_{16}$ এর পূর্বের সংখ্যা কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) EE",
+                "খ) FE",
+                "গ) EF",
+                "ঘ) F0"
+              ],
+              "answer": "খ) FE",
+              "level": "medium",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 12,
+              "question": "HTML কোড <p>a²b²</p> এর ফলাফল কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) a²b²",
+                "খ) a²b₂",
+                "গ) a₂b²",
+                "ঘ) a₂b₂"
+              ],
+              "answer": "খ) a²b₂",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 13,
+              "question": "উদ্দীপকের প্রোগ্রামটিতে \"HTML\" কতকবার প্রদর্শিত হবে?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg",
+              "options": [
+                "ক) 3",
+                "খ) 4",
+                "গ) 5",
+                "ঘ) 6"
+              ],
+              "answer": "গ) 5",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 14,
+              "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 15,
+              "question": "স্থায়ী মেমোরি হচ্ছে- \n i. RAM ii. Hard disks iii. DVD",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও iii",
+                "খ) ii ও iii",
+                "গ) i, ii ও iii",
+                "ঘ) i"
+              ],
+              "answer": "খ) ii ও iii",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 16,
+              "question": "ডেটা টাইপ double এর ফরম্যাট স্পেসিফায়ার কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) %d",
+                "খ) %f",
+                "গ) %ld",
+                "ঘ) %lf"
+              ],
+              "answer": "খ) %f",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 17,
+              "question": "প্রোগ্রাম ফ্লোচার্টে প্রক্রিয়াকরণে কোন প্রতীকটি ব্যবহৃত হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) বৃত্ত",
+                "খ) সামান্তরিক",
+                "গ) রম্বস",
+                "ঘ) আয়তক্ষেত্র"
+              ],
+              "answer": "ঘ) আয়তক্ষেত্র",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 18,
+              "question": "<a> ট্যাগের সাথে ব্যবহৃত অ্যাট্রিবিউট- \n i. href ii. target iii. blank",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) i, ii ও iii",
+                "ঘ) iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 19,
+              "question": "কৃত্রিম বুদ্ধিমত্তায় ব্যবহৃত হয় কোন প্রোগ্রামিং ভাষা?",
+              "imageUrl": "",
+              "options": [
+                "ক) COBOL",
+                "খ) ORACLE",
+                "গ) HTML",
+                "ঘ) PROLOG"
+              ],
+              "answer": "ঘ) PROLOG",
+              "level": "easy",
+              "chapterId": "1"
+            },
+            {
+              "id": 20,
+              "question": "কোনটি মলিকুলার মেডিসিন তৈরির প্রযুক্তি?",
+              "imageUrl": "",
+              "options": [
+                "ক) ন্যানোটেকনোলজি",
+                "খ) রোবটিক্স",
+                "গ) বায়োমেট্রিক্স",
+                "ঘ) বায়োইনফরমেটিক্স"
+              ],
+              "answer": "ক) ন্যানোটেকনোলজি",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 21,
+              "question": "কোন প্রজন্মের মোবাইলে সর্বপ্রথম ভিডিও কল চালু হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) প্রথম",
+                "খ) দ্বিতীয়",
+                "গ) তৃতীয়",
+                "ঘ) চতুর্থ"
+              ],
+              "answer": "গ) তৃতীয়",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 22,
+              "question": "ক্রায়োজনিক এজেন্ট হচ্ছে- \n i. তরল নাইট্রোজেন ii. তরল হাইড্রোজেন iii. অক্সিজেন",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "easy",
+              "chapterId": "1"
+            },
+            {
+              "id": 23,
+              "question": "ড. রাশেদ দীর্ঘদিন গবেষণা করে এমন একটি যন্ত্র নির্মাণ করলেন যেটি ঝ‚ঁকিপূর্ণ কাজে ব্যবহার করা যায়। ড. রাশেদ গবেষণাগারে প্রবেশের জন্য একটি বিশেষ ডিভাইসের দিকে তাকানোর পর দরজা খুলে যায়।\n গবেষণায় ব্যবহৃত প্রযুক্তিটি হচ্ছে",
+              "imageUrl": "",
+              "options": [
+                "ক) রোবটিক্স",
+                "খ) বায়োইনফরমেটিক্স",
+                "গ) বায়োমেট্রিক্স",
+                "ঘ) ন্যানোটেকনোলজি"
+              ],
+              "answer": "ক) রোবটিক্স",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 24,
+              "question": "ড. রাশেদ দীর্ঘদিন গবেষণা করে এমন একটি যন্ত্র নির্মাণ করলেন যেটি ঝ‚ঁকিপূর্ণ কাজে ব্যবহার করা যায়। ড. রাশেদ গবেষণাগারে প্রবেশের জন্য একটি বিশেষ ডিভাইসের দিকে তাকানোর পর দরজা খুলে যায়।\n গবেষণাগারে প্রবেশের প্রযুক্তিটি ব্যবহার হয়ে থাকে- \n i. পাসপোর্ট ii. জন্ম নিবন্ধনে iii. ভোটার নিবন্ধনে",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) i, ii ও iii",
+                "ঘ) iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 25,
+              "question": "মাল্টিকাস্ট মোড হতে পারে- \n i. Simplex ii. Half-duplex iii. Full-duplex",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "গ) ii ও iii",
+              "level": "easy",
+              "chapterId": "2"
+            }
+          ]
+        }
+      ]
+    }
+  ],
   "2025": [
     {
       "Dhaka Board": [
@@ -257,57 +935,57 @@
               "level": "medium"
             },
             {
-      "id": 22,
-      "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) ওয়াই-ফাই",
-        "খ) ইনফ্রারেড",
-        "গ) মাইক্রোওয়েভ",
-        "ঘ) ওয়াই-ম্যাক্স"
-      ],
-      "answer": "গ) মাইক্রোওয়েভ",
-      "level": "medium"
-    },
-    {
-      "id": 23,
-      "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "level": "medium"
-    },
-    {
-      "id": 24,
-      "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) 0, 1, 0",
-        "খ) 1, 0, 0",
-        "গ) 1, 0, 1",
-        "ঘ) 0, 1, 1"
-      ],
-      "answer": "ঘ) 0, 1, 1",
-      "level": "hard"
-    },
-    {
-      "id": 25,
-      "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "ক) i, ii",
-      "level": "hard"
-    }
+              "id": 22,
+              "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
+              "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+              "options": [
+                "ক) ওয়াই-ফাই",
+                "খ) ইনফ্রারেড",
+                "গ) মাইক্রোওয়েভ",
+                "ঘ) ওয়াই-ম্যাক্স"
+              ],
+              "answer": "গ) মাইক্রোওয়েভ",
+              "level": "medium"
+            },
+            {
+              "id": 23,
+              "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
+              "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, ii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "ক) i, ii",
+              "level": "medium"
+            },
+            {
+              "id": 24,
+              "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
+              "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+              "options": [
+                "ক) 0, 1, 0",
+                "খ) 1, 0, 0",
+                "গ) 1, 0, 1",
+                "ঘ) 0, 1, 1"
+              ],
+              "answer": "ঘ) 0, 1, 1",
+              "level": "hard"
+            },
+            {
+              "id": 25,
+              "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
+              "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+              "options": [
+                "ক) i, ii",
+                "খ) ii, iii",
+                "গ) i, ii",
+                "ঘ) i, ii,iii"
+              ],
+              "answer": "ক) i, ii",
+              "level": "hard"
+            }
           ]
         }
       ]
@@ -620,211 +1298,5 @@
         }
       ]
     }
-  ],
-  "2024": [
-    {
-      "Sylhet Board": [
-  {
-     "mcqs":[
-{
-    "id": 1,
-    "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?",
-    "options": ["ক) হার্ডওয়্যার", "খ) সফটওয়্যার", "গ) ইন্টারনেট", "ঘ) মানুষের জ্ঞান"],
-    "answer": "খ) সফটওয়্যার",
-    "level": "easy"
-  },
-  {
-    "id": 2,
-    "question": "ন্যানো প্রযুক্তির মাধ্যমে সম্বভ হচ্ছে—\ni) বৃহৎ স্কেলে পণ্যোৎপাদন. \nii) সূক্ষ্ম ও ছোট পণ্যোৎপাদন\niii) বর্জ্য পরিষ্কারকরণ",
-    "options": ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer": "ঘ) i, ii,iii",
-    "level": "medium"
-  },
-  {
-    "id": 3,
-    "question": "অনলাইনে পারস্পরিক মিথস্ক্রিয়ায় শিক্ষা কার্যক্রম পরিচালনাকে কী বলে?",
-    "image": "",
-    "options": ["ক) ই-স্টাডি", "খ) ই-লার্নিং", "গ) অন-লার্নিং", "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"],
-    "answer": "খ) ই-লার্নিং",
-    "level": "easy"
-  },
-  {
-    "id": 4,
-    "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল"
-,
-    "image": "",
-    "options": ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer": "ক) i, ii",
-    "level": "medium"
-  },
-  {
-    "id": 5,
-    "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে",
-    "image": "",
-    "options": ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer": "ক) i, ii",
-    "level": "medium"
-  },
-  {
-    "id": 6,
-    "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?",
-    "image": "",
-    "options": ["ক) বাস", "খ) রিং", "গ) মেশ", "ঘ) স্টার"],
-    "answer": "গ) মেশ",
-    "level": "easy"
-  },
-  {
-    "id": 7,
-    "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ",
-    "image": "",
-    "options":["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer":"গ) i, iii",
-    "level": "medium"
-  },
-  {
-    "id": 8,
-    "question": "ডাটা কমিউনিকেশনের মৌলিক উপাদান কয়টি?",
-    "image": "",
-    "options": ["ক) ২টি", "খ) ৩টি", "গ) ৪টি", "ঘ) ৭টি"],
-    "answer": "ক) ২টি",
-    "level": "easy"
-  },
-  {
-    "id": 9,
-    "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n উদ্দীপকের সার্ভিসটির নাম কী?",
-    "image": "",
-    "options": ["ক) ক্লাউড কম্পিউটিং", "খ) ওয়াই-ফাই", "গ) ওয়াই-ম্যাক্স", "ঘ) ব্লুটুথ"],
-    "answer": "ক) ক্লাউড কম্পিউটিং",
-    "level": "medium"
-  },
-  {
-    "id": 10,
-    "question": "এাহি তার ডিজিটাল ডিভাইসে নতুন সফটওয়্যার ব্যবহার করতে পারে না। বর্তমানে এক নতুন সার্ভিস গ্রহণ করায় অটো আপডেট, উচ্চ গতিসম্পন্ন ইন্টারনেট সুবিধা পায়।\n সার্ভিসটির ক্ষেত্রে—\ni) ব্যবহারে অতিরিক্ত মূল্য দিতে হয় \nii) কেন্দ্রীয় রিমোট সার্ভারের মাধ্যমে ডেটা নিয়ন্ত্রণ\niii) রক্ষণাবেক্ষণের খরচ নেই",
-    "image": "",
-    "options": ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer": "খ) ii, iii",
-    "level": "hard"
-  },
-  {
-    "id": 11,
-    "question": "ICT-তে (1011.11)₂ + (1101.10)₂ = ?",
-    "image": "",
-    "options": ["ক) 101.10", "খ) 11.11", "গ) 11.10", "ঘ) 10.10"],
-    "answer": "ঘ) 10.10",
-    "level": "hard"
-  },
-  {
-    "id": 12,
-    "question": "বাইনারি সংখ্যা 1111010 ও 1010111 এর যোগফল কত?",
-    "image": "",
-    "options": ["ক) 10100001", "খ) 10101001", "গ) 11010001", "ঘ) 11010101"],
-    "answer": "গ) 11010001",
-    "level": "medium"
-  },
-  {
-    "id": 13,
-    "question": "Google.com কী?",
-    "image": "",
-    "options": ["ক) Browser", "খ) Search engine", "গ) Protocol", "ঘ) E-mail address"],
-    "answer": "খ) Search engine",
-    "level": "easy"
-  },
-  {
-    "id": 14,
-    "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?",
-    "image": "",
-    "options": ["ক) কিলোবাইট", "খ) বাইট", "গ) বিট", "ঘ) মেগাবাইট"],
-    "answer": "গ) বিট",
-    "level": "medium"
-  },
-  {
-    "id": 15,
-    "question": "দৃশ্যকল্প-১: রুমি কলেজে ভর্তিও আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়। \n দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?",
-    "image": "",
-    "options": ["ক) ওয়েব হোস্টিং", "খ) ওয়েব সাইট", "গ) ই-কমার্স", "ঘ) ইলেকট্রনিক মেইলিং"],
-    "answer":"খ) ওয়েব সাইট",
-    "level": "medium"
-  },
-  {
-    "id": 16,
-    "question": "\n < html > < body > Cricket board < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
-    "image": "",
-    "options":  ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer": "ঘ) i, ii,iii",
-    "level": "easy"
-  },
-  {
-    "id": 17,
-    "question": "সফটওয়্যার তৈরির জন্য কোনটি প্রয়োজন?",
-    "image": "",
-    "options": ["ক) হার্ডওয়্যার", "খ) প্রোগ্রাম", "গ) কম্পিউটার ভাষা", "ঘ) ফার্মওয়্যার"],
-    "answer": "গ) কম্পিউটার ভাষা",
-    "level": "medium"
-  },
-  {
-    "id": 18,
-    "question": "CSS এর পূর্ণরূপ কী?",
-    "image": "",
-    "options": ["ক) Casading Style Sheet", "খ) Casading Style Shit", "গ) Case Style Sheet", "ঘ) Casading Styling Sheet"],
-    "answer": "ক) Casading Style Sheet",
-    "level": "easy"
-  },
-  {
-    "id": 19,
-    "question": "নিচের C প্রোগ্রামটি রান করলে আউটপুট কত হবে?\nint a = 3, b;\nb = 2 * a;\nprintf(\"%d\", b);",
-    "image": "",
-    "options": ["ক) 3", "খ) 4", "গ) 5", "ঘ) 6"],
-    "answer": "ঘ) 6",
-    "level": "medium"
-  },
-  {
-    "id": 20,
-    "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?",
-    "image": "",
-    "options": ["ক) { }", "খ) < >", "গ) ( )", "ঘ) [ ]"],
-    "answer": "খ) < >",
-    "level": "easy"
-  },
-  {
-    "id": 21,
-    "question": "(10111)₂ এর দশমিক মান কত?",
-    "image": "",
-    "options": ["ক) 22", "খ) 23", "গ) 31", "ঘ) 43"],
-    "answer": "খ) 23",
-    "level": "easy"
-  },
-  {
-    "id": 22,
-    "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
-    "image": "",
-    "options": ["ক) %f", "খ) %d", "গ) %c", "ঘ) %s"],
-    "answer": "ক) %f",
-    "level": "easy"
-  },
-  
-  {
-    "id": 23,
-    "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?",
-    "image": "",
-    "options": ["ক) i, ii", "খ) ii, iii", "গ) i, iii", "ঘ) i, ii,iii"],
-    "answer": "গ) i, iii",
-    "level": "medium"
-  },
-  {
-    "id": 24,
-    "question": "চিত্রের ? স্থানে কোনটি হবে ",
-    "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
-    "options": ["ক) Assembler", "খ) Interpreter", "গ)Compiler", "ঘ) Linker "],
-    "answer": "গ)Compiler",
-    "level": "medium"
-  }
-]
-}
-  
-]
-
-    }
-    
   ]
-
 }
