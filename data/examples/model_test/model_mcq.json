@@ -1,6 +1,221 @@
 {
   "model_tests": [
   {
+    "model_test_id": "27",
+    "teacher_id": "11467801713",
+    "difficulty": "All",
+    "test_name": "For T",
+    "chapter_name": "All Chapters",
+    "total_questions": 15,
+    "last_date": "2025-10-14",
+    "validity_time_minutes": 25,
+    "is_allowed": true,
+    "selected_student_ids": [
+      "11467820261140"
+    ],
+    "mcqs": [
+      {
+        "answer": "ঘ. HTTP",
+        "chapterId": "4",
+        "id": 4,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. SMTP",
+          "খ. VOIP",
+          "গ. FTP",
+          "খ. HTTP"
+        ],
+        "question": "উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ. ৪",
+        "chapterId": "5",
+        "id": 6,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. ৩",
+          "খ. ৪",
+          "গ. ৫",
+          "ঘ. ৬"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i\u003d3; i \u003c\u003d 15; i+\u003d2)\nif (i-- \u003e 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে \u0027ICT\u0027 কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "খ. DIV",
+        "chapterId": "5",
+        "id": 15,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. main",
+          "খ. DIV",
+          "গ. return",
+          "ঘ. In"
+        ],
+        "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?"
+      },
+      {
+        "answer": "ঘ. Unicode",
+        "chapterId": "3.1",
+        "id": 18,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. EBCDIC",
+          "খ. ASCII-7",
+          "গ. ASCII-8",
+          "ঘ. Unicode"
+        ],
+        "question": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?"
+      },
+      {
+        "answer": "খ) ই-লার্নিং",
+        "chapterId": "1",
+        "id": 28,
+        "level": "easy",
+        "options": [
+          "ক) ই-স্টাডি",
+          "খ) ই-লার্নিং",
+          "গ) অন-লার্নিং",
+          "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"
+        ],
+        "question": "অনলাইনে পারস্পরিক মিথস্ক্রিয়ায় শিক্ষা কার্যক্রম পরিচালনাকে কী বলে?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 30,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। \n বন্ধুর চিকিৎসায় ব্যবহৃত পদ্ধতির প্রভাবে - \ni) পার্শ্ব প্রতিক্রিয়া কম হবে\nii) রুগীর ব্যাথা কম হবে\niii) সুস্থ হতে সময় অধিক লাগবে"
+      },
+      {
+        "answer": "ইন্টারনেটের মাধ্যমে",
+        "chapterId": "1",
+        "id": 51,
+        "level": "medium",
+        "options": [
+          "কম্পিউটার",
+          "মোবাইল ফোন",
+          "ইন্টারনেট",
+          "টেলিভিশন"
+        ],
+        "question": "বর্তমান যুগে ঘরে বসে বিশ্বের যেকোনো বিশ্ববিদ্যালয়ে ভর্তি হওয়া সম্ভব হয়েছে কোন প্রযুক্তির কারণে?"
+      },
+      {
+        "answer": "খ) কম্পিউটার বিজ্ঞান",
+        "chapterId": "1",
+        "id": 78,
+        "level": "medium",
+        "options": [
+          "ক) ফলিত বিজ্ঞান",
+          "খ) কম্পিউটার বিজ্ঞান",
+          "গ) জীবন বিজ্ঞান",
+          "ঘ) পরিবেশ বিজ্ঞান"
+        ],
+        "question": "কৃত্রিম বুদ্ধিমত্তা কী ধরনের বিজ্ঞান?"
+      },
+      {
+        "answer": "ঘ) ৫টি",
+        "chapterId": "2",
+        "id": 86,
+        "level": "easy",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "ডেটা কমিউনিকেশন সিস্টেমে সাধারণত কয়টি অংশ থাকে?"
+      },
+      {
+        "answer": "ঘ) ১০০ মেগাবাইট/সেকেন্ড",
+        "chapterId": "2",
+        "id": 90,
+        "level": "medium",
+        "options": [
+          "ক) ১০ মেগাবাইট/সেকেন্ড",
+          "খ) ২০ মেগাবাইট/সেকেন্ড",
+          "গ) ৫০ মেগাবাইট/সেকেন্ড",
+          "ঘ) ১০০ মেগাবাইট/সেকেন্ড"
+        ],
+        "question": "কো-অ্যাক্সিয়াল ক্যাবল এর ডেটা স্থানান্তরের হার কত?"
+      },
+      {
+        "answer": "খ) ডেটা রিডানডেন্সি",
+        "chapterId": "6",
+        "id": 140,
+        "level": "easy",
+        "options": [
+          "ক) ডেটা সিকিউরিটি",
+          "খ) ডেটা রিডানডেন্সি",
+          "গ) ডেটা ইন্টিগ্রিটি",
+          "ঘ) ডেটা রিকভারি"
+        ],
+        "question": "ডেটাবেজে ডেটার অপ্রয়োজনীয় পুনরাবৃত্তি রোধ করে কোনটি?"
+      },
+      {
+        "answer": "খ) IEEE 802.15",
+        "chapterId": "2",
+        "id": 149,
+        "level": "easy",
+        "options": [
+          "ক) IEEE 802.11",
+          "খ) IEEE 802.15",
+          "গ) IEEE 802.16",
+          "ঘ) IEEE 802.3"
+        ],
+        "question": "ব্লুটুথ এর স্ট্যান্ডার্ড কোনটি?"
+      },
+      {
+        "answer": "ক) Read Only Memory",
+        "chapterId": "3.2",
+        "id": 164,
+        "level": "easy",
+        "options": [
+          "ক) Read Only Memory",
+          "খ) Random Only Memory",
+          "গ) Read Other Memory",
+          "ঘ) Random Other Memory"
+        ],
+        "question": "রম এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "খ) Random Access Memory",
+        "chapterId": "3.2",
+        "id": 165,
+        "level": "medium",
+        "options": [
+          "ক) Read Access Memory",
+          "খ) Random Access Memory",
+          "গ) Read All Memory",
+          "ঘ) Random All Memory"
+        ],
+        "question": "র‍্যাম এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "খ) প্রসেসরের গতি বাড়ানো",
+        "chapterId": "3.2",
+        "id": 168,
+        "level": "medium",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) প্রসেসরের গতি বাড়ানো",
+          "গ) ডেটা ট্রান্সমিশন",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "question": "ক্যাশ মেমরি কেন ব্যবহৃত হয়?"
+      }
+    ]
+  },
+  {
     "model_test_id": "26",
     "teacher_id": "1146780155",
     "difficulty": "All",
