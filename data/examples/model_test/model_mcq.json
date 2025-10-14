@@ -437,7 +437,7 @@
     "total_questions": 15,
     "last_date": "2025-10-18",
     "validity_time_minutes": 25,
-    "is_allowed": false,
+    "is_allowed": true,
     "selected_student_ids": ["11467820261140","2027101","1090302027101"],
     "mcqs": [
       {
