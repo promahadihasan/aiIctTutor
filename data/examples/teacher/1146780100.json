@@ -84,6 +84,16 @@
               "submitted_on": "2025-10-14 22:50",
               "time_taken_min": 1,
               "total_marks": 15
+            },
+            {
+              "accuracy_rate": 46,
+              "eiin": "114678",
+              "score": 7,
+              "student_id": "2027101",
+              "student_name": "AFNAN AMIN",
+              "submitted_on": "2025-10-14 22:57",
+              "time_taken_min": 0,
+              "total_marks": 15
             }
           ],
           "performance_summary": null,
