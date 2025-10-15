@@ -1,6 +1,14 @@
 {
   "teachers": [
     {
+      "college_name": "Tangail Collectrorate",
+      "created_model_tests": [],
+      "eiin": "114678",
+      "mobileNo": "11111111111",
+      "name": "Helal",
+      "teacher_id": "11467811111111111"
+    },
+    {
       "college_name": "Binnn",
       "created_model_tests": [],
       "eiin": "114678",
