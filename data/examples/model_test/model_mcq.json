@@ -1,6 +1,349 @@
 {
   "model_tests": [
   {
+    "model_test_id": "30",
+    "teacher_id": "11467811111111111",
+    "difficulty": "All",
+    "test_name": "ffff",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-10-19",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ক. A\u003d1, B\u003d0",
+        "chapterId": "3.2",
+        "id": 9,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. A\u003d1, B\u003d0",
+          "খ. A\u003d0, B\u003d1",
+          "গ. A\u003d1, B\u003d1",
+          "ঘ. A\u003d0, B\u003d0"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-"
+      },
+      {
+        "answer": "ক. সাদা",
+        "chapterId": "4",
+        "id": 10,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. সাদা",
+          "খ. নীল",
+          "গ. সায়ান",
+          "ঘ. লাল"
+        ],
+        "question": "#FFFFFF কোন রং নির্দেশ করে?"
+      },
+      {
+        "answer": "খ. DIV",
+        "chapterId": "5",
+        "id": 15,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. main",
+          "খ. DIV",
+          "গ. return",
+          "ঘ. In"
+        ],
+        "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?"
+      },
+      {
+        "answer": "গ) মাইক্রোওয়েভ",
+        "chapterId": "2",
+        "id": 22,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "easy",
+        "options": [
+          "ক) ওয়াই-ফাই",
+          "খ) ইনফ্রারেড",
+          "গ) মাইক্রোওয়েভ",
+          "ঘ) ওয়াই-ম্যাক্স"
+        ],
+        "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?"
+      },
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "3.2",
+        "id": 48,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "Internet of Things",
+        "chapterId": "1",
+        "id": 56,
+        "level": "easy",
+        "options": [
+          "Internet on Technology",
+          "Internet of Things",
+          "Information of Technology",
+          "Information on Things"
+        ],
+        "question": "IoT এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 68,
+        "level": "easy",
+        "options": [
+          "২৪ ঘণ্টা কেনাকাটা",
+          "ঘরে বসে কেনাকাটা",
+          "দামের তুলনা",
+          "সবগুলোই"
+        ],
+        "question": "ই-কমার্স এর সুবিধা কোনটি?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 71,
+        "level": "easy",
+        "options": [
+          "গুজব ছড়ানো",
+          "ব্যক্তিগত তথ্য চুরি",
+          "সাইবার বুলিং",
+          "সবগুলোই"
+        ],
+        "question": "সামাজিক যোগাযোগ মাধ্যমের নেতিবাচক প্রভাব কোনটি?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 73,
+        "level": "hard",
+        "options": [
+          "ই-বর্জ্য",
+          "বিদ্যুৎ খরচ বৃদ্ধি",
+          "রেডিয়েশন",
+          "সবগুলোই"
+        ],
+        "question": "ICT ব্যবহারে পরিবেশের উপর নেতিবাচক প্রভাব কোনটি?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 74,
+        "level": "easy",
+        "options": [
+          "ভ্রমণ খরচ সাশ্রয়",
+          "সময় সাশ্রয়",
+          "তাৎক্ষণিক আলোচনা",
+          "সবগুলোই"
+        ],
+        "question": "টেলিকনফারেন্সিং এর সুবিধা কী?"
+      },
+      {
+        "answer": "খ) কম্পিউটার বিজ্ঞান",
+        "chapterId": "1",
+        "id": 78,
+        "level": "medium",
+        "options": [
+          "ক) ফলিত বিজ্ঞান",
+          "খ) কম্পিউটার বিজ্ঞান",
+          "গ) জীবন বিজ্ঞান",
+          "ঘ) পরিবেশ বিজ্ঞান"
+        ],
+        "question": "কৃত্রিম বুদ্ধিমত্তা কী ধরনের বিজ্ঞান?"
+      },
+      {
+        "answer": "খ) ii, iii",
+        "chapterId": "1",
+        "id": 80,
+        "level": "easy",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ন্যানো টেকনোলজির সুবিধা হলো—\ni) দ্রুত কাজ করা যায়\nii) শক্তিশালী ও হালকা\niii) বর্জ্য পদার্থ কম উৎপন্ন হয়"
+      },
+      {
+        "answer": "গ) ৬ ধরনের",
+        "chapterId": "2",
+        "id": 94,
+        "level": "hard",
+        "options": [
+          "ক) ৪ ধরনের",
+          "খ) ৫ ধরনের",
+          "গ) ৬ ধরনের",
+          "ঘ) ৭ ধরনের"
+        ],
+        "question": "নেটওয়ার্ক টপোলজি কয় ধরনের?"
+      },
+      {
+        "answer": "ক) \u003cp\u003e",
+        "chapterId": "4",
+        "id": 116,
+        "level": "easy",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "question": "HTML এ প্যারাগ্রাফ ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ক) colspan",
+        "chapterId": "4",
+        "id": 120,
+        "level": "medium",
+        "options": [
+          "ক) colspan",
+          "খ) rowspan",
+          "গ) both",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "HTML এ টেবিলে সেল মার্জ করার জন্য কোন অ্যাট্রিবিউট ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "গ) বিসিপিএল",
+        "chapterId": "5",
+        "id": 124,
+        "level": "hard",
+        "options": [
+          "ক) ফোরট্রান",
+          "খ) অ্যালগল",
+          "গ) বিসিপিএল",
+          "ঘ) বেসিক"
+        ],
+        "question": "C প্রোগ্রামিং ভাষা কোন ল্যাঙ্গুয়েজ থেকে উদ্ভূত?"
+      },
+      {
+        "answer": "গ) ৪ বাইট",
+        "chapterId": "5",
+        "id": 129,
+        "level": "medium",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "question": "C প্রোগ্রামিং এ দশমিক সংখ্যা বা ফ্লোটিং পয়েন্ট ডেটা টাইপের সাইজ কত?"
+      },
+      {
+        "answer": "গ) ৪টি",
+        "chapterId": "6",
+        "id": 138,
+        "level": "medium",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "ডেটাবেজে ডেটার প্রকারভেদ কয়টি?"
+      },
+      {
+        "answer": "ঘ) ১-৫ কিমি",
+        "chapterId": "2",
+        "id": 156,
+        "level": "medium",
+        "options": [
+          "ক) ১-১০ মিটার",
+          "খ) ১০-১০০ মিটার",
+          "গ) ১০০-৫০০ মিটার",
+          "ঘ) ১-৫ কিমি"
+        ],
+        "question": "ওয়াইম্যাক্স এর রেঞ্জ কত?"
+      },
+      {
+        "answer": "খ) জেনেটিক মডিফিকেশন",
+        "chapterId": "1",
+        "id": 179,
+        "level": "easy",
+        "options": [
+          "ক) জিনোম সিকোয়েন্সিং",
+          "খ) জেনেটিক মডিফিকেশন",
+          "গ) বায়োইনফরমেটিক্স",
+          "ঘ) ক্রায়োসার্জারি"
+        ],
+        "question": "জেনেটিক ইঞ্জিনিয়ারিং এর অপর নাম কী?"
+      },
+      {
+        "answer": "ঘ) SELECT",
+        "chapterId": "6",
+        "id": 190,
+        "level": "hard",
+        "options": [
+          "ক) INSERT",
+          "খ) DELETE",
+          "গ) UPDATE",
+          "ঘ) SELECT"
+        ],
+        "question": "SQL এ ডেটা টেবিল থেকে ডেটা পুনরুদ্ধার করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) UPDATE",
+        "chapterId": "6",
+        "id": 192,
+        "level": "medium",
+        "options": [
+          "ক) INSERT",
+          "খ) DELETE",
+          "গ) UPDATE",
+          "ঘ) SELECT"
+        ],
+        "question": "SQL এ রেকর্ড পরিবর্তন করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) main()",
+        "chapterId": "5",
+        "id": 203,
+        "level": "easy",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return()"
+        ],
+        "question": "C প্রোগ্রামিং এ প্রধান ফাংশন কোনটি?"
+      },
+      {
+        "answer": "ক) //",
+        "chapterId": "5",
+        "id": 208,
+        "level": "hard",
+        "options": [
+          "ক) //",
+          "খ) #",
+          "গ) $",
+          "ঘ) @"
+        ],
+        "question": "C প্রোগ্রামিং এ মন্তব্য লেখার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) %f",
+        "chapterId": "5",
+        "id": 215,
+        "level": "easy",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামিং এ একটি দশমিক সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": "29",
     "teacher_id": "11467811111111111",
     "difficulty": "All",
