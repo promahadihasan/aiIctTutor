@@ -1,6 +1,350 @@
 {
   "model_tests": [
   {
+    "model_test_id": "33",
+    "teacher_id": "11467811111111111",
+    "difficulty": "All",
+    "test_name": "TestCatch",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-10-21",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "খ. 010010",
+        "chapterId": "3.1",
+        "id": 1,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "easy",
+        "options": [
+          "ক. 101100",
+          "খ. 010010",
+          "গ. 101000",
+          "ঘ. 101111"
+        ],
+        "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?"
+      },
+      {
+        "answer": "ক. %c",
+        "chapterId": "5",
+        "id": 5,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. %c",
+          "খ. %s",
+          "গ. %lf",
+          "ঘ. %d"
+        ],
+        "question": "ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?"
+      },
+      {
+        "answer": "ক. (170)10",
+        "chapterId": "3.1",
+        "id": 16,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. (170)10",
+          "খ. (252)10",
+          "গ. (10101010)2",
+          "ঘ. উপরের কোনটি সঠিক?"
+        ],
+        "question": "একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-"
+      },
+      {
+        "answer": "গ. বায়োইনফরমেটিক্স",
+        "chapterId": "1",
+        "id": 19,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. রোবটিক্স",
+          "খ. বায়োমেট্রিক্স",
+          "গ. বায়োইনফরমেটিক্স",
+          "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+        ],
+        "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?"
+      },
+      {
+        "answer": "ঘ) 0, 1, 1",
+        "chapterId": "3.2",
+        "id": 24,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "hard",
+        "options": [
+          "ক) 0, 1, 0",
+          "খ) 1, 0, 0",
+          "গ) 1, 0, 1",
+          "ঘ) 0, 1, 1"
+        ],
+        "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?"
+      },
+      {
+        "answer": "গ) মেশ",
+        "chapterId": "2",
+        "id": 31,
+        "level": "easy",
+        "options": [
+          "ক) বাস",
+          "খ) রিং",
+          "গ) মেশ",
+          "ঘ) স্টার"
+        ],
+        "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?"
+      },
+      {
+        "answer": "খ) \u003c \u003e",
+        "chapterId": "4",
+        "id": 45,
+        "level": "easy",
+        "options": [
+          "ক) { }",
+          "খ) \u003c \u003e",
+          "গ) ( )",
+          "ঘ) [ ]"
+        ],
+        "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?"
+      },
+      {
+        "answer": "শারীরিক বৈশিষ্ট্য",
+        "chapterId": "1",
+        "id": 57,
+        "level": "medium",
+        "options": [
+          "পাসওয়ার্ড",
+          "কার্ড",
+          "শারীরিক বৈশিষ্ট্য",
+          "কোড নম্বর"
+        ],
+        "question": "বায়োমেট্রিক পদ্ধতিতে শনাক্তকরণের ভিত্তি কী?"
+      },
+      {
+        "answer": "সবগুলোই",
+        "chapterId": "1",
+        "id": 73,
+        "level": "hard",
+        "options": [
+          "ই-বর্জ্য",
+          "বিদ্যুৎ খরচ বৃদ্ধি",
+          "রেডিয়েশন",
+          "সবগুলোই"
+        ],
+        "question": "ICT ব্যবহারে পরিবেশের উপর নেতিবাচক প্রভাব কোনটি?"
+      },
+      {
+        "answer": "ক) তথ্য",
+        "chapterId": "1",
+        "id": 75,
+        "level": "medium",
+        "options": [
+          "ক) তথ্য",
+          "খ) যোগাযোগ",
+          "গ) প্রযুক্তি",
+          "ঘ) বিশ্ব"
+        ],
+        "question": "তথ্য ও যোগাযোগ প্রযুক্তি : বিশ্ব ও বাংলাদেশ প্রেক্ষিত"
+      },
+      {
+        "answer": "ক) ২ ধরনের",
+        "chapterId": "3.1",
+        "id": 97,
+        "level": "hard",
+        "options": [
+          "ক) ২ ধরনের",
+          "খ) ৩ ধরনের",
+          "গ) ৪ ধরনের",
+          "ঘ) ৫ ধরনের"
+        ],
+        "question": "সংখ্যা পদ্ধতি কয় ধরনের?"
+      },
+      {
+        "answer": "ক) ৫৬",
+        "chapterId": "3.1",
+        "id": 103,
+        "level": "hard",
+        "options": [
+          "ক) ৫৬",
+          "খ) ৫৭",
+          "গ) ৫৮",
+          "ঘ) ৫৯"
+        ],
+        "question": "অকটাল সংখ্যা (70)₈ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "ক) পেইন্ট",
+        "chapterId": "3.2",
+        "id": 111,
+        "level": "medium",
+        "options": [
+          "ক) পেইন্ট",
+          "খ) সি",
+          "গ) সি++",
+          "ঘ) জাভা"
+        ],
+        "question": "অঙ্কনকারী প্রোগ্রাম কোনটি?"
+      },
+      {
+        "answer": "গ) \u003cstyle\u003e",
+        "chapterId": "4",
+        "id": 115,
+        "level": "hard",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cstyle\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "কোনটি HTML এর ট্যাগ নয়?"
+      },
+      {
+        "answer": "ঘ) \u003cimg\u003e",
+        "chapterId": "4",
+        "id": 117,
+        "level": "medium",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "question": "HTML এ ইমেজ ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "খ) ২ বাইট",
+        "chapterId": "5",
+        "id": 127,
+        "level": "hard",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "question": "C প্রোগ্রামিং এ ইন্টিজার ডেটা টাইপের সাইজ কত?"
+      },
+      {
+        "answer": "ক) ১ বাইট",
+        "chapterId": "5",
+        "id": 128,
+        "level": "easy",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "question": "C প্রোগ্রামিং এ অক্ষর বা ক্যারেক্টার ডেটা টাইপের সাইজ কত?"
+      },
+      {
+        "answer": "খ) ১০-১০০ মিটার",
+        "chapterId": "2",
+        "id": 155,
+        "level": "easy",
+        "options": [
+          "ক) ১-১০ মিটার",
+          "খ) ১০-১০০ মিটার",
+          "গ) ১০০-৫০০ মিটার",
+          "ঘ) ১-৫ কিমি"
+        ],
+        "question": "ওয়াইফাই এর রেঞ্জ কত?"
+      },
+      {
+        "answer": "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+        "chapterId": "3.2",
+        "id": 166,
+        "level": "hard",
+        "options": [
+          "ক) ডেটা পরিবর্তন করা যায়",
+          "খ) পাওয়ার বন্ধ হলেও ডেটা থাকে",
+          "গ) ডেটা পরিবর্তন করা সম্ভব",
+          "ঘ) অস্থায়ী মেমরি"
+        ],
+        "question": "রম এর বৈশিষ্ট্য কোনটি?"
+      },
+      {
+        "answer": "গ) ডেটা যোগ করা",
+        "chapterId": "3.2",
+        "id": 170,
+        "level": "easy",
+        "options": [
+          "ক) ডেটা সংরক্ষণ",
+          "খ) ডেটা প্রসেসিং",
+          "গ) ডেটা যোগ করা",
+          "ঘ) ডেটা এন্ট্রি"
+        ],
+        "question": "অ্যাডার কী কাজে ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+        "chapterId": "3.2",
+        "id": 173,
+        "level": "easy",
+        "options": [
+          "ক) একটি ইনপুট থেকে একাধিক আউটপুট",
+          "খ) একাধিক ইনপুট থেকে একটি আউটপুট",
+          "গ) একটি ইনপুট থেকে একটি আউটপুট",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "মাল্টিপ্লেক্সার এর কাজ কী?"
+      },
+      {
+        "answer": "ঘ) সবগুলোই",
+        "chapterId": "5",
+        "id": 188,
+        "level": "easy",
+        "options": [
+          "ক) int",
+          "খ) float",
+          "গ) char",
+          "ঘ) সবগুলোই"
+        ],
+        "question": "C প্রোগ্রামিং এ চলক ঘোষণার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) CREATE TABLE",
+        "chapterId": "6",
+        "id": 194,
+        "level": "easy",
+        "options": [
+          "ক) CREATE TABLE",
+          "খ) DROP TABLE",
+          "গ) ALTER TABLE",
+          "ঘ) কোনটিই নয়"
+        ],
+        "question": "SQL এ নতুন টেবিল তৈরি করার জন্য কোন কমান্ড ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) main()",
+        "chapterId": "5",
+        "id": 203,
+        "level": "easy",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return()"
+        ],
+        "question": "C প্রোগ্রামিং এ প্রধান ফাংশন কোনটি?"
+      },
+      {
+        "answer": "খ) %f",
+        "chapterId": "5",
+        "id": 215,
+        "level": "easy",
+        "options": [
+          "ক) %d",
+          "খ) %f",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামিং এ একটি দশমিক সংখ্যা ইনপুট নেওয়ার জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": "32",
     "teacher_id": "11467801713",
     "difficulty": "All",
