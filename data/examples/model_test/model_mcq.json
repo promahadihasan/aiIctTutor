@@ -1,6 +1,217 @@
 {
   "model_tests": [
   {
+    "model_test_id": "34",
+    "teacher_id": "11467811111111111",
+    "difficulty": "All",
+    "test_name": "jhjh",
+    "chapter_name": "3.1",
+    "total_questions": 15,
+    "last_date": "2025-10-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "খ. 010010",
+        "chapterId": "3.1",
+        "id": 1,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "level": "easy",
+        "options": [
+          "ক. 101100",
+          "খ. 010010",
+          "গ. 101000",
+          "ঘ. 101111"
+        ],
+        "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?"
+      },
+      {
+        "answer": "ক. (170)10",
+        "chapterId": "3.1",
+        "id": 16,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. (170)10",
+          "খ. (252)10",
+          "গ. (10101010)2",
+          "ঘ. উপরের কোনটি সঠিক?"
+        ],
+        "question": "একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-"
+      },
+      {
+        "answer": "গ) 11010001",
+        "chapterId": "3.1",
+        "id": 37,
+        "level": "medium",
+        "options": [
+          "ক) 10100001",
+          "খ) 10101001",
+          "গ) 11010001",
+          "ঘ) 11010101"
+        ],
+        "question": "বাইনারি সংখ্যা 1111010 ও 1010111 এর যোগফল কত?"
+      },
+      {
+        "answer": "গ) বিট",
+        "chapterId": "3.1",
+        "id": 39,
+        "level": "medium",
+        "options": [
+          "ক) কিলোবাইট",
+          "খ) বাইট",
+          "গ) বিট",
+          "ঘ) মেগাবাইট"
+        ],
+        "question": "মেমরি পরিমাপের ক্ষুদ্রতম একক কোনটি?"
+      },
+      {
+        "answer": "খ) 23",
+        "chapterId": "3.1",
+        "id": 46,
+        "level": "easy",
+        "options": [
+          "ক) 22",
+          "খ) 23",
+          "গ) 31",
+          "ঘ) 43"
+        ],
+        "question": "(10111)₂ এর দশমিক মান কত?"
+      },
+      {
+        "answer": "ঘ) ৫টি",
+        "chapterId": "3.1",
+        "id": 76,
+        "level": "hard",
+        "options": [
+          "ক) ২টি",
+          "খ) ৩টি",
+          "গ) ৪টি",
+          "ঘ) ৫টি"
+        ],
+        "question": "কম্পিউটারের প্রজন্ম কয়টি?"
+      },
+      {
+        "answer": "ক) ২ ধরনের",
+        "chapterId": "3.1",
+        "id": 97,
+        "level": "hard",
+        "options": [
+          "ক) ২ ধরনের",
+          "খ) ৩ ধরনের",
+          "গ) ৪ ধরনের",
+          "ঘ) ৫ ধরনের"
+        ],
+        "question": "সংখ্যা পদ্ধতি কয় ধরনের?"
+      },
+      {
+        "answer": "খ) ২",
+        "chapterId": "3.1",
+        "id": 98,
+        "level": "easy",
+        "options": [
+          "ক) ৮",
+          "খ) ২",
+          "গ) ১০",
+          "ঘ) ১৬"
+        ],
+        "question": "বাইনারি সংখ্যা পদ্ধতির ভিত্তি কত?"
+      },
+      {
+        "answer": "গ) ১০",
+        "chapterId": "3.1",
+        "id": 99,
+        "level": "medium",
+        "options": [
+          "ক) ৮",
+          "খ) ২",
+          "গ) ১০",
+          "ঘ) ১৬"
+        ],
+        "question": "দশমিক সংখ্যা পদ্ধতির ভিত্তি কত?"
+      },
+      {
+        "answer": "ঘ) ১৬",
+        "chapterId": "3.1",
+        "id": 101,
+        "level": "easy",
+        "options": [
+          "ক) ৮",
+          "খ) ২",
+          "গ) ১০",
+          "ঘ) ১৬"
+        ],
+        "question": "হেক্সাডেসিমেল সংখ্যা পদ্ধতির ভিত্তি কত?"
+      },
+      {
+        "answer": "ক) ১৩",
+        "chapterId": "3.1",
+        "id": 102,
+        "level": "medium",
+        "options": [
+          "ক) ১৩",
+          "খ) ১৪",
+          "গ) ১৫",
+          "ঘ) ১৬"
+        ],
+        "question": "বাইনারি সংখ্যা (1101)₂ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "ক) ৫৬",
+        "chapterId": "3.1",
+        "id": 103,
+        "level": "hard",
+        "options": [
+          "ক) ৫৬",
+          "খ) ৫৭",
+          "গ) ৫৮",
+          "ঘ) ৫৯"
+        ],
+        "question": "অকটাল সংখ্যা (70)₈ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "ক) ২৬",
+        "chapterId": "3.1",
+        "id": 104,
+        "level": "easy",
+        "options": [
+          "ক) ২৬",
+          "খ) ২৭",
+          "গ) ২৮",
+          "ঘ) ২৯"
+        ],
+        "question": "হেক্সাডেসিমেল সংখ্যা (1A)₁₆ এর সমকক্ষ দশমিক সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "ক) 0000",
+        "chapterId": "3.1",
+        "id": 105,
+        "level": "medium",
+        "options": [
+          "ক) 0000",
+          "খ) 1000",
+          "গ) 1111",
+          "ঘ) 0111"
+        ],
+        "question": "বাইনারি সংখ্যা (1111)₂ এর ১ এর পরিপূরক কত?"
+      },
+      {
+        "answer": "ক) 0001",
+        "chapterId": "3.1",
+        "id": 106,
+        "level": "hard",
+        "options": [
+          "ক) 0001",
+          "খ) 1000",
+          "গ) 1111",
+          "ঘ) 0111"
+        ],
+        "question": "বাইনারি সংখ্যা (1111)₂ এর ২ এর পরিপূরক কত?"
+      }
+    ]
+  },
+  {
     "model_test_id": "33",
     "teacher_id": "11467811111111111",
     "difficulty": "All",
