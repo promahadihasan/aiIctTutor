@@ -58,16 +58,6 @@
               "total_marks": 15
             },
             {
-              "accuracy_rate": 20,
-              "eiin": "109030 ",
-              "score": 3,
-              "student_id": "1090302027101",
-              "student_name": "SUMI ",
-              "submitted_on": "2025-10-14 22:21",
-              "time_taken_min": 0,
-              "total_marks": 15
-            },
-            {
               "accuracy_rate": 46,
               "eiin": "114678",
               "score": 7,
@@ -75,6 +65,16 @@
               "student_name": "AFNAN AMIN",
               "submitted_on": "2025-10-24 10:25",
               "time_taken_min": 0,
+              "total_marks": 15
+            },
+            {
+              "accuracy_rate": 53,
+              "eiin": "109030 ",
+              "score": 8,
+              "student_id": "1090302027101",
+              "student_name": "SUMI ",
+              "submitted_on": "2025-10-24 11:32",
+              "time_taken_min": 1,
               "total_marks": 15
             }
           ],
