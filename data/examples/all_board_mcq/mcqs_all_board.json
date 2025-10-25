@@ -1735,6 +1735,350 @@
           ]
         }
       ]
+    },
+    {
+      "Cumilla Board": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "একটি ডিকোডারের আউটপুট 64 পেতে হলে, ইনপুট কত দিতে হবে?",
+              "imageUrl": "",
+              "options": [
+                "ক) 9",
+                "খ) 6",
+                "গ) 7",
+                "ঘ) 8"
+              ],
+              "answer": "খ) 6",
+              "level": "easy",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 2,
+              "question": "Y=ABC+C+BC- সরলীকৃত মান কত?",
+              "imageUrl": "",
+              "options": [
+                "ক) A",
+                "খ) B",
+                "গ) C",
+                "ঘ) AB"
+              ],
+              "answer": "গ) C",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 3,
+              "question": "স্ট্যাটিক ওয়েব পেজ তৈরিতে প্রয়োজন- i. HTML ii. PHP iii. CSS",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 4,
+              "question": "এক লাইন নিচে নামানোর জন্য ব্যবহৃত ট্যাগ কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) <td>",
+                "খ) <br>",
+                "গ) <tr>",
+                "ঘ) <th>"
+              ],
+              "answer": "খ) <br>",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 5,
+              "question": "দুইটি HTML ডকুমেন্টের সংযোগকে কী বলে?",
+              "imageUrl": "",
+              "options": [
+                "ক) কানেকশন",
+                "খ) অ্যাট্রিবিউট",
+                "গ) হাইপারলিঙ্ক",
+                "ঘ) ইমেজিং"
+              ],
+              "answer": "গ) হাইপারলিঙ্ক",
+              "level": "medium",
+              "chapterId": "4"
+            },
+            {
+              "id": 6,
+              "question": "HTML এর সম্পূর্ণ কনটেন্ট কোন ট্যাগে থাকে?",
+              "imageUrl": "",
+              "options": [
+                "ক) < title > ……… < /title >",
+                "খ) < html > ……… < /html >",
+                "গ) < body > ……… < /body >",
+                "ঘ) < head > ……… < /head >"
+              ],
+              "answer": "খ) < html > ……… < /html >",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 7,
+              "question": "ওয়েবসাইটকে নির্দিষ্ট কোনো সার্ভারে স্থাপন করাকে কী বলে?",
+              "imageUrl": "",
+              "options": [
+                "ক) ওয়েব ডকুমেন্ট",
+                "খ) ওয়েব ডিজাইন",
+                "গ) ডোমেইন নেইম রেজিস্ট্রেশন",
+                "ঘ) ওয়েব হোস্টিং"
+              ],
+              "answer": "ঘ) ওয়েব হোস্টিং",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 8,
+              "question": "for (i=1; i<=9; i+=2)\n pritnf (\"%d,\", i); \nকোনটি উপরের স্টেটমেন্টের ফলাফল?",
+              "imageUrl": "",
+              "options": [
+                "ক) 1, 2, 3, 4, 5, 6, 7, 8, 9",
+                "খ) 1, 2, 3, 4, 5, 6, 7, 8",
+                "গ) 1,3,5,7,9",
+                "ঘ) 2,4,6,8"
+              ],
+              "answer": "গ) 1,3,5,7,9",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 9,
+              "question": "প্রোগ্রামের ভুল খুঁজে বের করাকে কী বলে?",
+              "imageUrl": "",
+              "options": [
+                "ক) এনকোডিং",
+                "খ) ডিকোডিং",
+                "গ) ডিবাগিং",
+                "ঘ) Error: Missing Option"
+              ],
+              "answer": "গ) ডিবাগিং",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 10,
+              "question": "C ভাষায় সমজাতীয় ডেটা সংরক্ষণ করে কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) function",
+                "খ) array",
+                "গ) pointer",
+                "ঘ) stack"
+              ],
+              "answer": "খ) array",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 11,
+              "question": "সি প্রোগ্রামে ডেটা আউটপুট এর জন্য ব্যবহৃত ফাংশন কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) printf",
+                "খ) scanf",
+                "গ) float",
+                "ঘ) getch"
+              ],
+              "answer": "ক) printf",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 12,
+              "question": "ক্রায়োসার্জারিতে কোন গ্যাস ব্যবহৃত হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) argon",
+                "খ) hydrozen",
+                "গ) amonea",
+                "ঘ) nion"
+              ],
+              "answer": "ক) argon",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 13,
+              "question": "ডিকোডিংয়ের ক্ষেত্রে প্রযোজ্য- i. কোডকে বোধগম্য ভাষায় পরিণত করে ii. এনকোডারের বিপরীত কাজ করে iii. কম্পিউটার ইনপুট দেওয়ার কাজে ব্যবহৃত হয়",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "easy",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 14,
+              "question": "জেনেটিক ইঞ্জিনিয়ারিং ব্যবহৃত হয়- i. DNA-এর সজ্জা পরিবর্তনে ii. বংশগতির ধারা অনুসন্ধান iii. স্বাক্ষর শনাক্তকরণে",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 15,
+              "question": "বায়োমেট্রিক্স ব্যবহৃত হয়-",
+              "imageUrl": "",
+              "options": [
+                "ক) কৃত্রিম বুদ্ধিমত্তায়",
+                "খ) ব্যাক্তি শনাক্তকরণে",
+                "গ) যোগাযোগক্ষেত্রে",
+                "ঘ) চিকিৎসাক্ষেত্রে"
+              ],
+              "answer": "খ) ব্যাক্তি শনাক্তকরণে",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 16,
+              "question": "রেডিও ও টেলিভিশন সম্প্রচারে কোন ধরনের কমিউনিকেশন মোড?",
+              "imageUrl": "",
+              "options": [
+                "ক) ইউনিকাস্ট",
+                "খ) মাল্টিকাস্ট",
+                "গ) ব্রডকাস্ট",
+                "ঘ) অ্যানিকাস্ট"
+              ],
+              "answer": "গ) ব্রডকাস্ট",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 17,
+              "question": "উদ্দীপকে কোন ধরনের টপোলজির কথা বলা হয়েছে? (College lab with 10 computers, one failure crashes network)",
+              "imageUrl": "",
+              "options": [
+                "ক) ট্রি",
+                "খ) মেশ",
+                "গ) বাস",
+                "ঘ) রিং"
+              ],
+              "answer": "ঘ) রিং",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 18,
+              "question": "দূরত্বের বিবেচনায় উদ্দীপকের নেটওয়ার্কটি কোন ধরনের?(College lab with 10 computers, one failure crashes network)",
+              "imageUrl": "",
+              "options": [
+                "ক) PAN",
+                "খ) LAN",
+                "গ) MAN",
+                "ঘ) WAN"
+              ],
+              "answer": "খ) LAN",
+              "level": "hard",
+              "chapterId": "2"
+            },
+            {
+              "id": 19,
+              "question": "ব্লুটুথ নেটওয়ার্কের অপর নাম কী?",
+              "imageUrl": "",
+              "options": [
+                "ক) থিকনেট",
+                "খ) থিননেট",
+                "গ) পিকোনেট",
+                "ঘ) স্ক্যাটারনেট"
+              ],
+              "answer": "গ) পিকোনেট",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 20,
+              "question": "কোন নেটওয়ার্ক টপোলজিতে সবচেয়ে বেশি ক্যাবল ব্যবহৃত হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) বাস টপোলজি",
+                "খ) রিং টপোলজি",
+                "গ) স্টার টপোলজি",
+                "ঘ) মেশ টপোলজি"
+              ],
+              "answer": "ঘ) মেশ টপোলজি",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 21,
+              "question": "বুলিয়ান যোগের কাজ সম্পাদনের জন্য ব্যবহৃত গেট কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) OR",
+                "খ) NOT",
+                "গ) NOR",
+                "ঘ) AND"
+              ],
+              "answer": "ক) OR",
+              "level": "easy",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 22,
+              "question": " কলেজের ল্যাবরেটরিতে কোন ক্যাবলটি ব্যবহৃত হওয়ার সম্ভাবনা বেশি?",
+              "imageUrl": "",
+              "options": [
+                "ক) টুইস্টেড পেয়ার",
+                "খ) কো-এক্সিয়াল",
+                "গ) ফাইবার অপটিক",
+                "ঘ) টেলিফোন"
+              ],
+              "answer": "ক) টুইস্টেড পেয়ার",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 23,
+              "question": "ascii-8 কোডের মাধ্যমে সর্বোচ্চ কতটি অক্ষর বা চিহ্নকে কোডভুক্ত করা যায়?",
+              "imageUrl": "",
+              "options": [
+                "ক) 16",
+                "খ) 32",
+                "গ) 128",
+                "ঘ) 256"
+              ],
+              "answer": "ঘ) 256",
+              "level": "medium",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 24,
+              "question": "nand গেটের আউটপুটকে not গেটের মধ্যে দিয়ে প্রবেশ করালে কোন গেট পাওয়া যায়?",
+              "imageUrl": "",
+              "options": [
+                "ক) and",
+                "খ) or",
+                "গ) xnor",
+                "ঘ) xor"
+              ],
+              "answer": "ক) and",
+              "level": "easy",
+              "chapterId": "2"
+            }
+          ]
+        }
+      ]
     }
   ],
   "2025": [
