@@ -1237,7 +1237,7 @@
             {
               "id": 15,
               "question": "উদ্দীপকের ইনপুট O এর পরিবর্তে B হলে বর্তনীয় আউটপুট কত হবে?",
-              "imageUrl": "",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw=true",
               "options": [
                 "ক) not(A⊕B)",
                 "খ) A⊕B",
