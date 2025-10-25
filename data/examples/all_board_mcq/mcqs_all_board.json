@@ -675,6 +675,364 @@
           ]
         }
       ]
+    },
+    {
+      "Rajshahi Board": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "নিচের কোনটি ওয়‍্যারলেস ম্যান এর উদাহরণ?",
+              "imageUrl": "",
+              "options": [
+                "ক) ব্লুটুথ",
+                "খ) স্যাটেলাইট",
+                "গ) ওয়াইফাই",
+                "ঘ) ওয়াইম্যাক্স"
+              ],
+              "answer": "ঘ) ওয়াইম্যাক্স",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 2,
+              "question": "কোন প্রজন্মের মোবাইল ফোনের সাহায্যে 4k টিভি উপভোগ করা যায়?",
+              "imageUrl": "",
+              "options": [
+                "ক) ২য়",
+                "খ) ৩য়",
+                "গ) ৪র্থ",
+                "ঘ) ৫ম"
+              ],
+              "answer": "ঘ) ৫ম",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 3,
+              "question": "মেশ টপোলজিতে n সংখ্যক নোডের জন্য মোট তারের সংখ্যা হবে-",
+              "imageUrl": "",
+              "options": [
+                "ক) n(n-1)",
+                "খ) n(2n-1)/2",
+                "গ) n(n+1)/2",
+                "ঘ) n(2n+1)/2"
+              ],
+              "answer": "খ) n(2n-1)/2",
+              "level": "hard",
+              "chapterId": "2"
+            },
+            {
+              "id": 4,
+              "question": "১০ ভিত্তিক সংখ্যা পদ্ধতি হলো- i. ভারতীয় সংখ্যা পদ্ধতি ii. মায়ান সংখ্যা পদ্ধতি iii. চীন সংখ্যা পদ্ধতি",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "hard",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 5,
+              "question": "(1101.10010)₂ - (111.11011)₂ = ?",
+              "imageUrl": "",
+              "options": [
+                "ক) (100.10111)₂",
+                "খ) (101.00111)₂",
+                "গ) (100.10101)₂",
+                "ঘ) (101.10111)₂"
+              ],
+              "answer": "ঘ) (101.10111)₂",
+              "level": "medium",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 6,
+              "question": "4 বিটবিশিষ্ট কোড কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) Octal code",
+                "খ) BCD code",
+                "গ) ASCII code",
+                "ঘ) Unicode"
+              ],
+              "answer": "খ) BCD code",
+              "level": "hard",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 7,
+              "question": "সার্বজনীন গেইট হলো- i. NAND ii. XOR iii. NOR",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "easy",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 8,
+              "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw=true",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) ii ও iii",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 9,
+              "question": "একটি ওয়েবসাইটের কয়টি অংশ থাকে?",
+              "imageUrl": "",
+              "options": [
+                "ক) ২",
+                "খ) ৪",
+                "গ) ৩",
+                "ঘ) ৫"
+              ],
+              "answer": "ক) ২",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 10,
+              "question": "html এর ওয়েবপেইজ তৈরির জন্য ফাইলের এক্সটেনশন হলো- i. .html ii..txt iii..htm",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 11,
+              "question": "টেবিলের বডিতে সারি তৈরি করতে ব্যবহার করা হয়-",
+              "imageUrl": "",
+              "options": [
+                "ক) th",
+                "খ) tt",
+                "গ) tr",
+                "ঘ) td"
+              ],
+              "answer": "গ) tr",
+              "level": "medium",
+              "chapterId": "4"
+            },
+            {
+              "id": 12,
+              "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো- i. নোডপ্যাড ii. নোডপ্যাড ++ iii. সাবলাইম টেক্সট",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "hard",
+              "chapterId": "4"
+            },
+            {
+              "id": 13,
+              "question": "প্রসেসরের সবচেয়ে কাছে থাকে কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) রেজিস্টার",
+                "খ) ক্যাশ মেমোরি",
+                "গ) র‍্যাম",
+                "ঘ) ভার্চুয়াল মেমোরি"
+              ],
+              "answer": "ক) রেজিস্টার",
+              "level": "easy",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 14,
+              "question": "প্রোগ্রাম ডিজাইন মডেলে ২০%-৪০% সময় ব্যায় করা হয় কোনটিতে?",
+              "imageUrl": "",
+              "options": [
+                "ক) রক্ষণাবেক্ষণ",
+                "খ) নিরীক্ষণ",
+                "গ) বিশ্লেষণ",
+                "ঘ) ডিজাইন"
+              ],
+              "answer": "ঘ) ডিজাইন",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 15,
+              "question": "নট (!) অপারেটরের ক্ষেত্রে হতে পারে- i. অপারেটরের পরে কেবল একটি শর্ত থাকবে ii. শর্তটি মিথ্যা হলে পুরো শর্তটি সত্য হবে iii. শর্তটি সত্য হলে পুরো শর্তটি মিথ্যা হবে",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "hard",
+              "chapterId": "5"
+            },
+            {
+              "id": 16,
+              "question": "উদ্দীপকের প্রোগ্রামটিতে \"HSC Exam\" কতবার প্রদর্শিত হবে- \n for (i = 1; i < = 6; i ++) \n { \n if (i = = 4)\n continue;\n printf (“HSC Exam”);\n } ",
+              "imageUrl": "",
+              "options": [
+                "ক) 2",
+                "খ) 5",
+                "গ) 4",
+                "ঘ) 6"
+              ],
+              "answer": "খ) 5",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 17,
+              "question": "প্রোগ্রামটির আউটপুট কত? \n # include <stdio.h>\n main()\n {\n int a,b;\n b=10;\n a=b%5;\n printf (“%d”, a);\n} ",
+              "imageUrl": "",
+              "options": [
+                "ক) 0",
+                "খ) 2",
+                "গ) 5",
+                "ঘ) 10"
+              ],
+              "answer": "ক) 0",
+              "level": "hard",
+              "chapterId": "5"
+            },
+            {
+              "id": 18,
+              "question": "'সি' প্রোগ্রামিং ভাষা হলো- i. 'সি' একটি কেস সেনসিটিভ ভাষা ii. 'সি' একটি মধ্যম স্তরের ভাষা iii. 'সি' একটি উচ্চ স্তরের ভাষা",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 19,
+              "question": "বৈদ্যুতিক শক্তির ব্যাপক ব্যবহার ছিল কোন শিল্প বিপ্লবে?",
+              "imageUrl": "",
+              "options": [
+                "ক) প্রথম",
+                "খ) তৃতীয়",
+                "গ) দ্বিতীয়",
+                "ঘ) চতুর্থ"
+              ],
+              "answer": "গ) দ্বিতীয়",
+              "level": "easy",
+              "chapterId": "1"
+            },
+            {
+              "id": 20,
+              "question": "বায়োইনফরমেটিক্সের গবেষণার ক্ষেত্রগুলো হলো- i. জিনোম সিকোয়েন্স ii. ডিএনএ বিশ্লেষণ iii. রোবট নিয়ন্ত্রণ",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 21,
+              "question": "পণ্যের ডিজাইন তৈরিতে কোনটি প্রয়োজন?",
+              "imageUrl": "",
+              "options": [
+                "ক) PLC",
+                "খ) CAD",
+                "গ) PAT",
+                "ঘ) NAT"
+              ],
+              "answer": "খ) CAD",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 22,
+              "question": "চিকিৎসা ক্ষেত্রে ন্যানোটেকনোলজির ব্যবহার হতে পারে- i. এন্ডোস্কপি ii. এক্স-রে iii. কলোনোস্কোপি",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 23,
+              "question": "রিয়েল টাইম অ্যাপ্লিকেশনে কোন ডেটা ট্রান্সমিশন পদ্ধতির প্রচলন বেশি?",
+              "imageUrl": "",
+              "options": [
+                "ক) অ্যাসিনক্রোনাস",
+                "খ) সিনক্রোনাস",
+                "গ) আইসোক্রোনাস",
+                "ঘ) সিমপ্লেক্স"
+              ],
+              "answer": "গ) আইসোক্রোনাস",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 24,
+              "question": "একটি কলেজের আইসিটি শিক্ষক ল্যাবের সকল কম্পিউটারকে নেটওয়ার্কের আওতাভুক্ত করলেন। নেটওয়ার্ক স্থাপনে তিনি এক ধরনের প্যাঁচানো তার ব্যবহার করেছেন। \n উদ্দীপকে উল্লিখিত নেটওয়ার্কটি কোন ধরনের?",
+              "imageUrl": "",
+              "options": [
+                "ক) PAN",
+                "খ) LAN",
+                "গ) MAN",
+                "ঘ) WAN"
+              ],
+              "answer": "খ) LAN",
+              "level": "hard",
+              "chapterId": "2"
+            },
+            {
+              "id": 25,
+              "question": "একটি কলেজের আইসিটি শিক্ষক ল্যাবের সকল কম্পিউটারকে নেটওয়ার্কের আওতাভুক্ত করলেন। নেটওয়ার্ক স্থাপনে তিনি এক ধরনের প্যাঁচানো তার ব্যবহার করেছেন।\n নেটওয়ার্ক স্থাপনে ব্যবহৃত ক্যাবলটির বৈশিষ্ট্য হলো- i. এতে তারের সংখ্যা মোট তিন (৩) জোড়া ii. 100 মিটারের বেশি দূরত্বে ডেটা প্রেরণ করা যায় না iii. ব্যান্ডউইথ 10 Mbps থেকে 1 Gbps",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "গ) ii ও iii",
+              "level": "hard",
+              "chapterId": "2"
+            }
+          ]
+        }
+      ]
     }
   ],
   "2025": [
