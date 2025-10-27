@@ -1,6 +1,14 @@
 {
   "teachers": [
     {
+      "college_name": "Gazipur govt mohila College ",
+      "created_model_tests": [],
+      "eiin": "273742",
+      "mobileNo": "01975438391",
+      "name": "SEJUTI Afrin ",
+      "teacher_id": "27374201975438391"
+    },
+    {
       "college_name": "টাঙ্গাইল কালেক্টরেট বালিকা উচ্চ বিদ্যালয় ও কলেজ",
       "created_model_tests": [],
       "eiin": "114678",
@@ -65,7 +73,7 @@
       "teacher_id": "1146780181"
     },
     {
-      "college_name": "Tangail Collectorate Girl’s High School & College",
+      "college_name": "Tangail Collectorate Girl’s High School \u0026 College",
       "created_model_tests": [],
       "eiin": "114678",
       "mobileNo": "01713",
