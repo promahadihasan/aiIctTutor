@@ -1,19 +1,19 @@
 {
   "leaderboard": [
     {
-  "id": "1146782026107",
-  "name": "TASNIA TABASUM",
-  "group": "SCIENCE",
-  "xp_points": 1000,
-  "level": "💎 EXPERT",
-  "last_updated": "2025-10-02 07:41:12"
-},
-    {
       "id": "1090302026125",
       "name": "JARIN TASNIM MIM",
       "group": "SCIENCE",
       "xp_points": 5018,
       "level": "Newcomer",
+      "last_updated": "2025-10-02 07:41:12"
+    },
+    {
+      "id": "1146782026107",
+      "name": "TASNIA TABASUM",
+      "group": "SCIENCE",
+      "xp_points": 1000,
+      "level": "💎 EXPERT",
       "last_updated": "2025-10-02 07:41:12"
     },
     {
@@ -23,6 +23,14 @@
       "xp_points": 40,
       "level": "🔰 Newcomer",
       "last_updated": "2025-10-04 15:21:27"
+    },
+    {
+      "id": "11467820261007",
+      "name": "NUHSANAT TASNIA",
+      "group": "SCIENCE",
+      "xp_points": 20,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-10-27 15:53:08"
     },
     {
       "id": "2027101",
