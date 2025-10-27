@@ -1,6 +1,218 @@
 {
   "model_tests": [
   {
+    "model_test_id": "35",
+    "teacher_id": "11467801713",
+    "difficulty": "All",
+    "test_name": "TC -Batch-Afternoon",
+    "chapter_name": "5",
+    "total_questions": 15,
+    "last_date": "2025-10-28",
+    "validity_time_minutes": 15,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ক. %c",
+        "chapterId": "5",
+        "id": 5,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. %c",
+          "খ. %s",
+          "গ. %lf",
+          "ঘ. %d"
+        ],
+        "question": "ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?"
+      },
+      {
+        "answer": "খ. DIV",
+        "chapterId": "5",
+        "id": 15,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. main",
+          "খ. DIV",
+          "গ. return",
+          "ঘ. In"
+        ],
+        "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?"
+      },
+      {
+        "answer": "গ) কম্পিউটার ভাষা",
+        "chapterId": "5",
+        "id": 42,
+        "level": "medium",
+        "options": [
+          "ক) হার্ডওয়্যার",
+          "খ) প্রোগ্রাম",
+          "গ) কম্পিউটার ভাষা",
+          "ঘ) ফার্মওয়্যার"
+        ],
+        "question": "সফটওয়্যার তৈরির জন্য কোনটি প্রয়োজন?"
+      },
+      {
+        "answer": "ক) %f",
+        "chapterId": "5",
+        "id": 47,
+        "level": "easy",
+        "options": [
+          "ক) %f",
+          "খ) %d",
+          "গ) %c",
+          "ঘ) %s"
+        ],
+        "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?"
+      },
+      {
+        "answer": "গ)Compiler",
+        "chapterId": "5",
+        "id": 49,
+        "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) Assembler",
+          "খ) Interpreter",
+          "গ)Compiler",
+          "ঘ) Linker "
+        ],
+        "question": "চিত্রের ? স্থানে কোনটি হবে "
+      },
+      {
+        "answer": "ঘ) ১৯৭২",
+        "chapterId": "5",
+        "id": 122,
+        "level": "easy",
+        "options": [
+          "ক) ১৯৬৯",
+          "খ) ১৯৭০",
+          "গ) ১৯৭১",
+          "ঘ) ১৯৭২"
+        ],
+        "question": "C প্রোগ্রামিং ভাষা কত সালে উদ্ভাবন হয়?"
+      },
+      {
+        "answer": "গ) বিসিপিএল",
+        "chapterId": "5",
+        "id": 124,
+        "level": "hard",
+        "options": [
+          "ক) ফোরট্রান",
+          "খ) অ্যালগল",
+          "গ) বিসিপিএল",
+          "ঘ) বেসিক"
+        ],
+        "question": "C প্রোগ্রামিং ভাষা কোন ল্যাঙ্গুয়েজ থেকে উদ্ভূত?"
+      },
+      {
+        "answer": "খ) ২ বাইট",
+        "chapterId": "5",
+        "id": 127,
+        "level": "hard",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "question": "C প্রোগ্রামিং এ ইন্টিজার ডেটা টাইপের সাইজ কত?"
+      },
+      {
+        "answer": "ক) ১ বাইট",
+        "chapterId": "5",
+        "id": 128,
+        "level": "easy",
+        "options": [
+          "ক) ১ বাইট",
+          "খ) ২ বাইট",
+          "গ) ৪ বাইট",
+          "ঘ) ৮ বাইট"
+        ],
+        "question": "C প্রোগ্রামিং এ অক্ষর বা ক্যারেক্টার ডেটা টাইপের সাইজ কত?"
+      },
+      {
+        "answer": "ক) if",
+        "chapterId": "5",
+        "id": 130,
+        "level": "hard",
+        "options": [
+          "ক) if",
+          "খ) while",
+          "গ) for",
+          "ঘ) do while"
+        ],
+        "question": "C প্রোগ্রামিং এ কন্ডিশনাল স্টেটমেন্ট কোনটি?"
+      },
+      {
+        "answer": "খ) scanf()",
+        "chapterId": "5",
+        "id": 201,
+        "level": "medium",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return()"
+        ],
+        "question": "C প্রোগ্রামিং এ ইনপুট ফাংশন কোনটি?"
+      },
+      {
+        "answer": "ঘ) []",
+        "chapterId": "5",
+        "id": 207,
+        "level": "medium",
+        "options": [
+          "ক) ;",
+          "খ) {}",
+          "গ) ()",
+          "ঘ) []"
+        ],
+        "question": "C প্রোগ্রামিং এ কোন প্রতীক অ্যারে নির্দেশ করে?"
+      },
+      {
+        "answer": "ক) //",
+        "chapterId": "5",
+        "id": 208,
+        "level": "hard",
+        "options": [
+          "ক) //",
+          "খ) #",
+          "গ) $",
+          "ঘ) @"
+        ],
+        "question": "C প্রোগ্রামিং এ মন্তব্য লেখার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "খ) #include",
+        "chapterId": "5",
+        "id": 209,
+        "level": "easy",
+        "options": [
+          "ক) //",
+          "খ) #include",
+          "গ) $",
+          "ঘ) @"
+        ],
+        "question": "C প্রোগ্রামিং এ হেডার ফাইল যুক্ত করার জন্য কোনটি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 218,
+        "level": "easy",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামিং এ কন্ডিশনাল স্টেটমেন্ট হলো—\ni) if \nii) else \niii) switch"
+      }
+    ]
+  },
+  {
     "model_test_id": "34",
     "teacher_id": "11467811111111111",
     "difficulty": "All",
