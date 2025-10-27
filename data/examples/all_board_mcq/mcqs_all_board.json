@@ -360,7 +360,7 @@
                 "গ) ii ও iii",
                 "ঘ) i, ii ও iii"
               ],
-              "answer": "খ) i ও iii",
+              "answer": "ক) i ও ii",
               "level": "hard",
               "chapterId": "2"
             },
@@ -542,7 +542,7 @@
                 "গ) %ld",
                 "ঘ) %lf"
               ],
-              "answer": "খ) %f",
+              "answer": "ঘ) %lf",
               "level": "easy",
               "chapterId": "5"
             },
@@ -598,7 +598,7 @@
                 "গ) বায়োমেট্রিক্স",
                 "ঘ) বায়োইনফরমেটিক্স"
               ],
-              "answer": "ক) ন্যানোটেকনোলজি",
+              "answer": " "ঘ) বায়োইনফরমেটিক্স",
               "level": "medium",
               "chapterId": "1"
             },
