@@ -2405,6 +2405,364 @@
           ]
         }
       ]
+    },
+    {
+      "Rajshahi Board": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "ভিডিও স্ট্রিমিং সার্ভিসের জন্য প্রয়োজনীয় ব্যান্ডউইডথ হলো-\ni. 0.5 Mbps\t ii. 0.7 Mbps\t iii. 1 Mbps\t iv. 4 Mbps",
+              "imageUrl": "",
+              "options": [
+                "ক) 0.5 Mbps",
+                "খ) 0.7 Mbps",
+                "গ) 1 Mbps",
+                "ঘ) 4 Mbps"
+              ],
+              "answer": "ঘ) 4 Mbps",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 2,
+              "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো-\ni. নোটপ্যাড++\t ii. সাবলাইম টেক্সট\t iii. নোটপ্যাড\nনিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 3,
+              "question": "C ভাষায় $F = POW(5, (7\\ MOD\\ 3) + (6/3) * 2 + 5$ হলে $F$ এর সরলীকৃত মান কত?",
+              "imageUrl": "",
+              "options": [
+                "ক) 14",
+                "খ) 31",
+                "গ) 34",
+                "ঘ) 40"
+              ],
+              "answer": "গ) 34",
+              "level": "hard",
+              "chapterId": "5"
+            },
+            {
+              "id": 4,
+              "question": "10 BASE-2 নামে পরিচিত ক্যাবল কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) অপটিক্যাল ফাইবার",
+                "খ) থিকনেট",
+                "গ) টুইস্টেড পেয়ার",
+                "ঘ) থিননেট"
+              ],
+              "answer": "ঘ) থিননেট",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 5,
+              "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
+              "options": [
+                "ক) $X\\cdot Y$",
+                "খ) $\\overline{X\\cdot Y}$",
+                "গ) $\\overline{X \\oplus Y}$",
+                "ঘ) $X \\oplus Y$"
+              ],
+              "answer": "ঘ) $X \\oplus Y$",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 6,
+              "question": "চিত্রে '2' নং গেটের পরিবর্তে কোন গেট স্থাপন করলে $F = 0$ হবে?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
+              "options": [
+                "ক) OR",
+                "খ) AND",
+                "গ) NOR",
+                "ঘ) NAND"
+              ],
+              "answer": "গ) NOR",
+              "level": "hard",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 7,
+              "question": "$\\text{<img\\>}$ ট্যাগের সাথে মিল রয়েছে কোন ট্যাগের?",
+              "imageUrl": "",
+              "options": [
+                "ক) $\\text{<br\\>}$",
+                "খ) $\\text{<tr>}$",
+                "গ) $\\text{<a>}$",
+                "ঘ) $\\text{<div>}$"
+              ],
+              "answer": "ক) $\\text{<br\\>}$",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 8,
+              "question": "'C' ভাষায় লজিক্যাল অপারেটর কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) $\\text{&}$",
+                "খ) $\\text{&&}$",
+                "গ) $\\text{=}$",
+                "ঘ) $\\text{>}$"
+              ],
+              "answer": "খ) $\\text{&&}$",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 9,
+              "question": "নিচের উদ্দীপকটি পড় এবং ৯ নং প্রশ্নের উত্তর দাও:\n$\\text{#include <stdio.h>}$\n$\\text{main() {\\ int x, y;\\ x = 20;\\ x = x + 10;\\ y = x \\% 5;\\ printf(\"%d\", y);\\ } }$\n প্রোগ্রামটির আউটপুট কত হবে?",
+              "imageUrl": "",
+              "options": [
+                "ক) 0",
+                "খ) 1",
+                "গ) 2",
+                "ঘ) 4"
+              ],
+              "answer": "ক) 0",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 10,
+              "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n$\\text{<font color = \"Red\" face = \"Arial\"> ICT </font>}$\n উদ্দীপকে কন্টেন্ট কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) Font",
+                "খ) Color",
+                "গ) Red",
+                "ঘ) ICT"
+              ],
+              "answer": "ঘ) ICT",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 11,
+              "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n$\\text{<font color = \"Red\" face = \"Arial\"> ICT </font>}$\n উদ্দীপকে অ্যাট্রিবিউট ভ্যালু হলো-\n i. color\t ii. red\t iii. arial\n নিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "গ) ii ও iii",
+              "level": "medium",
+              "chapterId": "4"
+            },
+            {
+              "id": 12,
+              "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n$\\text{#include <stdio.h>}$\n$\\text{main() {\\ int c, S = 1;\\ for(c = 2; c <= 10; c += 3)\\{\\ S = S + c;\\ \\}\\ printf(\"%d\", S);\\ } }$\n প্রোগ্রামটি রান করালে আউটপুট কত হবে?",
+              "imageUrl": "",
+              "options": [
+                "ক) 15",
+                "খ) 16",
+                "গ) 18",
+                "ঘ) 19"
+              ],
+              "answer": "গ) 18",
+              "level": "hard",
+              "chapterId": "5"
+            },
+            {
+              "id": 13,
+              "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n$\\text{#include <stdio.h>}$\n$\\text{main() {\\ int c, S = 1;\\ for(c = 2; c <= 10; c += 3)\\{\\ S = S + c;\\ \\}\\ printf(\"%d\", S);\\ } }$\n  প্রোগ্রামটির আউটপুট ১২৭ পেতে হলে কী পরিবর্তন করতে হবে?",
+              "imageUrl": "",
+              "options": [
+                "ক) $\\text{C=1, S=S+C*C}$",
+                "খ) $\\text{C=2, S=S+C*C}$",
+                "গ) $\\text{C=3, S=S+C*C}$",
+                "ঘ) $\\text{C=4, S=S+C*C}$"
+              ],
+              "answer": "গ) $\\text{C=3, S=S+C*C}$",
+              "level": "hard",
+              "chapterId": "5"
+            },
+            {
+              "id": 14,
+              "question": "ক্রায়োজেনিক এজেন্ট কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) হাইড্রোজেন",
+                "খ) আর্গন",
+                "গ) ক্লোরিন",
+                "ঘ) হিলিয়াম"
+              ],
+              "answer": "ঘ) হিলিয়াম",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 15,
+              "question": "কোন প্রজন্মের মোবাইল ফোনে $4K$ ভিডিও উপভোগ করা যায়?",
+              "imageUrl": "",
+              "options": [
+                "ক) ২য়",
+                "খ) ৩য়",
+                "গ) ৪ৰ্থ",
+                "ঘ) ৫ম"
+              ],
+              "answer": "ঘ) ৫ম",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 16,
+              "question": "কৃত্রিম বুদ্ধিমত্তার ক্ষেত্র হলো-\n i. মেশিন লার্নিং \t ii. ই-লার্নিং \t iii. ডিপ লার্নিং \n নিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 17,
+              "question": "নতুন লাইনের শুরুতে আউটপুট প্রদর্শনের জন্য নিচের কোন $\\text{escape sequence}$ টি ব্যবহৃত হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) $\\text{//n}$",
+                "খ) $\\text{\\\\n}$",
+                "গ) $\\text{/n}$",
+                "ঘ) $\\text{\\n}$"
+              ],
+              "answer": "ঘ) $\\text{\\n}$",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 18,
+              "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n দুটি সংখ্যার পার্থক্য $\\text{(52)}_{10}$। তাদের মধ্যে বড় সংখ্যাটি $\\text{(5D)}_{16}$। \n উদ্দীপকের অপর সংখ্যাটি কত?",
+              "imageUrl": "",
+              "options": [
+                "ক) $\\text{(101100)}_{2}$",
+                "খ) $\\text{(101001)}_{2}$",
+                "গ) $\\text{(110010)}_{2}$",
+                "ঘ) $\\text{(100101)}_{2}$"
+              ],
+              "answer": "খ) $\\text{(101001)}_{2}$",
+              "level": "medium",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 19,
+              "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n দুটি সংখ্যার পার্থক্য $\\text{(52)}_{10}$। তাদের মধ্যে বড় সংখ্যাটি $\\text{(5D)}_{16}$। \n সংখ্যা দুটির যোগফল হতে পারে-\n i. $\\text{(10000110)}_{2}$ \t ii. $\\text{(134)}_{10}$ \t iii. $\\text{(206)}_{16}$ \n নিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "hard",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 20,
+              "question": "নিচের সার্কিটটির ক্ষেত্রে কখন আলো জ্বলবে না?\nচিত্র: ",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32.PNG?raw=true",
+              "options": [
+                "ক) $\\text{A = 0, B = 0}$",
+                "খ) $\\text{A = 1, B = 0}$",
+                "গ) $\\text{A = 0, B = 1}$",
+                "ঘ) $\\text{A = 1, B = 1}$"
+              ],
+              "answer": "ক) $\\text{A = 0, B = 0}$",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 21,
+              "question": "মেশ টপোলজিতে ৫টি তার দিয়ে সর্বোচ্চ কতটি নোডকে সংযুক্ত করা যায়?",
+              "imageUrl": "",
+              "options": [
+                "ক) ৮টি",
+                "খ) ৯টি",
+                "গ) ১০টি",
+                "ঘ) ১৫টি"
+              ],
+              "answer": "খ) ৯টি",
+              "level": "hard",
+              "chapterId": "2"
+            },
+            {
+              "id": 22,
+              "question": "নিচের উদ্দীপকটি পড় এবং উক্ত নং প্রশ্নের উত্তর দাও:\nজনাব লাবিব মসৃণ ত্বকের জন্য অ্যান্টি-এজিং ক্রিম তৈরিতে এক ধরনের প্রযুক্তি ব্যবহার করলেন। তার অফিসে প্রবেশ করতে হাতের ছাপ লাগে।\nজনাব লাবিবের ক্রিম তৈরির প্রযুক্তি কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) ন্যানোটেকনোলজি",
+                "খ) বায়োইনফরমেট্রিক্স",
+                "গ) বায়োমেট্রিক্স",
+                "ঘ) জেনেটিক ইঞ্জিনিয়ারিং"
+              ],
+              "answer": "ক) ন্যানোটেকনোলজি",
+              "level": "easy",
+              "chapterId": "1"
+            },
+            {
+              "id": 23,
+              "question": "নিচের উদ্দীপকটি পড় এবং উক্ত নং প্রশ্নের উত্তর দাও:\nজনাব লাবিব মসৃণ ত্বকের জন্য অ্যান্টি-এজিং ক্রিম তৈরিতে এক ধরনের প্রযুক্তি ব্যবহার করলেন। তার অফিসে প্রবেশ করতে হাতের ছাপ লাগে।\n জনাব লাবিবের কক্ষে প্রবেশে ব্যবহৃত প্রযুক্তির কোন শারীরিক বৈশিষ্ট্য হলো-\n i. স্বাক্ষর\t ii. ডিএনএ\t iii. ফিঙ্গার প্রিন্ট\n নিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 24,
+              "question": "ইউনিকোডের প্রথম সংস্করণ কতটি ভাষা নিয়ে চালু করা হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) ৬টি",
+                "খ) ১২টি",
+                "গ) ২৪টি",
+                "ঘ) ৪৮টি"
+              ],
+              "answer": "গ) ২৪টি",
+              "level": "medium",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 25,
+              "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nচিত্র: \nচিত্রে '?' চিহ্নিত স্থানে কোন ডিভাইস স্থাপন করলে স্টার নেটওয়ার্ক তৈরি করা যায়?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap2.PNG?raw=true",
+              "options": [
+                "ক) $\\text{Modem}$",
+                "খ) $\\text{Hub}$",
+                "গ) $\\text{Router}$",
+                "ঘ) $\\text{Gateway}$"
+              ],
+              "answer": "খ) $\\text{Hub}$",
+              "level": "easy",
+              "chapterId": "2"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
