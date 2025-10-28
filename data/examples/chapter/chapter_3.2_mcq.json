@@ -1,304 +1,704 @@
 {
    "mcqs":[
-      {
-         "id":1,
-         "question":"101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
-         "options":[
-            "ক. 101100",
-            "খ. 010010",
-            "গ. 101000",
-            "ঘ. 101111"
-         ],
-         "answer":"খ. 010010",
-         "level":"easy"
-      },
-      {
-         "id":2,
-         "question":"ফাইবার অপটিক ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
-         "options":[
-            "ক. লেজার",
-            "খ. গামা",
-            "গ. বিটা",
-            "ঘ. আলফা"
-         ],
-         "answer":"ক. লেজার",
-         "level":"easy"
-      },
-      {
-         "id":3,
-         "question":"কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
-         "options":[
-            "ক. শিক্ষা",
-            "খ. বাণিজ্যিক",
-            "গ. সরকারি",
-            "ঘ. আন্তর্জাতিক"
-         ],
-         "answer":"খ. বাণিজ্যিক",
-         "level":"medium"
-      },
-      {
-         "id":4,
-         "question":"উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
-         "options":[
-            "ক. SMTP",
-            "খ. VOIP",
-            "গ. FTP",
-            "খ. HTTP"
-         ],
-         "answer":"ঘ. HTTP",
-         "level":"medium"
-      },
-      {
-         "id":5,
-         "question":"ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
-         "options":[
-            "ক. %c",
-            "খ. %s",
-            "গ. %lf",
-            "ঘ. %d"
-         ],
-         "answer":"ক. %c",
-         "level":"easy"
-      },
-      {
-         "id":6,
-         "question":"নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i=3; i <= 15; i+=2)\nif (i-- > 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
-         "options":[
-            "ক. ৩",
-            "খ. ৪",
-            "গ. ৫",
-            "ঘ. ৬"
-         ],
-         "answer":"খ. ৪",
-         "level":"medium"
-      },
-      {
-         "id":7,
-         "question":"ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
-         "options":[
-            "ক. সাশ্রয়ী ও সহজলভ্য",
-            "খ. লাইসেন্স ফি লাগে",
-            "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
-            "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
-         ],
-         "answer":"ক. সাশ্রয়ী ও সহজলভ্য",
-         "level":"easy"
-      },
-      {
-         "id":8,
-         "question":"নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?",
-         "options":[
-            "ক. A'B + AB'",
-            "খ. AB + A'B",
-            "গ. AB'",
-            "ঘ. A+B"
-         ],
-         "answer":"ক. A'B + AB'",
-         "level":"medium"
-      },
-      {
-         "id":9,
-         "question":"নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-",
-         "options":[
-            "ক. A=1, B=0",
-            "খ. A=0, B=1",
-            "গ. A=1, B=1",
-            "ঘ. A=0, B=0"
-         ],
-         "answer":"ক. A=1, B=0",
-         "level":"medium"
-      },
-      {
-         "id":10,
-         "question":"#FFFFFF কোন রং নির্দেশ করে?",
-         "options":[
-            "ক. সাদা",
-            "খ. নীল",
-            "গ. সায়ান",
-            "ঘ. লাল"
-         ],
-         "answer":"ক. সাদা",
-         "level":"easy"
-      },
-      {
-         "id":11,
-         "question":"নিচের উদ্দীপকটি পড় প্রশ্নের উত্তর দাও।\nvoid main()\n{\nint i=15, j;\nj = i++;\nprintf(\"%d %d\", i,j);\n}\nউদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
-         "options":[
-            "ক. 15, 15",
-            "খ. 15, 16",
-            "গ. 16, 16",
-            "ঘ. 16, 17"
-         ],
-         "answer":"ক. 15, 15",
-         "level":"medium"
-      },
-      {
-         "id":12,
-         "question":"জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
-         "options":[
-            "ক. জিন",
-            "খ. জিনোম",
-            "গ. নিউক্লিয়াস",
-            "ঘ. ক্রোমোজোম"
-         ],
-         "answer":"খ. জিনোম",
-         "level":"easy"
-      },
-      {
-         "id":13,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":14,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":15,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":16,
-         "question":"একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
-         "options":[
-            "ক. (170)10",
-            "খ. (252)10",
-            "গ. (10101010)2",
-            "ঘ. উপরের কোনটি সঠিক?"
-         ],
-         "answer":"ক. (170)10",
-         "level":"hard"
-      },
-      {
-         "id":17,
-         "question":"নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
-         "options":[
-            "ক. <table bgcolor=\"green\">",
-            "খ. <tr bgcolor=\"green\">",
-            "গ. <td bgcolor=\"green\">",
-            "ঘ. <th bgcolor=\"green\">"
-         ],
-         "answer":"গ. <td bgcolor=\"green\">",
-         "level":"medium"
-      },
-      {
-         "id":18,
-         "question":"হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
-         "options":[
-            "ক. EBCDIC",
-            "খ. ASCII-7",
-            "গ. ASCII-8",
-            "ঘ. Unicode"
-         ],
-         "answer":"ঘ. Unicode",
-         "level":"easy"
-      },
-      {
-         "id":19,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":20,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":21,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":22,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":23,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":24,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":25,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      }
-   ]
+  {
+    "id": 1,
+    "question": "বুলিয়ান বীজগণিতে A + A̅ = কত?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) A",
+      "ঘ) A̅"
+    ],
+    "answer": "খ) 1",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 2,
+    "question": "কোন গেইটটি ইউনিভার্সাল গেইট নয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) NAND",
+      "খ) NOR",
+      "গ) AND",
+      "ঘ) উপরের সবগুলো"
+    ],
+    "answer": "গ) AND",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 3,
+    "question": "Truth Table এ n টি ইনপুটের জন্য কতটি সম্ভাব্য কম্বিনেশন থাকে?",
+    "imageUrl": "",
+    "options": [
+      "ক) n",
+      "খ) 2n",
+      "গ) 2ⁿ",
+      "ঘ) n²"
+    ],
+    "answer": "গ) 2ⁿ",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 4,
+    "question": "XOR গেইটের আউটপুট কখন 1 হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) উভয় ইনপুট 0 হলে",
+      "খ) উভয় ইনপুট 1 হলে",
+      "গ) ইনপুট ভিন্ন হলে",
+      "ঘ) ইনপুট সমান হলে"
+    ],
+    "answer": "গ) ইনপুট ভিন্ন হলে",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 5,
+    "question": "De Morgan's theorem অনুযায়ী (A + B)' = কত?",
+    "imageUrl": "",
+    "options": [
+      "ক) A' + B'",
+      "খ) A' . B'",
+      "গ) A . B",
+      "ঘ) A + B"
+    ],
+    "answer": "খ) A' . B'",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 6,
+    "question": "Half Adder এ কয়টি ইনপুট থাকে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 1",
+      "খ) 2",
+      "গ) 3",
+      "ঘ) 4"
+    ],
+    "answer": "খ) 2",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 7,
+    "question": "NOT গেইটের আউটপুট কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) ইনপুটের সমান",
+      "খ) ইনপুটের বিপরীত",
+      "গ) সবসময় 0",
+      "ঘ) সবসময় 1"
+    ],
+    "answer": "খ) ইনপুটের বিপরীত",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 8,
+    "question": "Full Adder এ কয়টি আউটপুট থাকে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 1",
+      "খ) 2",
+      "গ) 3",
+      "ঘ) 4"
+    ],
+    "answer": "খ) 2",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 9,
+    "question": "SR Flip-Flop এ S = 1 এবং R = 1 হলে কী অবস্থা সৃষ্টি হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Set",
+      "খ) Reset",
+      "গ) Invalid",
+      "ঘ) Toggle"
+    ],
+    "answer": "গ) Invalid",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 10,
+    "question": "কোন Flip-Flop এ Toggle সুবিধা আছে?",
+    "imageUrl": "",
+    "options": [
+      "ক) SR",
+      "খ) JK",
+      "গ) D",
+      "ঘ) T"
+    ],
+    "answer": "ঘ) T",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 11,
+    "question": "Register মূলত কী সংরক্ষণ করে?",
+    "imageUrl": "",
+    "options": [
+      "ক) এনালগ ডেটা",
+      "খ) ডিজিটাল ডেটা",
+      "গ) শুধু 0",
+      "ঘ) শুধু 1"
+    ],
+    "answer": "খ) ডিজিটাল ডেটা",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 12,
+    "question": "4-bit Counter সর্বোচ্চ কত পর্যন্ত গণনা করতে পারে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 8",
+      "খ) 15",
+      "গ) 16",
+      "ঘ) 32"
+    ],
+    "answer": "খ) 15",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 13,
+    "question": "বুলিয়ান বীজগণিতের কোন থিওরেম A + AB = A প্রকাশ করে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Absorption",
+      "খ) Associative",
+      "গ) Distributive",
+      "ঘ) Commutative"
+    ],
+    "answer": "ক) Absorption",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 14,
+    "question": "XNOR গেইটের আউটপুট কখন 1 হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) ইনপুট ভিন্ন হলে",
+      "খ) ইনপুট সমান হলে",
+      "গ) শুধু একটি ইনপুট 1 হলে",
+      "ঘ) উভয় ইনপুট 0 হলে"
+    ],
+    "answer": "খ) ইনপুট সমান হলে",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 15,
+    "question": "NAND গেইট দিয়ে নিচের কোনগুলো তৈরি করা সম্ভব? i) AND গেইট ii) OR গেইট iii) NOT গেইট",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "ঘ) i, ii ও iii",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 16,
+    "question": "Asynchronous Counter এর বৈশিষ্ট্য হলো-- i) সকল Flip-Flop একই সময়ে ট্রিগার হয় ii) Ripple Counter নামে পরিচিত iii) গতি তুলনামূলকভাবে কম",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "গ) ii ও iii",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 17,
+    "question": "কোন Logic Expression টি Commutative Law প্রকাশ করে?",
+    "imageUrl": "",
+    "options": [
+      "ক) A + B = B + A",
+      "খ) A + 0 = A",
+      "গ) A . 1 = A",
+      "ঘ) A + A̅ = 1"
+    ],
+    "answer": "ক) A + B = B + A",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 18,
+    "question": "OR গেইটের Truth Table অনুযায়ী আউটপুট কখন 0 হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) উভয় ইনপুট 0 হলে",
+      "খ) একটি ইনপুট 1 হলে",
+      "গ) উভয় ইনপুট 1 হলে",
+      "ঘ) একটি ইনপুট 0 হলে"
+    ],
+    "answer": "ক) উভয় ইনপুট 0 হলে",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 19,
+    "question": "D Flip-Flop এর বৈশিষ্ট্য কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) দুটি ইনপুট আছে",
+      "খ) ডেটা লক করে রাখে",
+      "গ) Toggle করে",
+      "ঘ) Invalid state আছে"
+    ],
+    "answer": "খ) ডেটা লক করে রাখে",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 20,
+    "question": "উদ্দীপক অনুযায়ী কোন বর্তনীর কথা বলা হয়েছে? (Stem: Carry Input সুবিধা সহ দুটি বাইনারি সংখ্যা যোগকারী বর্তনী)",
+    "imageUrl": "",
+    "options": [
+      "ক) Half Adder",
+      "খ) Full Adder",
+      "গ) Multiplexer",
+      "ঘ) Decoder"
+    ],
+    "answer": "খ) Full Adder",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 21,
+    "question": "উক্ত বর্তনীতে মোট কয়টি ইনপুট থাকবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 2",
+      "খ) 3",
+      "গ) 4",
+      "ঘ) 5"
+    ],
+    "answer": "খ) 3",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 22,
+    "question": "উদ্দীপকের বর্তনীটি কোন গেইট? (Stem: Y = (A + B)' সমীকরণ অনুসরণকারী বর্তনী)",
+    "imageUrl": "",
+    "options": [
+      "ক) NAND",
+      "খ) NOR",
+      "গ) XOR",
+      "ঘ) XNOR"
+    ],
+    "answer": "খ) NOR",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 23,
+    "question": "De Morgan's Theorem প্রয়োগ করলে Y = কত হবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) A . B",
+      "খ) A' . B'",
+      "গ) A' + B'",
+      "ঘ) A + B"
+    ],
+    "answer": "খ) A' . B'",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 24,
+    "question": "উদ্দীপকে কোন ডিভাইসের কথা বলা হয়েছে? (Stem: ক্লক পালসের মাধ্যমে ডেটা সংরক্ষণকারী মেমোরি ইউনিট)",
+    "imageUrl": "",
+    "options": [
+      "ক) Register",
+      "খ) Flip-Flop",
+      "গ) Counter",
+      "ঘ) Multiplexer"
+    ],
+    "answer": "খ) Flip-Flop",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 25,
+    "question": "এই ডিভাইসের মূল কাজ কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা যোগ করা",
+      "খ) ডেটা সংরক্ষণ করা",
+      "গ) ডেটা গণনা করা",
+      "ঘ) ডেটা ডিকোড করা"
+    ],
+    "answer": "খ) ডেটা সংরক্ষণ করা",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 26,
+    "question": "A . (B + C) = AB + AC কোন থিওরেম?",
+    "imageUrl": "",
+    "options": [
+      "ক) Associative",
+      "খ) Distributive",
+      "গ) Absorption",
+      "ঘ) Complement"
+    ],
+    "answer": "খ) Distributive",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 27,
+    "question": "JK Flip-Flop এ J = 1 এবং K = 1 হলে কী ঘটে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Set অবস্থা",
+      "খ) Reset অবস্থা",
+      "গ) Toggle অবস্থা",
+      "ঘ) কোনো পরিবর্তন হয় না"
+    ],
+    "answer": "গ) Toggle অবস্থা",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 28,
+    "question": "একটি 3-bit Counter এর মোডুলাস কত?",
+    "imageUrl": "",
+    "options": [
+      "ক) 3",
+      "খ) 6",
+      "গ) 8",
+      "ঘ) 16"
+    ],
+    "answer": "গ) 8",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 29,
+    "question": "Shift Register এর কাজ কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা যোগ করা",
+      "খ) ডেটা স্থানান্তর করা",
+      "গ) ডেটা বিয়োগ করা",
+      "ঘ) ডেটা গুণ করা"
+    ],
+    "answer": "খ) ডেটা স্থানান্তর করা",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 30,
+    "question": "বুলিয়ান বীজগণিতে A . 0 = কত?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) A",
+      "ঘ) A̅"
+    ],
+    "answer": "ক) 0",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 31,
+    "question": "AND গেইটের সকল ইনপুট 1 হলে আউটপুট কত হবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) ইনপুট অনুযায়ী",
+      "ঘ) অনিশ্চিত"
+    ],
+    "answer": "খ) 1",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 32,
+    "question": "Counter এর প্রধান কাজ কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেটা সংরক্ষণ",
+      "খ) ঘটনা গণনা",
+      "গ) ডেটা যোগ",
+      "ঘ) ডেটা বিয়োগ"
+    ],
+    "answer": "খ) ঘটনা গণনা",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 33,
+    "question": "উদ্দীপকের সার্কিটটি কোনটি? (Stem: Sum = A ⊕ B ⊕ Cin এবং Cout = AB + BCin + ACin)",
+    "imageUrl": "",
+    "options": [
+      "ক) Half Adder",
+      "খ) Full Adder",
+      "গ) Half Subtractor",
+      "ঘ) Full Subtractor"
+    ],
+    "answer": "খ) Full Adder",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 34,
+    "question": "যদি A = 1, B = 1, Cin = 0 হয়, তাহলে Sum এর মান কত হবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) 2",
+      "ঘ) 3"
+    ],
+    "answer": "ক) 0",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 35,
+    "question": "এই সার্কিট কোন ধরনের Counter? (Stem: 4টি JK Flip-Flop সংযুক্ত, প্রতিটির আউটপুট পরবর্তী ক্লকে সংযুক্ত)",
+    "imageUrl": "",
+    "options": [
+      "ক) Synchronous Counter",
+      "খ) Asynchronous Counter",
+      "গ) Ring Counter",
+      "ঘ) Johnson Counter"
+    ],
+    "answer": "খ) Asynchronous Counter",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 36,
+    "question": "এই Counter সর্বোচ্চ কত পর্যন্ত গণনা করতে পারবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 8",
+      "খ) 15",
+      "গ) 16",
+      "ঘ) 32"
+    ],
+    "answer": "খ) 15",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 37,
+    "question": "Idempotent Law অনুযায়ী A + A = কত?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) A",
+      "ঘ) 2A"
+    ],
+    "answer": "গ) A",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 38,
+    "question": "Universal Gate দিয়ে অন্য সব গেইট তৈরির সুবিধা-- i) খরচ কমে ii) সার্কিট সরল হয় iii) ডিজাইন সহজ হয়",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "ঘ) i, ii ও iii",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 39,
+    "question": "উদ্দীপকে কোন গেইটের কথা বলা হয়েছে? (Stem: আউটপুট তখনই 1 হয় যখন উভয় ইনপুট ভিন্ন হয়)",
+    "imageUrl": "",
+    "options": [
+      "ক) AND",
+      "খ) OR",
+      "গ) XOR",
+      "ঘ) XNOR"
+    ],
+    "answer": "গ) XOR",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 40,
+    "question": "যদি ইনপুট A = 1 এবং B = 1 হয়, তাহলে আউটপুট কত হবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) 2",
+      "ঘ) অনির্ধারিত"
+    ],
+    "answer": "ক) 0",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 41,
+    "question": "T Flip-Flop এর T = 1 হলে কী ঘটে?",
+    "imageUrl": "",
+    "options": [
+      "ক) আউটপুট 0 হয়",
+      "খ) আউটপুট 1 হয়",
+      "গ) আউটপুট Toggle হয়",
+      "ঘ) কোনো পরিবর্তন হয় না"
+    ],
+    "answer": "গ) আউটপুট Toggle হয়",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 42,
+    "question": "Register এ কোন ধরনের Flip-Flop ব্যবহার করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) শুধু SR",
+      "খ) শুধু JK",
+      "গ) শুধু D",
+      "ঘ) যেকোনো ধরনের"
+    ],
+    "answer": "ঘ) যেকোনো ধরনের",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 43,
+    "question": "বুলিয়ান বীজগণিতে A . 1 = কত?",
+    "imageUrl": "",
+    "options": [
+      "ক) 0",
+      "খ) 1",
+      "গ) A",
+      "ঘ) A̅"
+    ],
+    "answer": "গ) A",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 44,
+    "question": "Synchronous Counter এর বৈশিষ্ট্য-- i) সকল Flip-Flop একসাথে ট্রিগার হয় ii) দ্রুত গতিসম্পন্ন iii) Ripple Effect নেই",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "ঘ) i, ii ও iii",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 45,
+    "question": "প্রথম বর্তনীটি কোনটি? (Stem: প্রথম বর্তনী Carry Input ছাড়াই যোগ করে)",
+    "imageUrl": "",
+    "options": [
+      "ক) Half Adder",
+      "খ) Full Adder",
+      "গ) Half Subtractor",
+      "ঘ) Comparator"
+    ],
+    "answer": "ক) Half Adder",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 46,
+    "question": "পরবর্তী বর্তনীগুলোতে কোনটি ব্যবহৃত হবে?",
+    "imageUrl": "",
+    "options": [
+      "ক) Half Adder",
+      "খ) Full Adder",
+      "গ) Multiplexer",
+      "ঘ) Demultiplexer"
+    ],
+    "answer": "খ) Full Adder",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 47,
+    "question": "NOR গেইট দিয়ে কোন গেইট তৈরি করা যায়?",
+    "imageUrl": "",
+    "options": [
+      "ক) শুধু AND",
+      "খ) শুধু OR",
+      "গ) শুধু NOT",
+      "ঘ) সকল বেসিক গেইট"
+    ],
+    "answer": "ঘ) সকল বেসিক গেইট",
+    "level": "medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 48,
+    "question": "XNOR গেইট কে কী বলা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) Exclusive OR",
+      "খ) Exclusive NOR",
+      "গ) Equivalence Gate",
+      "ঘ) b এবং c উভয়ই"
+    ],
+    "answer": "ঘ) b এবং c উভয়ই",
+    "level": "hard",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 49,
+    "question": "এই সার্কিটকে কী বলা হয়? (Stem: নির্দিষ্ট সংখ্যা পর্যন্ত গণনা করে পুনরায় শুরু হওয়া Sequential Circuit)",
+    "imageUrl": "",
+    "options": [
+      "ক) Register",
+      "খ) Flip-Flop",
+      "গ) Counter",
+      "ঘ) Adder"
+    ],
+    "answer": "গ) Counter",
+    "level": "easy",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 50,
+    "question": "সেকেন্ড প্রদর্শনের জন্য এই Counter এর Modulus কত হওয়া উচিত?",
+    "imageUrl": "",
+    "options": [
+      "ক) 10",
+      "খ) 24",
+      "গ) 60",
+      "ঘ) 100"
+    ],
+    "answer": "গ) 60",
+    "level": "medium",
+    "chapterId": "3.2"
+  }
+]
 }
