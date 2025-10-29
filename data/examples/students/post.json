@@ -40,7 +40,17 @@
                 "kotlin",
                 "development"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post124",
+                    "authorName": "shibbir",
+                    "content": "Hello girls",
+                    "timestamp": "2025-10-29 10:15:30",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                }
+            ]
         }
     ],
     "status": "success",
