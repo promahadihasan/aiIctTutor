@@ -2,7 +2,708 @@
   "mcqs": [
     {
       "id": 1,
-      "question": "একটি কেন্দ্রিয় হাব দ্বারা কোন টপোলজি সংযুক্ত থাকে?",
+      "question": "ডেটা কমিউনিকেশনের মৌলিক উপাদান কয়টি?",
+      "imageUrl": "",
+      "options": [
+        "ক) ৪টি",
+        "খ) ৫টি",
+        "গ) ৬টি",
+        "ঘ) ৭টি"
+      ],
+      "answer": "খ) ৫টি",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 2,
+      "question": "টেলিভিশন সম্প্রচারে কোন মোড ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) সিমপ্লেক্স",
+        "খ) হাফ-ডুপ্লেক্স",
+        "গ) ফুল-ডুপ্লেক্স",
+        "ঘ) অ্যাসিনক্রোনাস"
+      ],
+      "answer": "ক) সিমপ্লেক্স",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 3,
+      "question": "ওয়াকি-টকি কোন মোডের উদাহরণ?",
+      "imageUrl": "",
+      "options": [
+        "ক) সিমপ্লেক্স",
+        "খ) হাফ-ডুপ্লেক্স",
+        "গ) ফুল-ডুপ্লেক্স",
+        "ঘ) মাল্টিপ্লেক্স"
+      ],
+      "answer": "খ) হাফ-ডুপ্লেক্স",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 4,
+      "question": "একই সাথে ডেটা আদান-প্রদান করা যায় কোন মোডে?",
+      "imageUrl": "",
+      "options": [
+        "ক) সিমপ্লেক্স",
+        "খ) হাফ-ডুপ্লেক্স",
+        "গ) ফুল-ডুপ্লেক্স",
+        "ঘ) অ্যাসিনক্রোনাস"
+      ],
+      "answer": "গ) ফুল-ডুপ্লেক্স",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 5,
+      "question": "ডেটা আদান-প্রদানের হারকে কী বলা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) প্রোটোকল",
+        "খ) ব্যান্ডউইথ",
+        "গ) টপোলজি",
+        "ঘ) মোড"
+      ],
+      "answer": "খ) ব্যান্ডউইথ",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 6,
+      "question": "প্রতি সেকেন্ডে ডেটা স্থানান্তরের একক কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) BPS",
+        "খ) Hertz",
+        "গ) Byte",
+        "ঘ) Baud"
+      ],
+      "answer": "ক) BPS",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 7,
+      "question": "কম্পিউটারের মধ্যে ডেটা স্থানান্তরের জন্য ব্যবহৃত চ্যানেলকে কী বলে?",
+      "imageUrl": "",
+      "options": [
+        "ক) প্রোটোকল",
+        "খ) মিডিয়া",
+        "গ) টপোলজি",
+        "ঘ) হাব"
+      ],
+      "answer": "খ) মিডিয়া",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 8,
+      "question": "টুইস্টেড পেয়ার ক্যাবলের প্রকারভেদ কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) কো-এক্সিয়াল",
+        "খ) ফাইবার অপটিক",
+        "গ) UTP ও STP",
+        "ঘ) রেডিও ওয়েভ"
+      ],
+      "answer": "গ) UTP ও STP",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 9,
+      "question": "ফাইবার অপটিক ক্যাবলের প্রধান সুবিধা কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) কম দাম",
+        "খ) সহজে স্থাপন",
+        "গ) উচ্চ ব্যান্ডউইথ",
+        "ঘ) পাওয়ার সঞ্চালন"
+      ],
+      "answer": "গ) উচ্চ ব্যান্ডউইথ",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 10,
+      "question": "আলো সংকেত ব্যবহার করে ডেটা পরিবহন করে কোন মাধ্যম?",
+      "imageUrl": "",
+      "options": [
+        "ক) টুইস্টেড পেয়ার",
+        "খ) কো-এক্সিয়াল",
+        "গ) ফাইবার অপটিক",
+        "ঘ) রেডিও ওয়েভ"
+      ],
+      "answer": "গ) ফাইবার অপটিক",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 11,
+      "question": "ডেটা কমিউনিকেশনের গতিকে কয় ভাগে ভাগ করা যায়?",
+      "imageUrl": "",
+      "options": [
+        "ক) ২ ভাগ",
+        "খ) ৩ ভাগ",
+        "গ) ৪ ভাগ",
+        "ঘ) ৫ ভাগ"
+      ],
+      "answer": "খ) ৩ ভাগ",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 12,
+      "question": "মাইক্রোওয়েভ ডেটা কমিউনিকেশনে কোথায় ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) সমুদ্রের নিচে",
+        "খ) মহাকাশে",
+        "গ) ভূ-পৃষ্ঠে",
+        "ঘ) ঘরের ভিতরে"
+      ],
+      "answer": "গ) ভূ-পৃষ্ঠে",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 13,
+      "question": "PAN এর পূর্ণরূপ কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) Primary Area Network",
+        "খ) Personal Area Network",
+        "গ) Public Area Network",
+        "ঘ) Physical Access Network"
+      ],
+      "answer": "খ) Personal Area Network",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 14,
+      "question": "নেটওয়ার্কের ভৌগোলিক বিস্তৃতি অনুসারে প্রকারভেদ কয়টি?",
+      "imageUrl": "",
+      "options": [
+        "ক) ৩টি",
+        "খ) ৪টি",
+        "গ) ৫টি",
+        "ঘ) ৬টি"
+      ],
+      "answer": "খ) ৪টি",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 15,
+      "question": "কম্পিউটার নেটওয়ার্ক তৈরি করতে ব্যবহৃত হয়—",
+      "imageUrl": "",
+      "options": [
+        "ক) সার্ভার",
+        "খ) হাব",
+        "গ) রিসোর্স",
+        "ঘ) সবগুলো"
+      ],
+      "answer": "ঘ) সবগুলো",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 16,
+      "question": "LAN সাধারণত কত কিলোমিটার এলাকা জুড়ে কাজ করে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ১০ কিমি",
+        "খ) ১০০ কিমি",
+        "গ) ১ কিমি",
+        "ঘ) ১০০০ কিমি"
+      ],
+      "answer": "ক) ১০ কিমি",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 17,
+      "question": "শহরের মধ্যে স্থাপিত নেটওয়ার্ক কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) LAN",
+        "খ) MAN",
+        "গ) PAN",
+        "ঘ) WAN"
+      ],
+      "answer": "খ) MAN",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 18,
+      "question": "বিভিন্ন মহাদেশ বা দেশের মধ্যে বিস্তৃত নেটওয়ার্ক কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) LAN",
+        "খ) MAN",
+        "গ) PAN",
+        "ঘ) WAN"
+      ],
+      "answer": "ঘ) WAN",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 19,
+      "question": "Wi-Fi এর পূর্ণরূপ কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) Wireless Fidelity",
+        "খ) Wired Fiber",
+        "গ) Web Frequency",
+        "ঘ) Wireless Funnel"
+      ],
+      "answer": "ক) Wireless Fidelity",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 20,
+      "question": "Bluetooth কোন ধরনের নেটওয়ার্ক?",
+      "imageUrl": "",
+      "options": [
+        "ক) LAN",
+        "খ) MAN",
+        "গ) PAN",
+        "ঘ) WAN"
+      ],
+      "answer": "গ) PAN",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 21,
+      "question": "টপোলজি কাকে বলে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ডেটা প্রবাহের দিক",
+        "খ) নেটওয়ার্কের গঠন",
+        "গ) ক্যাবলের প্রকার",
+        "ঘ) সার্ভারের নাম"
+      ],
+      "answer": "খ) নেটওয়ার্কের গঠন",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 22,
+      "question": "কোন টপোলজিতে কেন্দ্রীয় ডিভাইস (হাব/সুইচ) ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) বাস",
+        "খ) রিং",
+        "গ) স্টার",
+        "ঘ) মেশ"
+      ],
+      "answer": "গ) স্টার",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 23,
+      "question": "বাস টপোলজির প্রধান তারকে কী বলা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) নোড",
+        "খ) ব্যাকবোন",
+        "গ) টার্মিনেটর",
+        "ঘ) হাব"
+      ],
+      "answer": "খ) ব্যাকবোন",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 24,
+      "question": "বাস টপোলজিতে ডেটা আদান-প্রদানের জন্য ব্যবহৃত ডিভাইস কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) হাব",
+        "খ) সুইচ",
+        "গ) টার্মিনেটর",
+        "ঘ) রিপিটার"
+      ],
+      "answer": "গ) টার্মিনেটর",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 25,
+      "question": "ফুল-মেশ টপোলজিতে n সংখ্যক কম্পিউটারের জন্য তারের সংখ্যা কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) n(n-1)",
+        "খ) n(n+1)/2",
+        "গ) n(n-1)/2",
+        "ঘ) 2n"
+      ],
+      "answer": "গ) n(n-1)/2",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 26,
+      "question": "কোন টপোলজিতে একটি কম্পিউটার নষ্ট হলেও পুরো নেটওয়ার্ক সচল থাকে?",
+      "imageUrl": "",
+      "options": [
+        "ক) বাস",
+        "খ) রিং",
+        "গ) স্টার",
+        "ঘ) সবগুলো"
+      ],
+      "answer": "ঘ) সবগুলো",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 27,
+      "question": "ডেটা সংঘর্ষের সম্ভাবনা কমায় কোন ডিভাইস?",
+      "imageUrl": "",
+      "options": [
+        "ক) হাব",
+        "খ) রিপিটার",
+        "গ) সুইচ",
+        "ঘ) মডেম"
+      ],
+      "answer": "গ) সুইচ",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 28,
+      "question": "একই নেটওয়ার্কের মধ্যে ডেটা সিগন্যালকে শক্তিশালী করে কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) ব্রিজ",
+        "খ) গেটওয়ে",
+        "গ) রিপিটার",
+        "ঘ) রাউটার"
+      ],
+      "answer": "গ) রিপিটার",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 29,
+      "question": "বিভিন্ন প্রোটোকলযুক্ত নেটওয়ার্ককে সংযুক্ত করে কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) হাব",
+        "খ) ব্রিজ",
+        "গ) রাউটার",
+        "ঘ) গেটওয়ে"
+      ],
+      "answer": "ঘ) গেটওয়ে",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 30,
+      "question": "মোবাইল ফোনে ব্যবহৃত যোগাযোগ প্রযুক্তি কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) GSM",
+        "খ) CDMA",
+        "গ) উভয়ই",
+        "ঘ) স্যাটেলাইট"
+      ],
+      "answer": "গ) উভয়ই",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 31,
+      "question": "ইথারনেট কিসের উদাহরণ?",
+      "imageUrl": "",
+      "options": [
+        "ক) WAN",
+        "খ) LAN",
+        "গ) MAN",
+        "ঘ) PAN"
+      ],
+      "answer": "খ) LAN",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 32,
+      "question": "একটি সাব-নেটওয়ার্ক থেকে অন্য সাব-নেটওয়ার্কে ডেটা পাঠানোর জন্য কোন ডিভাইস ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) রিপিটার",
+        "খ) হাব",
+        "গ) ব্রিজ",
+        "ঘ) রাউটার"
+      ],
+      "answer": "ঘ) রাউটার",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 33,
+      "question": "কম্পিউটারের সাথে মডেমের সংযোগের জন্য কোন পোর্ট ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) USB",
+        "খ) Serial Port",
+        "গ) Parallel Port",
+        "ঘ) VGA"
+      ],
+      "answer": "খ) Serial Port",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 34,
+      "question": "অ্যাসিনক্রোনাস ডেটা ট্রান্সমিশনে ডেটা স্থানান্তরের আগে ও পরে অতিরিক্ত কোন বিট যোগ করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) প্যারিতি বিট",
+        "খ) স্টার্ট ও স্টপ বিট",
+        "গ) ইভেন বিট",
+        "ঘ) ক্যারিয়ার বিট"
+      ],
+      "answer": "খ) স্টার্ট ও স্টপ বিট",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 35,
+      "question": "ডেটা ট্রান্সমিশনের দ্রুততম মোড কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) অ্যাসিনক্রোনাস",
+        "খ) সিনক্রোনাস",
+        "গ) আইসোক্রোনাস",
+        "ঘ) ফুল-ডুপ্লেক্স"
+      ],
+      "answer": "গ) আইসোক্রোনাস",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 36,
+      "question": "সিনক্রোনাস ট্রান্সমিশনে ডেটাকে কত বাইটের ব্লকে ভাগ করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) ১ থেকে ১০ বাইট",
+        "খ) ৫০ থেকে ১০০ বাইট",
+        "গ) ১০০ থেকে ১৫০ বাইট",
+        "ঘ) ৫০০ এর বেশি বাইট"
+      ],
+      "answer": "খ) ৫০ থেকে ১০০ বাইট",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 37,
+      "question": "ডেটা আদান-প্রদান সঠিকভাবে হচ্ছে কিনা তা নিশ্চিত করে কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) মডেম",
+        "খ) এনকোডিং",
+        "গ) প্রোটোকল",
+        "ঘ) গেটওয়ে"
+      ],
+      "answer": "গ) প্রোটোকল",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 38,
+      "question": "UDP কোন লেয়ারে কাজ করে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ফিজিক্যাল",
+        "খ) ডেটা লিংক",
+        "গ) ট্রান্সপোর্ট",
+        "ঘ) অ্যাপ্লিকেশন"
+      ],
+      "answer": "গ) ট্রান্সপোর্ট",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 39,
+      "question": "বাস টপোলজির প্রধান সুবিধা কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) উচ্চ গতি",
+        "খ) ফল্ট টলারেন্স",
+        "গ) সহজে সম্প্রসারণ",
+        "ঘ) ক্যাবলের সাশ্রয়"
+      ],
+      "answer": "ঘ) ক্যাবলের সাশ্রয়",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 40,
+      "question": "স্টার টপোলজির প্রধান অসুবিধা কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) ক্যাবল বেশি লাগে",
+        "খ) কেন্দ্রীয় ডিভাইস নষ্ট হলে নেটওয়ার্ক অচল",
+        "গ) রক্ষণাবেক্ষণ কঠিন",
+        "ঘ) ডেটা সংঘর্ষ বেশি"
+      ],
+      "answer": "খ) কেন্দ্রীয় ডিভাইস নষ্ট হলে নেটওয়ার্ক অচল",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 41,
+      "question": "ট্রি টপোলজি মূলত কোন দুটি টপোলজির সমন্বয়ে গঠিত?",
+      "imageUrl": "",
+      "options": [
+        "ক) স্টার ও রিং",
+        "খ) বাস ও স্টার",
+        "গ) মেশ ও রিং",
+        "ঘ) বাস ও মেশ"
+      ],
+      "answer": "খ) বাস ও স্টার",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 42,
+      "question": "কোন টপোলজিতে ডেটা দ্বিমুখী রিং পদ্ধতিতে ঘুরে?",
+      "imageUrl": "",
+      "options": [
+        "ক) মেশ",
+        "খ) স্টার",
+        "গ) রিং",
+        "ঘ) ট্রি"
+      ],
+      "answer": "গ) রিং",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 43,
+      "question": "ফ্রিকোয়েন্সি মডুলেশনের ক্ষেত্রে কোনটি পরিবর্তিত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) বিস্তার",
+        "খ) ফেজ",
+        "গ) তরঙ্গদৈর্ঘ্য",
+        "ঘ) কম্পাঙ্ক"
+      ],
+      "answer": "ঘ) কম্পাঙ্ক",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 44,
+      "question": "মডুলেশনের প্রধান উদ্দেশ্য কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) ডেটা কম্প্রেস করা",
+        "খ) ডেটা এনক্রিপ্ট করা",
+        "গ) দূরবর্তী স্থানে ডেটা প্রেরণ করা",
+        "ঘ) সিগন্যালের গতি কমানো"
+      ],
+      "answer": "গ) দূরবর্তী স্থানে ডেটা প্রেরণ করা",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 45,
+      "question": "অপটিক্যাল ফাইবারে ডেটা লস-এর হার প্রতি কিলোমিটারে কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) 0.1 থেকে 0.2 dB",
+        "খ) 1 থেকে 2 dB",
+        "গ) 10 থেকে 20 dB",
+        "ঘ) 50 dB এর বেশি"
+      ],
+      "answer": "ক) 0.1 থেকে 0.2 dB",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 46,
+      "question": "WAN এ ব্যবহৃত হয়—",
+      "imageUrl": "",
+      "options": [
+        "ক) রাউটার",
+        "খ) মডেম",
+        "গ) উপগ্রহ",
+        "ঘ) সবগুলো"
+      ],
+      "answer": "ঘ) সবগুলো",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 47,
+      "question": "WiMAX এর পূর্ণরূপ কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) Worldwide Interoperability for Microwave Access",
+        "খ) Wireless Internet for Mobile Access",
+        "গ) Worldwide Interconnection for Media Access",
+        "ঘ) Web Interoperability for Mobile Access"
+      ],
+      "answer": "ক) Worldwide Interoperability for Microwave Access",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 48,
+      "question": "সেলুলার ফোনের মাধ্যমে কোন ট্রান্সমিশন পদ্ধতি ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) সিমপ্লেক্স",
+        "খ) হাফ-ডুপ্লেক্স",
+        "গ) ফুল-ডুপ্লেক্স",
+        "ঘ) অ্যাসিনক্রোনাস"
+      ],
+      "answer": "গ) ফুল-ডুপ্লেক্স",
+      "level": "hard",
+      "chapterId": "2"
+    },
+    {
+      "id": 49,
+      "question": "কম্পিউটার নেটওয়ার্কের রিসোর্স শেয়ারিং এর উদাহরণ কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) হার্ডডিস্ক",
+        "খ) প্রিন্টার",
+        "গ) ইন্টারনেট",
+        "ঘ) সবগুলো"
+      ],
+      "answer": "ঘ) সবগুলো",
+      "level": "easy",
+      "chapterId": "2"
+    },
+    {
+      "id": 50,
+      "question": "টেলিফোনের ডেটা স্থানান্তরের গতি সাধারণত কোন রেঞ্জে থাকে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ন্যারো ব্যান্ড",
+        "খ) ভয়েস ব্যান্ড",
+        "গ) ব্রড ব্যান্ড",
+        "ঘ) আল্ট্রা ব্যান্ড"
+      ],
+      "answer": "খ) ভয়েস ব্যান্ড",
+      "level": "medium",
+      "chapterId": "2"
+    },
+    {
+      "id": 51,
+      "question": "একটি কেন্দ্রিয় হাব দ্বারা কোন টপোলজি সংযুক্ত থাকে?",
+      "imageUrl": "",
       "options": [
         "bus",
         "mesh",
@@ -10,23 +711,27 @@
         "star"
       ],
       "answer": "star",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 2,
+      "id": 52,
       "question": "ডেটা কমিউনিকেশন কী?",
+      "imageUrl": "",
       "options": [
-        "দুটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
+        "দুটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
         "মাধ্যেমবিহীন তথ্যের প্রবাহ",
         "শুধুমাত্র তারযুক্ত তথ্যের প্রবাহ",
         "শুধুমাত্র কম্পিউটার নির্ভর যোগাযোগ"
       ],
-      "answer": "দুটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
-      "level": "easy"
+      "answer": "দুটি ডিভাইসের মধ্যে তথ্যের বিনিময়",
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 3,
+      "id": 53,
       "question": "bps এর পূর্ণরূপ কী?",
+      "imageUrl": "",
       "options": [
         "bit per second",
         "byte per second",
@@ -34,59 +739,69 @@
         "bit per system"
       ],
       "answer": "bit per second",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 4,
-      "question": "ভয়েস ব্যান্ড কোথায় ব্যবহৃত হয়?",
+      "id": 54,
+      "question": "ভয়েস ব্যান্ড কোথায় ব্যবহৃত হয়?",
+      "imageUrl": "",
       "options": [
         "টেলিগ্রাফে",
         "টেলিফোনে",
         "রাউটারে",
-        "গেটওয়ে"
+        "গেটওয়ে"
       ],
-      "answer": "টেলিগ্রাফে",
-      "level": "medium"
+      "answer": "টেলিফোনে",
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 5,
-      "question": "কোন ট্রান্সমিশনে ডেটা ক্যারেকটার বাই ক্যারেকটার ট্রান্সমিট হয়?",
+      "id": 55,
+      "question": "কোন ট্রান্সমিশনে ডেটা ক্যারেকটার বাই ক্যারেকটার ট্রান্সমিট হয়?",
+      "imageUrl": "",
       "options": [
         "প্যারালাল",
         "অ্যাসিনক্রোনাস",
-        "সিরিয়াল",
+        "সিরিয়াল",
         "সিনক্রোনাস"
       ],
       "answer": "অ্যাসিনক্রোনাস",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 6,
+      "id": 56,
       "question": "একমুখী ডেটা ট্রান্সমিশন পদ্ধতিকে কী বলে?",
+      "imageUrl": "",
       "options": [
         "সিমপ্লেক্স",
         "হাফ-ডুপ্লেক্স",
         "ফুল-ডুপ্লেক্স",
-        "কোনোটিই নয়"
+        "কোনোটিই নয়"
       ],
       "answer": "সিমপ্লেক্স",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 7,
-      "question": "একসাথে ডেটা পাঠানো ও গ্রহণ করা যায় কোন মাধ্যমে?",
+      "id": 57,
+      "question": "একসাথে ডেটা পাঠানো ও গ্রহণ করা যায় কোন মাধ্যমে?",
+      "imageUrl": "",
       "options": [
         "সিমপ্লেক্স",
         "হাফ-ডুপ্লেক্স",
         "ফুল-ডুপ্লেক্স",
-        "কোনোটিই নয়"
+        "কোনোটিই নয়"
       ],
       "answer": "ফুল-ডুপ্লেক্স",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 8,
-      "question": "ট্রান্সমিশন মিডিয়া কত প্রকার?",
+      "id": 58,
+      "question": "ট্রান্সমিশন মিডিয়া কত প্রকার?",
+      "imageUrl": "",
       "options": [
         "১",
         "২",
@@ -94,11 +809,13 @@
         "৪"
       ],
       "answer": "২",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 9,
-      "question": "টুইস্টেড পেয়ার কেবলের কোড কত?",
+      "id": 59,
+      "question": "টুইস্টেড পেয়ার কেবলের কোড কত?",
+      "imageUrl": "",
       "options": [
         "৫৬৪এ",
         "৫৬৮বি",
@@ -106,23 +823,27 @@
         "৫৭২বি"
       ],
       "answer": "৫৬৮বি",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 10,
+      "id": 60,
       "question": "ফাইবার অপটিক্যাল ক্যাবল কী দ্বারা তৈরি?",
+      "imageUrl": "",
       "options": [
         "গ্লাস",
         "সিলিকন",
         "তামা",
-        "এলুমিনিয়াম"
+        "এলুমিনিয়াম"
       ],
       "answer": "গ্লাস",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 11,
-      "question": "নেটওয়ার্ক টপোলজি কত প্রকার?",
+      "id": 61,
+      "question": "নেটওয়ার্ক টপোলজি কত প্রকার?",
+      "imageUrl": "",
       "options": [
         "৪",
         "৫",
@@ -130,23 +851,27 @@
         "৭"
       ],
       "answer": "৬",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 12,
-      "question": "একটি কম্পিউটার নেটওয়ার্কের কানেকশন ব্যবস্থা কী নামে পরিচিত?",
+      "id": 62,
+      "question": "একটি কম্পিউটার নেটওয়ার্কের কানেকশন ব্যবস্থা কী নামে পরিচিত?",
+      "imageUrl": "",
       "options": [
         "টপোলজি",
-        "নেটওয়ার্ক",
+        "নেটওয়ার্ক",
         "সার্ভার",
         "প্রটোকল"
       ],
       "answer": "টপোলজি",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 13,
-      "question": "কোন টপোলজিতে ১২টি নোডের জন্য ৬৬টি ক্যাবল প্রয়োজন?",
+      "id": 63,
+      "question": "কোন টপোলজিতে ১২টি নোডের জন্য ৬৬টি ক্যাবল প্রয়োজন?",
+      "imageUrl": "",
       "options": [
         "বাস",
         "রিং",
@@ -154,11 +879,13 @@
         "স্টার"
       ],
       "answer": "মেস",
-      "level": "hard"
+      "level": "hard",
+      "chapterId": "2"
     },
     {
-      "id": 14,
+      "id": 64,
       "question": "LAN এর পূর্ণরূপ কী?",
+      "imageUrl": "",
       "options": [
         "Local Area Network",
         "Local Asynchronous Network",
@@ -166,11 +893,13 @@
         "Long Area Network"
       ],
       "answer": "Local Area Network",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 15,
+      "id": 65,
       "question": "WAN এর পূর্ণরূপ কী?",
+      "imageUrl": "",
       "options": [
         "Wireless Area Network",
         "Wide Area Network",
@@ -178,11 +907,13 @@
         "World Access Network"
       ],
       "answer": "Wide Area Network",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 16,
-      "question": "কোন জেনারেশনে সর্বপ্রথম ভিডিও কল করা সম্ভব হয়?",
+      "id": 66,
+      "question": "কোন জেনারেশনে সর্বপ্রথম ভিডিও কল করা সম্ভব হয়?",
+      "imageUrl": "",
       "options": [
         "1G",
         "2G",
@@ -190,11 +921,13 @@
         "4G"
       ],
       "answer": "3G",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 17,
+      "id": 67,
       "question": "Wi-Fi এর স্ট্যান্ডার্ড কী?",
+      "imageUrl": "",
       "options": [
         "802.11",
         "802.16",
@@ -202,11 +935,13 @@
         "802.19"
       ],
       "answer": "802.11",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 18,
-      "question": "Bluetooth এর ফ্রিকোয়েন্সি কত?",
+      "id": 68,
+      "question": "Bluetooth এর ফ্রিকোয়েন্সি কত?",
+      "imageUrl": "",
       "options": [
         "2.42 GHz",
         "2.45 GHz",
@@ -214,11 +949,13 @@
         "2.5 GHz"
       ],
       "answer": "2.45 GHz",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 19,
-      "question": "সেলুলার ফোনে কোন টপোলজি ব্যবহৃত হয়?",
+      "id": 69,
+      "question": "সেলুলার ফোনে কোন টপোলজি ব্যবহৃত হয়?",
+      "imageUrl": "",
       "options": [
         "মেশ",
         "রিং",
@@ -226,11 +963,13 @@
         "হাইব্রিড"
       ],
       "answer": "স্টার",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 20,
-      "question": "কোন টপোলজিতে একটি কেন্দ্রীয় কম্পিউটার থাকে?",
+      "id": 70,
+      "question": "কোন টপোলজিতে একটি কেন্দ্রীয় কম্পিউটার থাকে?",
+      "imageUrl": "",
       "options": [
         "স্টার",
         "রিং",
@@ -238,11 +977,13 @@
         "মেশ"
       ],
       "answer": "স্টার",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 21,
+      "id": 71,
       "question": "নিচের কোন ডিভাইসটিতে ডেটা ফিল্টারিং সম্ভব?",
+      "imageUrl": "",
       "options": [
         "হাব",
         "সুইচ",
@@ -250,23 +991,27 @@
         "রাউটার"
       ],
       "answer": "রাউটার",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 22,
-      "question": "প্রটোকল ট্রান্সলেশনে সুবিধা দেয় কোন নেটওয়ার্ক ডিভাইস?",
+      "id": 72,
+      "question": "প্রটোকল ট্রান্সলেশনে সুবিধা দেয় কোন নেটওয়ার্ক ডিভাইস?",
+      "imageUrl": "",
       "options": [
         "NIC",
         "ব্রিজ",
         "রিপিটার",
-        "গেটওয়ে"
+        "গেটওয়ে"
       ],
-      "answer": "গেটওয়ে",
-      "level": "medium"
+      "answer": "গেটওয়ে",
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 23,
-      "question": "ব্লুটুথ নেটওয়ার্কের অপর নাম কী?",
+      "id": 73,
+      "question": "ব্লুটুথ নেটওয়ার্কের অপর নাম কী?",
+      "imageUrl": "",
       "options": [
         "থিকনেট",
         "থিননেট",
@@ -274,11 +1019,13 @@
         "স্ক্যাটারনেট"
       ],
       "answer": "পিকোনেট",
-      "level": "easy"
+      "level": "easy",
+      "chapterId": "2"
     },
     {
-      "id": 24,
+      "id": 74,
       "question": "4G একটি-",
+      "imageUrl": "",
       "options": [
         "PSTN",
         "PDN",
@@ -286,71 +1033,22 @@
         "WLAN"
       ],
       "answer": "IP Data Network",
-      "level": "medium"
+      "level": "medium",
+      "chapterId": "2"
     },
     {
-      "id": 25,
-      "question": "WiMAX কোন নেটওয়ার্কের জন্য ব্যবহৃত হয়?",
+      "id": 75,
+      "question": "WiMAX কোন নেটওয়ার্কের জন্য ব্যবহৃত হয়?",
+      "imageUrl": "",
       "options": [
         "LAN",
         "MAN",
         "WAN",
         "PAN"
       ],
-      "answer": "WAN",
-      "level": "medium"
-    },
-    {
-      "id": 26,
-      "question": "চিত্রে নির্দেশিত মাধ্যম কোনটি?",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) ওয়াই-ফাই",
-        "খ) ইনফ্রারেড",
-        "গ) মাইক্রোওয়েভ",
-        "ঘ) ওয়াই-ম্যাক্স"
-      ],
-      "answer": "গ) মাইক্রোওয়েভ",
-      "level": "easy"
-    },
-    {
-      "id": 27,
-      "question": "চিত্রে নির্দেশিত প্রযুক্তি ব্যবহার করা হয় —\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আন্তর্জাতিক তথ্য আদান-প্রদানে",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "i, ii",
-      "level": "easy"
-    },
-    {
-      "id": 28,
-      "question": "চিত্রের সার্কিটে A, B, C এর মান কোনটি?",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) 0, 1, 0",
-        "খ) 1, 0, 0",
-        "গ) 1, 0, 1",
-        "ঘ) 0, 1, 1"
-      ],
-      "answer": "ঘ) 0, 1, 1",
-      "level": "hard"
-    },
-    {
-      "id": 29,
-      "question": "চিত্রের নির্দেশিত গেটটি ব্যবহার করলে কোনগুলো পাওয়া যায়—\ni. NOR\nii. NAND\niii. AND",
-      "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
-      "options": [
-        "ক) i, ii",
-        "খ) ii, iii",
-        "গ) i, ii",
-        "ঘ) i, ii,iii"
-      ],
-      "answer": "i ও ii",
-      "level": "hard"
+      "answer": "MAN",
+      "level": "medium",
+      "chapterId": "2"
     }
   ]
 }
