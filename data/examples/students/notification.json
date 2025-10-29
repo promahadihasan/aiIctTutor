@@ -1,21 +1,8 @@
 {
   "notifications": [
-    {
-      "id": "notification1",
-      "title": "Digital Device",
-      "message": "Today we will learn about the Digital Device in ICT.",
-      "timestamp": "2023-06-15 10:30:45",
-      "type": "post",
-      "isRead": false,
-      "postId": "post123",
-      "emoji": "📱",
-      "imageUrl": "https://example.com/image.jpg",
-      "authorName": "Shibbir",
-      "authorAvatar": "https://example.com/avatar.jpg"
-    },
     
      {
-      "id": "notification2",
+      "id": "notification1",
       "title": "Welcome to our new ICT App",
       "message": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
       "timestamp": "2025-10-29 09:15:30",
