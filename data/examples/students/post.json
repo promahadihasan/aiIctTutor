@@ -8,7 +8,7 @@
             "timestamp": "2025-09-4 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/promahadihasan\/aiIctTutor\/blob\/main\/students\/assets\/images\/sunny.png?raw=true",
-            "likes": 8,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -46,7 +46,7 @@
                     "authorName": "MIM SULTANA",
                     "content": "👍",
                     "timestamp": "2025-10-28 18:12:49",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         },
