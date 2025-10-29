@@ -1,49 +1,57 @@
 {
-  "posts": [
-    {
-      "postId": "post123",
-      "title": "Digital Device",
-      "content": "Today we will learn about the Digital Device in ICT.",
-      "teacherName": "Shibbir",
-      "timestamp": "2023-06-14 09:15:30",
-      "teacherProfilePic": "https://example.com/teacher.jpg",
-      "imageUrl": "",
-      "likes": 47,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
+    "posts": [
         {
-          "id": "comment1",
-          "postId": "post123",
-          "authorName": "ISRAT JAHAN JUI",
-          "content": "Sir, could you explain Binary to Decimal again?",
-          "timestamp": "2023-06-14 10:20:15",
-          "likes": 5,
-          "authorAvatar": "https://example.com/alice.jpg"
+            "postId": "post123",
+            "title": "Digital Device",
+            "content": "Today we will learn about the Digital Device in ICT.",
+            "teacherName": "Shibbir",
+            "timestamp": "2023-06-14 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "",
+            "likes": 47,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post123",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                }
+            ]
+        },
+        {
+            "postId": "post124",
+            "title": "Welcome to our new ICT App",
+            "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
+            "teacherName": "Shibbir",
+            "timestamp": "2025-10-29 09:15:30",
+            "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
+            "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
+            "likes": 0,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "6a6f3487-c84f-46a7-9d52-a94ad5946f50",
+                    "postId": "post124",
+                    "authorName": "SHIBBIR",
+                    "content": "Hello ",
+                    "timestamp": "2025-10-29 16:41:17",
+                    "likes": 0
+                }
+            ]
         }
-      ]
-    },
-    {
-      "postId": "post124",
-      "title": "Welcome to our new ICT App",
-      "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
-      "teacherName": "Shibbir",
-      "timestamp": "2025-10-29 09:15:30",
-      "teacherProfilePic": "https://github.com/shibbir001/myImageofproject/blob/main/post/profile.jpeg?raw=true",
-      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/post/ggmc_image.jpg?raw=true",
-      "likes": 0,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
-      ]
-    }
-  ],
-  "status": "success",
-  "message": null
+    ],
+    "status": "success",
+    "message": null
 }
