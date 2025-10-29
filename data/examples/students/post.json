@@ -44,13 +44,20 @@
                 {
                     "id": "comment1",
                     "postId": "post124",
-                    "authorName": "SHIBBIR",
-                    "content": "Hello girls!!",
+                    "authorName": "shibbir",
+                    "content": "Hello girls",
                     "timestamp": "2025-10-29 10:15:30",
                     "likes": 5,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "15763585-454c-475a-a33a-b858e1f290bd",
+                    "postId": "post124",
+                    "authorName": "SHIBBIR",
+                    "content": "Comments here",
+                    "timestamp": "2025-10-29 16:46:59",
+                    "likes": 1
                 }
-             
             ]
         }
     ],
