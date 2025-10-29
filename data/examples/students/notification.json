@@ -1,18 +1,5 @@
 {
   "notifications": [
-     {
-      "id": "notification3",
-      "title": "2nd Chapter-Wireless devices",
-      "message": "Three wireless Device.",
-      "timestamp": "2025-09-4 09:15:30",
-      "type": "post",
-      "isRead": false,
-      "postId": "post125",
-      "emoji": "📱",
-      "imageUrl": "https://example.com/image.jpg",
-      "authorName": "Sunny",
-      "authorAvatar": "https://example.com/avatar.jpg"
-    },
     {
       "id": "notification1",
       "title": "Digital Device",
@@ -21,19 +8,6 @@
       "type": "post",
       "isRead": false,
       "postId": "post123",
-      "emoji": "📱",
-      "imageUrl": "https://example.com/image.jpg",
-      "authorName": "Shibbir",
-      "authorAvatar": "https://example.com/avatar.jpg"
-    },
-    {
-      "id": "notification2",
-      "title": "Number System",
-      "message": "Today we will learn about the Number System in ICT",
-      "timestamp": "2023-06-15 10:30:45",
-      "type": "post",
-      "isRead": true,
-      "postId": "post124",
       "emoji": "📱",
       "imageUrl": "https://example.com/image.jpg",
       "authorName": "Shibbir",
