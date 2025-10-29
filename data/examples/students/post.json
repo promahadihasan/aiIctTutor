@@ -1,58 +1,32 @@
 {
-  "posts": [
-    {
-      "postId": "post123",
-      "title": "Digital Device",
-      "content": "Today we will learn about the Digital Device in ICT.",
-      "teacherName": "Shibbir",
-      "timestamp": "2023-06-14 09:15:30",
-      "teacherProfilePic": "https://example.com/teacher.jpg",
-      "imageUrl": "",
-      "likes": 47,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
+    "posts": [
         {
-          "id": "comment1",
-          "postId": "post123",
-          "authorName": "ISRAT JAHAN JUI",
-          "content": "Sir, could you explain Binary to Decimal again?",
-          "timestamp": "2023-06-14 10:20:15",
-          "likes": 5,
-          "authorAvatar": "https://example.com/alice.jpg"
+            "postId": "post123",
+            "title": "Digital Device",
+            "content": "Today we will learn about the Digital Device in ICT.",
+            "teacherName": "Shibbir",
+            "timestamp": "2023-06-14 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "",
+            "likes": 48,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post123",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "postId": "post124",
-      "title": "Digital Device",
-      "content": "Today we will learn about the Digital Device in ICT.",
-      "teacherName": "Shibbir",
-      "timestamp": "2023-06-14 09:15:30",
-      "teacherProfilePic": "https://example.com/teacher.jpg",
-      "imageUrl": "",
-      "likes": 47,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
-        {
-          "id": "comment1",
-          "postId": "post123",
-          "authorName": "ISRAT JAHAN JUI",
-          "content": "Sir, could you explain Binary to Decimal again?",
-          "timestamp": "2023-06-14 10:20:15",
-          "likes": 5,
-          "authorAvatar": "https://example.com/alice.jpg"
-        }
-      ]
-    }
-  ],
-  "status": "success",
-  "message": null
+    ],
+    "status": "success",
+    "message": null
 }
