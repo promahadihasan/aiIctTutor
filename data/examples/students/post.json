@@ -47,6 +47,14 @@
                     "content": "👍",
                     "timestamp": "2025-10-28 18:12:49",
                     "likes": 1
+                },
+                {
+                    "id": "204ac12a-6c8b-41e4-b213-cc074ae32cba",
+                    "postId": "post125",
+                    "authorName": "AMENA AKTER",
+                    "content": "👍",
+                    "timestamp": "2025-10-29 21:01:54",
+                    "likes": 0
                 }
             ]
         },
