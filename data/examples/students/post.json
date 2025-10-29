@@ -34,22 +34,13 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 0,
+            "likes": 1,
             "tags": [
                 "android",
                 "kotlin",
                 "development"
             ],
-            "comments": [
-                {
-                    "id": "6a6f3487-c84f-46a7-9d52-a94ad5946f50",
-                    "postId": "post124",
-                    "authorName": "SHIBBIR",
-                    "content": "Hello ",
-                    "timestamp": "2025-10-29 16:41:17",
-                    "likes": 0
-                }
-            ]
+            "comments": []
         }
     ],
     "status": "success",
