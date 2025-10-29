@@ -21,7 +21,7 @@
                     "authorName": "Mily",
                     "content": "Sir, could you explain Binary to Decimal again?",
                     "timestamp": "2025-09-4 12:15:30",
-                    "likes": 2,
+                    "likes": 5,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -30,7 +30,7 @@
                     "authorName": "ISRAT JAHAN JUI",
                     "content": "That's great ",
                     "timestamp": "2025-09-05 08:31:57",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "a92bbca4-ab9e-422a-b1bb-82a20d9dd02e",
