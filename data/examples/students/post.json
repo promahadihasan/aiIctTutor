@@ -8,7 +8,7 @@
             "timestamp": "2025-09-4 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/promahadihasan\/aiIctTutor\/blob\/main\/students\/assets\/images\/sunny.png?raw=true",
-            "likes": 6,
+            "likes": 5,
             "tags": [
                 "android",
                 "kotlin",
@@ -58,7 +58,7 @@
             "timestamp": "2023-06-14 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 46,
+            "likes": 47,
             "tags": [
                 "android",
                 "kotlin",
