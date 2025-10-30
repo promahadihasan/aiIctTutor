@@ -3847,6 +3847,343 @@
           ]
         }
       ]
+    },
+    {
+      "যশোর বোর্ড": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "5, 8, B ধারার পরবর্তী মান কোনটি?",
+              "options": [
+                "ক) C",
+                "খ) D",
+                "গ) E",
+                "ঘ) F"
+              ],
+              "answer": "গ) E",
+              "level": "hard",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 2,
+              "question": "নিচের কোন বর্তনী গণনা কাজ করে?",
+              "options": [
+                "ক) এনকোডার",
+                "খ) ডিকোডার",
+                "গ) কাউন্টার",
+                "ঘ) রেজিস্টার"
+              ],
+              "answer": "গ) কাউন্টার",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 3,
+              "question": "উদ্দীপকে 'Y' এর সরলীকৃত মান কোনটি?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw=true",
+              "options": [
+                "ক) A ⊕ B",
+                "খ) (A ⊕ B)'",
+                "গ) A + B",
+                "ঘ) (AB)'"
+              ],
+              "answer": "খ) (A ⊕ B)'",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 4,
+              "question": "উদ্দীপকে 'Y' এর মান '1' পেতে K এর স্থলে কোন গেইট হবে?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw=true",
+              "options": [
+                "ক) NOR",
+                "খ) NAND",
+                "গ) X-OR",
+                "ঘ) X-NOR"
+              ],
+              "answer": "খ) NAND",
+              "level": "hard",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 5,
+              "question": "ক্রমযুক্ত তালিকা প্রকাশের জন্য ব্যবহৃত ট্যাগ কোনটি?",
+              "options": [
+                "ক) <ul>",
+                "খ) <ol>",
+                "গ) <br>",
+                "ঘ) <del>"
+              ],
+              "answer": "খ) <ol>",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 6,
+              "question": "দৈর্ঘ্য 120PX প্রস্থ 150PX আকারের Flag.jpg নামক ছবি সংযুক্তির জন্য নিচের সঠিক HTML কোড কোনটি?",
+              "options": [
+                "ক) <img src=\"Flag\" height=\"120Px\" width=\"150Px\">",
+                "খ) <img src=\"Flag.jpg\" height=\"120Px\" width = 150px>",
+                "গ) <img src=\"Flag.jpg\" height=\"120Px\" width=\"150Px\">",
+                "ঘ) <img src=\"Flag.jpg\" h=\"120Px\" w=\"150Px\">"
+              ],
+              "answer": "গ) <img src=\"Flag.jpg\" height=\"120Px\" width=\"150Px\">",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 7,
+              "scenario_text": "",
+              "question": "সিনথি HTML ব্যবহার করে ওয়েবপেজ তৈরি করে এবং এক পেইজ থেকে অন্য পেইজ সংযুক্তির জন্য কাজ করে।\n উদ্দীপকে কাজ করতে নিচের কোন Tag ব্যবহৃত হয়েছে?",
+              "options": [
+                "ক) <Style>",
+                "খ) <Link>",
+                "গ) <a>",
+                "ঘ) <span>"
+              ],
+              "answer": "গ) <a>",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 8,
+              "question": "নতুন ট্যাবে ওয়েব পেজ খুলতে উক্ত ট্যাগের অ্যাট্রিবিউট কোনটি?",
+              "options": [
+                "ক) target=\"_self\"",
+                "খ) target=\"_blank\"",
+                "গ) target=\"_Parent\"",
+                "ঘ) target=\"_Label\""
+              ],
+              "answer": "খ) target=\"_blank\"",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 9,
+              "question": "Table এর element Tag গুলো হতে পারে-\ni. tr\nii. Id\niii. tbody\nনিচের কোনটি সঠিক?",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) i ও iii",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 10,
+              "question": "নিচের কোনটি Volatile মেমোরী?",
+              "options": [
+                "ক) হার্ড ডিস্ক",
+                "খ) রম",
+                "গ) র‌্যাম",
+                "ঘ) ডিভিডি"
+              ],
+              "answer": "গ) র‌্যাম",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 11,
+              "question": "নিচের কোনগুলো সঠিক Keyword?\ni. scan\nii. double\niii. float\nনিচের কোনটি সঠিক?",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "গ) ii ও iii",
+              "level": "medium",
+              "chapterId": "6"
+            },
+            {
+              "id": 12,
+              "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nint k;\nfor(k=7; k<49; k = k+7) printf(\"Exam\\n\");\n প্রোগ্রামটি রান করলে \"Exam\" লেখাটি কতবার প্রদর্শিত হবে?",
+              "options": [
+                "ক) 6",
+                "খ) 7",
+                "গ) 25",
+                "ঘ) 49"
+              ],
+              "answer": "খ) 7",
+              "level": "hard",
+              "chapterId": "6"
+            },
+            {
+              "id": 13,
+              "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nint k;\nfor(k=7; k<49; k = k+7) printf(\"Exam\\n\");\n Printf (\"Exam\\n\") statement এর পূর্বে if(k = 35) break; ব্যবহার করা হলে \"Exam\" লেখাটি কত বার প্রদর্শিত হবে?",
+              "options": [
+                "ক) 2",
+                "খ) 4",
+                "গ) 6",
+                "ঘ) 7"
+              ],
+              "answer": "খ) 4",
+              "level": "hard",
+              "chapterId": "6"
+            },
+            {
+              "id": 14,
+              "question": "টেনিস বলের স্থায়িত্ব বৃদ্ধির প্রযুক্তি কোনটি?",
+              "options": [
+                "ক) কৃত্রিম বুদ্ধিমত্তা",
+                "খ) রোবোটিক্স",
+                "গ) ন্যানোটেকনোলজি",
+                "ঘ) বায়োইনফরমেটিক্স"
+              ],
+              "answer": "গ) ন্যানোটেকনোলজি",
+              "level": "easy",
+              "chapterId": "1"
+            },
+            {
+              "id": 15,
+              "question": "লুক্কায়িত স্তরের প্রযুক্তি কোনটি?",
+              "options": [
+                "ক) জেনেটিক ইঞ্জিনিয়ারিং",
+                "খ) বায়োমেট্রিক্স",
+                "গ) কৃত্রিম বুদ্ধিমত্তা",
+                "ঘ) রোবোটিক্স"
+              ],
+              "answer": "গ) কৃত্রিম বুদ্ধিমত্তা",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 16,
+              "question": "নিম্ন তাপমাত্রার চিকিৎসা পদ্ধতির-\ni. পার্শ্ব প্রতিক্রিয়া কম\nii. রোগীকে পূর্ব থেকে প্রস্তুতি নিতে হয় না\niii. চিকিৎসা পরবর্তী রোগীকে অনেক দিন হাসপাতালে থাকতে হয়\nনিচের কোনটি সঠিক?",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 17,
+              "question": "কৃষি বিভাগ শস্যের উৎপাদন বৃদ্ধির জন্য কৃষকদেরকে বিশেষ প্রযুক্তিতে উদ্ভাবিত শস্যবীজ সরবরাহ করেছেন যা থেকে অর্জন হয়েছে।\ni. জীব বৈচিত্র্যের পরিবর্তন সাধিত হবে।\nii. জীব বিন্যাসী ভাইরাসের উদ্ভব হবে।\niii. অনৈতিক জিনের স্থানান্তর হবে।\nনিচের কোনটি সঠিক?",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 18,
+              "question": "স্ট্রিমিং ভিডিও এর প্রয়োজনীয় ব্যান্ডউইথ কত?",
+              "options": [
+                "ক) 0.5 Mbps",
+                "খ) 0.7 Mbps",
+                "গ) 1.5 Mbps",
+                "ঘ) 4 Mbps"
+              ],
+              "answer": "খ) 0.7 Mbps",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 19,
+              "question": "Freedom of Multimedia Access সুবিধা পাওয়া যায় কোন প্রজন্মের মোবাইল ফোন থেকে?",
+              "options": [
+                "ক) দ্বিতীয়",
+                "খ) তৃতীয়",
+                "গ) চতুর্থ",
+                "ঘ) পঞ্চম"
+              ],
+              "answer": "খ) তৃতীয়",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 20,
+              "question": "2.45 GHz ফ্রিকুয়েন্সির এই প্রযুক্তি কোনটি?\ni. Bluetooth\nii. Wifi(a)\niii. Wifi(b)\niv. Wimax",
+              "options": [
+                "ক) Bluetooth",
+                "খ) Wifi(a)",
+                "গ) Wifi(b)",
+                "ঘ) Wimax"
+              ],
+              "answer": "ক) Bluetooth",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 21,
+              "question": "উদ্দীপক: 'X' কলেজটি চারতলা ভবনবিশিষ্ট। কলেজ কর্তৃপক্ষ সিদ্ধান্ত নিয়েছেন বিভিন্ন তলায় অবস্থিত তাদের সকল কম্পিউটার একটি নির্দিষ্ট নেটওয়ার্কের আওতায় আনবেন।\n X কলেজের নেটওয়ার্কটি যে ক্যাবলের মাধ্যমে গড়ে উঠতে পারে-\ni. টুইস্টেড পেয়ার\nii. কো-এক্সিয়াল\niii. অপটিক্যাল ফাইবার\nনিচের কোনটি সঠিক?",
+              "options": [
+                "ক) i ও ii",
+                "খ) i ও iii",
+                "গ) ii ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 22,
+              "question": "কর্তৃপক্ষের সিদ্ধান্ত বাস্তবায়ন হলে যে নেটওয়ার্ক তৈরি হবে-",
+              "options": [
+                "ক) PAN",
+                "খ) LAN",
+                "গ) MAN",
+                "ঘ) WAN"
+              ],
+              "answer": "খ) LAN",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 23,
+              "question": "ব্লক বাই ব্লক ডাটা ট্রান্সমিশন মেথডের ব্যবহার কোনটি?",
+              "options": [
+                "ক) কী-বোর্ড হতে সিপিইউ",
+                "খ) পেন ড্রাইভ হতে সিপিইউ",
+                "গ) মাল্টিমিডিয়া কমিউনিকেশন",
+                "ঘ) অডিও বা ভিডিও কল"
+              ],
+              "answer": "খ) পেন ড্রাইভ হতে সিপিইউ",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 24,
+              "question": "ইউনিকোডে সর্বোচ্চ কতটি চিহ্ন প্রকাশ করা যায়?",
+              "options": [
+                "ক) ১২৮",
+                "খ) ২৫৬",
+                "গ) ৬৫,৫৩৬",
+                "ঘ) ১৫,৫০৬"
+              ],
+              "answer": "গ) ৬৫,৫৩৬",
+              "level": "easy",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 25,
+              "question": "সিগনালটির সমকক্ষ বাইনারি মান কোনটি?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch31.PNG?raw=true",
+              "options": [
+                "ক) 1000110",
+                "খ) 1100011",
+                "গ) 1110001",
+                "ঘ) 1010111"
+              ],
+              "answer": "ক) 1000110",
+              "level": "medium",
+              "chapterId": "3.1"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
