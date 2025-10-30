@@ -108,7 +108,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 52,
+            "likes": 53,
             "tags": [
                 "android",
                 "kotlin",
@@ -123,6 +123,14 @@
                     "timestamp": "2025-10-30 09:15:30",
                     "likes": 3,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "a0599078-0679-451e-bddd-a16d83c068bc",
+                    "postId": "post125",
+                    "authorName": "MST MAYESHA RASHID",
+                    "content": "👏",
+                    "timestamp": "2025-10-30 19:09:24",
+                    "likes": 0
                 }
             ]
         }
