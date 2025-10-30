@@ -2104,6 +2104,365 @@
         }
       ]
     }
+    ,
+    {
+      "Mymenshing Board": [
+        {
+          "mcqs":[
+  {
+    "id": 1,
+    "question": "10 BASE-5 নিচের কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) থিননেট",
+      "খ) ইউটিটি",
+      "গ) এসটিপি",
+      "ঘ) থিকনেট"
+    ],
+    "answer": "ঘ) থিকনেট",
+    "level": "Medium",
+    "chapterId": "2"
+  },
+  {
+    "id": 2,
+    "question": "Single SMS এর মোড কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) মাল্টিকাস্ট",
+      "খ) ব্রডকাস্ট",
+      "গ) ফুল-ডুপ্লেক্স",
+      "ঘ) ইউনিকাস্ট"
+    ],
+    "answer": "ঘ) ইউনিকাস্ট",
+    "level": "Medium",
+    "chapterId": "2"
+  },
+  {
+    "id": 3,
+    "question": "মি. মাসুদ একজন চিকিৎসক। তাঁর স্পর্শ ছাড়া তাঁর মোবাইল ফোনটি চালু হয় না। তিনি রোগীদের চিকিৎসার ক্ষেত্রে অতি ক্ষুদ্র ক্ষুদ্র যন্ত্র ব্যবহার করেন।\nমি. মাসুদের মোবাইলে ব্যবহৃত প্রযুক্তিটি হলো- ",
+    "imageUrl": "",
+    "options": [
+      "ক) রেটিনা স্ক্যান",
+      "খ) ফিঙ্গারপ্রিন্ট",
+      "গ) ন্যানো টেকনোলজি",
+      "ঘ) বায়োইনফরমেটিক্স"
+    ],
+    "answer": "খ) ফিঙ্গারপ্রিন্ট",
+    "level": "Medium",
+    "chapterId": "1"
+  },
+  {
+    "id": 4,
+    "question": "মি. মাসুদ একজন চিকিৎসক। তাঁর স্পর্শ ছাড়া তাঁর মোবাইল ফোনটি চালু হয় না। তিনি রোগীদের চিকিৎসার ক্ষেত্রে অতি ক্ষুদ্র ক্ষুদ্র যন্ত্র ব্যবহার করেন।\n মি. মাসুদ কর্তৃক রোগীদের চিকিৎসায় ব্যবহৃত প্রযুক্তির (ন্যানো টেকনোলজি) কুফল হলো-\ni. স্মার্ট ড্রাগ তৈরি করা হয়\nii. প্রাণঘাতী অস্ত্র তৈরি করা হয়\niii. ধনী ও গরিবের মধ্যে পার্থক্য চরমমাত্রায় বৃদ্ধি পায়",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "গ) ii ও iii",
+    "level": "Medium",
+    "chapterId": "1"
+  },
+  {
+    "id": 5,
+    "question": "যে কোনো জটিল ইলেকট্রনিক্স সার্কিট তৈরি করা যায়-\ni. মৌলিক গেইট দিয়ে\nii. বিশেষ গেইট দিয়ে\niii. সার্বজনীন গেইট দিয়ে",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "খ) i ও iii",
+    "level": "Medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 6,
+    "question": "(10110)₂ এর সমকক্ষ মান-\ni. (56)₈\nii. (46)₁₀\niii. (2F)₁₆",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "ক) i ও ii",
+    "level": "Medium",
+    "chapterId": "3.1"
+  },
+  {
+    "id": 7,
+    "question": "কোনটি ক্রায়োজনিক এজেন্ট নয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) তরল নাইট্রোজেন",
+      "খ) তরল আর্গন",
+      "গ) তরল ফসফরাস",
+      "ঘ) তরল কার্বন-ডাই-অক্সাইড"
+    ],
+    "answer": "গ) তরল ফসফরাস",
+    "level": "Medium",
+    "chapterId": "1"
+  },
+  {
+    "id": 8,
+    "question": "কোনটি প্রটোকল কনভার্টার?",
+    "imageUrl": "",
+    "options": [
+      "ক) রাউটার",
+      "খ) সুইচ",
+      "গ) গেটওয়ে",
+      "ঘ) হাব"
+    ],
+    "answer": "গ) গেটওয়ে",
+    "level": "Medium",
+    "chapterId": "2"
+  },
+  {
+    "id": 9,
+    "question": "উদ্দীপকের ৩নং লাইনের লেখাটির জন্য সিনট্যাক্স কোনটি? (Context: HTML Header tags)",
+    "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/mymenshing/question7.jpg?raw=true",
+    "options": [
+      "ক) <h4>HSC</h4>",
+      "খ) <h2>HSC</h2>",
+      "গ) <h3>HSC</h3>",
+      "ঘ) <h1>HSC</h1>"
+    ],
+    "answer": "গ) <h3>HSC</h3>",
+    "level": "Medium",
+    "chapterId": "4"
+  },
+  {
+    "id": 10,
+    "question": "ওয়েবসাইটকে দৃষ্টিনন্দন করার জন্য নিচের কোনটি ব্যবহার করা হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) HTML",
+      "খ) CSS",
+      "গ) PHP",
+      "ঘ) JAVA"
+    ],
+    "answer": "খ) CSS",
+    "level": "Medium",
+    "chapterId": "4"
+  },
+  {
+    "id": 11,
+    "question": "সি ভাষায় লেখা উদ্দীপকটির আউটপুট কত হবে? (S=2; \n for (i=1 to 10; i++)\n S=S+i;\n printf (“%d”, S);)",
+    "imageUrl": "",
+    "options": [
+      "ক) 50",
+      "খ) 54",
+      "গ) 57",
+      "ঘ) 47"
+    ],
+    "answer": "গ) 57",
+    "level": "Medium",
+    "chapterId": "5"
+  },
+  {
+    "id": 12,
+    "question": "'i' এর কোন মানের পরিবর্তনের জন্য আউটপুট 32 হবে? S=2; \n for (i=1 to 10; i++)\n S=S+i;\n printf (“%d”, S);)",
+    "imageUrl": "",
+    "options": [
+      "ক) $i=2$; $i=i+2$",
+      "খ) $i=1$; $i=i+2$",
+      "গ) $i=2$; $i=i+1$",
+      "ঘ) $i=0$; $i=i+1$"
+    ],
+    "answer": "ক) $i=2$; $i=i+2$",
+    "level": "Medium",
+    "chapterId": "5"
+  },
+  {
+    "id": 13,
+    "question": "কোনটি লজিক্যাল অপারেটর?",
+    "imageUrl": "",
+    "options": [
+      "ক) $==$",
+      "খ) $!=$",
+      "গ) $>=$",
+      "ঘ) $||$"
+    ],
+    "answer": "ঘ) $||$",
+    "level": "Medium",
+    "chapterId": "5"
+  },
+  {
+    "id": 14,
+    "question": "কোন শাসকেরা শূন্যকে শয়তানের রূপ বিবেচনা করতো?",
+    "imageUrl": "",
+    "options": [
+      "ক) মুসলিম",
+      "খ) গ্রিক",
+      "গ) খ্রিষ্টীয়",
+      "ঘ) মিশরীয়"
+    ],
+    "answer": "গ) খ্রিষ্টীয়",
+    "level": "Medium",
+    "chapterId": "3.1"
+  },
+  {
+    "id": 15,
+    "question": "GMO এর পূর্ণরূপ কী?",
+    "imageUrl": "",
+    "options": [
+      "ক) General Mofied Organism",
+      "খ) Genetically Modified Organization",
+      "গ) Genetically Modern Organism",
+      "ঘ) Genetically Modified Organism"
+    ],
+    "answer": "ঘ) Genetically Modified Organism",
+    "level": "Medium",
+    "chapterId": "1"
+  },
+  {
+    "id": 16,
+    "question": "কোনটি এম্পটি ট্যাগ?",
+    "imageUrl": "",
+    "options": [
+      "ক) <hr>",
+      "খ) <h1>",
+      "গ) <tr>",
+      "ঘ) <td>"
+    ],
+    "answer": "ক) <hr>",
+    "level": "easy",
+    "chapterId": "4"
+  },
+  {
+    "id": 17,
+    "question": "C++ ভাষাটি উদ্ভাবন করেন কে?",
+    "imageUrl": "",
+    "options": [
+      "ক) ডেনিস রিচি",
+      "খ) গিডো ডান রসাম",
+      "গ) জন স্ট্রাউস্ট্রপ",
+      "ঘ) অ্যাডা লাভলেস"
+    ],
+    "answer": "ক) ডেনিস রিচি",
+    "level": "Medium",
+    "chapterId": "5"
+  },
+  {
+    "id": 18,
+    "question": "ডাটা টাইপ ডাবল এর ফরম্যাট স্পেসিফায়ার কোনটি?",
+    "imageUrl": "",
+    "options": [
+      "ক) %i",
+      "খ) %d",
+      "গ) %if",
+      "ঘ) %lf"
+    ],
+    "answer": "ঘ) %lf",
+    "level": "Medium",
+    "chapterId": "5"
+  },
+  {
+    "id": 19,
+    "question": "কৃত্রিম বুদ্ধিমত্তার ক্ষেত্রগুলো হলো-\ni. ন্যাচারাল ল্যাংগুয়েজ প্রসেসিং\nii. স্প্রেডশিট প্রসেসিং\niii. স্পিচ প্রসেসিং",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "খ) i ও iii",
+    "level": "Medium",
+    "chapterId": "1"
+  },
+  {
+    "id": 20,
+    "question": "খুশি যে প্রজন্মের মোবাইল ফোন ব্যবহার করে- (Context: 4k TV support)",
+    "imageUrl": "",
+    "options": [
+      "ক) ১ম",
+      "খ) ৪র্থ",
+      "গ) ৩য়",
+      "ঘ) ৫ম"
+    ],
+    "answer": "ঘ) ৫ম",
+    "level": "Medium",
+    "chapterId": "2"
+  },
+  {
+    "id": 21,
+    "question": "(Context: 4k TV support) উক্ত প্রজন্মের মোবাইল ফোনের বৈশিষ্ট্য হচ্ছে-\ni. world wide wireless web\nii. radio access technology\niii. Multiple input and multiple output",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও ii",
+      "খ) i ও iii",
+      "গ) ii ও iii",
+      "ঘ) i, ii ও iii"
+    ],
+    "answer": "ঘ) i, ii ও iii",
+    "level": "Medium",
+    "chapterId": "2"
+  },
+  {
+    "id": 22,
+    "question": "নিচের কোনটি সঠিক চলক-",
+    "imageUrl": "",
+    "options": [
+      "ক) HSC Exam",
+      "খ) Final_Result",
+      "গ) int main",
+      "ঘ) our@college"
+    ],
+    "answer": "খ) Final_Result",
+    "level": "Medium",
+    "chapterId": "5"
+  },
+  {
+    "id": 23,
+    "question": "বুলিয়ান এলজেবরা সরলীকরণ করার সময় প্রথমে কোনটি করতে হয়?",
+    "imageUrl": "",
+    "options": [
+      "ক) গুণ",
+      "খ) পূরক",
+      "গ) যোগ",
+      "ঘ) ভাগ"
+    ],
+    "answer": "খ) পূরক",
+    "level": "Medium",
+    "chapterId": "3.2"
+  },
+  {
+    "id": 24,
+    "question": "হাসি ওয়েবসাইট এ ছবি যুক্ত করতে পারে। \nহাসি এখন ওয়েব পেইজে কোন ট্যাগের ব্যবহার শিখছে?",
+    "imageUrl": "",
+    "options": [
+      "ক) <img src=\"img.png\">",
+      "খ) <a href=\"img.png\">",
+      "গ) <img border = \"img.png\">",
+      "ঘ) <img = \"img.png\">"
+    ],
+    "answer": "ক) <img src=\"img.png\">",
+    "level": "Medium",
+    "chapterId": "4"
+  },
+  {
+    "id": 25,
+    "question": "হাসি ওয়েবপেজে ছবি যুক্ত করলে-\ni. টেক্সট এর পরিমাণ কমিয়ে আনা যাবে\nii. ব্যবহারকারীর নিকট পেজটি দৃষ্টিনন্দন হবে\niii. ছবি দ্রুত ডাউনলোড হবে",
+    "imageUrl": "",
+    "options": [
+      "ক) i ও iii",
+      "খ) i ও ii",
+      "গ) i, ii ও iii",
+      "ঘ) ii, iii"
+    ],
+    "answer": "খ) i ও ii",
+    "level": "Medium",
+    "chapterId": "4"
+  }
+] 
+        }
+      ]
+    }
   ],
   "2025": [
     {
