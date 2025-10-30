@@ -2805,6 +2805,360 @@
           ]
         }
       ]
+    },
+    {
+      "বরিশাল বোর্ড": [
+        {
+          "id": 1,
+          "question": "<ol type=\"a\" start=\"4\"> এর আউটপুট কেমন হবে?",
+          "imageUrl": "",
+          "options": [
+            "ক) 1.",
+            "খ) a.",
+            "গ) 4.",
+            "ঘ) d."
+          ],
+          "answer": "ঘ) d.",
+          "level": "easy",
+          "chapterId": "4"
+        },
+        {
+          "id": 2,
+          "question": "$(x)_5$ হলে $x=14$ এর পরবর্তী মান কোনটি?",
+          "imageUrl": "",
+          "options": [
+            "ক) 15",
+            "খ) 18",
+            "গ) 20",
+            "ঘ) 22"
+          ],
+          "answer": "গ) 20",
+          "level": "medium",
+          "chapterId": "3.1"
+        },
+        {
+          "id": 3,
+          "question": "আবহাওয়া পরিস্থিতি পর্যবেক্ষণে কাজ করে কোনটি?",
+          "imageUrl": "",
+          "options": [
+            "ক) ওয়াইম্যাক্স",
+            "খ) টেরিস্ট্রিয়াল",
+            "গ) রেডিও ওয়েব",
+            "ঘ) স্যাটেলাইট"
+          ],
+          "answer": "ঘ) স্যাটেলাইট",
+          "level": "easy",
+          "chapterId": "2"
+        },
+        {
+          "id": 4,
+          "question": "কোনটিতে Decoder ব্যবহার করা হয়?",
+          "imageUrl": "",
+          "options": [
+            "ক) কী বোর্ড",
+            "খ) মনিটর",
+            "গ) মাউস",
+            "ঘ) স্ক্যানার"
+          ],
+          "answer": "খ) মনিটর",
+          "level": "medium",
+          "chapterId": "3.2"
+        },
+        {
+          "id": 5,
+          "question": "উদ্দীপকে ট্রান্সমিশন মোড কোনটি? (Context: Central node A is connected to B, C, D)",
+          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw=true",
+          "options": [
+            "ক) ইউনিকাস্ট",
+            "খ) ব্রডকাস্ট",
+            "গ) মাল্টিকাস্ট",
+            "ঘ) ফুল-ডুপ্লেক্স"
+          ],
+          "answer": "খ) ব্রডকাস্ট",
+          "level": "medium",
+          "chapterId": "2"
+        },
+        {
+          "id": 6,
+          "question": "উদ্দীপকটি টপোলজি হিসেবে কাজ করবে যখন-\ni. A কে হাব বিবেচনা করা হয়\nii. নোডগুলো আন্তঃসংযোগ করলে\niii. C বিচ্ছিন্ন হলে",
+          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw=true",
+          "options": [
+            "ক) i ও ii",
+            "খ) i ও iii",
+            "গ) ii ও iii",
+            "ঘ) i, ii ও iii"
+          ],
+          "answer": "ক) i ও ii",
+          "level": "hard",
+          "chapterId": "2"
+        },
+        {
+          "id": 7,
+          "question": "DNA-এর নতুন বিন্যাস তৈরিতে কোনটি ব্যবহার করা হয়?",
+          "imageUrl": "",
+          "options": [
+            "ক) ন্যানোটেকনোলজি",
+            "খ) ভার্চুয়াল রিয়েলিটি",
+            "গ) জেনেটিক ইঞ্জিনিয়ারিং",
+            "ঘ) বায়োইনফরমেটিক্স"
+          ],
+          "answer": "গ) জেনেটিক ইঞ্জিনিয়ারিং",
+          "level": "easy",
+          "chapterId": "1"
+        },
+        {
+          "id": 8,
+          "question": "কোনটি টেক্সট ফরমেটিং এলিমেন্ট?",
+          "imageUrl": "",
+          "options": [
+            "ক) <b>",
+            "খ) <br>",
+            "গ) <ol>",
+            "ঘ) <a>"
+          ],
+          "answer": "ক) <b>",
+          "level": "easy",
+          "chapterId": "4"
+        },
+        {
+          "id": 9,
+          "question": "সিনক্রোনাস ট্রান্সমিশনের সুবিধা কোনটি?",
+          "imageUrl": "",
+          "options": [
+            "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
+            "খ) প্রতি ক্যারেক্টারের মাঝে বিরতি নেই",
+            "গ) স্বল্প দূরত্বে ডেটা ট্রান্সফারে ব্যবহৃত হয়",
+            "ঘ) প্রাইমারি স্টোরেজ ডিভাইসের প্রয়োজন হয় না"
+          ],
+          "answer": "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
+          "level": "medium",
+          "chapterId": "2"
+        },
+        {
+          "id": 10,
+          "question": "আরিয়া ১০^(-৯) স্কেলে পন্য উৎপাদন নিয়ে গবেষণা করে। তাদের উৎপাদিত পণ্য সূ², ছোট হলেও মজবুত ও টেকসই হয়। হাজিরার জন্য অফিসে তাকে একটি ডিভাইসে হাতের আঙ্গুলের ছাপ  দিতে হয়।\n আরিয়ার গবেষণার প্রয়োগক্ষেত্র হয়-\ni. চিকিৎসা \nii. জালানি \niii. খাদ্য খাত ",
+          "imageUrl": "",
+          "options": [
+            "ক) i ও ii",
+            "খ) i ও iii",
+            "গ) ii ও iii",
+            "ঘ) i, ii ও iii"
+          ],
+          "answer": "ঘ) i, ii ও iii",
+          "level": "easy",
+          "chapterId": "1"
+        },
+        {
+          "id": 11,
+          "question": "কোনটি সঠিক ডাটা টাইপ?",
+          "imageUrl": "",
+          "options": [
+            "ক) double",
+            "খ) main",
+            "গ) printf",
+            "ঘ) scanf"
+          ],
+          "answer": "ক) double",
+          "level": "easy",
+          "chapterId": "5"
+        },
+        {
+          "id": 12,
+          "question": "বুলিয়ান এলজেবরা সরলীকরণ করার সময় প্রথমে কোনটি করতে হয়?",
+          "imageUrl": "",
+          "options": [
+            "ক) গুণ",
+            "খ) যোগ",
+            "গ) পূরক",
+            "ঘ) ভাগ"
+          ],
+          "answer": "গ) পূরক",
+          "level": "medium",
+          "chapterId": "3.2"
+        },
+        {
+          "id": 13,
+          "question": "সি ভাষায় সঠিক ফাংশন কোনটি?",
+          "imageUrl": "",
+          "options": [
+            "ক) double",
+            "খ) main()",
+            "গ) printf",
+            "ঘ) scanf"
+          ],
+          "answer": "খ) main()",
+          "level": "easy",
+          "chapterId": "5"
+        },
+        {
+          "id": 14,
+          "question": "সি ভাষায় \"%\" কোন ধরনের অপারেটর?",
+          "imageUrl": "",
+          "options": [
+            "ক) অ্যারিথমেটিক",
+            "খ) লজিক্যাল",
+            "গ) রিলেশনাল",
+            "ঘ) অ্যাসাইনমেন্ট"
+          ],
+          "answer": "ক) অ্যারিথমেটিক",
+          "level": "easy",
+          "chapterId": "5"
+        },
+        {
+          "id": 15,
+          "question": "উদ্দীপকে Attribute কোনটি? (Context: <p> <img src = \"Picture.jpg\" width = \"300\" height = \"200\"> </p>)",
+          "imageUrl": "",
+          "options": [
+            "ক) p",
+            "খ) width",
+            "গ) img",
+            "ঘ) picture"
+          ],
+          "answer": "খ) width",
+          "level": "easy",
+          "chapterId": "4"
+        },
+        {
+          "id": 16,
+          "question": "রাসেল সঠিক ফলাফল না পাওয়ার কারণ-\ni. ফাইলের নাম লিখতে ভুল\nii. ব্রাউজারে সাপোর্ট না করা\niii. সঠিক লোকেশন ব্যবহার না করা",
+          "imageUrl": "",
+          "options": [
+            "ক) i ও ii",
+            "খ) i ও iii",
+            "গ) ii ও iii",
+            "ঘ) i, ii ও iii"
+          ],
+          "answer": "ঘ) i, ii ও iii",
+          "level": "medium",
+          "chapterId": "4"
+        },
+        {
+          "id": 17,
+          "question": "P এর সরলীকৃত মানের সমতুল্য গেট কোনটি?",
+          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/Picture1.png?raw=true",
+          "options": [
+            "ক) NAND",
+            "খ) XOR",
+            "গ) NOR",
+            "ঘ) XNOR"
+          ],
+          "answer": "খ) XOR",
+          "level": "hard",
+          "chapterId": "3.2"
+        },
+        {
+          "id": 18,
+          "question": "টেলিপ্রেজেন্স এর ব্যবহার হয় কোনটিতে?",
+          "imageUrl": "",
+          "options": [
+            "ক) ক্রায়োসার্জারি",
+            "খ) ভার্চুয়াল রিয়েলিটি",
+            "গ) কৃত্রিম বুদ্ধিমত্তা",
+            "ঘ) বায়োমেট্রিক"
+          ],
+          "answer": "খ) ভার্চুয়াল রিয়েলিটি",
+          "level": "medium",
+          "chapterId": "1"
+        },
+        {
+          "id": 19,
+          "question": "scanf(); এর জন্য কোন হেডার ফাইল সংযুক্ত করতে হয়?",
+          "imageUrl": "",
+          "options": [
+            "ক) stdio.h",
+            "খ) conio.h",
+            "গ) math.h",
+            "ঘ) string.h"
+          ],
+          "answer": "ক) stdio.h",
+          "level": "easy",
+          "chapterId": "5"
+        },
+        {
+          "id": 20,
+          "question": "ব্যান্ডউইথ নির্ভর করে কোনটির উপর?",
+          "imageUrl": "",
+          "options": [
+            "ক) প্রাপক",
+            "খ) মাধ্যম",
+            "গ) প্রেরক",
+            "ঘ) ব্যবহারকারী"
+          ],
+          "answer": "খ) মাধ্যম",
+          "level": "easy",
+          "chapterId": "2"
+        },
+        {
+          "id": 21,
+          "question": "বুলিয়ান সহায়ক উপপাদ্য-\ni. $x+xy = x$\nii. $x(x+y)=x$\niii. $x+\\overline{x}y = x+y$",
+          "imageUrl": "",
+          "options": [
+            "ক) i ও ii",
+            "খ) i ও iii",
+            "গ) ii ও iii",
+            "ঘ) i, ii ও iii"
+          ],
+          "answer": "ক) i ও ii",
+          "level": "hard",
+          "chapterId": "3.2"
+        },
+        {
+          "id": 22,
+          "question": "নেটওয়ার্কে ডেটা আদান-প্রদানের জন্য প্রেরক ও প্রাপক উভয়ই একই সময়ে ডেটা প্রেরণ এবং গ্রহণ করতে পারে কোন মোডে?",
+          "imageUrl": "",
+          "options": [
+            "ক) সিমপ্লেক্স",
+            "খ) হাফ-ডুপ্লেক্স",
+            "গ) ফুল-ডুপ্লেক্স",
+            "ঘ) ব্রডকাস্ট"
+          ],
+          "answer": "গ) ফুল-ডুপ্লেক্স",
+          "level": "easy",
+          "chapterId": "2"
+        },
+        {
+          "id": 23,
+          "question": "ict লিখা কত বার আসবে? \n M=5%3;\n while(M<5)\n{\nprint('ict');\nM=M+1;\n}\n",
+          "imageUrl": "",
+          "options": [
+            "ক) 2",
+            "খ) 3",
+            "গ) 4",
+            "ঘ) 5"
+          ],
+          "answer": "খ) 3",
+          "level": "medium",
+          "chapterId": "5"
+        },
+        {
+          "id": 24,
+          "question": "\n M=5%3;\n while(M<5)\n{\nprint('ict');\nM=M+1;\n}\n\n M=M+1 এর পরিবর্তে M=M+2 করলে কতবার আসবে? ",
+          "imageUrl": "",
+          "options": [
+            "ক) ২",
+            "খ) ৩",
+            "গ) ৪",
+            "ঘ) ৫"
+          ],
+          "answer": "ক) ২",
+          "level": "hard",
+          "chapterId": "5"
+        },
+        {
+          "id": 25,
+          "question": "emoji code?",
+          "imageUrl": "",
+          "options": [
+            "ক) ebcdic",
+            "খ) bcd",
+            "গ) ascii-8",
+            "ঘ) unicode"
+          ],
+          "answer": "ঘ) unicode",
+          "level": "medium",
+          "chapterId": "4"
+        }
+      ]
     }
   ],
   "2025": [
