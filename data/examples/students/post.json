@@ -84,15 +84,15 @@
                 }
             ]
         },
-         {
+        {
             "postId": "post125",
             "title": "দ্বাদশ শ্রেণির ১ম টার্ম পরীক্ষা ",
             "content": "রুটিন",
             "teacherName": "Shibbir",
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
-            "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/post/1stTerm.jpg?raw=true",
-            "likes": 1,
+            "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1stTerm.jpg?raw=true",
+            "likes": 48,
             "tags": [
                 "android",
                 "kotlin",
