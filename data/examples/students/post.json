@@ -47,7 +47,7 @@
                     "authorName": "shibbir",
                     "content": "Hello girls",
                     "timestamp": "2025-10-29 10:15:30",
-                    "likes": 13,
+                    "likes": 14,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -121,7 +121,7 @@
                     "authorName": "Shibbir",
                     "content": "Reminder",
                     "timestamp": "2025-10-30 09:15:30",
-                    "likes": 6,
+                    "likes": 4,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
