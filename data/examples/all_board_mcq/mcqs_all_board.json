@@ -4371,7 +4371,7 @@
             },
             {
               "id": 13,
-              "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nint k;\nfor(k=7; k<49; k = k+7)\n printf(\"Exam\\n\");\n Printf (\"Exam\\n\") \nstatement এর পূর্বে if(k = 35) break; ব্যবহার করা হলে \"Exam\" লেখাটি কত বার প্রদর্শিত হবে?",
+              "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nint k;\nfor(k=7; k<49; k = k+7)\n printf(\"Exam\\n\"); \nstatement এর পূর্বে if(k = 35) break; ব্যবহার করা হলে \"Exam\" লেখাটি কত বার প্রদর্শিত হবে?",
               "options": [
                 "ক) 2",
                 "খ) 4",
