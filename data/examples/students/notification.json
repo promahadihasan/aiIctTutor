@@ -13,6 +13,20 @@
       "imageUrl": "https://example.com/image.jpg",
       "authorName": "Shibbir",
       "authorAvatar": "https://example.com/avatar.jpg"
+    },
+    
+     {
+      "id": "notification2",
+      "title": "দ্বাদশ শ্রেণির ১ম টার্ম পরীক্ষা ",
+      "message": "রুটিন",
+      "timestamp": "2025-10-30 09:15:30",
+      "type": "post",
+      "isRead": false,
+      "postId": "post125",
+      "emoji": "📱",
+      "imageUrl": "https://example.com/image.jpg",
+      "authorName": "Shibbir",
+      "authorAvatar": "https://example.com/avatar.jpg"
     }
   ],
   "status": "success",
