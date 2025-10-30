@@ -34,7 +34,7 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 11,
+            "likes": 10,
             "tags": [
                 "android",
                 "kotlin",
@@ -81,6 +81,14 @@
                     "content": "নাইস পিক।",
                     "timestamp": "2025-10-30 15:57:49",
                     "likes": 2
+                },
+                {
+                    "id": "d5cd28ee-fd84-4ae6-9b84-293ae32773b4",
+                    "postId": "post124",
+                    "authorName": "NUSRAT JAHAN KHUSBU",
+                    "content": "🥰❤️",
+                    "timestamp": "2025-10-30 18:33:06",
+                    "likes": 0
                 }
             ]
         },
