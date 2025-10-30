@@ -57,6 +57,14 @@
                     "content": "Comments here",
                     "timestamp": "2025-10-29 16:46:59",
                     "likes": 1
+                },
+                {
+                    "id": "281401ef-fc98-4312-8cff-aa1eda8d234f",
+                    "postId": "post124",
+                    "authorName": "SUMA AKTER",
+                    "content": "nice",
+                    "timestamp": "2025-10-30 13:10:16",
+                    "likes": 0
                 }
             ]
         }
