@@ -1,7 +1,7 @@
 {
   "2024": [
     {
-      "Sylhet Board": [
+      "সিলেট বোর্ড": [
         {
           "mcqs": [
             {
@@ -214,7 +214,7 @@
             },
             {
               "id": 16,
-              "question": "\n < html > < body > Cricket board < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
+              "question": "\n < html > < body > Cricket বোর্ড < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
               "image": "",
               "options": [
                 "ক) i, ii",
@@ -327,7 +327,7 @@
             {
               "id": 24,
               "question": "চিত্রের ? স্থানে কোনটি হবে ",
-              "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
+              "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allবোর্ড2014_sylhetবোর্ড_q_23.png?raw=true",
               "options": [
                 "ক) Assembler",
                 "খ) Interpreter",
@@ -343,7 +343,7 @@
       ]
     },
     {
-      "Dhaka Board": [
+      "ঢাকা বোর্ড": [
         {
           "mcqs": [
             {
@@ -433,7 +433,7 @@
             {
               "id": 7,
               "question": "Y এর মান কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/dhaQ78.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/dhaka_বোর্ড/dhaQ78.png?raw=true",
               "options": [
                 "ক) A+B",
                 "খ) A̅+B",
@@ -447,7 +447,7 @@
             {
               "id": 8,
               "question": "উদ্দীপকে Y=0 যখন-",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/dhaQ78.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/dhaka_বোর্ড/dhaQ78.png?raw=true",
               "options": [
                 "ক) A=0, B=0",
                 "খ) A=0, B=1",
@@ -517,7 +517,7 @@
             {
               "id": 13,
               "question": "উদ্দীপকের প্রোগ্রামটিতে \"HTML\" কতকবার প্রদর্শিত হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/dhaka_বোর্ড/image.jpg?raw=true",
               "options": [
                 "ক) 3",
                 "খ) 4",
@@ -531,7 +531,7 @@
             {
               "id": 14,
               "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/dhaka_বোর্ড/image.jpg?raw=true",
               "options": [
                 "ক) i ও ii",
                 "খ) i ও iii",
@@ -701,7 +701,7 @@
       ]
     },
     {
-      "Rajshahi Board": [
+      "রাজশাহী বোর্ড": [
         {
           "mcqs": [
             {
@@ -805,7 +805,7 @@
             {
               "id": 8,
               "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/rajshahi/raj.jpg?raw=true",
               "options": [
                 "ক) i ও ii",
                 "খ) ii ও iii",
@@ -1059,7 +1059,7 @@
       ]
     },
     {
-      "Chittagong Board": [
+      "চট্টগ্রাম বোর্ড": [
         {
           "mcqs": [
             {
@@ -1247,7 +1247,7 @@
             {
               "id": 14,
               "question": "উদ্দীপকে Y এর মান কত?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/ctg/p1.png?raw=true",
               "options": [
                 "ক) 0",
                 "খ) 1",
@@ -1261,7 +1261,7 @@
             {
               "id": 15,
               "question": "উদ্দীপকের ইনপুট O এর পরিবর্তে B হলে বর্তনীয় আউটপুট কত হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/ctg/p1.png?raw=true",
               "options": [
                 "ক) not(A⊕B)",
                 "খ) A⊕B",
@@ -1417,7 +1417,7 @@
       ]
     },
     {
-      "Jessore Board": [
+      "যশোর বোর্ড": [
         {
           "mcqs": [
             {
@@ -1507,7 +1507,7 @@
             {
               "id": 7,
               "question": "উদ্দীপকে F এর সরলীকৃত মান হচ্ছে-",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/jessore/j1.png?raw=true",
               "options": [
                 "ক) AB",
                 "খ) A'B",
@@ -1521,7 +1521,7 @@
             {
               "id": 8,
               "question": "উদ্দীপকে 'F' এর মান 'O' পেতে হলে 'P' এর স্থলে কোন গেইট হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/jessore/j1.png?raw=true",
               "options": [
                 "ক) AND",
                 "খ) OR",
@@ -1761,7 +1761,7 @@
       ]
     },
     {
-      "Cumilla Board": [
+      "কুমিল্লা বোর্ড": [
         {
           "mcqs": [
             {
@@ -2105,7 +2105,7 @@
       ]
     },
     {
-      "Mymenshing Board": [
+      "ময়মনসিংহ বোর্ড": [
         {
           "mcqs": [
             {
@@ -2223,7 +2223,7 @@
             {
               "id": 9,
               "question": "উদ্দীপকের ৩নং লাইনের লেখাটির জন্য সিনট্যাক্স কোনটি? (Context: HTML Header tags)",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/mymenshing/question7.jpg?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/mymenshing/question7.jpg?raw=true",
               "options": [
                 "ক) <h4>HSC</h4>",
                 "খ) <h2>HSC</h2>",
@@ -2749,7 +2749,7 @@
             {
               "id": 21,
               "question": "ব্লকচিত্রের আউটপুট কত হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/Dinajpur/21_22.png?raw=true",
               "options": [
                 "ক) A+B",
                 "খ) AB",
@@ -2763,7 +2763,7 @@
             {
               "id": 22,
               "question": "উদ্দীপকের ব্লকচিত্রের সার্কিট বাস্তবায়নে যে গেইটের প্রয়োজন-\ni. AND\nii. X-OR\niii. OR",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/Dinajpur/21_22.png?raw=true",
               "options": [
                 "ক) i ও ii",
                 "খ) i ও iii",
@@ -2869,7 +2869,7 @@
             {
               "id": 5,
               "question": "উদ্দীপকে ট্রান্সমিশন মোড কোনটি? (Context: Central node A is connected to B, C, D)",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/borishal/quesn5.png?raw=true",
               "options": [
                 "ক) ইউনিকাস্ট",
                 "খ) ব্রডকাস্ট",
@@ -2883,7 +2883,7 @@
             {
               "id": 6,
               "question": "উদ্দীপকটি টপোলজি হিসেবে কাজ করবে যখন-\ni. A কে হাব বিবেচনা করা হয়\nii. নোডগুলো আন্তঃসংযোগ করলে\niii. C বিচ্ছিন্ন হলে",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/borishal/quesn5.png?raw=true",
               "options": [
                 "ক) i ও ii",
                 "খ) i ও iii",
@@ -3037,7 +3037,7 @@
             {
               "id": 17,
               "question": "P এর সরলীকৃত মানের সমতুল্য গেট কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/Picture1.png?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2024/borishal/Picture1.png?raw=true",
               "options": [
                 "ক) NAND",
                 "খ) XOR",
@@ -3167,7 +3167,7 @@
   ],
   "2025": [
     {
-      "Dhaka Board": [
+      "ঢাকা বোর্ড": [
         {
           "mcqs": [
             {
@@ -3257,7 +3257,7 @@
             {
               "id": 8,
               "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n। উদ্দীপকের Y এর সমীকরণ কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dhaka/dh25mcqCh32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dhaka/dh25mcqCh32.PNG?raw=true",
               "options": [
                 "ক. A'B + AB'",
                 "খ. AB + A'B",
@@ -3270,7 +3270,7 @@
             {
               "id": 9,
               "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n।উদ্দীপকে Y এর মান 0, যখন- \ni. A=1, B=0\n ii. A=0, B=1\n iii.  A=1, B=1",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dhaka/dh25mcqCh32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dhaka/dh25mcqCh32.PNG?raw=true",
               "options": [
                 "ক) i ও ii",
                 "খ) i ও iii",
@@ -3491,7 +3491,7 @@
       ]
     },
     {
-      "Rajshahi Board": [
+      "রাজশাহী বোর্ড": [
         {
           "mcqs": [
             {
@@ -3553,7 +3553,7 @@
             {
               "id": 5,
               "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Rj25Chap32gate.PNG?raw=true",
               "options": [
                 "ক) X·Y",
                 "খ) Ȳ·X̄",
@@ -3567,7 +3567,7 @@
             {
               "id": 6,
               "question": "চিত্রে '2' নং গেটের পরিবর্তে কোন গেট স্থাপন করলে F = 0 হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Rj25Chap32gate.PNG?raw=true",
               "options": [
                 "ক) OR",
                 "খ) AND",
@@ -3763,7 +3763,7 @@
             {
               "id": 20,
               "question": "নিচের সার্কিটটির ক্ষেত্রে কখন আলো জ্বলবে না?\nচিত্র: ",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Rj25Chap32.PNG?raw=true",
               "options": [
                 "ক) A = 0, B = 0",
                 "খ) A = 1, B = 0",
@@ -3833,7 +3833,7 @@
             {
               "id": 25,
               "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nচিত্র: \nচিত্রে '?' চিহ্নিত স্থানে কোন ডিভাইস স্থাপন করলে স্টার নেটওয়ার্ক তৈরি করা যায়?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap2.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Rj25Chap2.PNG?raw=true",
               "options": [
                 "ক) Modem",
                 "খ) Hub",
@@ -4051,7 +4051,7 @@
             {
               "id": 15,
               "question": "Y এর সরলীকৃত মান হলো-",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Cu25Ch32.PNG?raw=true",
               "options": [
                 "ক. A",
                 "খ. A̅",
@@ -4065,7 +4065,7 @@
             {
               "id": 16,
               "question": "উদ্দীপকের বর্তনীর অ্যান্ড গেটের পরিবর্তে অর গেইট বসালে Y এর মান কতো হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Cu25Ch32.PNG?raw=true",
               "options": [
                 "ক. A",
                 "খ. B",
@@ -4121,7 +4121,7 @@
             {
               "id": 20,
               "question": "উদ্দীপকের টেবিলটি তৈরি করতে HTML কোডে colspan ও rowspan এর মান যথাক্রমে-",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch4.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Cu25Ch4.PNG?raw=true",
               "options": [
                 "ক. 2, 3",
                 "খ. 3, 2",
@@ -4239,7 +4239,7 @@
             {
               "id": 3,
               "question": "উদ্দীপকে 'Y' এর সরলীকৃত মান কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Jb25ch32.PNG?raw=true",
               "options": [
                 "ক) A ⊕ B",
                 "খ) (A ⊕ B)'",
@@ -4253,7 +4253,7 @@
             {
               "id": 4,
               "question": "উদ্দীপকে 'Y' এর মান '1' পেতে K এর স্থলে কোন গেইট হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Jb25ch32.PNG?raw=true",
               "options": [
                 "ক) NOR",
                 "খ) NAND",
@@ -4528,7 +4528,7 @@
             {
               "id": 25,
               "question": "সিগনালটির সমকক্ষ বাইনারি মান কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch31.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/Jb25ch31.PNG?raw=true",
               "options": [
                 "ক) 1000110",
                 "খ) 1100011",
@@ -4745,7 +4745,7 @@
             {
               "id": 16,
               "question": "সারণিটি দেখ নং প্রশ্নের উত্তর দাও:\n A, B, C এর মান কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/chitt25ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/chitt25ch32.PNG?raw=true",
               "options": [
                 "ক) ১, ১, ০",
                 "খ) ০, ০, ১",
@@ -4824,7 +4824,7 @@
             {
               "id": 22,
               "question": "চিত্রটি দেখ এবং  নং প্রশ্নের উত্তর দাও:\nচিত্রে উল্লিখিত মাধ্যম কোনটি?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/chitt25ch2.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/chitt25ch2.PNG?raw=true",
               "options": [
                 "ক) ওয়াই-ফাই",
                 "খ) ইনফ্রারেড",
@@ -5081,7 +5081,7 @@
             {
               "id": 15,
               "question": "চিত্রটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nউদ্দীপকে আউটপুট F এর সরলীকৃত মান হবে-",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/mymen25ch32.PNG?raw=true",
               "options": [
                 "ক) A + B",
                 "খ) Ā + B",
@@ -5095,7 +5095,7 @@
             {
               "id": 16,
               "question": "XOR গেটের স্থলে কোন গেট বসালে আউটপুট 1 হবে?",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/mymen25ch32.PNG?raw=true",
               "options": [
                 "ক) AND",
                 "খ) OR",
@@ -5383,7 +5383,7 @@
             {
               "id": 11,
               "question": "উদ্দীপকের বর্তনীটি হলো- (Context: একটি চিত্র যেখানে একটি XOR গেট-এর চিহ্ন আছে)",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dinaj.jpg?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dinaj.jpg?raw=true",
               "options": [
                 "ক) XOR গেট",
                 "খ) NOR গেট",
@@ -5411,7 +5411,7 @@
             {
               "id": 13,
               "question": "উদ্দীপকের বর্তনীর আউটপুট 1 হলো- ",
-              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dinaj.jpg?raw=true",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dinaj.jpg?raw=true",
               "options": [
                 "ক) A=0,B=0",
                 "খ) A=1,B=1",
@@ -5826,7 +5826,7 @@
         {
           "id": 17,
           "question": "উপরের সত্যক সারণি কোন গেটকে নির্দেশ করে?",
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dh23cha32T.PNG?raw=true",
+          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dh23cha32T.PNG?raw=true",
           "options": [
             "ক) NOR",
             "খ) EX-OR",
@@ -5896,7 +5896,7 @@
         {
           "id": 22,
           "question": "চিত্রে 'Y' এর মান কোনটি?",
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true",
+          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dha23Cha32.PNG?raw=true",
           "options": [
             "ক) A + B",
             "খ) A · B",
@@ -5910,7 +5910,7 @@
         {
           "id": 23,
           "question": "উদ্দীপকের বর্তনীর আউটপুট Y=1 পেতে হলে A ও B এর ইনপুট কত দিতে হবে?",
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true",
+          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/বোর্ড_question/2025/dha23Cha32.PNG?raw=true",
           "options": [
             "ক) A=0, B=0",
             "খ) A=0, B=1",
