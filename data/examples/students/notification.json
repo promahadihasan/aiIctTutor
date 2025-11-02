@@ -27,6 +27,19 @@
       "imageUrl": "https://example.com/image.jpg",
       "authorName": "Shibbir",
       "authorAvatar": "https://example.com/avatar.jpg"
+    },
+     {
+      "id": "notification3",
+      "title": "নোটিশ ও পরীক্ষা সংক্রান্ত ",
+      "message": "নির্দেশনা",
+      "timestamp": "2025-11-02 09:15:30",
+      "type": "post",
+      "isRead": false,
+      "postId": "post126",
+      "emoji": "📱",
+      "imageUrl": "https://example.com/image.jpg",
+      "authorName": "SHIBBIR HOSSEN",
+      "authorAvatar": "https://example.com/avatar.jpg"
     }
   ],
   "status": "success",
