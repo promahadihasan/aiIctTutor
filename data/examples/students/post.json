@@ -121,6 +121,14 @@
                     "content": "nice pic",
                     "timestamp": "2025-11-01 08:37:54",
                     "likes": 0
+                },
+                {
+                    "id": "e731a14e-1393-4c0e-b455-671922d1004f",
+                    "postId": "post124",
+                    "authorName": "AMENA AKTER",
+                    "content": "👍",
+                    "timestamp": "2025-11-02 14:30:58",
+                    "likes": 0
                 }
             ]
         },
