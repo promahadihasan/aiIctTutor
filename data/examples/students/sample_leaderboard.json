@@ -1,6 +1,14 @@
 {
   "leaderboard": [
     {
+      "id": "1090302026110",
+      "name": "SAMIA SULTANA PUSPO",
+      "group": "SCIENCE",
+      "xp_points": 656,
+      "level": "📘 Learner",
+      "last_updated": "2025-10-28 09:58:40"
+    },
+    {
       "id": "1090302026117",
       "name": "SADIA MEHNAJ",
       "group": "SCIENCE",
@@ -15,14 +23,6 @@
       "xp_points": 632,
       "level": "📘 Learner",
       "last_updated": "2025-10-29 19:30:57"
-    },
-    {
-      "id": "1090302026110",
-      "name": "SAMIA SULTANA PUSPO",
-      "group": "SCIENCE",
-      "xp_points": 625,
-      "level": "📘 Learner",
-      "last_updated": "2025-10-28 09:58:40"
     },
     {
       "id": "1090302026125",
