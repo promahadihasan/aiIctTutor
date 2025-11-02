@@ -186,7 +186,7 @@
                     "authorName": "SADIA AKTER",
                     "content": "All the best seniors 🤍",
                     "timestamp": "2025-11-02 17:34:50",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         },
@@ -213,14 +213,6 @@
                     "timestamp": "2025-11-02 10:20:15",
                     "likes": 8,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
-                },
-                {
-                    "id": "700f9586-a472-45fe-9504-2dc052b86e66",
-                    "postId": "post126",
-                    "authorName": "SADIA AKTER",
-                    "content": "ok. thanks 🤍",
-                    "timestamp": "2025-11-02 22:00:33",
-                    "likes": 0
                 }
             ]
         }
