@@ -34,7 +34,7 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 37,
+            "likes": 38,
             "tags": [
                 "android",
                 "kotlin",
@@ -145,14 +145,6 @@
                     "content": "💖",
                     "timestamp": "2025-11-02 18:17:32",
                     "likes": 3
-                },
-                {
-                    "id": "458273ae-2920-4149-8ca5-633e2349d38e",
-                    "postId": "post124",
-                    "authorName": "TANZILA JANNAT SUCHI",
-                    "content": "Hi",
-                    "timestamp": "2025-11-02 19:05:27",
-                    "likes": 0
                 }
             ]
         },
