@@ -47,7 +47,7 @@
                     "authorName": "shibbir",
                     "content": "Hello girls",
                     "timestamp": "2025-10-29 10:15:30",
-                    "likes": 23,
+                    "likes": 24,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -145,14 +145,6 @@
                     "content": "💖",
                     "timestamp": "2025-11-02 18:17:32",
                     "likes": 1
-                },
-                {
-                    "id": "125e4167-6101-4798-8968-12275bc33391",
-                    "postId": "post124",
-                    "authorName": "AFJALUN NESA NUHA",
-                    "content": "nice",
-                    "timestamp": "2025-11-02 18:26:52",
-                    "likes": 0
                 }
             ]
         },
