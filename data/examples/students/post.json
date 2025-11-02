@@ -47,7 +47,7 @@
                     "authorName": "shibbir",
                     "content": "Hello girls",
                     "timestamp": "2025-10-29 10:15:30",
-                    "likes": 27,
+                    "likes": 24,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -145,14 +145,6 @@
                     "content": "💖",
                     "timestamp": "2025-11-02 18:17:32",
                     "likes": 3
-                },
-                {
-                    "id": "237bc68c-2ead-40c3-9301-c0f88b41c9b9",
-                    "postId": "post124",
-                    "authorName": "NOURIN NUHAS",
-                    "content": "sir amader sathe nia to Kono chobi dilen na😶",
-                    "timestamp": "2025-11-02 19:44:19",
-                    "likes": 0
                 }
             ]
         },
@@ -194,7 +186,7 @@
                     "authorName": "SADIA AKTER",
                     "content": "All the best seniors 🤍",
                     "timestamp": "2025-11-02 17:34:50",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         }
