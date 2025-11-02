@@ -34,7 +34,7 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 37,
+            "likes": 36,
             "tags": [
                 "android",
                 "kotlin",
@@ -56,7 +56,7 @@
                     "authorName": "SHIBBIR",
                     "content": "Comments here",
                     "timestamp": "2025-10-29 16:46:59",
-                    "likes": 6
+                    "likes": 4
                 },
                 {
                     "id": "281401ef-fc98-4312-8cff-aa1eda8d234f",
@@ -128,6 +128,14 @@
                     "authorName": "AMENA AKTER",
                     "content": "👍",
                     "timestamp": "2025-11-02 14:30:58",
+                    "likes": 0
+                },
+                {
+                    "id": "54f6df35-c4cc-4efa-89ee-5e09fd461dd7",
+                    "postId": "post124",
+                    "authorName": "MAHUYA FERDOUSI ZIM",
+                    "content": "👍",
+                    "timestamp": "2025-11-02 17:19:38",
                     "likes": 0
                 }
             ]
