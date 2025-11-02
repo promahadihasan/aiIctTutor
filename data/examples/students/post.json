@@ -156,7 +156,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 81,
+            "likes": 82,
             "tags": [
                 "android",
                 "kotlin",
@@ -186,7 +186,7 @@
                     "authorName": "SADIA AKTER",
                     "content": "All the best seniors 🤍",
                     "timestamp": "2025-11-02 17:34:50",
-                    "likes": 1
+                    "likes": 0
                 }
             ]
         }
