@@ -1,6 +1,14 @@
 {
   "leaderboard": [
     {
+      "id": "1090302026125",
+      "name": "JARIN TASNIM MIM",
+      "group": "SCIENCE",
+      "xp_points": 710,
+      "level": "📘 Learner",
+      "last_updated": "2025-10-02 07:41:12"
+    },
+    {
       "id": "1090302026110",
       "name": "SAMIA SULTANA PUSPO",
       "group": "SCIENCE",
@@ -23,14 +31,6 @@
       "xp_points": 632,
       "level": "📘 Learner",
       "last_updated": "2025-10-29 19:30:57"
-    },
-    {
-      "id": "1090302026125",
-      "name": "JARIN TASNIM MIM",
-      "group": "SCIENCE",
-      "xp_points": 561,
-      "level": "📘 Learner",
-      "last_updated": "2025-10-02 07:41:12"
     },
     {
       "id": "1090302026SCIM118",
