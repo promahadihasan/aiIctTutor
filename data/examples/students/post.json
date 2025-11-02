@@ -1,222 +1,222 @@
 {
-  "posts": [
-    {
-      "postId": "post123",
-      "title": "Digital Device",
-      "content": "Today we will learn about the Digital Device in ICT.",
-      "teacherName": "Shibbir",
-      "timestamp": "2023-06-14 09:15:30",
-      "teacherProfilePic": "https://example.com/teacher.jpg",
-      "imageUrl": "",
-      "likes": 47,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
+    "posts": [
         {
-          "id": "comment1",
-          "postId": "post123",
-          "authorName": "ISRAT JAHAN JUI",
-          "content": "Sir, could you explain Binary to Decimal again?",
-          "timestamp": "2023-06-14 10:20:15",
-          "likes": 5,
-          "authorAvatar": "https://example.com/alice.jpg"
+            "postId": "post123",
+            "title": "Digital Device",
+            "content": "Today we will learn about the Digital Device in ICT.",
+            "teacherName": "Shibbir",
+            "timestamp": "2023-06-14 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "",
+            "likes": 47,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post123",
+                    "authorName": "ISRAT JAHAN JUI",
+                    "content": "Sir, could you explain Binary to Decimal again?",
+                    "timestamp": "2023-06-14 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                }
+            ]
+        },
+        {
+            "postId": "post124",
+            "title": "নতুন প্লাটফর্ম এ স্বাগত",
+            "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
+            "teacherName": "Shibbir",
+            "timestamp": "2025-10-29 09:15:30",
+            "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
+            "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
+            "likes": 39,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post124",
+                    "authorName": "shibbir",
+                    "content": "Hello girls",
+                    "timestamp": "2025-10-29 10:15:30",
+                    "likes": 24,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "15763585-454c-475a-a33a-b858e1f290bd",
+                    "postId": "post124",
+                    "authorName": "SHIBBIR",
+                    "content": "Comments here",
+                    "timestamp": "2025-10-29 16:46:59",
+                    "likes": 5
+                },
+                {
+                    "id": "281401ef-fc98-4312-8cff-aa1eda8d234f",
+                    "postId": "post124",
+                    "authorName": "SUMA AKTER",
+                    "content": "nice",
+                    "timestamp": "2025-10-30 13:10:16",
+                    "likes": 2
+                },
+                {
+                    "id": "0359a537-69cd-4eb8-985e-2ea495a0eb25",
+                    "postId": "post124",
+                    "authorName": "AMENA AKTER",
+                    "content": "👍",
+                    "timestamp": "2025-10-30 13:50:00",
+                    "likes": 2
+                },
+                {
+                    "id": "72a219a0-e8d7-453a-a9de-20e80da52983",
+                    "postId": "post124",
+                    "authorName": "SURAIYA AKTER SHIMU ",
+                    "content": "নাইস পিক।",
+                    "timestamp": "2025-10-30 15:57:49",
+                    "likes": 3
+                },
+                {
+                    "id": "d5cd28ee-fd84-4ae6-9b84-293ae32773b4",
+                    "postId": "post124",
+                    "authorName": "NUSRAT JAHAN KHUSBU",
+                    "content": "🥰❤️",
+                    "timestamp": "2025-10-30 18:33:06",
+                    "likes": 9
+                },
+                {
+                    "id": "b28607a0-2701-46ca-8acc-b5387a37be88",
+                    "postId": "post124",
+                    "authorName": "MST MAYESHA RASHID",
+                    "content": "wow!!! nice pic 😊",
+                    "timestamp": "2025-10-30 18:57:54",
+                    "likes": 6
+                },
+                {
+                    "id": "dee469c0-c388-41f6-9d14-c87073448931",
+                    "postId": "post124",
+                    "authorName": "MARYAM",
+                    "content": "nice and attractive ",
+                    "timestamp": "2025-10-31 12:15:16",
+                    "likes": 1
+                },
+                {
+                    "id": "0e4f5270-c6c8-4e5f-aae0-f7e5efe5efd5",
+                    "postId": "post124",
+                    "authorName": "PRIONTY NIJHUM PROVA",
+                    "content": "Assalamualikum sir and Hi everyone 🙃",
+                    "timestamp": "2025-10-31 21:28:31",
+                    "likes": 1
+                },
+                {
+                    "id": "7e9ed864-8916-4578-a753-a572a2c30c4c",
+                    "postId": "post124",
+                    "authorName": "IKSHER AKTER EMU ",
+                    "content": "nice pic",
+                    "timestamp": "2025-11-01 08:37:54",
+                    "likes": 0
+                },
+                {
+                    "id": "e731a14e-1393-4c0e-b455-671922d1004f",
+                    "postId": "post124",
+                    "authorName": "AMENA AKTER",
+                    "content": "👍",
+                    "timestamp": "2025-11-02 14:30:58",
+                    "likes": 3
+                },
+                {
+                    "id": "7b86e457-a9a4-4ff4-bc60-76c7d03d87f1",
+                    "postId": "post124",
+                    "authorName": "FATEMA KHANAM JUI",
+                    "content": "..",
+                    "timestamp": "2025-11-02 17:20:26",
+                    "likes": 0
+                },
+                {
+                    "id": "ed797195-8871-4bea-8874-cf48828f0c61",
+                    "postId": "post124",
+                    "authorName": "JANNATUL FERDOUSI ",
+                    "content": "💖",
+                    "timestamp": "2025-11-02 18:17:32",
+                    "likes": 3
+                }
+            ]
+        },
+        {
+            "postId": "post125",
+            "title": "দ্বাদশ শ্রেণির প্রাক-নির্বাচনী পরীক্ষা ",
+            "content": "রুটিন",
+            "teacherName": "Shibbir",
+            "timestamp": "2025-10-30 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
+            "likes": 81,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post125",
+                    "authorName": "Shibbir",
+                    "content": "Reminder",
+                    "timestamp": "2025-10-30 09:15:30",
+                    "likes": 15,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "a0599078-0679-451e-bddd-a16d83c068bc",
+                    "postId": "post125",
+                    "authorName": "MST MAYESHA RASHID",
+                    "content": "👏",
+                    "timestamp": "2025-10-30 19:09:24",
+                    "likes": 0
+                },
+                {
+                    "id": "33b77c5b-78af-40e1-b926-624cce0610b7",
+                    "postId": "post125",
+                    "authorName": "SADIA AKTER",
+                    "content": "All the best seniors 🤍",
+                    "timestamp": "2025-11-02 17:34:50",
+                    "likes": 0
+                }
+            ]
+        },
+        {
+            "postId": "post126",
+            "title": "নোটিশ ও পরীক্ষা সংক্রান্ত",
+            "content": "১।  তোমাদের এই পরীক্ষায় যেই যেই অধ্যায় (২টি) আছে, ওই অধ্যায় এর MCQ সহ পড়ে ফেল \n২। এখনো যারা এই 'ict tutor pro' এপ পায় নাই, তোমরা একটু তোমাদের ফ্রেন্ডদের কাছে শেয়ার কর। \n৩। সব নোটিশ ও সাজেসন্স পেতে অবশ্যই এপ এ লগইন থাকতে হবে.\n৪। আইসিটি বিষয়ের জন্য অবশ্যই এই আপটি স্ট্যান্ডার্ড মাধ্যম হিসাবে থাকবে ও তোমরা অবশ্যই এইটা ব্যাবহার করবে।\n৫। অবসর সময়কেও কাজে লাগাও (বিভিন্ন বোর্ড পরীক্ষার প্রশ্ন ও প্রতি অধ্যায় ভিত্তিক MCQ, যত বেশি প্রশ্ন সল্ভ তত xp লিডারবোর্ড এ যুক্তহবে)\n৬। লিডারবোর্ড এ তোমার পজিশন দেখ।\n৭। Google PlayStore থেকে সব সময় এপ উপডেট রাখ। \n৮। এখন কন্টেন্ট অনেক কম। এইটা দিন দিন সংযুক্ত হইতে থাকবে। \n  ৯। সবার কাছে শেয়ার কর। \n  Thank You",
+            "teacherName": "SHIBBIR HOSSEN",
+            "timestamp": "2025-11-02 09:15:30",
+            "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
+            "imageUrl": "",
+            "likes": 47,
+            "tags": [
+                "android",
+                "kotlin",
+                "development"
+            ],
+            "comments": [
+                {
+                    "id": "comment1",
+                    "postId": "post123",
+                    "authorName": "Shibbir",
+                    "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
+                    "timestamp": "2025-11-02 10:20:15",
+                    "likes": 5,
+                    "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                }
+            ]
         }
-      ]
-    },
-    {
-      "postId": "post124",
-      "title": "নতুন প্লাটফর্ম এ স্বাগত",
-      "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
-      "teacherName": "Shibbir",
-      "timestamp": "2025-10-29 09:15:30",
-      "teacherProfilePic": "https://github.com/shibbir001/myImageofproject/blob/main/post/profile.jpeg?raw=true",
-      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/post/ggmc_image.jpg?raw=true",
-      "likes": 38,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
-        {
-          "id": "comment1",
-          "postId": "post124",
-          "authorName": "shibbir",
-          "content": "Hello girls",
-          "timestamp": "2025-10-29 10:15:30",
-          "likes": 24,
-          "authorAvatar": "https://example.com/alice.jpg"
-        },
-        {
-          "id": "15763585-454c-475a-a33a-b858e1f290bd",
-          "postId": "post124",
-          "authorName": "SHIBBIR",
-          "content": "Comments here",
-          "timestamp": "2025-10-29 16:46:59",
-          "likes": 5
-        },
-        {
-          "id": "281401ef-fc98-4312-8cff-aa1eda8d234f",
-          "postId": "post124",
-          "authorName": "SUMA AKTER",
-          "content": "nice",
-          "timestamp": "2025-10-30 13:10:16",
-          "likes": 2
-        },
-        {
-          "id": "0359a537-69cd-4eb8-985e-2ea495a0eb25",
-          "postId": "post124",
-          "authorName": "AMENA AKTER",
-          "content": "👍",
-          "timestamp": "2025-10-30 13:50:00",
-          "likes": 2
-        },
-        {
-          "id": "72a219a0-e8d7-453a-a9de-20e80da52983",
-          "postId": "post124",
-          "authorName": "SURAIYA AKTER SHIMU ",
-          "content": "নাইস পিক।",
-          "timestamp": "2025-10-30 15:57:49",
-          "likes": 3
-        },
-        {
-          "id": "d5cd28ee-fd84-4ae6-9b84-293ae32773b4",
-          "postId": "post124",
-          "authorName": "NUSRAT JAHAN KHUSBU",
-          "content": "🥰❤️",
-          "timestamp": "2025-10-30 18:33:06",
-          "likes": 9
-        },
-        {
-          "id": "b28607a0-2701-46ca-8acc-b5387a37be88",
-          "postId": "post124",
-          "authorName": "MST MAYESHA RASHID",
-          "content": "wow!!! nice pic 😊",
-          "timestamp": "2025-10-30 18:57:54",
-          "likes": 6
-        },
-        {
-          "id": "dee469c0-c388-41f6-9d14-c87073448931",
-          "postId": "post124",
-          "authorName": "MARYAM",
-          "content": "nice and attractive ",
-          "timestamp": "2025-10-31 12:15:16",
-          "likes": 1
-        },
-        {
-          "id": "0e4f5270-c6c8-4e5f-aae0-f7e5efe5efd5",
-          "postId": "post124",
-          "authorName": "PRIONTY NIJHUM PROVA",
-          "content": "Assalamualikum sir and Hi everyone 🙃",
-          "timestamp": "2025-10-31 21:28:31",
-          "likes": 1
-        },
-        {
-          "id": "7e9ed864-8916-4578-a753-a572a2c30c4c",
-          "postId": "post124",
-          "authorName": "IKSHER AKTER EMU ",
-          "content": "nice pic",
-          "timestamp": "2025-11-01 08:37:54",
-          "likes": 0
-        },
-        {
-          "id": "e731a14e-1393-4c0e-b455-671922d1004f",
-          "postId": "post124",
-          "authorName": "AMENA AKTER",
-          "content": "👍",
-          "timestamp": "2025-11-02 14:30:58",
-          "likes": 3
-        },
-        {
-          "id": "7b86e457-a9a4-4ff4-bc60-76c7d03d87f1",
-          "postId": "post124",
-          "authorName": "FATEMA KHANAM JUI",
-          "content": "..",
-          "timestamp": "2025-11-02 17:20:26",
-          "likes": 0
-        },
-        {
-          "id": "ed797195-8871-4bea-8874-cf48828f0c61",
-          "postId": "post124",
-          "authorName": "JANNATUL FERDOUSI ",
-          "content": "💖",
-          "timestamp": "2025-11-02 18:17:32",
-          "likes": 3
-        }
-      ]
-    },
-    {
-      "postId": "post125",
-      "title": "দ্বাদশ শ্রেণির প্রাক-নির্বাচনী পরীক্ষা ",
-      "content": "রুটিন",
-      "teacherName": "Shibbir",
-      "timestamp": "2025-10-30 09:15:30",
-      "teacherProfilePic": "https://example.com/teacher.jpg",
-      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/post/1sstterm.jpg?raw=true",
-      "likes": 81,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
-        {
-          "id": "comment1",
-          "postId": "post125",
-          "authorName": "Shibbir",
-          "content": "Reminder",
-          "timestamp": "2025-10-30 09:15:30",
-          "likes": 15,
-          "authorAvatar": "https://example.com/alice.jpg"
-        },
-        {
-          "id": "a0599078-0679-451e-bddd-a16d83c068bc",
-          "postId": "post125",
-          "authorName": "MST MAYESHA RASHID",
-          "content": "👏",
-          "timestamp": "2025-10-30 19:09:24",
-          "likes": 0
-        },
-        {
-          "id": "33b77c5b-78af-40e1-b926-624cce0610b7",
-          "postId": "post125",
-          "authorName": "SADIA AKTER",
-          "content": "All the best seniors 🤍",
-          "timestamp": "2025-11-02 17:34:50",
-          "likes": 0
-        }
-      ]
-    },
-    {
-      "postId": "post126",
-      "title": "নোটিশ ও পরীক্ষা সংক্রান্ত",
-      "content": "১।  তোমাদের এই পরীক্ষায় যেই যেই অধ্যায় (২টি) আছে, ওই অধ্যায় এর MCQ সহ পড়ে ফেল \n২। এখনো যারা এই 'ict tutor pro' এপ পায় নাই, তোমরা একটু তোমাদের ফ্রেন্ডদের কাছে শেয়ার কর। \n৩। সব নোটিশ ও সাজেসন্স পেতে অবশ্যই এপ এ লগইন থাকতে হবে.\n৪। আইসিটি বিষয়ের জন্য অবশ্যই এই আপটি স্ট্যান্ডার্ড মাধ্যম হিসাবে থাকবে ও তোমরা অবশ্যই এইটা ব্যাবহার করবে।\n৫। অবসর সময়কেও কাজে লাগাও (বিভিন্ন বোর্ড পরীক্ষার প্রশ্ন ও প্রতি অধ্যায় ভিত্তিক MCQ, যত বেশি প্রশ্ন সল্ভ তত xp লিডারবোর্ড এ যুক্তহবে)\n৬। লিডারবোর্ড এ তোমার পজিশন দেখ।\n৭। Google PlayStore থেকে সব সময় এপ উপডেট রাখ। \n৮। এখন কন্টেন্ট অনেক কম। এইটা দিন দিন সংযুক্ত হইতে থাকবে। \n  ৯। সবার কাছে শেয়ার কর। \n  Thank You",
-      "teacherName": "SHIBBIR HOSSEN",
-      "timestamp": "2025-11-02 09:15:30",
-      "teacherProfilePic": "https://example.com/teacher.jpg",
-      "imageUrl": "",
-      "likes": 47,
-      "tags": [
-        "android",
-        "kotlin",
-        "development"
-      ],
-      "comments": [
-        {
-          "id": "comment1",
-          "postId": "post123",
-          "authorName": "Shibbir",
-          "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
-          "timestamp": "2025-11-02 10:20:15",
-          "likes": 5,
-          "authorAvatar": "https://example.com/alice.jpg"
-        }
-      ]
-    }
-  ],
-  "status": "success",
-  "message": null
+    ],
+    "status": "success",
+    "message": null
 }
