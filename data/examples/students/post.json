@@ -129,14 +129,6 @@
                     "content": "👍",
                     "timestamp": "2025-11-02 14:30:58",
                     "likes": 0
-                },
-                {
-                    "id": "0292232e-7652-4492-9f71-239849bc8508",
-                    "postId": "post124",
-                    "authorName": "AMENA AKTER RAFIYA",
-                    "content": "👍",
-                    "timestamp": "2025-11-02 14:45:42",
-                    "likes": 0
                 }
             ]
         },
@@ -148,7 +140,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 75,
+            "likes": 76,
             "tags": [
                 "android",
                 "kotlin",
