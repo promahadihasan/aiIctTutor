@@ -34,7 +34,7 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 45,
+            "likes": 44,
             "tags": [
                 "android",
                 "kotlin",
@@ -47,7 +47,7 @@
                     "authorName": "shibbir",
                     "content": "Hello girls",
                     "timestamp": "2025-10-29 10:15:30",
-                    "likes": 26,
+                    "likes": 25,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -198,7 +198,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 59,
+            "likes": 60,
             "tags": [
                 "android",
                 "kotlin",
