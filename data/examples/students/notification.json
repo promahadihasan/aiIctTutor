@@ -40,6 +40,19 @@
       "imageUrl": "https://example.com/image.jpg",
       "authorName": "SHIBBIR HOSSEN",
       "authorAvatar": "https://example.com/avatar.jpg"
+    },
+     {
+      "id": "notification4",
+      "title": "একাদশ শ্রেণির টার্ম পরীক্ষা সংক্রান্ত ",
+      "message": "শুরু হউয়ার সম্ভাব্য তারিখ",
+      "timestamp": "2025-11-03 09:15:30",
+      "type": "post",
+      "isRead": false,
+      "postId": "post127",
+      "emoji": "📱",
+      "imageUrl": "https://example.com/image.jpg",
+      "authorName": "SHIBBIR HOSSEN",
+      "authorAvatar": "https://example.com/avatar.jpg"
     }
   ],
   "status": "success",
