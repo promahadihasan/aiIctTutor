@@ -198,7 +198,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 62,
+            "likes": 61,
             "tags": [
                 "android",
                 "kotlin",
@@ -232,7 +232,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 2,
+            "likes": 3,
             "tags": [
                 "android",
                 "kotlin",
