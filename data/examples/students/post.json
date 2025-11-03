@@ -186,7 +186,7 @@
                     "authorName": "SADIA AKTER",
                     "content": "All the best seniors 🤍",
                     "timestamp": "2025-11-02 17:34:50",
-                    "likes": 1
+                    "likes": 2
                 }
             ]
         },
@@ -198,7 +198,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 57,
+            "likes": 56,
             "tags": [
                 "android",
                 "kotlin",
