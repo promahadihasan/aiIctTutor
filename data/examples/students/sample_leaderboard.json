@@ -193,6 +193,14 @@
       "last_updated": "2025-11-01 09:27:20"
     },
     {
+      "id": "11467820261007",
+      "name": "NUHSANAT TASNIA",
+      "group": "SCIENCE",
+      "xp_points": 50,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-10-27 15:53:08"
+    },
+    {
       "id": "11474220262166",
       "name": "PROTIMA SHIL",
       "group": "HUMANITIES",
@@ -327,14 +335,6 @@
       "xp_points": 21,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-03 01:43:24"
-    },
-    {
-      "id": "11467820261007",
-      "name": "NUHSANAT TASNIA",
-      "group": "SCIENCE",
-      "xp_points": 20,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-27 15:53:08"
     },
     {
       "id": "11467820261005",
