@@ -145,6 +145,14 @@
                     "content": "💖",
                     "timestamp": "2025-11-02 18:17:32",
                     "likes": 3
+                },
+                {
+                    "id": "12727a5f-9677-41ed-a03c-23badc0cd3f1",
+                    "postId": "post124",
+                    "authorName": "SUMAYA AKTER",
+                    "content": "👍",
+                    "timestamp": "2025-11-03 15:54:13",
+                    "likes": 0
                 }
             ]
         },
