@@ -180,7 +180,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 97,
+            "likes": 98,
             "tags": [
                 "android",
                 "kotlin",
@@ -272,7 +272,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 14,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -285,7 +285,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-03 10:20:15",
-                    "likes": 7,
+                    "likes": 5,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
