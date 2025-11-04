@@ -272,7 +272,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 9,
+            "likes": 10,
             "tags": [
                 "android",
                 "kotlin",
@@ -302,14 +302,6 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "sir cq ta ektu easy koiren plz",
                     "timestamp": "2025-11-04 15:42:08",
-                    "likes": 1
-                },
-                {
-                    "id": "7ea4ee41-6a62-4ff2-b0bf-82e59c3d8251",
-                    "postId": "post127",
-                    "authorName": "SHIBBIR",
-                    "content": "Nur! Tumar to eitai first exam college e ",
-                    "timestamp": "2025-11-04 12:32:40",
                     "likes": 0
                 }
             ]
