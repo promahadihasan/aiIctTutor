@@ -161,14 +161,6 @@
                     "content": "hello sir",
                     "timestamp": "2025-11-04 01:38:36",
                     "likes": 0
-                },
-                {
-                    "id": "e33c660f-efb5-44d1-9c33-b5dc8603d7bb",
-                    "postId": "post124",
-                    "authorName": "ZAKIA HOSSAIN MIM",
-                    "content": "👍🏻",
-                    "timestamp": "2025-11-04 08:03:38",
-                    "likes": 0
                 }
             ]
         },
@@ -243,7 +235,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-02 10:20:15",
-                    "likes": 15,
+                    "likes": 16,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
