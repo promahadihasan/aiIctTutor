@@ -272,7 +272,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 8,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -302,14 +302,6 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "sir cq ta ektu easy koiren plz",
                     "timestamp": "2025-11-04 15:42:08",
-                    "likes": 0
-                },
-                {
-                    "id": "a41da338-dd82-47d7-9949-1c72bec7019c",
-                    "postId": "post127",
-                    "authorName": "FATEMA AKTER PRITY ",
-                    "content": "sir cq mcq 2 ti easy koiren ",
-                    "timestamp": "2025-11-04 18:00:35",
                     "likes": 0
                 }
             ]
