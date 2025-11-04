@@ -230,7 +230,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 63,
+            "likes": 64,
             "tags": [
                 "android",
                 "kotlin",
@@ -272,7 +272,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 10,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -285,7 +285,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-03 10:20:15",
-                    "likes": 6,
+                    "likes": 5,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -294,7 +294,7 @@
                     "authorName": "MITU AKTER LIZA",
                     "content": "sir proshno ta aktu easy koiren thaholei hobe",
                     "timestamp": "2025-11-03 21:57:36",
-                    "likes": 4
+                    "likes": 3
                 },
                 {
                     "id": "0ae2cc72-d00e-4515-87fb-d3341d6ad920",
