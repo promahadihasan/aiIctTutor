@@ -112,7 +112,7 @@
                     "authorName": "PRIONTY NIJHUM PROVA",
                     "content": "Assalamualikum sir and Hi everyone 🙃",
                     "timestamp": "2025-10-31 21:28:31",
-                    "likes": 2
+                    "likes": 1
                 },
                 {
                     "id": "7e9ed864-8916-4578-a753-a572a2c30c4c",
@@ -180,7 +180,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 95,
+            "likes": 96,
             "tags": [
                 "android",
                 "kotlin",
