@@ -34,7 +34,7 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 47,
+            "likes": 48,
             "tags": [
                 "android",
                 "kotlin",
@@ -272,7 +272,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 10,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
