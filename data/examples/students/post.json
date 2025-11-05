@@ -285,6 +285,14 @@
                     "content": "👍",
                     "timestamp": "2025-11-05 21:33:41",
                     "likes": 0
+                },
+                {
+                    "id": "3c37e5a5-eb92-4cf0-9e1a-11311cd95a81",
+                    "postId": "post126",
+                    "authorName": "KAZI JANNATUN NUR ",
+                    "content": "👍",
+                    "timestamp": "2025-11-05 23:08:14",
+                    "likes": 0
                 }
             ]
         },
@@ -327,22 +335,6 @@
                     "content": "sir cq ta ektu easy koiren plz",
                     "timestamp": "2025-11-04 15:42:08",
                     "likes": 2
-                },
-                {
-                    "id": "00acbbf1-55d6-4b28-add1-0542bcae4442",
-                    "postId": "post127",
-                    "authorName": "RAFIA AKTER",
-                    "content": "sir",
-                    "timestamp": "2025-11-05 23:05:10",
-                    "likes": 0
-                },
-                {
-                    "id": "48eb63ea-b572-4877-bf63-7b3d6abb7a08",
-                    "postId": "post127",
-                    "authorName": "RAFIA AKTER",
-                    "content": "আসসালামু আলাইকুম স্যার \nকোন টপিকস গুলো পড়বো স্যার ওগুলো বলে দিলে একটু সুবিধা হত ",
-                    "timestamp": "2025-11-05 23:07:18",
-                    "likes": 0
                 }
             ]
         }
