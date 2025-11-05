@@ -185,14 +185,6 @@
                     "content": "😊",
                     "timestamp": "2025-11-05 14:47:59",
                     "likes": 0
-                },
-                {
-                    "id": "57789c8c-3319-43e2-84b1-0e4917cfefca",
-                    "postId": "post124",
-                    "authorName": "মারিয়া ",
-                    "content": "👌🏻",
-                    "timestamp": "2025-11-05 15:46:41",
-                    "likes": 1
                 }
             ]
         },
@@ -284,6 +276,14 @@
                     "authorName": "MST.SOMIYA",
                     "content": "👍",
                     "timestamp": "2025-11-03 20:31:10",
+                    "likes": 0
+                },
+                {
+                    "id": "2105d3ba-9177-4ef6-aaa0-f7c1e1b0bfda",
+                    "postId": "post126",
+                    "authorName": "মারিয়া ",
+                    "content": "👍🏻",
+                    "timestamp": "2025-11-05 15:48:35",
                     "likes": 0
                 }
             ]
