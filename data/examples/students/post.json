@@ -177,6 +177,14 @@
                     "content": "👍",
                     "timestamp": "2025-11-04 21:12:50",
                     "likes": 0
+                },
+                {
+                    "id": "665db6a8-b846-42b8-96ca-eb7921335d5e",
+                    "postId": "post124",
+                    "authorName": "MST LAMIYA AKTER LABBONNO ",
+                    "content": "😊",
+                    "timestamp": "2025-11-05 14:47:59",
+                    "likes": 0
                 }
             ]
         },
@@ -251,7 +259,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-02 10:20:15",
-                    "likes": 21,
+                    "likes": 20,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
