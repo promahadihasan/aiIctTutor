@@ -6,7 +6,7 @@
       "message": "আইসিটি টিউটর অ্যাপের নতুন ভার্সনে দ্রুত পারফরম্যান্স ও ডার্ক থিম যুক্ত হয়েছে। প্লে স্টোরে আপডেট করো!",
       "type": "app_update",
       "target": {
-        "screen": "BoardExamPage"
+        "screen": "ModelTestPage"
       },
       "priority": "high",
       "is_read": false,
