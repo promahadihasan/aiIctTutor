@@ -188,7 +188,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 100,
+            "likes": 99,
             "tags": [
                 "android",
                 "kotlin",
@@ -238,7 +238,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 67,
+            "likes": 68,
             "tags": [
                 "android",
                 "kotlin",
