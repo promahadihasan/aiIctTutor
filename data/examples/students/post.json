@@ -268,7 +268,7 @@
                     "authorName": "AFJALUN NESA NUHA",
                     "content": "👍",
                     "timestamp": "2025-11-03 18:03:48",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "79e406eb-b4d3-4c2a-97aa-facb1f5fd745",
@@ -277,6 +277,14 @@
                     "content": "👍",
                     "timestamp": "2025-11-03 20:31:10",
                     "likes": 1
+                },
+                {
+                    "id": "5087e008-2d89-47e0-b08a-b1b7321e0af1",
+                    "postId": "post126",
+                    "authorName": "AMENA.AKTER10201@GMAIL.COM",
+                    "content": "👍",
+                    "timestamp": "2025-11-05 21:33:41",
+                    "likes": 0
                 }
             ]
         },
