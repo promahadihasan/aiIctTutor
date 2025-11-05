@@ -304,7 +304,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 31,
+            "likes": 33,
             "tags": [
                 "android",
                 "kotlin",
@@ -335,6 +335,14 @@
                     "content": "sir cq ta ektu easy koiren plz",
                     "timestamp": "2025-11-04 15:42:08",
                     "likes": 2
+                },
+                {
+                    "id": "067c4b15-27e9-47f2-88fd-01a010610552",
+                    "postId": "post127",
+                    "authorName": "RAFIA AKTER",
+                    "content": "আসসালামু আলাইকুম স্যার আমরা কোন টপিকগুলা পড়ব এগুলো একটু বলে দিলে স্যার ভালো হইতো ",
+                    "timestamp": "2025-11-05 23:22:30",
+                    "likes": 0
                 }
             ]
         }
