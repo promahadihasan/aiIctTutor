@@ -144,7 +144,7 @@
                     "authorName": "JANNATUL FERDOUSI ",
                     "content": "💖",
                     "timestamp": "2025-11-02 18:17:32",
-                    "likes": 7
+                    "likes": 4
                 },
                 {
                     "id": "3243775f-5991-452d-a77f-9f5a60448b74",
@@ -276,6 +276,14 @@
                     "authorName": "MST.SOMIYA",
                     "content": "👍",
                     "timestamp": "2025-11-03 20:31:10",
+                    "likes": 0
+                },
+                {
+                    "id": "bbb2aba0-138e-4ce1-99df-321a5ed824e8",
+                    "postId": "post126",
+                    "authorName": "AMENA.AKTER10201@GMAIL.COM",
+                    "content": "👍",
+                    "timestamp": "2025-11-05 21:32:11",
                     "likes": 0
                 }
             ]
