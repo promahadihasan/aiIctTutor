@@ -317,6 +317,14 @@
                     "content": "👍",
                     "timestamp": "2025-11-06 18:27:12",
                     "likes": 0
+                },
+                {
+                    "id": "67dacfe5-5017-496c-a85a-c6c72f615626",
+                    "postId": "post126",
+                    "authorName": "ELMA ISLAM SIMI",
+                    "content": "Sir 3.2 ar part 3 theke MCQ ar astase nh..",
+                    "timestamp": "2025-11-06 19:05:38",
+                    "likes": 0
                 }
             ]
         },
@@ -328,7 +336,7 @@
             "timestamp": "2025-11-03 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 34,
+            "likes": 33,
             "tags": [
                 "android",
                 "kotlin",
