@@ -34,6 +34,129 @@
       "id": 8,
       "name": "Plain Text",
       "definition": "This is normal plain text without any formatting or special tags."
+    },
+    {
+      "id": 1,
+      "name": "Rich Text Formatting Overview",
+      "definition": "This is a comprehensive example of <b>bold text</b>, <i>italic text</i>, and <u>underlined text</u>. You can also use markdown: **bold markdown** and *italic markdown*.",
+      "allExamples": [
+        "HTML tags: <b>bold</b>, <i>italic</i>, <u>underline</u>",
+        "Markdown: **bold**, *italic*"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 2,
+      "name": "Custom Colors and Sizes",
+      "definition": "You can add {color:#FF0000}red text{/color}, {color:#00FF00}green text{/color}, and {color:#0000FF}blue text{/color}. Also change text size: {size:24}larger text{/size} and {size:12}smaller text{/size}.",
+      "allExamples": [
+        "Color format: {color:#HEXCODE}text{/color}",
+        "Size format: {size:NUMBER}text{/size}"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 3,
+      "name": "Headings Example",
+      "definition": "# Heading Level 1\nThis is content under heading 1.\n## Heading Level 2\nThis is content under heading 2.\n### Heading Level 3\nSmaller heading content.",
+      "allExamples": [
+        "Use # for H1, ## for H2, ### for H3",
+        "Each heading should be on its own line"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 4,
+      "name": "Bullet and Numbered Lists",
+      "definition": "Here are bullet points:\n• First bullet item\n• Second bullet with **bold text**\n• Third bullet with {color:#2196F3}colored text{/color}\n\nAnd numbered lists:\n1. First numbered item\n2. Second item with *emphasis*\n3. Third item with `inline code`",
+      "allExamples": [
+        "Use • or - for bullet points",
+        "Use 1., 2., 3. for numbered lists"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 5,
+      "name": "Mathematical Equations",
+      "definition": "Inline math equation: The famous equation is $E = mc^2$ discovered by Einstein.\n\nBlock equations:\n$$E = mc^2$$\n\nQuadratic formula:\n$$x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}$$\n\nSum of squares:\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n\nPythagorean theorem:\n$$c^2 = a^2 + b^2$$",
+      "allExamples": [
+        "Use $equation$ for inline math",
+        "Use $$equation$$ for block math",
+        "Supports LaTeX syntax"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 6,
+      "name": "Code Examples",
+      "definition": "You can show inline code like `val name = \"Mahadi\"` or `fun greet()` within text.\n\nFor code blocks:\n```kotlin\nfun main() {\n    val greeting = \"Hello, Rich Text!\"\n    println(greeting)\n    \n    // Calculate sum\n    val sum = (1..10).sum()\n    println(\"Sum: $sum\")\n}\n```\n\nAnother example:\n```python\ndef fibonacci(n):\n    if n <= 1:\n        return n\n    return fibonacci(n-1) + fibonacci(n-2)\n```",
+      "allExamples": [
+        "Use `code` for inline code",
+        "Use ```language for code blocks",
+        "Supports syntax highlighting labels"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 7,
+      "name": "Images with Captions",
+      "definition": "You can embed images in your content:\n\n![Compose Logo](https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true)\n\n![Beautiful Nature Scene](https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw=true)\n\nImages are displayed with their captions below.",
+      "allExamples": [
+        "Format: ![caption](image_url)",
+        "Caption is optional",
+        "Images are clickable"
+      ],
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true"
+    },
+    {
+      "id": 8,
+      "name": "Combined Rich Text Example",
+      "definition": "# ICT Tutorial: Data Structures\n\nA **data structure** is a <u>specialized format</u> for {color:#FF5722}organizing{/color} and {color:#2196F3}storing data{/color}.\n\n## Types of Data Structures:\n• <b>Linear</b>: Arrays, Linked Lists, Stacks, Queues\n• <b>Non-linear</b>: Trees, Graphs, Hash Tables\n\n## Array Example:\n```kotlin\nval numbers = arrayOf(1, 2, 3, 4, 5)\nval sum = numbers.sum()\nprintln(\"Sum: $sum\") // Output: 15\n```\n\n## Time Complexity:\nThe time complexity for searching in an array is $O(n)$ where $n$ is the size.\n\nBinary search complexity:\n$$T(n) = O(\\log n)$$\n\n{size:20}<b>Key Points:</b>{/size}\n1. Choose the right data structure for your problem\n2. Consider time and space complexity\n3. Understand trade-offs between different structures",
+      "allExamples": [
+        "Arrays: Fixed-size, contiguous memory",
+        "Linked Lists: Dynamic size, non-contiguous",
+        "Stacks: LIFO (Last In First Out)",
+        "Queues: FIFO (First In First Out)",
+        "Trees: Hierarchical structure",
+        "Graphs: Network of nodes and edges"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 9,
+      "name": "Plain Text Example",
+      "definition": "This is a simple topic with plain text. No special formatting or tags are used here. Just regular content that will be displayed normally without any rich text features.",
+      "allExamples": [
+        "Plain text is the default format",
+        "No parsing overhead",
+        "Best for simple content"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 10,
+      "name": "বাংলা Rich Text Example",
+      "definition": "# বাংলায় রিচ টেক্সট\n\nএটি একটি <b>বাংলা</b> উদাহরণ যেখানে **বোল্ড**, *ইটালিক*, এবং {color:#4CAF50}রঙিন টেক্সট{/color} রয়েছে।\n\n## গুরুত্বপূর্ণ বিষয়:\n• প্রথম পয়েন্ট: <u>আন্ডারলাইন টেক্সট</u>\n• দ্বিতীয় পয়েন্ট: `কোড উদাহরণ`\n• তৃতীয় পয়েন্ট: {size:18}বড় টেক্সট{/size}\n\n## গণিত সূত্র:\nবৃত্তের ক্ষেত্রফল: $A = \\pi r^2$\n\n$$V = \\frac{4}{3}\\pi r^3$$",
+      "allExamples": [
+        "বাংলা টেক্সট সম্পূর্ণভাবে সমর্থিত",
+        "সকল ফরম্যাটিং ফিচার কাজ করে",
+        "TTS বাংলায় কথা বলতে পারে"
+      ],
+      "imageUrl": null
+    },
+    {
+      "id": 11,
+      "name": "Network Topology",
+      "definition": "# Network Topology\n\nNetwork topology refers to the <b>arrangement of elements</b> (links, nodes, etc.) in a {color:#673AB7}computer network{/color}.\n\n## Common Types:\n\n### 1. Star Topology\n• All devices connect to a <u>central hub</u>\n• Easy to add new devices\n• If hub fails, entire network fails\n\n### 2. Bus Topology\n• All devices connected to a single cable\n• Cost-effective for small networks\n• Performance degrades with more devices\n\n### 3. Ring Topology\n• Each device connects to exactly two others\n• Data travels in one direction\n• Failure of one device affects the whole network\n\n## Network Speed Formula:\n\nBandwidth calculation:\n$$B = \\frac{D}{T}$$\n\nWhere:\n- $B$ = Bandwidth\n- $D$ = Data transferred\n- $T$ = Time taken\n\n## Implementation Example:\n```kotlin\ndata class NetworkNode(val id: Int, val name: String)\n\nclass Network {\n    private val nodes = mutableListOf<NetworkNode>()\n    \n    fun addNode(node: NetworkNode) {\n        nodes.add(node)\n        println(\"Added: ${node.name}\")\n    }\n}\n```\n\n![Network Diagram](https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true)",
+      "allExamples": [
+        "Star: Central hub controls all communication",
+        "Bus: Single backbone cable",
+        "Ring: Circular data flow",
+        "Mesh: Every device connected to every other",
+        "Tree: Hierarchical structure",
+        "Hybrid: Combination of two or more topologies"
+      ],
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true"
     }
   ]
 }
