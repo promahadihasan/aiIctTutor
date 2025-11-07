@@ -196,7 +196,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 110,
+            "likes": 111,
             "tags": [
                 "android",
                 "kotlin",
@@ -325,14 +325,6 @@
                     "content": "Sir 3.2 ar part 3 theke MCQ ar astase nh..",
                     "timestamp": "2025-11-06 19:05:38",
                     "likes": 1
-                },
-                {
-                    "id": "771a1718-0fc2-4360-9737-5a1b38eaa9bb",
-                    "postId": "post126",
-                    "authorName": "AYESHA AKTER ETI",
-                    "content": "👍",
-                    "timestamp": "2025-11-07 10:05:35",
-                    "likes": 0
                 }
             ]
         },
