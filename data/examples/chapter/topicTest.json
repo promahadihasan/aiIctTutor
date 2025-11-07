@@ -1,0 +1,44 @@
+{
+  "topics": [
+    {
+      "id": 1,
+      "name": "Rich Text Formatting Overview",
+      "definition": "This is <b>bold</b>, <i>italic</i>, and <u>underlined</u> text."
+    },
+    {
+      "id": 2,
+      "name": "Text Styling",
+      "definition": "Use {color:#FF5722}<b>colored bold text{/color}</b> and {size:22}<i>large italic text{/size}</i> for emphasis."
+    },
+    {
+      "id": 3,
+      "name": "Headings Example",
+      "definition": "# Heading Level 1\n## Heading Level 2\n### Heading Level 3"
+    },
+    {
+      "id": 4,
+      "name": "Bullet and Numbered Lists",
+      "definition": "• Bullet item one\n• Bullet item two with **bold**\n1. First numbered item\n2. Second item with {color:#2196F3}blue text{/color}"
+    },
+    {
+      "id": 5,
+      "name": "Math Equation",
+      "definition": "Inline example: $E = mc^2$\n\nBlock form:\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$"
+    },
+    {
+      "id": 6,
+      "name": "Code Example",
+      "definition": "Inline code: `val name = \"Mahadi\"`\n\n```kotlin\nfun main() {\n    println(\"Hello, Rich Text!\")\n}\n```"
+    },
+    {
+      "id": 7,
+      "name": "Images",
+      "definition": "![Compose Logo](https://developer.android.com/images/jetpack/compose-tutorial/compose.png)\n\n![Nature](https://example.com/nature1.jpg)\n![Nature 2](https://example.com/nature2.jpg)"
+    },
+    {
+      "id": 8,
+      "name": "Plain Text",
+      "definition": "This is normal plain text without any formatting or special tags."
+    }
+  ]
+}
