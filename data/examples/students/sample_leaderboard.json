@@ -273,6 +273,14 @@
       "last_updated": "2025-11-04 22:01:06"
     },
     {
+      "id": "1090302026SCIM75",
+      "name": "JANNATUL FERDOUS",
+      "group": "SCIENCE",
+      "xp_points": 100,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-03 08:18:29"
+    },
+    {
       "id": "109030202703",
       "name": "MAHFUZA SULTANA",
       "group": "SCIENCE",
@@ -311,14 +319,6 @@
       "xp_points": 65,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-04 15:48:42"
-    },
-    {
-      "id": "1090302026SCIM75",
-      "name": "JANNATUL FERDOUS",
-      "group": "SCIENCE",
-      "xp_points": 65,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-03 08:18:29"
     },
     {
       "id": "1090302026BUSD94",
