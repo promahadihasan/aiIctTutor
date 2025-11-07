@@ -6,11 +6,6 @@
       "definition": "This is <b>bold</b>, <i>italic</i>, and <u>underlined</u> text."
     },
     {
-      "id": 2,
-      "name": "Text Styling",
-      "definition": "Use {color:#FF5722}<b>colored bold text{/color}</b> and {size:22}<i>large italic text{/size}</i> for emphasis."
-    },
-    {
       "id": 3,
       "name": "Headings Example",
       "definition": "# Heading Level 1\n## Heading Level 2\n### Heading Level 3"
@@ -23,7 +18,7 @@
     {
       "id": 5,
       "name": "Math Equation",
-      "definition": "Inline example: $$E = mc^2$$\n\nBlock form:\n$$E = mc^2$$\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n$$\\{c^2}={a^2 + b^2}$$"
+      "definition": "\nBlock form:\n$$E = mc^2$$\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n$$\\{c^2}={a^2 + b^2}$$"
     },
     {
       "id": 6,
