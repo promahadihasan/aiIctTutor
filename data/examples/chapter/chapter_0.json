@@ -23,7 +23,7 @@
     {
       "id": 5,
       "name": "Math Equation",
-      "definition": "Inline example: \\( E = mc^2 \\)\n\nBlock form:\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n\\( \\frac{a^2 + b^2}{c^2} \\)"
+      "definition": "Inline example: $$E = mc^2$$\n\nBlock form:\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n$$\\frac{a^2 + b^2}{c^2}$$"
     },
     {
       "id": 6,
