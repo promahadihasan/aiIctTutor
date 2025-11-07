@@ -23,7 +23,7 @@
     {
       "id": 5,
       "name": "Math Equation",
-      "definition": "Inline example: $$E = mc^2$$\n\nBlock form:\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n$$\\frac{a^2 + b^2}{c^2}$$"
+      "definition": "Inline example: $$E = mc^2$$\n\nBlock form:\n$$E = mc^2$$\n$$\\sum_{i=1}^{n} i^2 = \\frac{n(n+1)(2n+1)}{6}$$\n$$\\{c^2}={a^2 + b^2}$$"
     },
     {
       "id": 6,
@@ -33,7 +33,7 @@
     {
       "id": 7,
       "name": "Images",
-      "definition": "![Compose Logo](https://developer.android.com/images/jetpack/compose-tutorial/compose.png)\n\n![Nature](https://example.com/nature1.jpg)\n![Nature 2](https://example.com/nature2.jpg)"
+      "definition": "![Compose Logo](https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true)\n\n![Nature](https://example.com/nature1.jpg)\n![Nature 2](https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw=true)"
     },
     {
       "id": 8,
