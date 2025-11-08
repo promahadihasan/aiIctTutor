@@ -356,7 +356,7 @@
                     "authorName": "TAMANNA TASNIM DIPU ",
                     "content": "This app is very useful 👍",
                     "timestamp": "2025-11-08 21:24:51",
-                    "likes": 1
+                    "likes": 0
                 }
             ]
         },
@@ -450,7 +450,7 @@
             "timestamp": "2025-11-08 20:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 1,
+            "likes": 2,
             "tags": [
                 "android",
                 "kotlin",
