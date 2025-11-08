@@ -34,7 +34,7 @@
             "timestamp": "2025-10-29 09:15:30",
             "teacherProfilePic": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/profile.jpeg?raw=true",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/ggmc_image.jpg?raw=true",
-            "likes": 55,
+            "likes": 54,
             "tags": [
                 "android",
                 "kotlin",
@@ -348,6 +348,14 @@
                     "authorName": "AFROGA AKTER AKHI",
                     "content": "ok 👍",
                     "timestamp": "2025-11-08 11:50:03",
+                    "likes": 0
+                },
+                {
+                    "id": "86ff196e-e751-46e0-8dde-30b52600ecf3",
+                    "postId": "post126",
+                    "authorName": "SAJIA AKTER",
+                    "content": "🌸🌸",
+                    "timestamp": "2025-11-08 21:16:58",
                     "likes": 0
                 }
             ]
