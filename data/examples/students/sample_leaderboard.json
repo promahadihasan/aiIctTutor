@@ -561,6 +561,14 @@
       "last_updated": "2025-11-04 21:07:33"
     },
     {
+      "id": "1090302026SCIM87",
+      "name": "EVA AKTER MIM",
+      "group": "SCIENCE",
+      "xp_points": 47,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-08 22:40:47"
+    },
+    {
       "id": "1090302026HUMD287",
       "name": "SHIMLA AKTER",
       "group": "HUMANITIES",
@@ -727,14 +735,6 @@
       "xp_points": 24,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-08 00:33:27"
-    },
-    {
-      "id": "1090302026SCIM87",
-      "name": "EVA AKTER MIM",
-      "group": "SCIENCE",
-      "xp_points": 24,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-08 22:40:47"
     },
     {
       "id": "1090302027121147",
