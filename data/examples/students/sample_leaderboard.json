@@ -513,6 +513,14 @@
       "last_updated": "2025-11-08 00:28:06"
     },
     {
+      "id": "1090302026SCIM87",
+      "name": "EVA AKTER MIM",
+      "group": "SCIENCE",
+      "xp_points": 71,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-08 22:40:47"
+    },
+    {
       "id": "1090302027SCID289",
       "name": "NUSRAT JAHAN",
       "group": "SCIENCE",
@@ -655,14 +663,6 @@
       "xp_points": 47,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-04 21:07:33"
-    },
-    {
-      "id": "1090302026SCIM87",
-      "name": "EVA AKTER MIM",
-      "group": "SCIENCE",
-      "xp_points": 47,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-08 22:40:47"
     },
     {
       "id": "1090302026HUMD287",
