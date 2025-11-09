@@ -745,6 +745,14 @@
       "last_updated": "2025-11-06 15:43:06"
     },
     {
+      "id": "1090302026SCID700",
+      "name": "ITACHI",
+      "group": "SCIENCE",
+      "xp_points": 35,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-09 13:36:13"
+    },
+    {
       "id": "1090302027BUSD24",
       "name": "TANZILA JANNAT SUCHI",
       "group": "BUSINESS STUDIES",
@@ -951,14 +959,6 @@
       "xp_points": 18,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-03 19:45:54"
-    },
-    {
-      "id": "1090302026SCID700",
-      "name": "ITACHI",
-      "group": "SCIENCE",
-      "xp_points": 18,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-09 13:36:13"
     },
     {
       "id": "1090302026147",
