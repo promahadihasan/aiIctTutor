@@ -254,7 +254,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 205,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
@@ -438,7 +438,7 @@
                     "authorName": "SADIA AKTER",
                     "content": "sir website  এ ১ টি অধ্যায়ের যে নাম বা শিরেনাম গুলো আপনি দিয়েছেন শুধু সেইগুলে পরলে কি question  কমন পরবে? কেননা সর্ট টাইম আর আপনিও অনেকটা ছোট করেই দিয়েছে। সহজ ভাবে। ",
                     "timestamp": "2025-11-08 18:44:37",
-                    "likes": 1
+                    "likes": 2
                 },
                 {
                     "id": "63d68d07-5ed8-4ebe-af8a-99707bb5fe23",
