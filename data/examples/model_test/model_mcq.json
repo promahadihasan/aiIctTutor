@@ -352,6 +352,8 @@
     "validity_time_minutes": 25,
     "is_allowed": false,
     "selected_student_ids": [],
+    "is_pin_protected": true,
+    "access_pin": "482317",
     "mcqs": [
       {
         "answer": "ক) 1000101",
