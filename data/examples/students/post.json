@@ -204,7 +204,7 @@
             "timestamp": "2025-10-30 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "https:\/\/github.com\/shibbir001\/myImageofproject\/blob\/main\/post\/1sstterm.jpg?raw=true",
-            "likes": 115,
+            "likes": 114,
             "tags": [
                 "android",
                 "kotlin",
@@ -504,6 +504,14 @@
                     "authorName": "LAMIA KHAN JASIN ",
                     "content": "thanks sir ",
                     "timestamp": "2025-11-09 07:59:40",
+                    "likes": 0
+                },
+                {
+                    "id": "a0ead520-f718-41ba-8111-b62d8ca0deca",
+                    "postId": "post128",
+                    "authorName": "RIDWANA ALI",
+                    "content": "Sir Assalamualaikum. ",
+                    "timestamp": "2025-11-09 08:46:27",
                     "likes": 0
                 }
             ]
