@@ -56,7 +56,7 @@
                     "authorName": "SHIBBIR",
                     "content": "Comments here",
                     "timestamp": "2025-10-29 16:46:59",
-                    "likes": 6
+                    "likes": 5
                 },
                 {
                     "id": "281401ef-fc98-4312-8cff-aa1eda8d234f",
@@ -512,7 +512,7 @@
                     "authorName": "RIDWANA ALI",
                     "content": "Sir Assalamualaikum. ",
                     "timestamp": "2025-11-09 08:46:27",
-                    "likes": 5
+                    "likes": 3
                 },
                 {
                     "id": "bd651866-b35d-4af6-82cb-738f1720b6bf",
@@ -520,22 +520,6 @@
                     "authorName": "RIDWANA ALI",
                     "content": "Thank you sir ",
                     "timestamp": "2025-11-09 08:47:36",
-                    "likes": 0
-                },
-                {
-                    "id": "fc8920c2-8041-4f9e-903b-8b295f09b4fa",
-                    "postId": "post128",
-                    "authorName": "SADIA NOWSHIN",
-                    "content": "Thank you sir.",
-                    "timestamp": "2025-11-09 09:58:14",
-                    "likes": 0
-                },
-                {
-                    "id": "833848b6-c4bc-4d9e-9030-8af77dd315cc",
-                    "postId": "post128",
-                    "authorName": "NAJIBA AKTER",
-                    "content": "thank you sir",
-                    "timestamp": "2025-11-09 10:12:39",
                     "likes": 0
                 }
             ]
