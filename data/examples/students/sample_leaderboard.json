@@ -513,6 +513,14 @@
       "last_updated": "2025-11-09 09:12:37"
     },
     {
+      "id": "1090302026HUMD100",
+      "name": "NOOR",
+      "group": "HUMANITIES",
+      "xp_points": 84,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-09 20:41:25"
+    },
+    {
       "id": "1090302026BUSM257",
       "name": "HALIMA TUZ SADIA",
       "group": "BUSINESS STUDIES",
@@ -607,14 +615,6 @@
       "xp_points": 63,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-09 16:18:16"
-    },
-    {
-      "id": "1090302026HUMD100",
-      "name": "NOOR",
-      "group": "HUMANITIES",
-      "xp_points": 63,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-09 20:41:25"
     },
     {
       "id": "1090302026HUMD123",
