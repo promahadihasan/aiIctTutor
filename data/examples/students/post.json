@@ -458,7 +458,7 @@
             "timestamp": "2025-11-08 20:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 45,
+            "likes": 43,
             "tags": [
                 "android",
                 "kotlin",
@@ -528,7 +528,7 @@
                     "authorName": "RIDWANA ALI",
                     "content": "Thank you sir ",
                     "timestamp": "2025-11-09 08:47:36",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "a4c5d3b7-3996-4e0f-a1fb-22887ed49819",
@@ -544,7 +544,7 @@
                     "authorName": "SHAHRIN HASAN MRITTIKA",
                     "content": "finally,thanks sir",
                     "timestamp": "2025-11-09 12:05:04",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "08482c46-14ea-4b15-bd52-96e4765ed5fc",
@@ -552,7 +552,7 @@
                     "authorName": "JOTI KARMAKAR",
                     "content": "Thank you sir",
                     "timestamp": "2025-11-09 13:36:09",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "bcdf8e6d-c838-4681-9076-9a951b888220",
@@ -560,7 +560,7 @@
                     "authorName": "SADIA AKTER ",
                     "content": "Thank you sir",
                     "timestamp": "2025-11-09 15:04:26",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         }
