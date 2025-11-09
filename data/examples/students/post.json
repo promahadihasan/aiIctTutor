@@ -254,7 +254,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 204,
+            "likes": 203,
             "tags": [
                 "android",
                 "kotlin",
@@ -458,7 +458,7 @@
             "timestamp": "2025-11-08 20:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 44,
+            "likes": 41,
             "tags": [
                 "android",
                 "kotlin",
@@ -536,7 +536,7 @@
                     "authorName": "MST SUMAIYA AKTER",
                     "content": "Thank you sir",
                     "timestamp": "2025-11-09 11:15:21",
-                    "likes": 4
+                    "likes": 2
                 },
                 {
                     "id": "37eba702-b351-41f9-9983-89f1c31dd7b6",
