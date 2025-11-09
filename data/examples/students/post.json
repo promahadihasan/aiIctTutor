@@ -254,7 +254,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 203,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
@@ -458,7 +458,7 @@
             "timestamp": "2025-11-08 20:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 41,
+            "likes": 43,
             "tags": [
                 "android",
                 "kotlin",
@@ -536,7 +536,7 @@
                     "authorName": "MST SUMAIYA AKTER",
                     "content": "Thank you sir",
                     "timestamp": "2025-11-09 11:15:21",
-                    "likes": 14
+                    "likes": 4
                 },
                 {
                     "id": "37eba702-b351-41f9-9983-89f1c31dd7b6",
@@ -560,7 +560,7 @@
                     "authorName": "SADIA AKTER ",
                     "content": "Thank you sir",
                     "timestamp": "2025-11-09 15:04:26",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         }
