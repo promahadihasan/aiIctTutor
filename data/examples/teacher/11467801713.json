@@ -104,7 +104,7 @@
           "validity_time_minutes": 15
         },
         {
-          "access_pin": 482317,
+          "access_pin": "482317",
           "chapter_name": "3.1",
           "difficulty": "All",
           "is_allowed": false,
@@ -113,12 +113,12 @@
           "model_test_id": "36",
           "participants": [
             {
-              "accuracy_rate": 8,
+              "accuracy_rate": 4,
               "eiin": "114678",
-              "score": 2,
+              "score": 1,
               "student_id": "2027101",
               "student_name": "AFNAN AMIN",
-              "submitted_on": "2025-11-10 21:40",
+              "submitted_on": "2025-11-10 22:58",
               "time_taken_min": 0,
               "total_marks": 25
             }
