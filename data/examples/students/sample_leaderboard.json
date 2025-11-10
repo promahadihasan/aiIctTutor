@@ -657,6 +657,14 @@
       "last_updated": "2025-11-08 10:34:35"
     },
     {
+      "id": "1090302026SCIM88",
+      "name": "HUHU",
+      "group": "SCIENCE",
+      "xp_points": 68,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-10 11:02:15"
+    },
+    {
       "id": "109030202734",
       "name": "NOOR",
       "group": "BUSINESS STUDIES",
@@ -831,14 +839,6 @@
       "xp_points": 47,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-04 21:07:33"
-    },
-    {
-      "id": "1090302026SCIM88",
-      "name": "HUHU",
-      "group": "SCIENCE",
-      "xp_points": 47,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-10 11:02:15"
     },
     {
       "id": "1090302026HUMD287",
