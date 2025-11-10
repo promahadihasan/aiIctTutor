@@ -104,11 +104,11 @@
           "validity_time_minutes": 15
         },
         {
-          "access_pin": null,
+          "access_pin": 482317,
           "chapter_name": "3.1",
           "difficulty": "All",
           "is_allowed": false,
-          "is_pin_protected": false,
+          "is_pin_protected": true,
           "last_date": "2025-11-05",
           "model_test_id": "36",
           "participants": [
