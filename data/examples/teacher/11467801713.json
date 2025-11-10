@@ -69,27 +69,6 @@
         },
         {
           "access_pin": null,
-          "chapter_name": "অধ্যায় ৪: ওয়েব ডিজাইন পরিচিতি ও HTML",
-          "difficulty": "Hard",
-          "is_allowed": false,
-          "is_pin_protected": false,
-          "last_date": "2025-10-20",
-          "model_test_id": "32",
-          "participants": [],
-          "performance_summary": {
-            "average_score": 0.0,
-            "highest_score": 0,
-            "lowest_score": 0,
-            "total_participants": 0,
-            "weak_topics": null
-          },
-          "selected_student_ids": [],
-          "test_name": "ওয়েব ডিজাইন ও HTML ফাইনাল প্র্যাকটিস",
-          "total_questions": 25,
-          "validity_time_minutes": 30
-        },
-        {
-          "access_pin": null,
           "chapter_name": "5",
           "difficulty": "All",
           "is_allowed": false,
