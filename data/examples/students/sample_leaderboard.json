@@ -945,6 +945,14 @@
       "last_updated": "2025-11-10 14:52:01"
     },
     {
+      "id": "1090302027SCID124275",
+      "name": "ELMA",
+      "group": "SCIENCE",
+      "xp_points": 41,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-03 22:31:14"
+    },
+    {
       "id": "11467820261111",
       "name": "SADIA AKTER",
       "group": "HUMANITIES",
@@ -1231,14 +1239,6 @@
       "xp_points": 16,
       "level": "🔰 Newcomer",
       "last_updated": "2025-10-28 15:02:24"
-    },
-    {
-      "id": "1090302027SCID124275",
-      "name": "ELMA",
-      "group": "SCIENCE",
-      "xp_points": 16,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-03 22:31:14"
     },
     {
       "id": "109030202781",
