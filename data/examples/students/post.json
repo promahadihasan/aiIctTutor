@@ -458,7 +458,7 @@
             "timestamp": "2025-11-08 20:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 216,
+            "likes": 203,
             "tags": [
                 "android",
                 "kotlin",
@@ -471,7 +471,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-08 20:20:15",
-                    "likes": 13,
+                    "likes": 9,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
