@@ -422,7 +422,7 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "sir amader  all subject question  ta ki main  lecture ra korbe? ",
                     "timestamp": "2025-11-08 15:53:13",
-                    "likes": 4
+                    "likes": 1
                 },
                 {
                     "id": "50b78760-e210-46dc-a670-c087530c610d",
@@ -458,7 +458,7 @@
             "timestamp": "2025-11-08 20:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 208,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
@@ -471,7 +471,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-08 20:20:15",
-                    "likes": 9,
+                    "likes": 8,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -480,7 +480,7 @@
                     "authorName": "AFIAJAHANAFRIN",
                     "content": "Thank you sir",
                     "timestamp": "2025-11-08 23:53:53",
-                    "likes": 2
+                    "likes": 1
                 },
                 {
                     "id": "805036b5-f236-4a07-b181-79e27a0bab24",
