@@ -23,6 +23,14 @@
                     "timestamp": "2025-11-10 17:15:30",
                     "likes": 0,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "f3557c00-4edf-4ac4-89e0-f6d294160240",
+                    "postId": "post123",
+                    "authorName": "LAMIA KHAN JASIN ",
+                    "content": "mcq bhalo hoise but written bhalo hoi nai sir 😢",
+                    "timestamp": "2025-11-10 18:00:11",
+                    "likes": 0
                 }
             ]
         },
