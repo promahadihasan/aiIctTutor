@@ -1,6 +1,348 @@
 {
   "model_tests": [
   {
+    "model_test_id": "42",
+    "teacher_id": "11467801713",
+    "difficulty": "All",
+    "test_name": "Tea",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-11-18",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": true,
+    "access_pin": "876383",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 4,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 8,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "বায়োমেট্রিক্সে ব্যবহূত হয় — \ni) ফিঙ্গার প্রিন্ট \nii) ডিএনএ\niii) রেটিনা"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 18,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডিএনএ-এর উপাদান হলো— \ni) জিন \nii) ক্রোমোসোম \niii) নিউক্লিয়াস"
+      },
+      {
+        "answer": "খ) ৩",
+        "chapterId": "2",
+        "id": 33,
+        "level": "medium",
+        "options": [
+          "ক) ২",
+          "খ) ৩",
+          "গ) ৪",
+          "ঘ) ৫"
+        ],
+        "question": "অপটিক্যাল ফাইবারকে কতভাগে ভাগ করা যায়?"
+      },
+      {
+        "answer": "ক) 1000101",
+        "chapterId": "3.1",
+        "id": 41,
+        "level": "easy",
+        "options": [
+          "ক) 1000101",
+          "খ) 1010001",
+          "গ) 1010101",
+          "ঘ) 1100101"
+        ],
+        "question": "(85)₁₀ \u003d (x)₂ হলে x এর মান কত?"
+      },
+      {
+        "answer": "ক) AC",
+        "chapterId": "3.1",
+        "id": 46,
+        "level": "hard",
+        "options": [
+          "ক) AC",
+          "খ) AD",
+          "গ) AE",
+          "ঘ) BC"
+        ],
+        "question": "দশমিক 172 এর সমতুল্য হেক্সাডেসিমেল কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "3.2",
+        "id": 60,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "যৌগিক গেট হলো— \ni) NAND \nii) NOR \niii) XOR"
+      },
+      {
+        "answer": "ক) ১টি",
+        "chapterId": "3.2",
+        "id": 64,
+        "level": "hard",
+        "options": [
+          "ক) ১টি",
+          "খ) ২টি",
+          "গ) ৩টি",
+          "ঘ) ৪টি"
+        ],
+        "question": "NAND গেট দিয়ে NOT গেট তৈরি করা যায়—"
+      },
+      {
+        "answer": "খ) \u003cfont\u003e",
+        "chapterId": "4",
+        "id": 79,
+        "level": "hard",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003cfont\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003ch1\u003e"
+        ],
+        "question": "ওয়েব পেজে টেক্সটের কালার পরিবর্তন করা যায় কোন ট্যাগের মাধ্যমে?"
+      },
+      {
+        "answer": "ঘ) সবকয়টি",
+        "chapterId": "5",
+        "id": 86,
+        "level": "easy",
+        "options": [
+          "ক) for",
+          "খ) while",
+          "গ) do-while",
+          "ঘ) সবকয়টি"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় ব্যবহৃত লুপ—"
+      },
+      {
+        "answer": "খ) 3",
+        "chapterId": "5",
+        "id": 106,
+        "level": "hard",
+        "options": [
+          "ক) 2",
+          "খ) 3",
+          "গ) 4",
+          "ঘ) 10"
+        ],
+        "question": "উদ্দীপকের কোডে i \u003d\u003d 4 এর পরিবর্তে i \u003d\u003d 7 বসালে \"Good\" লেখাটি কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "গ) 0-9 এবং A-F অংক ব্যবহার",
+        "chapterId": "3.1",
+        "id": 112,
+        "level": "hard",
+        "options": [
+          "ক) 0-7 অংক ব্যবহার",
+          "খ) 0-9 অংক ব্যবহার",
+          "গ) 0-9 এবং A-F অংক ব্যবহার",
+          "ঘ) 0-9 এবং A-Z অংক ব্যবহার"
+        ],
+        "question": "কোনটি হেক্সাডেসিমেল সংখ্যা পদ্ধতির বৈশিষ্ট্য?"
+      },
+      {
+        "answer": "ঘ) মডেম",
+        "chapterId": "2",
+        "id": 116,
+        "level": "easy",
+        "options": [
+          "ক) হাব",
+          "খ) সুইচ",
+          "গ) রাউটার",
+          "ঘ) মডেম"
+        ],
+        "question": "কোন ডিভাইস অ্যানালগ সিগনালকে ডিজিটাল সিগনালে রূপান্তর করে?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 123,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "জেনেটিক ইঞ্জিনিয়ারিং এর ব্যবহার— \ni) উন্নত জাতের শস্য উৎপাদন\nii) মানবদেহের রোগ নির্ণয়\niii) জীবাণু প্রতিরোধী প্রাণী সৃষ্টি"
+      },
+      {
+        "answer": "ক) উচ্চগতি",
+        "chapterId": "2",
+        "id": 124,
+        "level": "hard",
+        "options": [
+          "ক) উচ্চগতি",
+          "খ) ব্যয় কম",
+          "গ) ডেটা নিরাপত্তা কম",
+          "ঘ) দুর্বলতা বেশি"
+        ],
+        "question": "অপটিক্যাল ফাইবারের সুবিধা—"
+      },
+      {
+        "answer": "গ) কো-অ্যাক্সিয়াল ক্যাবল",
+        "chapterId": "2",
+        "id": 126,
+        "level": "medium",
+        "options": [
+          "ক) টুইস্টেড পেয়ার ক্যাবল",
+          "খ) ফাইবার অপটিক ক্যাবল",
+          "গ) কো-অ্যাক্সিয়াল ক্যাবল",
+          "ঘ) ইথারনেট ক্যাবল"
+        ],
+        "question": "10 BASE-2 মানে পরিচিতি কোন ক্যাবলের?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 135,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষার ডেটা টাইপ— \ni) int\nii) char\niii) float"
+      },
+      {
+        "answer": "খ) ইন্টিগ্রেটেড সার্কিট",
+        "chapterId": "1",
+        "id": 139,
+        "level": "hard",
+        "options": [
+          "ক) ট্রানজিস্টর",
+          "খ) ইন্টিগ্রেটেড সার্কিট",
+          "গ) ভ্যাকুয়াম টিউব",
+          "ঘ) মাইক্রোপ্রসেসর"
+        ],
+        "question": "তৃতীয় প্রজন্মের কম্পিউটারের প্রধান বৈশিষ্ট্য কোনটি?"
+      },
+      {
+        "answer": "ঘ) মাইক্রোপ্রসেসর",
+        "chapterId": "1",
+        "id": 140,
+        "level": "easy",
+        "options": [
+          "ক) ট্রানজিস্টর",
+          "খ) ইন্টিগ্রেটেড সার্কিট",
+          "গ) ভ্যাকুয়াম টিউব",
+          "ঘ) মাইক্রোপ্রসেসর"
+        ],
+        "question": "চতুর্থ প্রজন্মের কম্পিউটারের প্রধান বৈশিষ্ট্য কোনটি?"
+      },
+      {
+        "answer": "ক) 101011",
+        "chapterId": "3.1",
+        "id": 144,
+        "level": "medium",
+        "options": [
+          "ক) 101011",
+          "খ) 110011",
+          "গ) 100111",
+          "ঘ) 110101"
+        ],
+        "question": "দশমিক 43 এর বাইনারি কোনটি?"
+      },
+      {
+        "answer": "ক) 10m",
+        "chapterId": "2",
+        "id": 161,
+        "level": "easy",
+        "options": [
+          "ক) 10m",
+          "খ) 20m",
+          "গ) 30m",
+          "ঘ) 100m"
+        ],
+        "question": "ব্লুটুথ কত দূরত্বে কাজ করে?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "2",
+        "id": 162,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডেটা ট্রান্সমিশন মোড— \ni) সিমপ্লেক্স\nii) হাফ-ডুপ্লেক্স\niii) ফুল-ডুপ্লেক্স"
+      },
+      {
+        "answer": "ক. 1000001",
+        "chapterId": "3.1",
+        "id": 213,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. 1000001",
+          "খ. 1000011",
+          "গ. 1001001",
+          "ঘ. 1001011"
+        ],
+        "question": "দশমিক সংখ্যা 65 এর বাইনারি কোনটি?"
+      },
+      {
+        "answer": "খ. 010010",
+        "chapterId": "3",
+        "id": 228,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "options": [
+          "ক. 101100",
+          "খ. 010010",
+          "গ. 101000",
+          "ঘ. 101111"
+        ],
+        "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?"
+      },
+      {
+        "answer": "ক. (A+B)+A\u0027.B",
+        "chapterId": "3",
+        "id": 238,
+        "imageUrl": "",
+        "options": [
+          "ক. (A+B)+A\u0027.B",
+          "খ. (A+B)\u0027+A\u0027.B",
+          "গ. (A+B)+(A\u0027+B)\u0027",
+          "ঘ. (A+B)+(A\u0027+B)"
+        ],
+        "question": "উদ্দীপকের সমীকরণের বিপরীত মান কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": "41",
     "teacher_id": "11467801713",
     "difficulty": "All",
