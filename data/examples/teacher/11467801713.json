@@ -109,21 +109,6 @@
           "validity_time_minutes": 25
         },
         {
-          "access_pin": "322557",
-          "chapter_name": "1",
-          "difficulty": "All",
-          "is_allowed": false,
-          "is_pin_protected": true,
-          "last_date": "2025-11-18",
-          "model_test_id": "40",
-          "participants": [],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "SA -2025",
-          "total_questions": 15,
-          "validity_time_minutes": 25
-        },
-        {
           "access_pin": null,
           "chapter_name": "5",
           "difficulty": "All",
