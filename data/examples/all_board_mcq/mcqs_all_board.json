@@ -6155,7 +6155,7 @@
             },
             {
               "id": 15,
-              "question": "উদ্দীপক\n#include<stdio.h>\nmain()\n{\n int a, b;\n b = 125;\n a = b%25; // a = 125 % 25 = 0\n print f(\"%d\", a);\n}\nপ্রোগ্রামটির আউটপুট কত?",
+              "question": "উদ্দীপক\n#include<stdio.h>\nmain()\n{\n int a, b;\n b = 125;\n a = b%25; \n print f(\"%d\", a);\n}\nপ্রোগ্রামটির আউটপুট কত?",
               "imageUrl": "",
               "options": [
                 "ক) 0",
