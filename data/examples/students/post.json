@@ -8,7 +8,7 @@
             "timestamp": "2025-11-10 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 4,
+            "likes": 2,
             "tags": [
                 "android",
                 "kotlin",
@@ -21,7 +21,7 @@
                     "authorName": "shibbir",
                     "content": "replay deo",
                     "timestamp": "2025-11-10 17:15:30",
-                    "likes": 4,
+                    "likes": 3,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -30,7 +30,7 @@
                     "authorName": "LAMIA KHAN JASIN ",
                     "content": "mcq bhalo hoise but written bhalo hoi nai sir 😢",
                     "timestamp": "2025-11-10 18:00:11",
-                    "likes": 83
+                    "likes": 81
                 },
                 {
                     "id": "57a1eeea-b88e-44d7-9fa5-f36008a0afc6",
@@ -47,6 +47,14 @@
                     "content": "mcq valo hoice but sir written valo hoy ni sir,sob gulaiya felchi",
                     "timestamp": "2025-11-12 17:00:39",
                     "likes": 1
+                },
+                {
+                    "id": "de531491-9d74-4066-9894-cbc065fe9222",
+                    "postId": "post123",
+                    "authorName": "AMENA.AKTER10201@GMAIL.COM",
+                    "content": "👍",
+                    "timestamp": "2025-11-12 20:21:31",
+                    "likes": 0
                 }
             ]
         },
