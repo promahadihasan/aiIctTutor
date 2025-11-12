@@ -5952,6 +5952,364 @@
           ]
         }
       ]
+    },
+    {
+      "বরিশাল": [
+        {
+          "mcqs": [
+            {
+              "id": 1,
+              "question": "কোন ট্রান্সমিশন পদ্ধতিতে প্রেরকের সাথে প্রাইমারি মেমোরির প্রয়োজন?",
+              "imageUrl": "",
+              "options": [
+                "ক) প্যারালাল",
+                "খ) সিনক্রোনাস",
+                "গ) অ্যাসিনক্রোনাস",
+                "ঘ) আইসো-ক্রোনাস"
+              ],
+              "answer": "খ) সিনক্রোনাস",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 2,
+              "question": "হাফ-ডুপ্লেক্স মোডের উদাহরণ হলো-\ni. Radio\nii. SMS\niii. FAX\nনিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "খ) ii ও iii",
+              "level": "medium",
+              "chapterId": "2"
+            },
+            {
+              "id": 3,
+              "question": "থিকনেট ক্যাবল কী নামে পরিচিত?",
+              "imageUrl": "",
+              "options": [
+                "ক) 10 Base-2",
+                "খ) 10 Base-4",
+                "গ) 10 Base-5",
+                "ঘ) 10 Base-6"
+              ],
+              "answer": "গ) 10 Base-5",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 4,
+              "question": "১০টি নোড বিশিষ্ট মেশ টপোলজিতে তারের সংখ্যা হবে-",
+              "imageUrl": "",
+              "options": [
+                "ক) ৪৫",
+                "খ) ৫৫",
+                "গ) ৬৬",
+                "ঘ) ৯০"
+              ],
+              "answer": "ক) ৪৫",
+              "level": "easy",
+              "chapterId": "2"
+            },
+            {
+              "id": 5,
+              "question": "F-এর সরলীকৃত মান কোনটি?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw=true",
+              "options": [
+                "ক) x + y",
+                "খ) xy",
+                "গ) x̅ + y̅",
+                "ঘ) x̅ · y̅"
+              ],
+              "answer": "খ) xy",
+              "level": "hard",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 6,
+              "question": "F-এর সরলীকৃত মানকে প্রতিস্থাপন করা যাবে-\ni. NAND Gate দিয়ে\nii. NOR Gate দিয়ে\niii. AND Gate দিয়ে\nনিচের কোনটি সঠিক?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw=true",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "hard",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 7,
+              "question": "EBCDIC কোড কত বিটের?",
+              "imageUrl": "",
+              "options": [
+                "ক) ২",
+                "খ) ৪",
+                "গ) ৮",
+                "ঘ) ১৬"
+              ],
+              "answer": "গ) ৮",
+              "level": "easy",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 8,
+              "question": "সুমেরিয়ান-ব্যাবিলনিয়ান সংখ্যা পদ্ধতি ছিল-",
+              "imageUrl": "",
+              "options": [
+                "ক) ১০ ভিত্তিক",
+                "খ) ৬০ ভিত্তিক",
+                "গ) ২০ ভিত্তিক",
+                "ঘ) ১০ ভিত্তিক"
+              ],
+              "answer": "খ) ৬০ ভিত্তিক",
+              "level": "easy",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 9,
+              "question": "(BC)₁₆ এর সমকক্ষ মান হবে-\ni. (10111100)₂\nii. (274)₈\niii. (188)₁₀\nনিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "hard",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 10,
+              "question": "নিচের চিত্রটি দ্বারা কোন বর্তনীকে নির্দেশ করে?",
+              "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32E.PNG?raw=true",
+              "options": [
+                "ক) হাফ অ্যাডার",
+                "খ) ফুল অ্যাডার",
+                "গ) এনকোডার",
+                "ঘ) ডিকোডার"
+              ],
+              "answer": "গ) এনকোডার",
+              "level": "medium",
+              "chapterId": "3.2"
+            },
+            {
+              "id": 11,
+              "question": "Link Tag কোনটি?",
+              "imageUrl": "",
+              "options": [
+                "ক) <01>...</01>",
+                "খ) <li...",
+                "গ) <b>...</b>",
+                "ঘ) <a...>...</a>"
+              ],
+              "answer": "ঘ) <a...>...</a>",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 12,
+              "question": "ফন্টের স্টাইল পরিবর্তন করতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) size",
+                "খ) style",
+                "গ) name",
+                "ঘ) face"
+              ],
+              "answer": "ঘ) face",
+              "level": "medium",
+              "chapterId": "4"
+            },
+            {
+              "id": 13,
+              "question": "কোনটির ক্ষেত্রে ডোমেইন নেম ব্যবহার করা হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) ওয়েবসাইট",
+                "খ) সার্ভার",
+                "গ) ওয়েব ফাইল",
+                "ঘ) ফোল্ডার"
+              ],
+              "answer": "ক) ওয়েবসাইট",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 14,
+              "question": "নিচের কোনটি সার্চ ইঞ্জিন?",
+              "imageUrl": "",
+              "options": [
+                "ক) Twitter",
+                "খ) YouTube",
+                "গ) Pipilika",
+                "ঘ) Wikipedia"
+              ],
+              "answer": "গ) Pipilika",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 15,
+              "question": "উদ্দীপক\n#include<stdio.h>\nmain()\n{\n int a, b;\n b = 125;\n a = b%25; // a = 125 % 25 = 0\n print f(\"%d\", a);\n}\nপ্রোগ্রামটির আউটপুট কত?",
+              "imageUrl": "",
+              "options": [
+                "ক) 0",
+                "খ) 5",
+                "গ) 25",
+                "ঘ) 50"
+              ],
+              "answer": "ক) 0",
+              "level": "hard",
+              "chapterId": "5"
+            },
+            {
+              "id": 16,
+              "question": "উদ্দীপকে ব্যবহৃত প্রোগ্রামিং ভাষাটি হচ্ছে-\ni. general purpose language\nii. mid-level language\niii. case sensitive language\nনিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ঘ) i, ii ও iii",
+              "level": "medium",
+              "chapterId": "5"
+            },
+            {
+              "id": 17,
+              "question": "নিচের কোনটি উচ্চতর ভাষায় লিখিত প্রোগ্রামকে মেশিন ভাষায় রূপান্তর করে?",
+              "imageUrl": "",
+              "options": [
+                "ক) কম্পাইলার",
+                "খ) এডিটর",
+                "গ) অ্যাসেম্বলার",
+                "ঘ) ডিবাগার"
+              ],
+              "answer": "ক) কম্পাইলার",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 18,
+              "question": "ফরম্যাট স্পেসিফায়ার হলো-\ni. %d\nii. %if\niii. %c\nনিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "গ) i ও iii",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 19,
+              "question": "সি ভাষায় সমজাতীয় ডেটা সংরক্ষণের জন্য কোনটি ব্যবহৃত হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) ফাংশন",
+                "খ) পয়েন্টার",
+                "গ) স্ট্রাকচার",
+                "ঘ) অ্যারে"
+              ],
+              "answer": "ঘ) অ্যারে",
+              "level": "easy",
+              "chapterId": "5"
+            },
+            {
+              "id": 20,
+              "question": "নিচের কোন ল্যাংগুয়েজটি কৃত্রিম বুদ্ধিমত্তায় ব্যবহার করা হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) LISP",
+                "খ) CSS",
+                "গ) HTML",
+                "ঘ) SQL"
+              ],
+              "answer": "ক) LISP",
+              "level": "hard",
+              "chapterId": "1"
+            },
+            {
+              "id": 21,
+              "question": "এক বাইটের অর্ধেককে কী বলা হয়?",
+              "imageUrl": "",
+              "options": [
+                "ক) নিবল",
+                "খ) কম্পিউটার শব্দ",
+                "গ) ডেসিমাল",
+                "ঘ) ক্যারেট"
+              ],
+              "answer": "ক) নিবল",
+              "level": "easy",
+              "chapterId": "3.1"
+            },
+            {
+              "id": 22,
+              "question": "কৃষিক্ষেত্রে প্রযুক্তির ব্যাপক প্রয়োগের মাধ্যমে বাংলাদেশের সারা বছরই মৌসুমি ফল উৎপাদন করা সম্ভব হচ্ছে।\nউদ্দীপকে উল্লিখিত প্রযুক্তি হলো-",
+              "imageUrl": "",
+              "options": [
+                "ক) বায়োমেট্রিক্স",
+                "খ) জেনেটিক ইঞ্জিনিয়ারিং",
+                "গ) বায়োইনফরমেটিক্স",
+                "ঘ) ন্যানোটেকনোলজি"
+              ],
+              "answer": "খ) জেনেটিক ইঞ্জিনিয়ারিং",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 23,
+              "question": "কৃষিক্ষেত্রে প্রযুক্তির ব্যাপক প্রয়োগের মাধ্যমে বাংলাদেশের সারা বছরই মৌসুমি ফল উৎপাদন করা সম্ভব হচ্ছে।\nউদ্দীপকে উল্লিখিত প্রযুক্তির প্রভাবে-\ni. অর্থনৈতিক উন্নয়ন হবে\nii. জীব বৈচিত্র্যের সৃষ্টি হবে\niii. দেশীয় প্রজাতি বিলুপ্ত হবে\nনিচের কোনটি সঠিক?",
+              "imageUrl": "",
+              "options": [
+                "ক) i ও ii",
+                "খ) ii ও iii",
+                "গ) i ও iii",
+                "ঘ) i, ii ও iii"
+              ],
+              "answer": "ক) i ও ii",
+              "level": "medium",
+              "chapterId": "1"
+            },
+            {
+              "id": 24,
+              "question": "কোনটি আউটসোর্সিং এর মার্কেট প্লেস?",
+              "imageUrl": "",
+              "options": [
+                "ক) ফেসবুক",
+                "খ) মাইস্পেস",
+                "গ) আপওয়ার্ক",
+                "ঘ) ভিগ"
+              ],
+              "answer": "গ) আপওয়ার্ক",
+              "level": "easy",
+              "chapterId": "4"
+            },
+            {
+              "id": 25,
+              "question": "HD মানের ভিডিও কনফারেন্সিং এর জন্য প্রয়োজনীয় ব্যান্ডউইডথ হলো-",
+              "imageUrl": "",
+              "options": [
+                "ক) 1 mbps",
+                "খ) 2 mbps",
+                "গ) 4 mbps",
+                "ঘ) 8 mbps"
+              ],
+              "answer": "গ) 4 mbps",
+              "level": "easy",
+              "chapterId": "2"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
