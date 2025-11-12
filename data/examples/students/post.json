@@ -55,6 +55,14 @@
                     "content": "👍",
                     "timestamp": "2025-11-12 20:21:31",
                     "likes": 0
+                },
+                {
+                    "id": "48bb8fab-8ca0-46fd-b0b4-6b37cf952955",
+                    "postId": "post123",
+                    "authorName": "FAHMIDA AKTER ANNI",
+                    "content": "alhamdulillah valo",
+                    "timestamp": "2025-11-12 23:08:28",
+                    "likes": 0
                 }
             ]
         },
