@@ -8,7 +8,7 @@
             "timestamp": "2025-11-10 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 3,
+            "likes": 4,
             "tags": [
                 "android",
                 "kotlin",
@@ -21,7 +21,7 @@
                     "authorName": "shibbir",
                     "content": "replay deo",
                     "timestamp": "2025-11-10 17:15:30",
-                    "likes": 3,
+                    "likes": 4,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
