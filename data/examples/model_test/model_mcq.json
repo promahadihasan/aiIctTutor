@@ -1,6 +1,348 @@
 {
   "model_tests": [
   {
+    "model_test_id": "44",
+    "teacher_id": "11467801713",
+    "difficulty": "All",
+    "test_name": "Test 101",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-11-19",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": true,
+    "access_pin": "212251",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "2",
+        "id": 27,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডেটা ট্রান্সমিশন মেথড— \ni) অ্যাসিনক্রোনাস \nii) সিনক্রোনাস \niii) আইসোক্রোনাস"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 30,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "অপটিক্যাল ফাইবারের সুবিধা—\ni) উচ্চগতি \nii) বিদ্যুৎ চৌম্বকীয় প্রভাবমুক্ত \niii) কম ব্যয়"
+      },
+      {
+        "answer": "খ) 54 mbps",
+        "chapterId": "2",
+        "id": 37,
+        "level": "hard",
+        "options": [
+          "ক) 11 mbps",
+          "খ) 54 mbps",
+          "গ) 1 gbps",
+          "ঘ) 10 mbps"
+        ],
+        "question": "Wi-Fi এর ব্যান্ডউইডথ কত?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 39,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "টুইস্টেড পেয়ার ক্যাবলের সুবিধা— \ni) কম ব্যয় \nii) ইনস্টল সহজ \niii) উচ্চগতি"
+      },
+      {
+        "answer": "খ) মার্কআপ ল্যাংগুয়েজ",
+        "chapterId": "4",
+        "id": 68,
+        "level": "easy",
+        "options": [
+          "ক) প্রোগ্রামিং ল্যাংগুয়েজ",
+          "খ) মার্কআপ ল্যাংগুয়েজ",
+          "গ) স্ক্রিপ্টিং ল্যাংগুয়েজ",
+          "ঘ) ডিজাইন ল্যাংগুয়েজ"
+        ],
+        "question": "HTML হলো—"
+      },
+      {
+        "answer": "গ) \u003cbody\u003e",
+        "chapterId": "4",
+        "id": 82,
+        "level": "hard",
+        "options": [
+          "ক) \u003chtml\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cbody\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "HTML ডকুমেন্টের সবচেয়ে গুরুত্বপূর্ণ অংশ কোনটি?"
+      },
+      {
+        "answer": "গ) ?",
+        "chapterId": "5",
+        "id": 94,
+        "level": "hard",
+        "options": [
+          "ক) \u003d\u003d",
+          "খ) \u003e",
+          "গ) ?",
+          "ঘ) \u0026"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি কন্ডিশনাল অপারেটর?"
+      },
+      {
+        "answer": "খ) 12",
+        "chapterId": "5",
+        "id": 98,
+        "level": "easy",
+        "options": [
+          "ক) 10",
+          "খ) 12",
+          "গ) 14",
+          "ঘ) 16"
+        ],
+        "question": "উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও: \n #include \u003cstdio.h\u003e\n int main()\n {\n int C, S\u003d1;\n for (C \u003d 2; C \u003c\u003d 10; C \u003d C + 2)\n {\n S \u003d S + C;\n }\n printf(\"%d\", C);\n } \n উদ্দীপকের C এর মান কত হবে?"
+      },
+      {
+        "answer": "ক) x \u003d x + 10",
+        "chapterId": "5",
+        "id": 101,
+        "level": "easy",
+        "options": [
+          "ক) x \u003d x + 10",
+          "খ) x \u003d x - 10",
+          "গ) x \u003d x * 10",
+          "ঘ) x \u003d x / 10"
+        ],
+        "question": "উদ্দীপকের x +\u003d 10; এর সমতুল্য কোনটি?"
+      },
+      {
+        "answer": "গ) চার্লস কেও",
+        "chapterId": "2",
+        "id": 127,
+        "level": "hard",
+        "options": [
+          "ক) চার্লস ব্যাবেজ",
+          "খ) স্যার জগদীশ চন্দ্র বসু",
+          "গ) চার্লস কেও",
+          "ঘ) গিলেস ডি রবার্ভাল"
+        ],
+        "question": "অপটিক্যাল ফাইবার কে আবিষ্কার করেন?"
+      },
+      {
+        "answer": "ঘ) যোগ, গুণ ও পূরক",
+        "chapterId": "3.2",
+        "id": 131,
+        "level": "easy",
+        "options": [
+          "ক) যোগ",
+          "খ) গুণ",
+          "গ) যোগ ও গুণ",
+          "ঘ) যোগ, গুণ ও পূরক"
+        ],
+        "question": "বুলিয়ান অ্যালজেব্রার মূল কাজ—"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "3.2",
+        "id": 132,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "বুলিয়ান স্বতঃসিদ্ধ— \ni) A+0\u003dA\nii) A.1\u003dA\niii) A+A\u0027\u003d1"
+      },
+      {
+        "answer": "খ) ii, iii",
+        "chapterId": "2",
+        "id": 142,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "টুইস্টেড পেয়ার ক্যাবল এর সুবিধা— \ni) উচ্চগতি\nii) কম ব্যয়\niii) ইনস্টল সহজ"
+      },
+      {
+        "answer": "গ) \u003cimg\u003e",
+        "chapterId": "4",
+        "id": 154,
+        "level": "hard",
+        "options": [
+          "ক) \u003cpic\u003e",
+          "খ) \u003cimage\u003e",
+          "গ) \u003cimg\u003e",
+          "ঘ) \u003cpicture\u003e"
+        ],
+        "question": "HTML এ ছবি যোগ করার ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "খ) scanf()",
+        "chapterId": "5",
+        "id": 155,
+        "level": "easy",
+        "options": [
+          "ক) printf()",
+          "খ) scanf()",
+          "গ) main()",
+          "ঘ) return"
+        ],
+        "question": "C প্রোগ্রামের ভাষার ইনপুট ফাংশন কোনটি?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "5",
+        "id": 156,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় লুপ ব্যবহার করা হয়— \ni) পুনরাবৃত্তি\nii) শর্ত\niii) অ্যারে"
+      },
+      {
+        "answer": "ঘ) 23",
+        "chapterId": "3.1",
+        "id": 164,
+        "level": "easy",
+        "options": [
+          "ক) 20",
+          "খ) 21",
+          "গ) 22",
+          "ঘ) 23"
+        ],
+        "question": "বাইনারি 10111 এর দশমিক কোনটি?"
+      },
+      {
+        "answer": "গ) 254",
+        "chapterId": "3.1",
+        "id": 166,
+        "level": "hard",
+        "options": [
+          "ক) 250",
+          "খ) 251",
+          "গ) 254",
+          "ঘ) 256"
+        ],
+        "question": "হেক্সাডেসিমেল AC এর অক্টাল কোনটি?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "3.2",
+        "id": 168,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "সার্বজনীন গেট— \ni) NAND\nii) NOR\niii) XOR"
+      },
+      {
+        "answer": "খ) \u003cstdio.h\u003e",
+        "chapterId": "5",
+        "id": 170,
+        "level": "easy",
+        "options": [
+          "ক) #include",
+          "খ) \u003cstdio.h\u003e",
+          "গ) int main()",
+          "ঘ) printf()"
+        ],
+        "question": "C প্রোগ্রামের ভাষার হেডার ফাইল—"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "5",
+        "id": 171,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কন্ডিশনাল কন্ট্রোল স্টেটমেন্ট— \ni) if\nii) switch\niii) for"
+      },
+      {
+        "answer": "খ) 253",
+        "chapterId": "3.1",
+        "id": 187,
+        "level": "hard",
+        "options": [
+          "ক) 250",
+          "খ) 251",
+          "গ) 252",
+          "ঘ) 253"
+        ],
+        "question": "হেক্সাডেসিমেল AB এর সমতুল্য অক্টাল কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 192,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষার ডেটা টাইপ— \ni) int\nii) char\niii) float"
+      },
+      {
+        "answer": "খ) 253",
+        "chapterId": "3.1",
+        "id": 202,
+        "level": "hard",
+        "options": [
+          "ক) 250",
+          "খ) 251",
+          "গ) 252",
+          "ঘ) 253"
+        ],
+        "question": "হেক্সাডেসিমেল AB এর সমতুল্য অক্টাল কোনটি?"
+      },
+      {
+        "answer": "ঘ. সবগুলো",
+        "chapterId": "1",
+        "id": 220,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. পরিবেশ সংরক্ষণ",
+          "খ. খাদ্য উৎপাদন",
+          "গ. রোগ নিরাময়",
+          "ঘ. সবগুলো"
+        ],
+        "question": "জেনেটিক ইঞ্জিনিয়ারিং হলো—"
+      }
+    ]
+  },
+  {
     "model_test_id": "43",
     "teacher_id": "11467801713",
     "difficulty": "All",
