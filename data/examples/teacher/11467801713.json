@@ -4,11 +4,9 @@
       "college_name": "Tejgaon College",
       "created_model_tests": [
         {
-          "access_pin": null,
           "chapter_name": "অধ্যায় ৩.১",
           "difficulty": "Mixed",
           "is_allowed": true,
-          "is_pin_protected": false,
           "last_date": "2025-10-27",
           "model_test_id": "27",
           "participants": [
@@ -68,11 +66,9 @@
           "validity_time_minutes": 25
         },
         {
-          "access_pin": "482317",
           "chapter_name": "3.1",
           "difficulty": "All",
           "is_allowed": false,
-          "is_pin_protected": true,
           "last_date": "2025-11-05",
           "model_test_id": "36",
           "participants": [
@@ -94,11 +90,9 @@
           "validity_time_minutes": 25
         },
         {
-          "access_pin": "308467",
           "chapter_name": "1",
           "difficulty": "All",
           "is_allowed": false,
-          "is_pin_protected": false,
           "last_date": "2025-11-17",
           "model_test_id": "38",
           "participants": [],
@@ -109,11 +103,9 @@
           "validity_time_minutes": 25
         },
         {
-          "access_pin": null,
           "chapter_name": "5",
           "difficulty": "All",
           "is_allowed": true,
-          "is_pin_protected": false,
           "last_date": "2025-11-18",
           "model_test_id": "41",
           "participants": [
@@ -137,32 +129,15 @@
           "validity_time_minutes": 25
         },
         {
-          "access_pin": "876383",
           "chapter_name": "All Chapters",
           "difficulty": "All",
           "is_allowed": false,
-          "is_pin_protected": true,
           "last_date": "2025-11-18",
           "model_test_id": "42",
           "participants": [],
           "performance_summary": null,
           "selected_student_ids": [],
           "test_name": "Tea",
-          "total_questions": 25,
-          "validity_time_minutes": 25
-        },
-        {
-          "access_pin": null,
-          "chapter_name": "All Chapters",
-          "difficulty": "All",
-          "is_allowed": false,
-          "is_pin_protected": false,
-          "last_date": "2025-11-19",
-          "model_test_id": "43",
-          "participants": [],
-          "performance_summary": null,
-          "selected_student_ids": [],
-          "test_name": "Test 1",
           "total_questions": 25,
           "validity_time_minutes": 25
         }
