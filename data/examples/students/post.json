@@ -426,13 +426,13 @@
         },
         {
             "postId": "post127",
-            "title": "একাদশ শ্রেণির পরীক্ষা সংক্রান্ত",
-            "content": "১।  তোমাদের প্রথম টার্ম পরীক্ষা এই মাস (নভেম্বর) এর ২৫ তারিখ এর দিকে শুরু হইতে পারে। \n২। আইসিটি ক্লাস এ যতটুকু পড়ানো হবে, ততটুকুর উপরই পরীক্ষা\n৩। এখনো যারা এই 'ict tutor pro' এপ পায় নাই, তোমরা একটু তোমাদের ফ্রেন্ডদের কাছে শেয়ার কর। \nThank You",
+            "title": "একাদশ শ্রেণির নবীন বরন সংক্রান্ত",
+            "content": "১।  তোমাদের প্রথম টার্ম পরীক্ষা শেষেই আনন্দ। ডিসেম্বর ১১ তারিখ হইতে পারে। তার আগে সাংস্কৃতিক প্রতিযোগিতা হবে ৮,৯, ১০। অনেক মজা হবে  । \nThank You",
             "teacherName": "SHIBBIR HOSSEN",
-            "timestamp": "2025-11-03 09:15:30",
+            "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 59,
+            "likes": 5,
             "tags": [
                 "android",
                 "kotlin",
@@ -444,73 +444,9 @@
                     "postId": "post127",
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
-                    "timestamp": "2025-11-03 10:20:15",
+                    "timestamp": "2025-11-13 10:20:15",
                     "likes": 18,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
-                },
-                {
-                    "id": "154f1f99-8281-44fd-976b-5403ea73171a",
-                    "postId": "post127",
-                    "authorName": "MITU AKTER LIZA",
-                    "content": "sir proshno ta aktu easy koiren thaholei hobe",
-                    "timestamp": "2025-11-03 21:57:36",
-                    "likes": 11
-                },
-                {
-                    "id": "0ae2cc72-d00e-4515-87fb-d3341d6ad920",
-                    "postId": "post127",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "sir cq ta ektu easy koiren plz",
-                    "timestamp": "2025-11-04 15:42:08",
-                    "likes": 6
-                },
-                {
-                    "id": "067c4b15-27e9-47f2-88fd-01a010610552",
-                    "postId": "post127",
-                    "authorName": "RAFIA AKTER",
-                    "content": "আসসালামু আলাইকুম স্যার আমরা কোন টপিকগুলা পড়ব এগুলো একটু বলে দিলে স্যার ভালো হইতো ",
-                    "timestamp": "2025-11-05 23:22:30",
-                    "likes": 14
-                },
-                {
-                    "id": "624d0e83-5c49-4ee4-a009-005e09e6cfbd",
-                    "postId": "post127",
-                    "authorName": "SHIRSTY DAS",
-                    "content": "sir question ta easy koiren please ",
-                    "timestamp": "2025-11-06 19:00:19",
-                    "likes": 0
-                },
-                {
-                    "id": "3165be4c-8573-4b36-8591-73f5371b3955",
-                    "postId": "post127",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "sir amader  all subject question  ta ki main  lecture ra korbe? ",
-                    "timestamp": "2025-11-08 15:53:13",
-                    "likes": 1
-                },
-                {
-                    "id": "50b78760-e210-46dc-a670-c087530c610d",
-                    "postId": "post127",
-                    "authorName": "SHIBBIR",
-                    "content": "NUR -- Yes",
-                    "timestamp": "2025-11-08 10:47:52",
-                    "likes": 0
-                },
-                {
-                    "id": "af7bc40e-d365-44b6-b246-7924d9a0c225",
-                    "postId": "post127",
-                    "authorName": "SADIA AKTER",
-                    "content": "sir website  এ ১ টি অধ্যায়ের যে নাম বা শিরেনাম গুলো আপনি দিয়েছেন শুধু সেইগুলে পরলে কি question  কমন পরবে? কেননা সর্ট টাইম আর আপনিও অনেকটা ছোট করেই দিয়েছে। সহজ ভাবে। ",
-                    "timestamp": "2025-11-08 18:44:37",
-                    "likes": 2
-                },
-                {
-                    "id": "63d68d07-5ed8-4ebe-af8a-99707bb5fe23",
-                    "postId": "post127",
-                    "authorName": "MITHILA RANI DAS",
-                    "content": ",",
-                    "timestamp": "2025-11-09 17:24:38",
-                    "likes": 0
                 }
             ]
         },
