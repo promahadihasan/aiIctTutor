@@ -1,349 +1,6 @@
 {
   "model_tests": [
   {
-    "model_test_id": "43",
-    "teacher_id": "11467801713",
-    "difficulty": "All",
-    "test_name": "Test 1",
-    "chapter_name": "All Chapters",
-    "total_questions": 25,
-    "last_date": "2025-11-19",
-    "validity_time_minutes": 25,
-    "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
-    "selected_student_ids": [],
-    "mcqs": [
-      {
-        "answer": "ক) i, ii",
-        "chapterId": "1",
-        "id": 4,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল"
-      },
-      {
-        "answer": "ঘ) এনসিবিআই",
-        "chapterId": "1",
-        "id": 16,
-        "level": "hard",
-        "options": [
-          "ক) নাসা",
-          "খ) গুগল",
-          "গ) ফেসবুক",
-          "ঘ) এনসিবিআই"
-        ],
-        "question": "বিশ্বের কোন সংস্থা ডিএনএ সিকোয়েন্স এ বিশেষায়িত?"
-      },
-      {
-        "answer": "গ) লাইট সিগন্যাল",
-        "chapterId": "2",
-        "id": 34,
-        "level": "hard",
-        "options": [
-          "ক) ইলেক্ট্রনিক্স সিগন্যাল",
-          "খ) ম্যাগনেটিক সিগন্যাল",
-          "গ) লাইট সিগন্যাল",
-          "ঘ) হাই ফ্রিকুয়েন্সি"
-        ],
-        "question": "অপটিক্যাল ফাইবারের ডেটা ট্রান্সমিশনের মাধ্যম কোনটি?"
-      },
-      {
-        "answer": "গ) 134",
-        "chapterId": "3.1",
-        "id": 51,
-        "level": "medium",
-        "options": [
-          "ক) 130",
-          "খ) 132",
-          "গ) 134",
-          "ঘ) 142"
-        ],
-        "question": "দশমিক 92 এর সমতুল্য অক্টাল কোনটি?"
-      },
-      {
-        "answer": "ক) i, ii",
-        "chapterId": "3.2",
-        "id": 63,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "ডি-মরগ্যান এর উপপাদ্য— \ni) (A.B)\u0027 \u003d A\u0027+B\u0027 \nii) (A+B)\u0027 \u003d A\u0027.B\u0027 \niii) A\u0027+B\u0027 \u003d A.B\u0027"
-      },
-      {
-        "answer": "ক) একটি ইনপুট \u00271\u0027 হলে",
-        "chapterId": "3.2",
-        "id": 65,
-        "level": "easy",
-        "options": [
-          "ক) একটি ইনপুট \u00271\u0027 হলে",
-          "খ) সবগুলো ইনপুট \u00270\u0027 হলে",
-          "গ) সবগুলো ইনপুট \u00271\u0027 হলে",
-          "ঘ) কোনটিই নয়"
-        ],
-        "question": "OR গেটের সত্যক সারণির আউটপুট \u00271\u0027 হবে—"
-      },
-      {
-        "answer": "ঘ) i, ii,iii",
-        "chapterId": "5",
-        "id": 90,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "C প্রোগ্রামের ভাষায় ব্যবহৃত ডেটা টাইপ— \ni) int \nii) float \niii) char"
-      },
-      {
-        "answer": "ক) x \u003d x + 1",
-        "chapterId": "5",
-        "id": 102,
-        "level": "medium",
-        "options": [
-          "ক) x \u003d x + 1",
-          "খ) x \u003d x - 1",
-          "গ) x \u003d x * 1",
-          "ঘ) x \u003d x / 1"
-        ],
-        "question": "উদ্দীপকের x++; এর সমতুল্য কোনটি?"
-      },
-      {
-        "answer": "খ) 13",
-        "chapterId": "3.1",
-        "id": 113,
-        "level": "easy",
-        "options": [
-          "ক) 12",
-          "খ) 13",
-          "গ) 14",
-          "ঘ) 15"
-        ],
-        "question": "বাইনারি 1101 এর সমতুল্য দশমিক কোনটি?"
-      },
-      {
-        "answer": "গ) \u003chtml\u003e",
-        "chapterId": "4",
-        "id": 119,
-        "level": "easy",
-        "options": [
-          "ক) \u003chead\u003e",
-          "খ) \u003cbody\u003e",
-          "গ) \u003chtml\u003e",
-          "ঘ) \u003ctitle\u003e"
-        ],
-        "question": "ওয়েব পেজের কাঠামো তৈরি করতে ব্যবহৃত হয় কোন ট্যাগ?"
-      },
-      {
-        "answer": "গ) \u003cbr\u003e",
-        "chapterId": "4",
-        "id": 120,
-        "level": "medium",
-        "options": [
-          "ক) \u003cp\u003e",
-          "খ) \u003ca\u003e",
-          "গ) \u003cbr\u003e",
-          "ঘ) \u003ch1\u003e"
-        ],
-        "question": "\u003cimg\u003e ট্যাগের সাথে মিল রয়েছে কোন ট্যাগের?"
-      },
-      {
-        "answer": "গ) কো-অ্যাক্সিয়াল ক্যাবল",
-        "chapterId": "2",
-        "id": 126,
-        "level": "medium",
-        "options": [
-          "ক) টুইস্টেড পেয়ার ক্যাবল",
-          "খ) ফাইবার অপটিক ক্যাবল",
-          "গ) কো-অ্যাক্সিয়াল ক্যাবল",
-          "ঘ) ইথারনেট ক্যাবল"
-        ],
-        "question": "10 BASE-2 মানে পরিচিতি কোন ক্যাবলের?"
-      },
-      {
-        "answer": "ঘ) i, ii,iii",
-        "chapterId": "5",
-        "id": 135,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "C প্রোগ্রামের ভাষার ডেটা টাইপ— \ni) int\nii) char\niii) float"
-      },
-      {
-        "answer": "খ) ইন্টিগ্রেটেড সার্কিট",
-        "chapterId": "1",
-        "id": 139,
-        "level": "hard",
-        "options": [
-          "ক) ট্রানজিস্টর",
-          "খ) ইন্টিগ্রেটেড সার্কিট",
-          "গ) ভ্যাকুয়াম টিউব",
-          "ঘ) মাইক্রোপ্রসেসর"
-        ],
-        "question": "তৃতীয় প্রজন্মের কম্পিউটারের প্রধান বৈশিষ্ট্য কোনটি?"
-      },
-      {
-        "answer": "ঘ) 16",
-        "chapterId": "3.1",
-        "id": 147,
-        "level": "medium",
-        "options": [
-          "ক) A",
-          "খ) B",
-          "গ) 16",
-          "ঘ) 1A"
-        ],
-        "question": "বাইনারি 10110 এর সমতুল্য হেক্সাডেসিমেল কোনটি?"
-      },
-      {
-        "answer": "ঘ) i, ii,iii",
-        "chapterId": "4",
-        "id": 153,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "HTML এ ব্যবহৃত তালিকা— \ni) \u003col\u003e\nii) \u003cul\u003e\niii) \u003cdl\u003e"
-      },
-      {
-        "answer": "ঘ) i, ii,iii",
-        "chapterId": "1",
-        "id": 159,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "ক্রায়োসার্জারিতে ব্যবহৃত হয়— \ni) তরল নাইট্রোজেন\nii) নাইট্রাস অক্সাইড\niii) আর্গন"
-      },
-      {
-        "answer": "ঘ) i, ii,iii",
-        "chapterId": "1",
-        "id": 180,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "জেনেটিক ইঞ্জিনিয়ারিং এর ব্যবহার— \ni) উন্নত জাতের শস্য উৎপাদন\nii) মানবদেহের রোগ নির্ণয়\niii) জীবাণু প্রতিরোধী প্রাণী সৃষ্টি"
-      },
-      {
-        "answer": "গ) কো-অ্যাক্সিয়াল ক্যাবল",
-        "chapterId": "2",
-        "id": 183,
-        "level": "medium",
-        "options": [
-          "ক) টুইস্টেড পেয়ার ক্যাবল",
-          "খ) ফাইবার অপটিক ক্যাবল",
-          "গ) কো-অ্যাক্সিয়াল ক্যাবল",
-          "ঘ) ইথারনেট ক্যাবল"
-        ],
-        "question": "10 BASE-2 মানে পরিচিতি কোন ক্যাবলের?"
-      },
-      {
-        "answer": "ঘ) i, ii,iii",
-        "chapterId": "5",
-        "id": 192,
-        "level": "medium",
-        "options": [
-          "ক) i, ii",
-          "খ) ii, iii",
-          "গ) i, iii",
-          "ঘ) i, ii,iii"
-        ],
-        "question": "C প্রোগ্রামের ভাষার ডেটা টাইপ— \ni) int\nii) char\niii) float"
-      },
-      {
-        "answer": "গ) for",
-        "chapterId": "5",
-        "id": 193,
-        "level": "hard",
-        "options": [
-          "ক) if",
-          "খ) switch",
-          "গ) for",
-          "ঘ) goto"
-        ],
-        "question": "C প্রোগ্রামের ভাষায় কোনটি লুপ স্টেটমেন্ট?"
-      },
-      {
-        "answer": "গ) LAN",
-        "chapterId": "2",
-        "id": 197,
-        "level": "easy",
-        "options": [
-          "ক) WAN",
-          "খ) MAN",
-          "গ) LAN",
-          "ঘ) PAN"
-        ],
-        "question": "10 BASE-2 ব্যবহৃত হয় কোন ধরনের নেটওয়ার্কে?"
-      },
-      {
-        "answer": "ক. 1000001",
-        "chapterId": "3.1",
-        "id": 213,
-        "imageUrl": "",
-        "level": "easy",
-        "options": [
-          "ক. 1000001",
-          "খ. 1000011",
-          "গ. 1001001",
-          "ঘ. 1001011"
-        ],
-        "question": "দশমিক সংখ্যা 65 এর বাইনারি কোনটি?"
-      },
-      {
-        "answer": "খ. 41",
-        "chapterId": "3.1",
-        "id": 215,
-        "imageUrl": "",
-        "level": "hard",
-        "options": [
-          "ক. 40",
-          "খ. 41",
-          "গ. 42",
-          "ঘ. 43"
-        ],
-        "question": "দশমিক সংখ্যা 65 এর হেক্সাডেসিমেল কোনটি?"
-      },
-      {
-        "answer": "খ. বাণিজ্যিক",
-        "chapterId": "4",
-        "id": 230,
-        "imageUrl": "",
-        "options": [
-          "ক. শিক্ষা",
-          "খ. বাণিজ্যিক",
-          "গ. সরকারি",
-          "ঘ. আন্তর্জাতিক"
-        ],
-        "question": "কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?"
-      }
-    ]
-  },
-  {
     "model_test_id": "42",
     "teacher_id": "11467801713",
     "difficulty": "All",
@@ -353,8 +10,6 @@
     "last_date": "2025-11-18",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": true,
-    "access_pin": "876383",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -695,8 +350,6 @@
     "last_date": "2025-11-18",
     "validity_time_minutes": 25,
     "is_allowed": true,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [
       "2027101"
     ],
@@ -1040,8 +693,6 @@
     "last_date": "2025-11-17",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -1382,8 +1033,6 @@
     "last_date": "2025-11-30",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -1725,8 +1374,6 @@
     "last_date": "2025-10-30",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -1938,8 +1585,6 @@
     "last_date": "2026-10-21",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -2284,8 +1929,6 @@
     "last_date": "2026-10-20",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -2628,8 +2271,6 @@
     "last_date": "2026-10-19",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -2973,8 +2614,6 @@
     "last_date": "2026-10-21",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -3319,8 +2958,6 @@
     "last_date": "2026-10-14",
     "validity_time_minutes": 25,
     "is_allowed": true,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [
       "11467820261140",
       "2027101",
@@ -3538,8 +3175,6 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -3753,8 +3388,6 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": true,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [
       "11467820261140",
       "2027101",
@@ -3971,8 +3604,6 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -4317,8 +3948,6 @@
     "last_date": "2026-10-11",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -4529,8 +4158,6 @@
     "last_date": "2026-10-10",
     "validity_time_minutes": 25,
     "is_allowed": false,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -4741,8 +4368,6 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 5,
     "is_allowed": true,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [
       "2027101"
     ],
@@ -4954,8 +4579,6 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": true,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [
       "2027101"
     ],
@@ -5298,8 +4921,6 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 15,
     "is_allowed": true,
-    "is_pin_protected": false,
-    "access_pin": "null",
     "selected_student_ids": [
       "2027101",
       "11467820261140"
