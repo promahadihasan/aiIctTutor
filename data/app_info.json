@@ -1,0 +1,28 @@
+{
+  "app_name": "HSC ICT Tutor",
+  "package_name": "com.megaminds.hscicttutor",
+  "version_name": "1.6.0",
+  "version_code": 16,
+  "last_updated": "2025-11-13",
+  "developer": "MegaMinds",
+  "maintainer": "Mahadi Hasan",
+  "contact_email": "support@icttutor.app",
+  "play_store_url": "https://play.google.com/store/apps/details?id=com.megaminds.hscicttutor",
+  "description": "An interactive learning platform for HSC ICT students to practice MCQs, model tests, and examples based on the NCTB syllabus.",
+  "monetization": {
+    "ad_supported": true,
+    "initial_delay_ms": 120000,
+    "ad_interval_ms": 300000
+  },
+  "release_notes": {
+    "version": "1.6.0",
+    "new_features": [
+      "Added PIN-protected model test functionality",
+      "Implemented faster offline caching using DataStore"
+    ],
+    "bug_fixes": [
+      "Resolved crash issue on Android 7.0 devices",
+      "Improved question loading performance"
+    ]
+  }
+}
