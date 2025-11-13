@@ -1,6 +1,348 @@
 {
   "model_tests": [
   {
+    "model_test_id": "43",
+    "teacher_id": "11467801713",
+    "difficulty": "All",
+    "test_name": "HTML morning Batch",
+    "chapter_name": "4",
+    "total_questions": 25,
+    "last_date": "2025-11-20",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "খ) মার্কআপ ল্যাংগুয়েজ",
+        "chapterId": "4",
+        "id": 68,
+        "level": "easy",
+        "options": [
+          "ক) প্রোগ্রামিং ল্যাংগুয়েজ",
+          "খ) মার্কআপ ল্যাংগুয়েজ",
+          "গ) স্ক্রিপ্টিং ল্যাংগুয়েজ",
+          "ঘ) ডিজাইন ল্যাংগুয়েজ"
+        ],
+        "question": "HTML হলো—"
+      },
+      {
+        "answer": "ঘ) \u003cimg\u003e",
+        "chapterId": "4",
+        "id": 70,
+        "level": "hard",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003cimg\u003e"
+        ],
+        "question": "কোন ট্যাগে src অ্যাট্রিবিউট ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ঘ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 73,
+        "level": "hard",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ch1\u003e",
+          "গ) \u003cbr\u003e",
+          "ঘ) \u003chtml\u003e"
+        ],
+        "question": "অ্যাট্রিবিউট ব্যবহার করা হয় কোন ট্যাগে?"
+      },
+      {
+        "answer": "খ) কন্টেইনার",
+        "chapterId": "4",
+        "id": 74,
+        "level": "easy",
+        "options": [
+          "ক) এম্পটি",
+          "খ) কন্টেইনার",
+          "গ) সিঙ্গেল",
+          "ঘ) স্টাইল"
+        ],
+        "question": "\u003cp\u003e ট্যাগ কোন ধরনের?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 75,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ ব্যবহৃত টেক্সট ফরমেটিং ট্যাগ— \ni) \u003cb\u003e \nii) \u003ci\u003e \niii) \u003cu\u003e"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "4",
+        "id": 76,
+        "level": "hard",
+        "options": [
+          "ক) Ordered List",
+          "খ) Unordered List",
+          "গ) Definition List",
+          "ঘ) সবগুলো"
+        ],
+        "question": "HTML এ ব্যবহৃত তালিকা—"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "4",
+        "id": 78,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ অ্যাট্রিবিউট নির্ধারণ করে— \ni) ট্যাগ \nii) কন্টেন্ট \niii) এলিমেন্ট"
+      },
+      {
+        "answer": "খ) \u003cfont\u003e",
+        "chapterId": "4",
+        "id": 79,
+        "level": "hard",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003cfont\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003ch1\u003e"
+        ],
+        "question": "ওয়েব পেজে টেক্সটের কালার পরিবর্তন করা যায় কোন ট্যাগের মাধ্যমে?"
+      },
+      {
+        "answer": "ঘ) ক ও খ",
+        "chapterId": "4",
+        "id": 80,
+        "level": "easy",
+        "options": [
+          "ক) .html",
+          "খ) .htm",
+          "গ) .txt",
+          "ঘ) ক ও খ"
+        ],
+        "question": "HTML ফাইলের এক্সটেনশন কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 81,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML ট্যাগকে লেখা যায়— \ni) ছোট হাতের অক্ষরে \nii) বড় হাতের অক্ষরে \niii) ক ও খ"
+      },
+      {
+        "answer": "গ) \u003cbody\u003e",
+        "chapterId": "4",
+        "id": 82,
+        "level": "hard",
+        "options": [
+          "ক) \u003chtml\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003cbody\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "HTML ডকুমেন্টের সবচেয়ে গুরুত্বপূর্ণ অংশ কোনটি?"
+      },
+      {
+        "answer": "গ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 119,
+        "level": "easy",
+        "options": [
+          "ক) \u003chead\u003e",
+          "খ) \u003cbody\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "ওয়েব পেজের কাঠামো তৈরি করতে ব্যবহৃত হয় কোন ট্যাগ?"
+      },
+      {
+        "answer": "গ) \u003cbr\u003e",
+        "chapterId": "4",
+        "id": 120,
+        "level": "medium",
+        "options": [
+          "ক) \u003cp\u003e",
+          "খ) \u003ca\u003e",
+          "গ) \u003cbr\u003e",
+          "ঘ) \u003ch1\u003e"
+        ],
+        "question": "\u003cimg\u003e ট্যাগের সাথে মিল রয়েছে কোন ট্যাগের?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 121,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "\u003cimg\u003e ট্যাগে ব্যবহূত অ্যাট্রিবিউট— \ni) src\nii) alt\niii) title"
+      },
+      {
+        "answer": "গ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 152,
+        "level": "easy",
+        "options": [
+          "ক) \u003chead\u003e",
+          "খ) \u003cbody\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "HTML ডকুমেন্টের মূল ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 153,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ ব্যবহৃত তালিকা— \ni) \u003col\u003e\nii) \u003cul\u003e\niii) \u003cdl\u003e"
+      },
+      {
+        "answer": "গ) \u003cimg\u003e",
+        "chapterId": "4",
+        "id": 154,
+        "level": "hard",
+        "options": [
+          "ক) \u003cpic\u003e",
+          "খ) \u003cimage\u003e",
+          "গ) \u003cimg\u003e",
+          "ঘ) \u003cpicture\u003e"
+        ],
+        "question": "HTML এ ছবি যোগ করার ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "খ) www.facebook.com",
+        "chapterId": "4",
+        "id": 175,
+        "level": "hard",
+        "options": [
+          "ক) index.html",
+          "খ) www.facebook.com",
+          "গ) allNews.com",
+          "ঘ) google.com"
+        ],
+        "question": "কোনটি একটি পূর্ণাঙ্গ ওয়েব সাইটের উদাহরণ?"
+      },
+      {
+        "answer": "গ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 176,
+        "level": "easy",
+        "options": [
+          "ক) \u003chead\u003e",
+          "খ) \u003cbody\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "ওয়েব পেজের কাঠামো তৈরি করতে ব্যবহৃত হয় কোন ট্যাগ?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 178,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "\u003cimg\u003e ট্যাগে ব্যবহূত অ্যাট্রিবিউট— \ni) src\nii) alt\niii) title"
+      },
+      {
+        "answer": "ক. \u003cimg\u003e",
+        "chapterId": "4",
+        "id": 216,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. \u003cimg\u003e",
+          "খ. \u003ca\u003e",
+          "গ. \u003calt\u003e",
+          "ঘ. \u003ch1\u003e"
+        ],
+        "question": "উদ্দীপকটি পড়ে ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক তার ছাত্র-ছাত্রীদের HTML এর মাধ্যমে একটি ওয়েব পেজ তৈরি করতে বললেন। যাতে ওয়েব পেজে ব্যবহৃত ছবির Alt অ্যাট্রিবিউট ব্যবহার করে ছবি সম্পর্কিত তথ্য যোগ করা যায়।\n Alt অ্যাট্রিবিউট কোনটি?"
+      },
+      {
+        "answer": "গ. i, iii",
+        "chapterId": "4",
+        "id": 217,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. i",
+          "খ. ii",
+          "গ. i, iii",
+          "ঘ. i, ii,iii"
+        ],
+        "question": "ছাত্র-ছাত্রীরা ছবিটির বর্ডার দিতে পারে—\ni. \u003cimg border\u003d\"10\"\u003e\nii. \u003cimg border \u003d \"10px\"\u003e\niii. \u003cimg border \u003d 10\u003e"
+      },
+      {
+        "answer": "খ. www.facebook.com",
+        "chapterId": "4",
+        "id": 224,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. index.html",
+          "খ. www.facebook.com",
+          "গ. allNews.com",
+          "ঘ. google.com"
+        ],
+        "question": "কোনটি একটি পূর্ণাঙ্গ ওয়েব সাইটের উদাহরণ?"
+      },
+      {
+        "answer": "ক. ওয়েবপেজ",
+        "chapterId": "4",
+        "id": 231,
+        "imageUrl": "",
+        "options": [
+          "ক. ওয়েবপেজ",
+          "খ. ব্লগ",
+          "গ. পোর্টাল",
+          "ঘ. ই-কমার্স"
+        ],
+        "question": "কামালের ওয়েব সাইটটি কী নামে পরিচিত হতে পারে?"
+      },
+      {
+        "answer": "খ. ডায়নামিক",
+        "chapterId": "4",
+        "id": 233,
+        "imageUrl": "",
+        "options": [
+          "ক. স্ট্যাটিক",
+          "খ. ডায়নামিক",
+          "গ. ব্যক্তিগত",
+          "ঘ. শিক্ষামূলক"
+        ],
+        "question": "জনাব রাজীব একটি ই-কমার্স প্রতিষ্ঠান পরিচালনা করেন। তিনি এই প্রতিষ্ঠানের পণ্য বিক্রির জন্য একটি ওয়েবসাইট তৈরি করেন এবং সেখানে অনলাইন ব্যাংকিং এর মাধ্যমে পেমেন্ট গ্রহণের ব্যবস্থা রাখেন। রাজীবের প্রতিষ্ঠানের ওয়েবসাইটটি কী ধরনের?"
+      }
+    ]
+  },
+  {
     "model_test_id": "42",
     "teacher_id": "11467801713",
     "difficulty": "All",
