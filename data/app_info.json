@@ -11,8 +11,8 @@
   "description": "An interactive learning platform for HSC ICT students to practice MCQs, model tests, and examples based on the NCTB syllabus.",
   "monetization": {
     "ad_supported": true,
-    "initial_delay_ms": 120000,
-    "ad_interval_ms": 300000
+    "initial_delay_ms": 60,
+    "ad_interval_ms": 130
   },
   "release_notes": {
     "version": "1.6.0",
