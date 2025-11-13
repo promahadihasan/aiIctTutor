@@ -7,15 +7,15 @@
   "developer": "MegaMinds",
   "maintainer": "Mahadi Hasan",
   "contact_email": "support@icttutor.app",
-  "play_store_url": "https://play.google.com/store/apps/details?id=com.megaminds.hscicttutor",
+  "play_store_url": "https://play.google.com/store/apps/details?id=megaminds.icttutorpro",
   "description": "An interactive learning platform for HSC ICT students to practice MCQs, model tests, and examples based on the NCTB syllabus.",
   "monetization": {
     "ad_supported": true,
     "initial_delay_ms": 60000,
-    "ad_interval_ms": 90000
+    "ad_interval_ms": 120000
   },
   "release_notes": {
-    "version": "1.6.0",
+    "version": "1.1.14",
     "new_features": [
       "Added PIN-protected model test functionality",
       "Implemented faster offline caching using DataStore"
