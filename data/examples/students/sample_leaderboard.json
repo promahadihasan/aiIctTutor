@@ -1017,6 +1017,14 @@
       "last_updated": "2025-11-09 10:30:35"
     },
     {
+      "id": "1090302027398",
+      "name": "SHIPA",
+      "group": "HUMANITIES",
+      "xp_points": 41,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-13 21:30:56"
+    },
+    {
       "id": "1090302027BUSM48",
       "name": "TAJMUN FIDDA",
       "group": "BUSINESS STUDIES",
@@ -1087,14 +1095,6 @@
       "xp_points": 28,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-12 12:59:39"
-    },
-    {
-      "id": "1090302027398",
-      "name": "SHIPA",
-      "group": "HUMANITIES",
-      "xp_points": 26,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-13 21:30:56"
     },
     {
       "id": "1090302026BUSM427",
