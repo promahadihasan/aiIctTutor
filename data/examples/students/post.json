@@ -445,16 +445,8 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-13 10:20:15",
-                    "likes": 22,
+                    "likes": 21,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
-                },
-                {
-                    "id": "9f44127d-171d-47e6-8407-30cf3746969d",
-                    "postId": "post127",
-                    "authorName": "KONIKA AKTER KEYA",
-                    "content": "আলহামদুলিল্লাহ ",
-                    "timestamp": "2025-11-14 18:56:14",
-                    "likes": 0
                 }
             ]
         },
