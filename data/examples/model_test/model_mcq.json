@@ -1,6 +1,350 @@
 {
   "model_tests": [
   {
+    "model_test_id": "44",
+    "teacher_id": "11467801713",
+    "difficulty": "All",
+    "test_name": "Test 001",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-11-23",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": true,
+    "access_pin": "376365",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "খ) সফটওয়্যার",
+        "chapterId": "1",
+        "id": 1,
+        "level": "easy",
+        "options": [
+          "ক) হার্ডওয়্যার",
+          "খ) সফটওয়্যার",
+          "গ) ইন্টারনেট",
+          "ঘ) মানুষের জ্ঞান"
+        ],
+        "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 4,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডা. ফারহান শহরে অবস্থান করেও প্রত্যন্ত অঞ্চলে সরাসরি চিকিৎসা সেবা দিয়ে থাকেন। তিনি তার বন্ধুর আঁচিলের অপারেশনে নিম্নতাপমাত্রা প্রয়োগ করে চিকিৎসা করেন। প্রত্যন্ত অঞ্চলে চিকিৎসা দেওয়ার প্রক্রিয়াটি হচ্ছে \n i) ভিডিও কনফারেন্স \nii) টেলি মেডিসিন \niii) ই-মেইল"
+      },
+      {
+        "answer": "ঘ) জেনেটিক ইঞ্জিনিয়ারিং",
+        "chapterId": "1",
+        "id": 17,
+        "level": "easy",
+        "options": [
+          "ক) বায়োমেট্রিক্স",
+          "খ) রোবটিক্স",
+          "গ) ন্যানোটেকনোলজি",
+          "ঘ) জেনেটিক ইঞ্জিনিয়ারিং"
+        ],
+        "question": "মানবদেহের রোগের কারণ অনুসন্ধানে ব্যবহূত হয়—"
+      },
+      {
+        "answer": "ক) হেড মাউন্টেড ডিসপ্লে",
+        "chapterId": "1",
+        "id": 19,
+        "level": "hard",
+        "options": [
+          "ক) হেড মাউন্টেড ডিসপ্লে",
+          "খ) সিপিইউ",
+          "গ) কি-বোর্ড",
+          "ঘ) মাউস"
+        ],
+        "question": "ভার্চুয়াল রিয়ালিটির অন্যতম উপাদান কোনটি?"
+      },
+      {
+        "answer": "গ) আলোক সিগন্যাল",
+        "chapterId": "2",
+        "id": 31,
+        "level": "hard",
+        "options": [
+          "ক) ইলেকট্রিক সিগন্যাল",
+          "খ) ম্যাগনেটিক সিগন্যাল",
+          "গ) আলোক সিগন্যাল",
+          "ঘ) হাই ফ্রিকুয়েন্সি"
+        ],
+        "question": "অপটিক্যাল ফাইবারে ডেটা ট্রান্সমিট করতে ব্যবহূত হয়—"
+      },
+      {
+        "answer": "খ) 54 mbps",
+        "chapterId": "2",
+        "id": 37,
+        "level": "hard",
+        "options": [
+          "ক) 11 mbps",
+          "খ) 54 mbps",
+          "গ) 1 gbps",
+          "ঘ) 10 mbps"
+        ],
+        "question": "Wi-Fi এর ব্যান্ডউইডথ কত?"
+      },
+      {
+        "answer": "গ) (A.B)\u0027",
+        "chapterId": "3.2",
+        "id": 55,
+        "level": "hard",
+        "options": [
+          "ক) A.B",
+          "খ) A.B\u0027",
+          "গ) (A.B)\u0027",
+          "ঘ) A+B"
+        ],
+        "question": "NAND গেটের আউটপুট কোনটি?"
+      },
+      {
+        "answer": "ঘ) A+B",
+        "chapterId": "3.2",
+        "id": 59,
+        "level": "easy",
+        "options": [
+          "ক) A.B",
+          "খ) A.B\u0027",
+          "গ) (A.B)\u0027",
+          "ঘ) A+B"
+        ],
+        "question": "OR গেটের আউটপুট কোনটি?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "4",
+        "id": 78,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ অ্যাট্রিবিউট নির্ধারণ করে— \ni) ট্যাগ \nii) কন্টেন্ট \niii) এলিমেন্ট"
+      },
+      {
+        "answer": "খ) \u003cfont\u003e",
+        "chapterId": "4",
+        "id": 79,
+        "level": "hard",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003cfont\u003e",
+          "গ) \u003ca\u003e",
+          "ঘ) \u003ch1\u003e"
+        ],
+        "question": "ওয়েব পেজে টেক্সটের কালার পরিবর্তন করা যায় কোন ট্যাগের মাধ্যমে?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 84,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষা হলো— \ni) হাই-লেভেল \nii) স্ট্রাকচার্ড \niii) কেস-সেনসেটিভ"
+      },
+      {
+        "answer": "খ) 31",
+        "chapterId": "5",
+        "id": 99,
+        "level": "medium",
+        "options": [
+          "ক) 30",
+          "খ) 31",
+          "গ) 32",
+          "ঘ) 33"
+        ],
+        "question": "উদ্দীপকের S এর মান কত হবে?"
+      },
+      {
+        "answer": "খ) 3",
+        "chapterId": "5",
+        "id": 106,
+        "level": "hard",
+        "options": [
+          "ক) 2",
+          "খ) 3",
+          "গ) 4",
+          "ঘ) 10"
+        ],
+        "question": "উদ্দীপকের কোডে i \u003d\u003d 4 এর পরিবর্তে i \u003d\u003d 7 বসালে \"Good\" লেখাটি কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "গ) চার্লস কেও",
+        "chapterId": "2",
+        "id": 127,
+        "level": "hard",
+        "options": [
+          "ক) চার্লস ব্যাবেজ",
+          "খ) স্যার জগদীশ চন্দ্র বসু",
+          "গ) চার্লস কেও",
+          "ঘ) গিলেস ডি রবার্ভাল"
+        ],
+        "question": "অপটিক্যাল ফাইবার কে আবিষ্কার করেন?"
+      },
+      {
+        "answer": "খ) 253",
+        "chapterId": "3.1",
+        "id": 130,
+        "level": "hard",
+        "options": [
+          "ক) 250",
+          "খ) 251",
+          "গ) 252",
+          "ঘ) 253"
+        ],
+        "question": "হেক্সাডেসিমেল AB এর সমতুল্য অক্টাল কোনটি?"
+      },
+      {
+        "answer": "গ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 152,
+        "level": "easy",
+        "options": [
+          "ক) \u003chead\u003e",
+          "খ) \u003cbody\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "HTML ডকুমেন্টের মূল ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 153,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ ব্যবহৃত তালিকা— \ni) \u003col\u003e\nii) \u003cul\u003e\niii) \u003cdl\u003e"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "1",
+        "id": 158,
+        "level": "easy",
+        "options": [
+          "ক) পরিবেশ সংরক্ষণ",
+          "খ) খাদ্য উৎপাদন",
+          "গ) রোগ নিরাময়",
+          "ঘ) সবগুলো"
+        ],
+        "question": "জেনেটিক ইঞ্জিনিয়ারিং এর ব্যবহার—"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "2",
+        "id": 162,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডেটা ট্রান্সমিশন মোড— \ni) সিমপ্লেক্স\nii) হাফ-ডুপ্লেক্স\niii) ফুল-ডুপ্লেক্স"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "5",
+        "id": 172,
+        "level": "hard",
+        "options": [
+          "ক) int",
+          "খ) float",
+          "গ) char",
+          "ঘ) সবগুলো"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় অ্যারে ডেটা টাইপ কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 192,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষার ডেটা টাইপ— \ni) int\nii) char\niii) float"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "1",
+        "id": 194,
+        "level": "easy",
+        "options": [
+          "ক) সহজে কেনা-বেচা",
+          "খ) সময় সাশ্রয়",
+          "গ) অর্থ সাশ্রয়",
+          "ঘ) সবগুলো"
+        ],
+        "question": "ই-কমার্স এর সুবিধা কোনটি?"
+      },
+      {
+        "answer": "গ. একাধিক শর্তে",
+        "chapterId": "5",
+        "id": 211,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. এক শর্তে",
+          "খ. দুই শর্তে",
+          "গ. একাধিক শর্তে",
+          "ঘ. কোনো শর্তে না"
+        ],
+        "question": "ইফ-এলস ল্যাডার ব্যবহৃত হয়—"
+      },
+      {
+        "answer": "ক. \u003cimg\u003e",
+        "chapterId": "4",
+        "id": 216,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. \u003cimg\u003e",
+          "খ. \u003ca\u003e",
+          "গ. \u003calt\u003e",
+          "ঘ. \u003ch1\u003e"
+        ],
+        "question": "উদ্দীপকটি পড়ে ১ ও ২ নং প্রশ্নের উত্তর দাও:\nশিক্ষক তার ছাত্র-ছাত্রীদের HTML এর মাধ্যমে একটি ওয়েব পেজ তৈরি করতে বললেন। যাতে ওয়েব পেজে ব্যবহৃত ছবির Alt অ্যাট্রিবিউট ব্যবহার করে ছবি সম্পর্কিত তথ্য যোগ করা যায়।\n Alt অ্যাট্রিবিউট কোনটি?"
+      },
+      {
+        "answer": "ঘ. i, ii,iii",
+        "chapterId": "1",
+        "id": 219,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. i, ii",
+          "খ. ii, iii",
+          "গ. i, iii",
+          "ঘ. i, ii,iii"
+        ],
+        "question": "বায়োমেট্রিক্সের উপাদান— \ni. ফিঙ্গার প্রিন্ট\nii. ডিএনএ\niii. কণ্ঠস্বর"
+      }
+    ]
+  },
+  {
     "model_test_id": "43",
     "teacher_id": "11467801713",
     "difficulty": "All",
@@ -10,6 +354,8 @@
     "last_date": "2025-11-20",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -352,6 +698,8 @@
     "last_date": "2025-11-18",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -692,6 +1040,8 @@
     "last_date": "2025-11-18",
     "validity_time_minutes": 25,
     "is_allowed": true,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [
       "2027101"
     ],
@@ -1035,6 +1385,8 @@
     "last_date": "2025-11-17",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -1375,6 +1727,8 @@
     "last_date": "2025-11-30",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -1716,6 +2070,8 @@
     "last_date": "2025-10-30",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -1927,6 +2283,8 @@
     "last_date": "2026-10-21",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -2271,6 +2629,8 @@
     "last_date": "2026-10-20",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -2613,6 +2973,8 @@
     "last_date": "2026-10-19",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -2956,6 +3318,8 @@
     "last_date": "2026-10-21",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -3300,6 +3664,8 @@
     "last_date": "2026-10-14",
     "validity_time_minutes": 25,
     "is_allowed": true,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [
       "11467820261140",
       "2027101",
@@ -3517,6 +3883,8 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -3730,6 +4098,8 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": true,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [
       "11467820261140",
       "2027101",
@@ -3946,6 +4316,8 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -4290,6 +4662,8 @@
     "last_date": "2026-10-11",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -4500,6 +4874,8 @@
     "last_date": "2026-10-10",
     "validity_time_minutes": 25,
     "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [],
     "mcqs": [
       {
@@ -4710,6 +5086,8 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 5,
     "is_allowed": true,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [
       "2027101"
     ],
@@ -4921,6 +5299,8 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 25,
     "is_allowed": true,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [
       "2027101"
     ],
@@ -5263,6 +5643,8 @@
     "last_date": "2026-10-18",
     "validity_time_minutes": 15,
     "is_allowed": true,
+    "is_pin_protected": false,
+    "access_pin": "null",
     "selected_student_ids": [
       "2027101",
       "11467820261140"
