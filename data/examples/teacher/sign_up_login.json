@@ -1,6 +1,14 @@
 {
   "teachers": [
     {
+      "college_name": "Tangail Collectrorate Girls College",
+      "created_model_tests": [],
+      "eiin": "114678",
+      "mobileNo": "01551816013",
+      "name": "Mahadi Hasan",
+      "teacher_id": "11467801551816013"
+    },
+    {
       "college_name": "Gazipur govt mohila College ",
       "created_model_tests": [],
       "eiin": "273742",
