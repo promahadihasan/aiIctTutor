@@ -1,0 +1,20 @@
+{
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Mahadi Hasan",
+      "comments": [],
+      "content": "ID updted",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "Hello"
+      ],
+      "timestamp": "2025-11-16 23:44:43",
+      "title": "Post with Id"
+    }
+  ],
+  "status": "success"
+}
