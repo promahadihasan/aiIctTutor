@@ -1,0 +1,19 @@
+{
+  "message": null,
+  "status": "success",
+  "notifications": [
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Mahadi Hasan",
+      "emoji": "📝",
+      "id": "notif_1",
+      "imageUrl": "www.sunny.com",
+      "isRead": false,
+      "message": "Mahadi Hasan has created a new post",
+      "postId": "temp_id",
+      "timestamp": "2025-11-16 23:40:22",
+      "title": "New Post: Pre Test Sug",
+      "type": "post"
+    }
+  ]
+}
