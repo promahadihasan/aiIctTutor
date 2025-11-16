@@ -3,8 +3,8 @@
     {
       "college_name": "Tangail Collectrorate Girl's College ",
       "eiin": "114678",
-      "is_notification_feature_enabled": false,
-      "is_post_feature_enabled": false,
+      "is_notification_feature_enabled": true,
+      "is_post_feature_enabled": true,
       "mobileNo": "01713819046",
       "name": "Mahadi Hasan",
       "teacher_id": "11467801713819046",
