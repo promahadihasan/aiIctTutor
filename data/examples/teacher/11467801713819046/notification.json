@@ -1,0 +1,19 @@
+{
+  "message": null,
+  "status": "success",
+  "notifications": [
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Mahadi Hasan",
+      "emoji": "📝",
+      "id": "notif_1",
+      "imageUrl": null,
+      "isRead": false,
+      "message": "Mahadi Hasan has created a new post",
+      "postId": "post_1",
+      "timestamp": "2025-11-16 23:44:43",
+      "title": "New Post: Post with Id",
+      "type": "post"
+    }
+  ]
+}
