@@ -1,0 +1,21 @@
+{
+  "message": null,
+  "posts": [
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Mahadi Hasan",
+      "comments": [],
+      "content": "Read from apps",
+      "postId": "post_1",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "ICT html",
+        "C"
+      ],
+      "timestamp": "2025-11-16 23:24:46",
+      "title": "ICT HTML"
+    }
+  ],
+  "status": "success"
+}
