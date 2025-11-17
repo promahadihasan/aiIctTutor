@@ -37,7 +37,16 @@
             "tags": [
                 "ICT Tutor Android App"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "11467820261140",
+                    "postId": "post_1",
+                    "authorName": "ESRAT JAHAN TOMA ",
+                    "content": "Thanks From Toma",
+                    "timestamp": "2025-11-17 23:55:19",
+                    "likes": 0
+                }
+            ]
         }
     ],
     "status": "success",
