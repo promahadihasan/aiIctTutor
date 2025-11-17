@@ -5,22 +5,6 @@
       "teacherProfilePic": "default_url",
       "teacherName": "Mahadi Hasan",
       "comments": [],
-      "content": "Post  has dynamic feature",
-      "postId": "post_3",
-      "imageUrl": null,
-      "likes": 0,
-      "tags": [
-        "ict",
-        "html",
-        "c"
-      ],
-      "timestamp": "2025-11-17 07:09:46",
-      "title": "New Post with old post"
-    },
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Mahadi Hasan",
-      "comments": [],
       "content": "New rl",
       "postId": "post_2",
       "imageUrl": null,
