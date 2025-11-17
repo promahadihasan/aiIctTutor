@@ -5,6 +5,20 @@
       "teacherProfilePic": "default_url",
       "teacherName": "Mahadi Hasan",
       "comments": [],
+      "content": "New rl",
+      "postId": "post_2",
+      "imageUrl": null,
+      "likes": 0,
+      "tags": [
+        "ict"
+      ],
+      "timestamp": "2025-11-17 07:05:16",
+      "title": "Heloo"
+    },
+    {
+      "teacherProfilePic": "default_url",
+      "teacherName": "Mahadi Hasan",
+      "comments": [],
       "content": "ID updted",
       "postId": "post_1",
       "imageUrl": null,
