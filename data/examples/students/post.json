@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 1,
+            "likes": 2,
             "tags": [
                 "android",
                 "kotlin",
@@ -24,7 +24,6 @@
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 }
-                
             ]
         },
         {
