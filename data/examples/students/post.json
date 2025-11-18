@@ -310,7 +310,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 210,
+            "likes": 207,
             "tags": [
                 "android",
                 "kotlin",
@@ -323,7 +323,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-02 10:20:15",
-                    "likes": 27,
+                    "likes": 26,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -440,7 +440,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 125,
+            "likes": 126,
             "tags": [
                 "android",
                 "kotlin",
