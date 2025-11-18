@@ -71,6 +71,14 @@
                     "content": "Accha sir ",
                     "timestamp": "2025-11-18 20:34:57",
                     "likes": 0
+                },
+                {
+                    "id": "534e5164-966d-42d5-9f48-fb3f5e0d0acc",
+                    "postId": "post123",
+                    "authorName": "ANIKA TABASSUM KOROBI",
+                    "content": "ok sir",
+                    "timestamp": "2025-11-18 20:49:32",
+                    "likes": 0
                 }
             ]
         },
@@ -310,7 +318,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 209,
+            "likes": 208,
             "tags": [
                 "android",
                 "kotlin",
