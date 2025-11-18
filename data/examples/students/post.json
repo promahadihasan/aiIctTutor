@@ -2,13 +2,13 @@
     "posts": [
         {
             "postId": "post123",
-            "title": "তমাগ পরীক্ষা কেমন হইছে? ",
-            "content": "প্রশ্ন কি ঠিক ছিল?.",
+            "title": "নতুন এপ এ স্বাগতম ",
+            "content": "তোমরা সবাই এপ এ নোটিফিকেশন খেয়াল রাখবে। \n ক্লাস ও ল্যাব এর সব নোটিশ এখানে পাবে। \n Thank You",
             "teacherName": "Shibbir",
-            "timestamp": "2025-11-10 17:15:30",
+            "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 17,
+            "likes": 1,
             "tags": [
                 "android",
                 "kotlin",
@@ -20,66 +20,11 @@
                     "postId": "post123",
                     "authorName": "shibbir",
                     "content": "replay deo",
-                    "timestamp": "2025-11-10 17:15:30",
-                    "likes": 26,
+                    "timestamp": "2025-11-17 17:15:30",
+                    "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
-                {
-                    "id": "f3557c00-4edf-4ac4-89e0-f6d294160240",
-                    "postId": "post123",
-                    "authorName": "LAMIA KHAN JASIN ",
-                    "content": "mcq bhalo hoise but written bhalo hoi nai sir 😢",
-                    "timestamp": "2025-11-10 18:00:11",
-                    "likes": 99
-                },
-                {
-                    "id": "57a1eeea-b88e-44d7-9fa5-f36008a0afc6",
-                    "postId": "post123",
-                    "authorName": "AFIAJAHANAFRIN",
-                    "content": "mcq vlo hoise.written aro vlo korte partam.but guliye felechi shob.soto moto vul kore chole ashsi😑anyway pass in sha Allah 🙂🤧",
-                    "timestamp": "2025-11-10 19:02:23",
-                    "likes": 81
-                },
-                {
-                    "id": "b6dbf539-5ee4-4612-8e49-09785c030415",
-                    "postId": "post123",
-                    "authorName": "SAMIA AKTER",
-                    "content": "mcq valo hoice but sir written valo hoy ni sir,sob gulaiya felchi",
-                    "timestamp": "2025-11-12 17:00:39",
-                    "likes": 1
-                },
-                {
-                    "id": "de531491-9d74-4066-9894-cbc065fe9222",
-                    "postId": "post123",
-                    "authorName": "AMENA.AKTER10201@GMAIL.COM",
-                    "content": "👍",
-                    "timestamp": "2025-11-12 20:21:31",
-                    "likes": 0
-                },
-                {
-                    "id": "48bb8fab-8ca0-46fd-b0b4-6b37cf952955",
-                    "postId": "post123",
-                    "authorName": "FAHMIDA AKTER ANNI",
-                    "content": "alhamdulillah valo",
-                    "timestamp": "2025-11-12 23:08:28",
-                    "likes": 0
-                },
-                {
-                    "id": "992bdcc0-7fb6-4c56-aab5-30e092a32965",
-                    "postId": "post123",
-                    "authorName": "JANNATUL ROJA GUNGUN",
-                    "content": "alhamdulillah valo. apni eto easy question korechen ebar sir. ami onek khushi hoyechi.",
-                    "timestamp": "2025-11-13 14:05:48",
-                    "likes": 23
-                },
-                {
-                    "id": "1090302027BUSD307",
-                    "postId": "post123",
-                    "authorName": "MST.ZAKIA SULTANA",
-                    "content": "Hi sir.........",
-                    "timestamp": "2025-11-15 21:36:44",
-                    "likes": 3
-                }
+                
             ]
         },
         {
