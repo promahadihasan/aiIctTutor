@@ -3,9 +3,9 @@
     
      {
       "id": "notification1",
-      "title": "তোমাগ পরীক্ষা কেমন হইছে?",
-      "message": "2nd year!!",
-      "timestamp": "2025-11-10 17:15:30",
+      "title": "Welcome to ICT app",
+      "message": "For Honors",
+      "timestamp": "2025-11-18 17:15:30",
       "type": "post",
       "isRead": false,
       "postId": "post123",
