@@ -310,7 +310,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 207,
+            "likes": 208,
             "tags": [
                 "android",
                 "kotlin",
@@ -429,14 +429,6 @@
                     "content": "গুলাই পরবু ",
                     "timestamp": "2025-11-11 15:32:46",
                     "likes": 1
-                },
-                {
-                    "id": "69284464-cc66-4813-9927-754f5a9cd8f2",
-                    "postId": "post126",
-                    "authorName": "MARIA ",
-                    "content": "👍",
-                    "timestamp": "2025-11-18 20:37:30",
-                    "likes": 0
                 }
             ]
         },
