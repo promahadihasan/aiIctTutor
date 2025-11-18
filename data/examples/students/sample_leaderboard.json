@@ -1545,6 +1545,14 @@
       "last_updated": "2025-11-06 19:01:37"
     },
     {
+      "id": "1090302027SCID114",
+      "name": "ZINIA ISLAM",
+      "group": "SCIENCE",
+      "xp_points": 2,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-11 21:16:27"
+    },
+    {
       "id": "1090302025BUSD410",
       "name": "RIJUANA RITU",
       "group": "BUSINESS STUDIES",
@@ -1575,14 +1583,6 @@
       "xp_points": 1,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-10 19:07:21"
-    },
-    {
-      "id": "1090302027SCID114",
-      "name": "ZINIA ISLAM",
-      "group": "SCIENCE",
-      "xp_points": 1,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-11 21:16:27"
     }
   ]
 }
