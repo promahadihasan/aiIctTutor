@@ -95,6 +95,14 @@
                     "content": "ok sir",
                     "timestamp": "2025-11-18 21:59:43",
                     "likes": 12
+                },
+                {
+                    "id": "1090302025BUSM60",
+                    "postId": "post123",
+                    "authorName": "JUNUFA YEASMIN",
+                    "content": "Yes sir, Greatest App",
+                    "timestamp": "2025-11-18 22:32:19",
+                    "likes": 0
                 }
             ]
         },
