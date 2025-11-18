@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 4,
+            "likes": 3,
             "tags": [
                 "android",
                 "kotlin",
@@ -21,8 +21,16 @@
                     "authorName": "shibbir",
                     "content": "replay deo",
                     "timestamp": "2025-11-17 17:15:30",
-                    "likes": 3,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "54b0f5f9-f699-40b5-9695-6611e6d21fbd",
+                    "postId": "post123",
+                    "authorName": "SARA ISLAM PREMA",
+                    "content": "ok aie",
+                    "timestamp": "2025-11-18 17:29:09",
+                    "likes": 0
                 }
             ]
         },
