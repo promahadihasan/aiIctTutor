@@ -1,0 +1,19 @@
+{
+  "message": null,
+  "status": "success",
+  "notifications": [
+    {
+      "authorAvatar": "default_url",
+      "authorName": "Md. Shibbir Hossen",
+      "emoji": "📝",
+      "id": "notif_1",
+      "imageUrl": null,
+      "isRead": false,
+      "message": "Md. Shibbir Hossen has created a new post",
+      "postId": "post_2",
+      "timestamp": "2025-11-18 19:00:14",
+      "title": "New Post: Class Eleven",
+      "type": "post"
+    }
+  ]
+}
