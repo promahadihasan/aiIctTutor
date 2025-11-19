@@ -21,7 +21,7 @@
                     "authorName": "shibbir",
                     "content": "replay deo",
                     "timestamp": "2025-11-17 17:15:30",
-                    "likes": 20,
+                    "likes": 8,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -488,7 +488,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 131,
+            "likes": 134,
             "tags": [
                 "android",
                 "kotlin",
