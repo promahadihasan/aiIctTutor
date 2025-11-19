@@ -492,7 +492,7 @@
                     "authorName": "MORIUM ",
                     "content": "গুলাই পরবু ",
                     "timestamp": "2025-11-11 15:32:46",
-                    "likes": 3
+                    "likes": 1
                 },
                 {
                     "id": "179b5954-3572-420f-8691-2a593c41d97f",
@@ -500,6 +500,14 @@
                     "authorName": "SHARMIN AKTER RUMANA",
                     "content": "sir 1st term er kichu suggestions din plz plz",
                     "timestamp": "2025-11-18 20:39:49",
+                    "likes": 0
+                },
+                {
+                    "id": "56b41fbb-4f65-4782-b3bc-65c4acb4fd6e",
+                    "postId": "post126",
+                    "authorName": "MEHERIN MAHBUB AKHI",
+                    "content": "sir first term er exam er Jonno kisu suggestion diben plz,,,",
+                    "timestamp": "2025-11-19 22:23:56",
                     "likes": 0
                 }
             ]
