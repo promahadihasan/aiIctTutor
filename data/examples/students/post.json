@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 42,
+            "likes": 41,
             "tags": [
                 "android",
                 "kotlin",
@@ -158,14 +158,6 @@
                     "authorName": "SHOPNA RANI DAS PRITY",
                     "content": "ok sir",
                     "timestamp": "2025-11-20 13:27:50",
-                    "likes": 0
-                },
-                {
-                    "id": "029c1877-b5f7-4a86-8323-1ab10c80823c",
-                    "postId": "post123",
-                    "authorName": "ISRAT JAHAN BITHI",
-                    "content": "okay sir",
-                    "timestamp": "2025-11-20 20:48:03",
                     "likes": 0
                 }
             ]
@@ -568,7 +560,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 171,
+            "likes": 172,
             "tags": [
                 "android",
                 "kotlin",
