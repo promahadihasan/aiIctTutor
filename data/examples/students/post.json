@@ -353,7 +353,7 @@
                     "authorName": "Shibbir",
                     "content": "Reminder",
                     "timestamp": "2025-10-30 09:15:30",
-                    "likes": 38,
+                    "likes": 37,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -560,7 +560,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 170,
+            "likes": 171,
             "tags": [
                 "android",
                 "kotlin",
