@@ -1,6 +1,350 @@
 {
   "model_tests": [
   {
+    "model_test_id": "46",
+    "teacher_id": "11467801713819046",
+    "difficulty": "All",
+    "test_name": "5th chapter ",
+    "chapter_name": "5",
+    "total_questions": 25,
+    "last_date": "2025-11-27",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ক) ডেনিস রিচি",
+        "chapterId": "5",
+        "id": 83,
+        "level": "easy",
+        "options": [
+          "ক) ডেনিস রিচি",
+          "খ) বিল গেটস",
+          "গ) চার্লস ব্যাবেজ",
+          "ঘ) জন ভন নিউম্যান"
+        ],
+        "question": "C প্রোগ্রামের ভাষার জনক কে?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 84,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষা হলো— \ni) হাই-লেভেল \nii) স্ট্রাকচার্ড \niii) কেস-সেনসেটিভ"
+      },
+      {
+        "answer": "ঘ) সবকয়টি",
+        "chapterId": "5",
+        "id": 86,
+        "level": "easy",
+        "options": [
+          "ক) for",
+          "খ) while",
+          "গ) do-while",
+          "ঘ) সবকয়টি"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় ব্যবহৃত লুপ—"
+      },
+      {
+        "answer": "খ) printf()",
+        "chapterId": "5",
+        "id": 91,
+        "level": "hard",
+        "options": [
+          "ক) main()",
+          "খ) printf()",
+          "গ) return",
+          "ঘ) if"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটির জন্য হেডার ফাইল দরকার?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 93,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কন্ট্রোল স্টেটমেন্ট— \ni) if \nii) switch \niii) for"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 96,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় অ্যাসাইনমেন্ট অপারেটর— \ni) \u003d \nii) +\u003d \niii) %\u003d"
+      },
+      {
+        "answer": "খ) break",
+        "chapterId": "5",
+        "id": 97,
+        "level": "hard",
+        "options": [
+          "ক) if",
+          "খ) break",
+          "গ) continue",
+          "ঘ) switch"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি break স্টেটমেন্ট?"
+      },
+      {
+        "answer": "খ) 31",
+        "chapterId": "5",
+        "id": 99,
+        "level": "medium",
+        "options": [
+          "ক) 30",
+          "খ) 31",
+          "গ) 32",
+          "ঘ) 33"
+        ],
+        "question": "উদ্দীপকের S এর মান কত হবে?"
+      },
+      {
+        "answer": "খ) 21",
+        "chapterId": "5",
+        "id": 100,
+        "level": "hard",
+        "options": [
+          "ক) 20",
+          "খ) 21",
+          "গ) 22",
+          "ঘ) 23"
+        ],
+        "question": "উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও: \n #include \u003cstdio.h\u003e\n int main()\n {\n int x \u003d 10;\n x +\u003d 10;\n x++;\n printf(\"%d\", x);\n } \n উদ্দীপকের আউটপুট কত হবে?"
+      },
+      {
+        "answer": "ক) x \u003d x + 1",
+        "chapterId": "5",
+        "id": 102,
+        "level": "medium",
+        "options": [
+          "ক) x \u003d x + 1",
+          "খ) x \u003d x - 1",
+          "গ) x \u003d x * 1",
+          "ঘ) x \u003d x / 1"
+        ],
+        "question": "উদ্দীপকের x++; এর সমতুল্য কোনটি?"
+      },
+      {
+        "answer": "খ) 31",
+        "chapterId": "5",
+        "id": 103,
+        "level": "hard",
+        "options": [
+          "ক) 30",
+          "খ) 31",
+          "গ) 32",
+          "ঘ) 33"
+        ],
+        "question": "উদ্দীপকের x \u003d 10; এর পরিবর্তে y \u003d 20; হলে আউটপুট কত হবে?"
+      },
+      {
+        "answer": "গ) 9",
+        "chapterId": "5",
+        "id": 105,
+        "level": "medium",
+        "options": [
+          "ক) 4",
+          "খ) 5",
+          "গ) 9",
+          "ঘ) 10"
+        ],
+        "question": "উদ্দীপকের কোডে \"i +\u003d 3\" এর পরিবর্তে \"i++\" বসালে \"Good\" লেখাটি কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "খ) 3",
+        "chapterId": "5",
+        "id": 106,
+        "level": "hard",
+        "options": [
+          "ক) 2",
+          "খ) 3",
+          "গ) 4",
+          "ঘ) 10"
+        ],
+        "question": "উদ্দীপকের কোডে i \u003d\u003d 4 এর পরিবর্তে i \u003d\u003d 7 বসালে \"Good\" লেখাটি কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "খ) \u003cstdio.h\u003e",
+        "chapterId": "5",
+        "id": 134,
+        "level": "easy",
+        "options": [
+          "ক) #include",
+          "খ) \u003cstdio.h\u003e",
+          "গ) int main()",
+          "ঘ) printf()"
+        ],
+        "question": "C প্রোগ্রামের ভাষার হেডার ফাইল কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 135,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষার ডেটা টাইপ— \ni) int\nii) char\niii) float"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "5",
+        "id": 156,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় লুপ ব্যবহার করা হয়— \ni) পুনরাবৃত্তি\nii) শর্ত\niii) অ্যারে"
+      },
+      {
+        "answer": "গ) \u003e",
+        "chapterId": "5",
+        "id": 157,
+        "level": "hard",
+        "options": [
+          "ক) +",
+          "খ) \u0026\u0026",
+          "গ) \u003e",
+          "ঘ) \u003d"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি সম্পর্কীয় অপারেটর?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "5",
+        "id": 171,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কন্ডিশনাল কন্ট্রোল স্টেটমেন্ট— \ni) if\nii) switch\niii) for"
+      },
+      {
+        "answer": "গ) for",
+        "chapterId": "5",
+        "id": 193,
+        "level": "hard",
+        "options": [
+          "ক) if",
+          "খ) switch",
+          "গ) for",
+          "ঘ) goto"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি লুপ স্টেটমেন্ট?"
+      },
+      {
+        "answer": "গ) \u003e",
+        "chapterId": "5",
+        "id": 209,
+        "level": "hard",
+        "options": [
+          "ক) +",
+          "খ) \u0026\u0026",
+          "গ) \u003e",
+          "ঘ) \u003d"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি সম্পর্কীয় অপারেটর?"
+      },
+      {
+        "answer": "ঘ. \u003cmath.h\u003e",
+        "chapterId": "5",
+        "id": 210,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. \u003cstdio.h\u003e",
+          "খ. \u003cconio.h\u003e",
+          "গ. \u003cstring.h\u003e",
+          "ঘ. \u003cmath.h\u003e"
+        ],
+        "question": "sqrt() জন্য প্রয়োজনীয় হেডার ফাইল ?"
+      },
+      {
+        "answer": "গ. একাধিক শর্তে",
+        "chapterId": "5",
+        "id": 211,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. এক শর্তে",
+          "খ. দুই শর্তে",
+          "গ. একাধিক শর্তে",
+          "ঘ. কোনো শর্তে না"
+        ],
+        "question": "ইফ-এলস ল্যাডার ব্যবহৃত হয়—"
+      },
+      {
+        "answer": "ঘ. সবগুলো",
+        "chapterId": "5",
+        "id": 227,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. int",
+          "খ. float",
+          "গ. char",
+          "ঘ. সবগুলো"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি অ্যারে ডেটা টাইপ?"
+      },
+      {
+        "answer": "ঘ. -5",
+        "chapterId": "5",
+        "id": 239,
+        "imageUrl": "",
+        "options": [
+          "ক. 5",
+          "খ. 10",
+          "গ. 15",
+          "ঘ. -5"
+        ],
+        "question": "#include \u003cstdio.h\u003e\nint main()\n{\n int x \u003d 5, y \u003d 10;\n if (x \u003e y)\n {\n x \u003d x + y;\n }\n else\n {\n y \u003d x - y;\n }\n printf(\"%d\", y);\n}\nউদ্দীপকের আউটপুট কত হবে?"
+      },
+      {
+        "answer": "ক. 5",
+        "chapterId": "5",
+        "id": 240,
+        "imageUrl": "",
+        "options": [
+          "ক. 5",
+          "খ. 10",
+          "গ. 15",
+          "ঘ. -5"
+        ],
+        "question": "উদ্দীপকে x এর মান কত হবে?"
+      }
+    ]
+  },
+  {
     "model_test_id": "45",
     "teacher_id": "11467801713819046",
     "difficulty": "All",
