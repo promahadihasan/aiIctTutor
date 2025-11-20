@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 40,
+            "likes": 39,
             "tags": [
                 "android",
                 "kotlin",
@@ -137,11 +137,11 @@
                     "likes": 0
                 },
                 {
-                    "id": "54bcb404-24fc-48cc-a0eb-110a26ef8cf5",
+                    "id": "101ea6f3-915e-4b38-8f05-9c56807ba7ac",
                     "postId": "post123",
-                    "authorName": "SHALA AKTTER KHAN MUNIA",
-                    "content": "okay Sir ",
-                    "timestamp": "2025-11-20 11:31:16",
+                    "authorName": "MORIUM ",
+                    "content": "ok Sir ",
+                    "timestamp": "2025-11-20 11:31:55",
                     "likes": 0
                 }
             ]
