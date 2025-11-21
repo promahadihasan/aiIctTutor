@@ -1,6 +1,348 @@
 {
   "model_tests": [
   {
+    "model_test_id": "49",
+    "teacher_id": "11467801713819046",
+    "difficulty": "All",
+    "test_name": "Pin 529863",
+    "chapter_name": "2 + 3 + 3.1 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-29",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": true,
+    "access_pin": "529863",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ক) সিমপ্লেক্স",
+        "chapterId": "2",
+        "id": 25,
+        "level": "hard",
+        "options": [
+          "ক) সিমপ্লেক্স",
+          "খ) হাফ-ডুপ্লেক্স",
+          "গ) ফুল-ডুপ্লেক্স",
+          "ঘ) মাল্টিপ্লেক্স"
+        ],
+        "question": "টেলিভিশন সম্প্রচারে ব্যবহূত হয় কোন মোড?"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 30,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "অপটিক্যাল ফাইবারের সুবিধা—\ni) উচ্চগতি \nii) বিদ্যুৎ চৌম্বকীয় প্রভাবমুক্ত \niii) কম ব্যয়"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 39,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "টুইস্টেড পেয়ার ক্যাবলের সুবিধা— \ni) কম ব্যয় \nii) ইনস্টল সহজ \niii) উচ্চগতি"
+      },
+      {
+        "answer": "ক) \u003cbody\u003e",
+        "chapterId": "4",
+        "id": 77,
+        "level": "easy",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "ওয়েব পেজের বডিতে ব্যবহৃত হয়—"
+      },
+      {
+        "answer": "ক) ডেনিস রিচি",
+        "chapterId": "5",
+        "id": 83,
+        "level": "easy",
+        "options": [
+          "ক) ডেনিস রিচি",
+          "খ) বিল গেটস",
+          "গ) চার্লস ব্যাবেজ",
+          "ঘ) জন ভন নিউম্যান"
+        ],
+        "question": "C প্রোগ্রামের ভাষার জনক কে?"
+      },
+      {
+        "answer": "ঘ) সবকয়টি",
+        "chapterId": "5",
+        "id": 86,
+        "level": "easy",
+        "options": [
+          "ক) for",
+          "খ) while",
+          "গ) do-while",
+          "ঘ) সবকয়টি"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় ব্যবহৃত লুপ—"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 96,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় অ্যাসাইনমেন্ট অপারেটর— \ni) \u003d \nii) +\u003d \niii) %\u003d"
+      },
+      {
+        "answer": "খ) break",
+        "chapterId": "5",
+        "id": 97,
+        "level": "hard",
+        "options": [
+          "ক) if",
+          "খ) break",
+          "গ) continue",
+          "ঘ) switch"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি break স্টেটমেন্ট?"
+      },
+      {
+        "answer": "খ) 21",
+        "chapterId": "5",
+        "id": 100,
+        "level": "hard",
+        "options": [
+          "ক) 20",
+          "খ) 21",
+          "গ) 22",
+          "ঘ) 23"
+        ],
+        "question": "উদ্দীপকটি পড়ে প্রশ্নগুলোর উত্তর দাও: \n #include \u003cstdio.h\u003e\n int main()\n {\n int x \u003d 10;\n x +\u003d 10;\n x++;\n printf(\"%d\", x);\n } \n উদ্দীপকের আউটপুট কত হবে?"
+      },
+      {
+        "answer": "খ) 3",
+        "chapterId": "5",
+        "id": 106,
+        "level": "hard",
+        "options": [
+          "ক) 2",
+          "খ) 3",
+          "গ) 4",
+          "ঘ) 10"
+        ],
+        "question": "উদ্দীপকের কোডে i \u003d\u003d 4 এর পরিবর্তে i \u003d\u003d 7 বসালে \"Good\" লেখাটি কতবার প্রদর্শিত হবে?"
+      },
+      {
+        "answer": "খ) 13",
+        "chapterId": "3.1",
+        "id": 113,
+        "level": "easy",
+        "options": [
+          "ক) 12",
+          "খ) 13",
+          "গ) 14",
+          "ঘ) 15"
+        ],
+        "question": "বাইনারি 1101 এর সমতুল্য দশমিক কোনটি?"
+      },
+      {
+        "answer": "ক) 1111.10",
+        "chapterId": "3.1",
+        "id": 115,
+        "level": "hard",
+        "options": [
+          "ক) 1111.10",
+          "খ) 1111.01",
+          "গ) 1111.11",
+          "ঘ) 1111.00"
+        ],
+        "question": "দশমিক 15.5 এর বাইনারি কোনটি?"
+      },
+      {
+        "answer": "ঘ) মডেম",
+        "chapterId": "2",
+        "id": 116,
+        "level": "easy",
+        "options": [
+          "ক) হাব",
+          "খ) সুইচ",
+          "গ) রাউটার",
+          "ঘ) মডেম"
+        ],
+        "question": "কোন ডিভাইস অ্যানালগ সিগনালকে ডিজিটাল সিগনালে রূপান্তর করে?"
+      },
+      {
+        "answer": "গ) LAN",
+        "chapterId": "2",
+        "id": 125,
+        "level": "easy",
+        "options": [
+          "ক) WAN",
+          "খ) MAN",
+          "গ) LAN",
+          "ঘ) PAN"
+        ],
+        "question": "10 BASE-2 ব্যবহৃত হয় কোন ধরনের নেটওয়ার্কে?"
+      },
+      {
+        "answer": "খ) 53",
+        "chapterId": "3.1",
+        "id": 143,
+        "level": "easy",
+        "options": [
+          "ক) 50",
+          "খ) 53",
+          "গ) 55",
+          "ঘ) 57"
+        ],
+        "question": "বাইনারি 110101 এর সমতুল্য দশমিক কোনটি?"
+      },
+      {
+        "answer": "গ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 152,
+        "level": "easy",
+        "options": [
+          "ক) \u003chead\u003e",
+          "খ) \u003cbody\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "HTML ডকুমেন্টের মূল ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ক) 10m",
+        "chapterId": "2",
+        "id": 161,
+        "level": "easy",
+        "options": [
+          "ক) 10m",
+          "খ) 20m",
+          "গ) 30m",
+          "ঘ) 100m"
+        ],
+        "question": "ব্লুটুথ কত দূরত্বে কাজ করে?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "2",
+        "id": 162,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডেটা ট্রান্সমিশন মোড— \ni) সিমপ্লেক্স\nii) হাফ-ডুপ্লেক্স\niii) ফুল-ডুপ্লেক্স"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "2",
+        "id": 174,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডেটা কমিউনিকেশনের হার্ডওয়্যার— \ni) মডেম\nii) কেবল\niii) রাউটার"
+      },
+      {
+        "answer": "গ) \u003chtml\u003e",
+        "chapterId": "4",
+        "id": 176,
+        "level": "easy",
+        "options": [
+          "ক) \u003chead\u003e",
+          "খ) \u003cbody\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "ওয়েব পেজের কাঠামো তৈরি করতে ব্যবহৃত হয় কোন ট্যাগ?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 178,
+        "level": "hard",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "\u003cimg\u003e ট্যাগে ব্যবহূত অ্যাট্রিবিউট— \ni) src\nii) alt\niii) title"
+      },
+      {
+        "answer": "গ) LAN",
+        "chapterId": "2",
+        "id": 197,
+        "level": "easy",
+        "options": [
+          "ক) WAN",
+          "খ) MAN",
+          "গ) LAN",
+          "ঘ) PAN"
+        ],
+        "question": "10 BASE-2 ব্যবহৃত হয় কোন ধরনের নেটওয়ার্কে?"
+      },
+      {
+        "answer": "গ) \u003e",
+        "chapterId": "5",
+        "id": 209,
+        "level": "hard",
+        "options": [
+          "ক) +",
+          "খ) \u0026\u0026",
+          "গ) \u003e",
+          "ঘ) \u003d"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটি সম্পর্কীয় অপারেটর?"
+      },
+      {
+        "answer": "গ. একাধিক শর্তে",
+        "chapterId": "5",
+        "id": 211,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক. এক শর্তে",
+          "খ. দুই শর্তে",
+          "গ. একাধিক শর্তে",
+          "ঘ. কোনো শর্তে না"
+        ],
+        "question": "ইফ-এলস ল্যাডার ব্যবহৃত হয়—"
+      },
+      {
+        "answer": "ক. সিমপ্লেক্স",
+        "chapterId": "2",
+        "id": 232,
+        "imageUrl": "",
+        "options": [
+          "ক. সিমপ্লেক্স",
+          "খ. হাফ-ডুপ্লেক্স",
+          "গ. ফুল-ডুপ্লেক্স",
+          "ঘ. অ্যাসিনক্রোনাস"
+        ],
+        "question": "উদ্দীপকে ব্যবহৃত ডেটা মোড কোনটি?"
+      }
+    ]
+  },
+  {
     "model_test_id": "48",
     "teacher_id": "11467801713819046",
     "difficulty": "All",
