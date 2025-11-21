@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 44,
+            "likes": 43,
             "tags": [
                 "android",
                 "kotlin",
@@ -742,6 +742,14 @@
                     "authorName": "ISRAT JAHAN BITHI",
                     "content": "nobin boron January te hobe🙂",
                     "timestamp": "2025-11-20 20:49:08",
+                    "likes": 0
+                },
+                {
+                    "id": "9d5c0da1-ed71-49a0-8967-c5fa7ade6b09",
+                    "postId": "post127",
+                    "authorName": "RAJOSSRE BARAI ",
+                    "content": " sir competition e  gaan e ki  rabindrasangit alada nazrul sangit alada ",
+                    "timestamp": "2025-11-21 20:18:54",
                     "likes": 0
                 }
             ]
