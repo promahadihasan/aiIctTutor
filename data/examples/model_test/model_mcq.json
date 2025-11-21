@@ -1,6 +1,347 @@
 {
   "model_tests": [
   {
+    "model_test_id": "50",
+    "teacher_id": "11467801713819046",
+    "difficulty": "All",
+    "test_name": "ADD ",
+    "chapter_name": "All Chapters",
+    "total_questions": 25,
+    "last_date": "2025-11-29",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": true,
+    "access_pin": "764119",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ঘ) সবকয়টি",
+        "chapterId": "1",
+        "id": 13,
+        "level": "hard",
+        "options": [
+          "ক) কার্বন ডাই-অক্সাইড",
+          "খ) নাইট্রাস অক্সাইড",
+          "গ) তরল নাইট্রোজেন",
+          "ঘ) সবকয়টি"
+        ],
+        "question": "ক্রায়োসার্জারিতে ব্যবহূত ক্রায়োজেনিক এজেন্ট কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 15,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "আউটসোর্সিং এর সুবিধা— \ni) কম খরচে কাজ করানো \nii) দ্রুত কাজ সম্পন্ন করা \niii) দেশি-বিদেশী কর্মসংস্থান"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "1",
+        "id": 18,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডিএনএ-এর উপাদান হলো— \ni) জিন \nii) ক্রোমোসোম \niii) নিউক্লিয়াস"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "2",
+        "id": 30,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "অপটিক্যাল ফাইবারের সুবিধা—\ni) উচ্চগতি \nii) বিদ্যুৎ চৌম্বকীয় প্রভাবমুক্ত \niii) কম ব্যয়"
+      },
+      {
+        "answer": "খ) 54 mbps",
+        "chapterId": "2",
+        "id": 37,
+        "level": "hard",
+        "options": [
+          "ক) 11 mbps",
+          "খ) 54 mbps",
+          "গ) 1 gbps",
+          "ঘ) 10 mbps"
+        ],
+        "question": "Wi-Fi এর ব্যান্ডউইডথ কত?"
+      },
+      {
+        "answer": "গ) ৫",
+        "chapterId": "2",
+        "id": 38,
+        "level": "easy",
+        "options": [
+          "ক) ৩",
+          "খ) ৪",
+          "গ) ৫",
+          "ঘ) ৬"
+        ],
+        "question": "ডেটা কমিউনিকেশনের মৌলিক উপাদান কয়টি?"
+      },
+      {
+        "answer": "ক) 1000101",
+        "chapterId": "3.1",
+        "id": 41,
+        "level": "easy",
+        "options": [
+          "ক) 1000101",
+          "খ) 1010001",
+          "গ) 1010101",
+          "ঘ) 1100101"
+        ],
+        "question": "(85)₁₀ \u003d (x)₂ হলে x এর মান কত?"
+      },
+      {
+        "answer": "ক) ১",
+        "chapterId": "3.2",
+        "id": 56,
+        "level": "easy",
+        "options": [
+          "ক) ১",
+          "খ) ২",
+          "গ) ৩",
+          "ঘ) ৪"
+        ],
+        "question": "XNOR গেটে ইনপুট দুটি হলে আউটপুট কতটি?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "3.2",
+        "id": 60,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "যৌগিক গেট হলো— \ni) NAND \nii) NOR \niii) XOR"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "3.2",
+        "id": 63,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ডি-মরগ্যান এর উপপাদ্য— \ni) (A.B)\u0027 \u003d A\u0027+B\u0027 \nii) (A+B)\u0027 \u003d A\u0027.B\u0027 \niii) A\u0027+B\u0027 \u003d A.B\u0027"
+      },
+      {
+        "answer": "ক) i, ii",
+        "chapterId": "4",
+        "id": 69,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ ট্যাগের প্রকারভেদ— \ni) কন্টেইনার \nii) এম্পটি \niii) সিঙ্গেল"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "4",
+        "id": 75,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "HTML এ ব্যবহৃত টেক্সট ফরমেটিং ট্যাগ— \ni) \u003cb\u003e \nii) \u003ci\u003e \niii) \u003cu\u003e"
+      },
+      {
+        "answer": "ক) \u003cbody\u003e",
+        "chapterId": "4",
+        "id": 77,
+        "level": "easy",
+        "options": [
+          "ক) \u003cbody\u003e",
+          "খ) \u003chead\u003e",
+          "গ) \u003chtml\u003e",
+          "ঘ) \u003ctitle\u003e"
+        ],
+        "question": "ওয়েব পেজের বডিতে ব্যবহৃত হয়—"
+      },
+      {
+        "answer": "খ) printf()",
+        "chapterId": "5",
+        "id": 91,
+        "level": "hard",
+        "options": [
+          "ক) main()",
+          "খ) printf()",
+          "গ) return",
+          "ঘ) if"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় কোনটির জন্য হেডার ফাইল দরকার?"
+      },
+      {
+        "answer": "ঘ) ক ও খ",
+        "chapterId": "5",
+        "id": 95,
+        "level": "easy",
+        "options": [
+          "ক) ইনপুট",
+          "খ) আউটপুট",
+          "গ) প্রসেস",
+          "ঘ) ক ও খ"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় \u003cstdio.h\u003e হেডার ফাইলের কাজ কী?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "5",
+        "id": 96,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "C প্রোগ্রামের ভাষায় অ্যাসাইনমেন্ট অপারেটর— \ni) \u003d \nii) +\u003d \niii) %\u003d"
+      },
+      {
+        "answer": "খ) 253",
+        "chapterId": "3.1",
+        "id": 130,
+        "level": "hard",
+        "options": [
+          "ক) 250",
+          "খ) 251",
+          "গ) 252",
+          "ঘ) 253"
+        ],
+        "question": "হেক্সাডেসিমেল AB এর সমতুল্য অক্টাল কোনটি?"
+      },
+      {
+        "answer": "গ) ৩টি",
+        "chapterId": "3.2",
+        "id": 151,
+        "level": "hard",
+        "options": [
+          "ক) ১টি",
+          "খ) ২টি",
+          "গ) ৩টি",
+          "ঘ) ৪টি"
+        ],
+        "question": "NOR গেট দ্বারা AND গেট তৈরি করতে কয়টি গেট প্রয়োজন?"
+      },
+      {
+        "answer": "ঘ) i, ii,iii",
+        "chapterId": "1",
+        "id": 159,
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "ক্রায়োসার্জারিতে ব্যবহৃত হয়— \ni) তরল নাইট্রোজেন\nii) নাইট্রাস অক্সাইড\niii) আর্গন"
+      },
+      {
+        "answer": "গ) LAN",
+        "chapterId": "2",
+        "id": 182,
+        "level": "easy",
+        "options": [
+          "ক) WAN",
+          "খ) MAN",
+          "গ) LAN",
+          "ঘ) PAN"
+        ],
+        "question": "10 BASE-2 ব্যবহৃত হয় কোন ধরনের নেটওয়ার্কে?"
+      },
+      {
+        "answer": "খ) 253",
+        "chapterId": "3.1",
+        "id": 187,
+        "level": "hard",
+        "options": [
+          "ক) 250",
+          "খ) 251",
+          "গ) 252",
+          "ঘ) 253"
+        ],
+        "question": "হেক্সাডেসিমেল AB এর সমতুল্য অক্টাল কোনটি?"
+      },
+      {
+        "answer": "ঘ) সবগুলো",
+        "chapterId": "1",
+        "id": 194,
+        "level": "easy",
+        "options": [
+          "ক) সহজে কেনা-বেচা",
+          "খ) সময় সাশ্রয়",
+          "গ) অর্থ সাশ্রয়",
+          "ঘ) সবগুলো"
+        ],
+        "question": "ই-কমার্স এর সুবিধা কোনটি?"
+      },
+      {
+        "answer": "খ. 010010",
+        "chapterId": "3",
+        "id": 228,
+        "imageUrl": "https://raw.githubusercontent.com/promahadihasan/aiIctTutor/refs/heads/main/students/assets/images/sunny.png",
+        "options": [
+          "ক. 101100",
+          "খ. 010010",
+          "গ. 101000",
+          "ঘ. 101111"
+        ],
+        "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?"
+      },
+      {
+        "answer": "খ. বাণিজ্যিক",
+        "chapterId": "4",
+        "id": 230,
+        "imageUrl": "",
+        "options": [
+          "ক. শিক্ষা",
+          "খ. বাণিজ্যিক",
+          "গ. সরকারি",
+          "ঘ. আন্তর্জাতিক"
+        ],
+        "question": "কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?"
+      },
+      {
+        "answer": "ঘ. i, ii,iii",
+        "chapterId": "2",
+        "id": 236,
+        "imageUrl": "",
+        "options": [
+          "ক. i, ii",
+          "খ. ii, iii",
+          "গ. i, iii",
+          "ঘ. i, ii,iii"
+        ],
+        "question": "উদ্দীপকে বর্ণিত ডিভাইসটির সুবিধা—\ni.Collision (সংঘর্ষ) হয় না\nii. ডেটা ফিল্টারিং করা যায়\niii. ডেটা দ্রুত পাঠানো যায়"
+      }
+    ]
+  },
+  {
     "model_test_id": "49",
     "teacher_id": "11467801713819046",
     "difficulty": "All",
