@@ -191,6 +191,14 @@
                     "content": "okay sir ",
                     "timestamp": "2025-11-21 19:30:56",
                     "likes": 0
+                },
+                {
+                    "id": "21df9f72-ae71-421a-80bc-cce6a43092c1",
+                    "postId": "post123",
+                    "authorName": "SAYMA ISLAM TONIHA",
+                    "content": "OK sir",
+                    "timestamp": "2025-11-22 08:36:34",
+                    "likes": 0
                 }
             ]
         },
@@ -430,7 +438,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 211,
+            "likes": 210,
             "tags": [
                 "android",
                 "kotlin",
@@ -443,7 +451,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-02 10:20:15",
-                    "likes": 28,
+                    "likes": 27,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
