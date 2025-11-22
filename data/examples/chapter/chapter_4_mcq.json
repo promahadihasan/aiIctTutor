@@ -1,654 +1,1687 @@
 {
-   "mcqs":[
-  {
-    "id": 1,
-    "question": "HTML-এর জনক কে?",
-    "options": [
-      "ক) টিম বার্নার্স-লি",
-      "খ) বিল গেটস",
-      "গ) মার্ক জাকারবার্গ",
-      "ঘ) স্টিফেন হকিং"
-    ],
-    "answer": "ক) টিম বার্নার্স-লি",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 2,
-    "question": "একটি ওয়েবসাইটের রুট ফোল্ডারে প্রধান পেজটির নাম কী রাখা হয়?",
-    "options": [
-      "ক) main.html",
-      "খ) index.html",
-      "গ) root.html",
-      "ঘ) home.html"
-    ],
-    "answer": "খ) index.html",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 3,
-    "question": "HTML ডকুমেন্টকে সংরক্ষণের জন্য ফাইল এক্সটেনশন কোনটি?",
-    "options": [
-      "ক) .txt",
-      "খ) .htm",
-      "গ) .doc",
-      "ঘ) .pdf"
-    ],
-    "answer": "খ) .htm",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 4,
-    "question": "`<hr>` ট্যাগটি কী ধরনের ট্যাগ?",
-    "options": [
-      "ক) কন্টেইনার",
-      "খ) এমটি",
-      "গ) পেয়ার",
-      "ঘ) ক্লোজিং"
-    ],
-    "answer": "খ) এমটি",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 5,
-    "question": "কোন ট্যাগ ব্যবহার করে নতুন লাইনে যাওয়া যায়?",
-    "options": [
-      "ক) `<p>`",
-      "খ) `<br>`",
-      "গ) `<h1>`",
-      "ঘ) `<hr>`"
-    ],
-    "answer": "খ) `<br>`",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 6,
-    "question": "ওয়েবসাইটকে ইন্টারনেট এ প্রকাশ করার প্রক্রিয়াকে কী বলে?",
-    "options": [
-      "ক) ডোমেইন রেজিস্ট্রেশন",
-      "খ) ওয়েব হোস্টিং",
-      "গ) ওয়েব ডেভেলপমেন্ট",
-      "ঘ) নেস্টিং"
-    ],
-    "answer": "খ) ওয়েব হোস্টিং",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 7,
-    "question": "হাইপারলিঙ্ক তৈরি করতে কোন অ্যাট্রিবিউট ব্যবহার করা হয়?",
-    "options": [
-      "ক) src",
-      "খ) alt",
-      "গ) href",
-      "ঘ) link"
-    ],
-    "answer": "গ) href",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 8,
-    "question": "ফন্ট সাইজ সবচেয়ে বড় করতে কোন ট্যাগ ব্যবহার করা হয়?",
-    "options": [
-      "ক) `<h1>`",
-      "খ) `<h7>`",
-      "গ) `<p>`",
-      "ঘ) `<big>`"
-    ],
-    "answer": "ক) `<h1>`",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 9,
-    "question": "কোন ট্যাগ ব্যবহার করে একটি টেবিল ডেটা সেল মার্জ করা হয়?",
-    "options": [
-      "ক) mergecell",
-      "খ) rowspan",
-      "গ) colspan",
-      "ঘ) both rowspan and colspan"
-    ],
-    "answer": "খ) rowspan",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 10,
-    "question": "CSS এর পূর্ণরূপ কী?",
-    "options": [
-      "ক) Computer Style Sheet",
-      "খ) Cascading Style System",
-      "গ) Cascading Style Sheet",
-      "ঘ) Control Style Sheet"
-    ],
-    "answer": "গ) Cascading Style Sheet",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 11,
-    "question": "`<marquee>` ট্যাগ কোন ধরনের ট্যাগ?",
-    "options": [
-      "ক) কন্টেইনার ট্যাগ",
-      "খ) এমটি ট্যাগ",
-      "গ) লজিক্যাল ট্যাগ",
-      "ঘ) ফরম্যাটিং ট্যাগ"
-    ],
-    "answer": "ক) কন্টেইনার ট্যাগ",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 12,
-    "question": "ডেটাবেস সার্ভারে ডেটা সংরক্ষণের জন্য কোন ট্যাগ ব্যবহৃত হয়?",
-    "options": [
-      "ক) `<form>`",
-      "খ) `<input>`",
-      "গ) `<button>`",
-      "ঘ) `<textarea>`"
-    ],
-    "answer": "ক) `<form>`",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 13,
-    "question": "একটি ওয়েবসাইটে চিত্র প্রদর্শনের জন্য কোন ট্যাগ ব্যবহৃত হয়?",
-    "options": [
-      "ক) `<image>`",
-      "খ) `<pic>`",
-      "গ) `<img>`",
-      "ঘ) `<photo>`"
-    ],
-    "answer": "গ) `<img>`",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 14,
-    "question": "HTML এ কোনো লেখা বোল্ড করার জন্য সঠিক ট্যাগ কোনটি?",
-    "options": [
-      "ক) `<bold>`",
-      "খ) `<b>`",
-      "গ) `<bg>`",
-      "ঘ) `<bld>`"
-    ],
-    "answer": "খ) `<b>`",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 15,
-    "question": "HTML ডকুমেন্টের শিরোনাম সেট করতে কোন ট্যাগ ব্যবহার করা হয়?",
-    "options": [
-      "ক) `<head>`",
-      "খ) `<body>`",
-      "গ) `<title>`",
-      "ঘ) `<header>`"
-    ],
-    "answer": "গ) `<title>`",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 16,
-    "question": "ওয়েবসাইট দেখতে কোন সফটওয়্যার ব্যবহৃত হয়?",
-    "options": [
-      "ক) টেক্সট এডিটর",
-      "খ) অপারেটিং সিস্টেম",
-      "গ) ওয়েব ব্রাউজার",
-      "ঘ) কম্পাইলার"
-    ],
-    "answer": "গ) ওয়েব ব্রাউজার",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 17,
-    "question": "`bgcolor` অ্যাট্রিবিউট ব্যবহার করা হয় কিসের জন্য?",
-    "options": [
-      "ক) টেক্সটের রঙ",
-      "খ) ছবির ব্যাকগ্রাউন্ড",
-      "গ) পেজের ব্যাকগ্রাউন্ড রঙ",
-      "ঘ) লিংকের রঙ"
-    ],
-    "answer": "গ) পেজের ব্যাকগ্রাউন্ড রঙ",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 18,
-    "question": "`border=\"0\"` অ্যাট্রিবিউট কোথায় ব্যবহৃত হয়?",
-    "options": [
-      "ক) `<table border=\"0\">`",
-      "খ) `<p border=\"0\">`",
-      "গ) `<img> border=\"0\">`",
-      "ঘ) `<a> border=\"0\">`"
-    ],
-    "answer": "ক) `<table border=\"0\">`",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 19,
-    "question": "`<ol>` ট্যাগের `type` অ্যাট্রিবিউটের ডিফল্ট ভ্যালু কত?",
-    "options": [
-      "ক) A",
-      "খ) a",
-      "গ) I",
-      "ঘ) 1"
-    ],
-    "answer": "ঘ) 1",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 20,
-    "question": "IP Address এ মোট কয়টি বিট থাকে?",
-    "options": [
-      "ক) 16",
-      "খ) 32",
-      "গ) 64",
-      "ঘ) 128"
-    ],
-    "answer": "খ) 32",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 21,
-    "question": "ওয়েবসাইট কাঠামো কত প্রকার?",
-    "options": [
-      "ক) ২",
-      "খ) ৩",
-      "গ) ৪",
-      "ঘ) ৫"
-    ],
-    "answer": "গ) ৪",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 22,
-    "question": "কোনটি ইউজার ইন্টারফেস তৈরিতে ব্যবহৃত হয়?",
-    "options": [
-      "ক) Java",
-      "খ) Python",
-      "গ) HTML",
-      "ঘ) SQL"
-    ],
-    "answer": "গ) HTML",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 23,
-    "question": "`<a href=\"page.html\">Link</a>` এ `page.html` কী নির্দেশ করে?",
-    "options": [
-      "ক) ডোমেইন নাম",
-      "খ) ফাইল পাথ",
-      "গ) প্রটোকল",
-      "ঘ) সার্ভার নাম"
-    ],
-    "answer": "খ) ফাইল পাথ",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 24,
-    "question": "টেবিলের প্রস্থ নির্ধারণ করতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
-    "options": [
-      "ক) height",
-      "খ) width",
-      "গ) size",
-      "ঘ) space"
-    ],
-    "answer": "খ) width",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 25,
-    "question": "`<th colspan=\"2\">` বলতে কী বোঝায়?",
-    "options": [
-      "ক) ২টি রো মার্জ",
-      "খ) ২টি কলাম মার্জ",
-      "গ) ২টি টেবিল",
-      "ঘ) ২টি সেল"
-    ],
-    "answer": "খ) ২টি কলাম মার্জ",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 26,
-    "question": "IPV6 এ কত বিট ব্যবহৃত হয়?",
-    "options": [
-      "ক) 32",
-      "খ) 64",
-      "গ) 128",
-      "ঘ) 256"
-    ],
-    "answer": "গ) 128",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 27,
-    "question": "কোন ধরনের ওয়েবসাইট কাঠামোতে সকল পেজ হোমপেজের সাথে যুক্ত থাকে?",
-    "options": [
-      "ক) লিনিয়ার",
-      "খ) হাইব্রিড",
-      "গ) হায়ারারকিক্যাল",
-      "ঘ) নেটওয়ার্ক"
-    ],
-    "answer": "গ) হায়ারারকিক্যাল",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 28,
-    "question": "ওয়েবসাইট তৈরির ভাষা কোনটি?",
-    "options": [
-      "ক) Java",
-      "খ) HTML",
-      "গ) C++",
-      "ঘ) Python"
-    ],
-    "answer": "খ) HTML",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 29,
-    "question": "`<p>` ট্যাগের অ্যালাইনমেন্ট এর ডিফল্ট মান কত?",
-    "options": [
-      "ক) center",
-      "খ) right",
-      "গ) left",
-      "ঘ) justify"
-    ],
-    "answer": "গ) left",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 30,
-    "question": "`alt` অ্যাট্রিবিউট কোথায় ব্যবহার করা হয়?",
-    "options": [
-      "ক) `<a>`",
-      "খ) `<p>`",
-      "গ) `<img>`",
-      "ঘ) `<h1>`"
-    ],
-    "answer": "গ) `<img>`",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 31,
-    "question": "`ISP` এর পূর্ণরূপ কী?",
-    "options": [
-      "ক) Internet Service Provider",
-      "খ) Internal Service Protocol",
-      "গ) Internet Server Provider",
-      "ঘ) Information Service Provider"
-    ],
-    "answer": "ক) Internet Service Provider",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 32,
-    "question": "`<dt>` ট্যাগ কিসের জন্য ব্যবহৃত হয়?",
-    "options": [
-      "ক) Definition Term",
-      "খ) Data Table",
-      "গ) Description Tag",
-      "ঘ) Document Title"
-    ],
-    "answer": "ক) Definition Term",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 33,
-    "question": "কোনো টেবিলের বর্ডারকে মোটা করতে কোন অ্যাট্রিবিউট ব্যবহার করা হয়?",
-    "options": [
-      "ক) size",
-      "খ) border",
-      "গ) thick",
-      "ঘ) width"
-    ],
-    "answer": "খ) border",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 34,
-    "question": "`<ul>` ট্যাগের `type` অ্যাট্রিবিউটের ভ্যালু কোনটি হতে পারে না?",
-    "options": [
-      "ক) disc",
-      "খ) square",
-      "গ) circle",
-      "ঘ) decimal"
-    ],
-    "answer": "ঘ) decimal",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 35,
-    "question": "HTML এ কোনো লেখার নিচে আন্ডারলাইন করতে কোন ট্যাগ ব্যবহার করা হয়?",
-    "options": [
-      "ক) `<u>`",
-      "খ) `<underline>`",
-      "গ) `<hr>`",
-      "ঘ) `<i>`"
-    ],
-    "answer": "ক) `<u>`",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 36,
-    "question": "ই-কমার্স সাইটগুলোর ডোমেইন এক্সটেনশন কোনটি?",
-    "options": [
-      "ক) .org",
-      "খ) .com",
-      "গ) .net",
-      "ঘ) .info"
-    ],
-    "answer": "খ) .com",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 37,
-    "question": "`<body text=\"red\">` দ্বারা কী বোঝানো হয়?",
-    "options": [
-      "ক) বোল্ড টেক্সট",
-      "খ) পেজের ব্যাকগ্রাউন্ড লাল",
-      "গ) টেক্সটের রঙ লাল",
-      "ঘ) লিংকের রঙ লাল"
-    ],
-    "answer": "গ) টেক্সটের রঙ লাল",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 38,
-    "question": "`RGB(0, 0, 0)` দ্বারা কোন রঙ নির্দেশ করে?",
-    "options": [
-      "ক) লাল",
-      "খ) সাদা",
-      "গ) কালো",
-      "ঘ) নীল"
-    ],
-    "answer": "গ) কালো",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 39,
-    "question": "`<marquee direction=\"down\">` দ্বারা লেখাটি কোন দিকে স্ক্রল করবে?",
-    "options": [
-      "ক) বাম",
-      "খ) ডান",
-      "গ) উপর",
-      "ঘ) নিচ"
-    ],
-    "answer": "ঘ) নিচ",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 40,
-    "question": "কোন ট্যাগ ব্যবহার করে সাবস্ক্রিপ্ট তৈরি করা যায়?",
-    "options": [
-      "ক) `<sub>`",
-      "খ) `<sup>`",
-      "গ) `<underline>`",
-      "ঘ) `<b>`"
-    ],
-    "answer": "ক) `<sub>`",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 41,
-    "question": "`<br>` ট্যাগের সঠিক ব্যবহার কোনটি?",
-    "options": [
-      "ক) `<br></br>`",
-      "খ) `<br/>`",
-      "গ) `</br>`",
-      "ঘ) `<br>`"
-    ],
-    "answer": "খ) `<br/>`",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 42,
-    "question": "ওয়েবসাইটের মূল বা প্রথম পেজকে কী বলে?",
-    "options": [
-      "ক) ওয়েবপেজ",
-      "খ) হোমপেজ",
-      "গ) সার্ভার পেজ",
-      "ঘ) ডোমেইন"
-    ],
-    "answer": "খ) হোমপেজ",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 43,
-    "question": "কোন ট্যাগ দিয়ে লিস্ট আইটেম শুরু করা হয়?",
-    "options": [
-      "ক) `<list>`",
-      "খ) `<li>`",
-      "গ) `<item>`",
-      "ঘ) `<listitem>`"
-    ],
-    "answer": "খ) `<li>`",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 44,
-    "question": "কোন অ্যাট্রিবিউট ব্যবহার করে একটি হাইপারলিংককে নতুন ট্যাবে ওপেন করা যায়?",
-    "options": [
-      "ক) new",
-      "খ) open",
-      "গ) target",
-      "ঘ) rel"
-    ],
-    "answer": "গ) target",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 45,
-    "question": "সেল প্যাডিং (Cell Padding) কী?",
-    "options": [
-      "ক) দুই সেলের মধ্যবর্তী দূরত্ব",
-      "খ) সেল বর্ডার ও ডেটার মধ্যবর্তী দূরত্ব",
-      "গ) টেবিলের চারপাশের দূরত্ব",
-      "ঘ) রো এর উচ্চতা"
-    ],
-    "answer": "খ) সেল বর্ডার ও ডেটার মধ্যবর্তী দূরত্ব",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 46,
-    "question": "কোন ট্যাগ ব্যবহার করে ডেটাবেস থেকে তথ্য গ্রহণ করা হয়?",
-    "options": [
-      "ক) `<input>`",
-      "খ) `<output>`",
-      "গ) `<data>`",
-      "ঘ) `<text>`"
-    ],
-    "answer": "ক) `<input>`",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 47,
-    "question": "`<meta>` ট্যাগ কোথায় ব্যবহৃত হয়?",
-    "options": [
-      "ক) `<body>` অংশে",
-      "খ) `<head>` অংশে",
-      "গ) `<html>` অংশে",
-      "ঘ) যেকোনো স্থানে"
-    ],
-    "answer": "খ) `<head>` অংশে",
-    "level": "medium",
-    "chapterId": "4"
-  },
-  {
-    "id": 48,
-    "question": "`<th>` ট্যাগ এর অ্যালাইনমেন্ট এর ডিফল্ট মান কত?",
-    "options": [
-      "ক) left",
-      "খ) center",
-      "গ) right",
-      "ঘ) justify"
-    ],
-    "answer": "খ) center",
-    "level": "hard",
-    "chapterId": "4"
-  },
-  {
-    "id": 49,
-    "question": "কোনটি ওয়েব ব্রাউজার নয়?",
-    "options": [
-      "ক) Google Chrome",
-      "খ) Mozilla Firefox",
-      "গ) Microsoft Edge",
-      "ঘ) Microsoft Word"
-    ],
-    "answer": "ঘ) Microsoft Word",
-    "level": "easy",
-    "chapterId": "4"
-  },
-  {
-    "id": 50,
-    "question": "একটি ওয়েবসাইটের কাঠামো সাধারণত কিসের উপর নির্ভর করে?",
-    "options": [
-      "ক) ডোমেইন",
-      "খ) হোস্টিং",
-      "গ) বিষয়ের গুরুত্ব",
-      "ঘ) ব্রাউজার"
-    ],
-    "answer": "গ) বিষয়ের গুরুত্ব",
-    "level": "medium",
-    "chapterId": "4"
-  }
-]
+  "mcqs": [
+    {
+      "id": 1,
+      "question": "HTML-এর জনক কে?",
+      "options": [
+        "ক) টিম বার্নার্স-লি",
+        "খ) বিল গেটস",
+        "গ) মার্ক জাকারবার্গ",
+        "ঘ) স্টিফেন হকিং"
+      ],
+      "answer": "ক) টিম বার্নার্স-লি",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 2,
+      "question": "একটি ওয়েবসাইটের রুট ফোল্ডারে প্রধান পেজটির নাম কী রাখা হয়?",
+      "options": [
+        "ক) main.html",
+        "খ) index.html",
+        "গ) root.html",
+        "ঘ) home.html"
+      ],
+      "answer": "খ) index.html",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 3,
+      "question": "HTML ডকুমেন্টকে সংরক্ষণের জন্য ফাইল এক্সটেনশন কোনটি?",
+      "options": [
+        "ক) .txt",
+        "খ) .htm",
+        "গ) .doc",
+        "ঘ) .pdf"
+      ],
+      "answer": "খ) .htm",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 4,
+      "question": "`<hr>` ট্যাগটি কী ধরনের ট্যাগ?",
+      "options": [
+        "ক) কন্টেইনার",
+        "খ) এমটি",
+        "গ) পেয়ার",
+        "ঘ) ক্লোজিং"
+      ],
+      "answer": "খ) এমটি",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 5,
+      "question": "কোন ট্যাগ ব্যবহার করে নতুন লাইনে যাওয়া যায়?",
+      "options": [
+        "ক) `<p>`",
+        "খ) `<br>`",
+        "গ) `<h1>`",
+        "ঘ) `<hr>`"
+      ],
+      "answer": "খ) `<br>`",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 6,
+      "question": "ওয়েবসাইটকে ইন্টারনেট এ প্রকাশ করার প্রক্রিয়াকে কী বলে?",
+      "options": [
+        "ক) ডোমেইন রেজিস্ট্রেশন",
+        "খ) ওয়েব হোস্টিং",
+        "গ) ওয়েব ডেভেলপমেন্ট",
+        "ঘ) নেস্টিং"
+      ],
+      "answer": "খ) ওয়েব হোস্টিং",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 7,
+      "question": "হাইপারলিঙ্ক তৈরি করতে কোন অ্যাট্রিবিউট ব্যবহার করা হয়?",
+      "options": [
+        "ক) src",
+        "খ) alt",
+        "গ) href",
+        "ঘ) link"
+      ],
+      "answer": "গ) href",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 8,
+      "question": "ফন্ট সাইজ সবচেয়ে বড় করতে কোন ট্যাগ ব্যবহার করা হয়?",
+      "options": [
+        "ক) `<h1>`",
+        "খ) `<h7>`",
+        "গ) `<p>`",
+        "ঘ) `<big>`"
+      ],
+      "answer": "ক) `<h1>`",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 9,
+      "question": "কোন ট্যাগ ব্যবহার করে একটি টেবিল ডেটা সেল মার্জ করা হয়?",
+      "options": [
+        "ক) mergecell",
+        "খ) rowspan",
+        "গ) colspan",
+        "ঘ) both rowspan and colspan"
+      ],
+      "answer": "খ) rowspan",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 10,
+      "question": "CSS এর পূর্ণরূপ কী?",
+      "options": [
+        "ক) Computer Style Sheet",
+        "খ) Cascading Style System",
+        "গ) Cascading Style Sheet",
+        "ঘ) Control Style Sheet"
+      ],
+      "answer": "গ) Cascading Style Sheet",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 11,
+      "question": "`<marquee>` ট্যাগ কোন ধরনের ট্যাগ?",
+      "options": [
+        "ক) কন্টেইনার ট্যাগ",
+        "খ) এমটি ট্যাগ",
+        "গ) লজিক্যাল ট্যাগ",
+        "ঘ) ফরম্যাটিং ট্যাগ"
+      ],
+      "answer": "ক) কন্টেইনার ট্যাগ",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 12,
+      "question": "ডেটাবেস সার্ভারে ডেটা সংরক্ষণের জন্য কোন ট্যাগ ব্যবহৃত হয়?",
+      "options": [
+        "ক) `<form>`",
+        "খ) `<input>`",
+        "গ) `<button>`",
+        "ঘ) `<textarea>`"
+      ],
+      "answer": "ক) `<form>`",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 13,
+      "question": "একটি ওয়েবসাইটে চিত্র প্রদর্শনের জন্য কোন ট্যাগ ব্যবহৃত হয়?",
+      "options": [
+        "ক) `<image>`",
+        "খ) `<pic>`",
+        "গ) `<img>`",
+        "ঘ) `<photo>`"
+      ],
+      "answer": "গ) `<img>`",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 14,
+      "question": "HTML এ কোনো লেখা বোল্ড করার জন্য সঠিক ট্যাগ কোনটি?",
+      "options": [
+        "ক) `<bold>`",
+        "খ) `<b>`",
+        "গ) `<bg>`",
+        "ঘ) `<bld>`"
+      ],
+      "answer": "খ) `<b>`",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 15,
+      "question": "HTML ডকুমেন্টের শিরোনাম সেট করতে কোন ট্যাগ ব্যবহার করা হয়?",
+      "options": [
+        "ক) `<head>`",
+        "খ) `<body>`",
+        "গ) `<title>`",
+        "ঘ) `<header>`"
+      ],
+      "answer": "গ) `<title>`",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 16,
+      "question": "ওয়েবসাইট দেখতে কোন সফটওয়্যার ব্যবহৃত হয়?",
+      "options": [
+        "ক) টেক্সট এডিটর",
+        "খ) অপারেটিং সিস্টেম",
+        "গ) ওয়েব ব্রাউজার",
+        "ঘ) কম্পাইলার"
+      ],
+      "answer": "গ) ওয়েব ব্রাউজার",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 17,
+      "question": "`bgcolor` অ্যাট্রিবিউট ব্যবহার করা হয় কিসের জন্য?",
+      "options": [
+        "ক) টেক্সটের রঙ",
+        "খ) ছবির ব্যাকগ্রাউন্ড",
+        "গ) পেজের ব্যাকগ্রাউন্ড রঙ",
+        "ঘ) লিংকের রঙ"
+      ],
+      "answer": "গ) পেজের ব্যাকগ্রাউন্ড রঙ",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 18,
+      "question": "`border=\"0\"` অ্যাট্রিবিউট কোথায় ব্যবহৃত হয়?",
+      "options": [
+        "ক) `<table border=\"0\">`",
+        "খ) `<p border=\"0\">`",
+        "গ) `<img> border=\"0\">`",
+        "ঘ) `<a> border=\"0\">`"
+      ],
+      "answer": "ক) `<table border=\"0\">`",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 19,
+      "question": "`<ol>` ট্যাগের `type` অ্যাট্রিবিউটের ডিফল্ট ভ্যালু কত?",
+      "options": [
+        "ক) A",
+        "খ) a",
+        "গ) I",
+        "ঘ) 1"
+      ],
+      "answer": "ঘ) 1",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 20,
+      "question": "IP Address এ মোট কয়টি বিট থাকে?",
+      "options": [
+        "ক) 16",
+        "খ) 32",
+        "গ) 64",
+        "ঘ) 128"
+      ],
+      "answer": "খ) 32",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 21,
+      "question": "ওয়েবসাইট কাঠামো কত প্রকার?",
+      "options": [
+        "ক) ২",
+        "খ) ৩",
+        "গ) ৪",
+        "ঘ) ৫"
+      ],
+      "answer": "গ) ৪",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 22,
+      "question": "কোনটি ইউজার ইন্টারফেস তৈরিতে ব্যবহৃত হয়?",
+      "options": [
+        "ক) Java",
+        "খ) Python",
+        "গ) HTML",
+        "ঘ) SQL"
+      ],
+      "answer": "গ) HTML",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 23,
+      "question": "`<a href=\"page.html\">Link</a>` এ `page.html` কী নির্দেশ করে?",
+      "options": [
+        "ক) ডোমেইন নাম",
+        "খ) ফাইল পাথ",
+        "গ) প্রটোকল",
+        "ঘ) সার্ভার নাম"
+      ],
+      "answer": "খ) ফাইল পাথ",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 24,
+      "question": "টেবিলের প্রস্থ নির্ধারণ করতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+      "options": [
+        "ক) height",
+        "খ) width",
+        "গ) size",
+        "ঘ) space"
+      ],
+      "answer": "খ) width",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 25,
+      "question": "`<th colspan=\"2\">` বলতে কী বোঝায়?",
+      "options": [
+        "ক) ২টি রো মার্জ",
+        "খ) ২টি কলাম মার্জ",
+        "গ) ২টি টেবিল",
+        "ঘ) ২টি সেল"
+      ],
+      "answer": "খ) ২টি কলাম মার্জ",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 26,
+      "question": "IPV6 এ কত বিট ব্যবহৃত হয়?",
+      "options": [
+        "ক) 32",
+        "খ) 64",
+        "গ) 128",
+        "ঘ) 256"
+      ],
+      "answer": "গ) 128",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 27,
+      "question": "কোন ধরনের ওয়েবসাইট কাঠামোতে সকল পেজ হোমপেজের সাথে যুক্ত থাকে?",
+      "options": [
+        "ক) লিনিয়ার",
+        "খ) হাইব্রিড",
+        "গ) হায়ারারকিক্যাল",
+        "ঘ) নেটওয়ার্ক"
+      ],
+      "answer": "গ) হায়ারারকিক্যাল",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 28,
+      "question": "ওয়েবসাইট তৈরির ভাষা কোনটি?",
+      "options": [
+        "ক) Java",
+        "খ) HTML",
+        "গ) C++",
+        "ঘ) Python"
+      ],
+      "answer": "খ) HTML",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 29,
+      "question": "`<p>` ট্যাগের অ্যালাইনমেন্ট এর ডিফল্ট মান কত?",
+      "options": [
+        "ক) center",
+        "খ) right",
+        "গ) left",
+        "ঘ) justify"
+      ],
+      "answer": "গ) left",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 30,
+      "question": "`alt` অ্যাট্রিবিউট কোথায় ব্যবহার করা হয়?",
+      "options": [
+        "ক) `<a>`",
+        "খ) `<p>`",
+        "গ) `<img>`",
+        "ঘ) `<h1>`"
+      ],
+      "answer": "গ) `<img>`",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 31,
+      "question": "`ISP` এর পূর্ণরূপ কী?",
+      "options": [
+        "ক) Internet Service Provider",
+        "খ) Internal Service Protocol",
+        "গ) Internet Server Provider",
+        "ঘ) Information Service Provider"
+      ],
+      "answer": "ক) Internet Service Provider",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 32,
+      "question": "`<dt>` ট্যাগ কিসের জন্য ব্যবহৃত হয়?",
+      "options": [
+        "ক) Definition Term",
+        "খ) Data Table",
+        "গ) Description Tag",
+        "ঘ) Document Title"
+      ],
+      "answer": "ক) Definition Term",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 33,
+      "question": "কোনো টেবিলের বর্ডারকে মোটা করতে কোন অ্যাট্রিবিউট ব্যবহার করা হয়?",
+      "options": [
+        "ক) size",
+        "খ) border",
+        "গ) thick",
+        "ঘ) width"
+      ],
+      "answer": "খ) border",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 34,
+      "question": "`<ul>` ট্যাগের `type` অ্যাট্রিবিউটের ভ্যালু কোনটি হতে পারে না?",
+      "options": [
+        "ক) disc",
+        "খ) square",
+        "গ) circle",
+        "ঘ) decimal"
+      ],
+      "answer": "ঘ) decimal",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 35,
+      "question": "HTML এ কোনো লেখার নিচে আন্ডারলাইন করতে কোন ট্যাগ ব্যবহার করা হয়?",
+      "options": [
+        "ক) `<u>`",
+        "খ) `<underline>`",
+        "গ) `<hr>`",
+        "ঘ) `<i>`"
+      ],
+      "answer": "ক) `<u>`",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 36,
+      "question": "ই-কমার্স সাইটগুলোর ডোমেইন এক্সটেনশন কোনটি?",
+      "options": [
+        "ক) .org",
+        "খ) .com",
+        "গ) .net",
+        "ঘ) .info"
+      ],
+      "answer": "খ) .com",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 37,
+      "question": "`<body text=\"red\">` দ্বারা কী বোঝানো হয়?",
+      "options": [
+        "ক) বোল্ড টেক্সট",
+        "খ) পেজের ব্যাকগ্রাউন্ড লাল",
+        "গ) টেক্সটের রঙ লাল",
+        "ঘ) লিংকের রঙ লাল"
+      ],
+      "answer": "গ) টেক্সটের রঙ লাল",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 38,
+      "question": "`RGB(0, 0, 0)` দ্বারা কোন রঙ নির্দেশ করে?",
+      "options": [
+        "ক) লাল",
+        "খ) সাদা",
+        "গ) কালো",
+        "ঘ) নীল"
+      ],
+      "answer": "গ) কালো",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 39,
+      "question": "`<marquee direction=\"down\">` দ্বারা লেখাটি কোন দিকে স্ক্রল করবে?",
+      "options": [
+        "ক) বাম",
+        "খ) ডান",
+        "গ) উপর",
+        "ঘ) নিচ"
+      ],
+      "answer": "ঘ) নিচ",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 40,
+      "question": "কোন ট্যাগ ব্যবহার করে সাবস্ক্রিপ্ট তৈরি করা যায়?",
+      "options": [
+        "ক) `<sub>`",
+        "খ) `<sup>`",
+        "গ) `<underline>`",
+        "ঘ) `<b>`"
+      ],
+      "answer": "ক) `<sub>`",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 41,
+      "question": "`<br>` ট্যাগের সঠিক ব্যবহার কোনটি?",
+      "options": [
+        "ক) `<br></br>`",
+        "খ) `<br/>`",
+        "গ) `</br>`",
+        "ঘ) `<br>`"
+      ],
+      "answer": "খ) `<br/>`",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 42,
+      "question": "ওয়েবসাইটের মূল বা প্রথম পেজকে কী বলে?",
+      "options": [
+        "ক) ওয়েবপেজ",
+        "খ) হোমপেজ",
+        "গ) সার্ভার পেজ",
+        "ঘ) ডোমেইন"
+      ],
+      "answer": "খ) হোমপেজ",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 43,
+      "question": "কোন ট্যাগ দিয়ে লিস্ট আইটেম শুরু করা হয়?",
+      "options": [
+        "ক) `<list>`",
+        "খ) `<li>`",
+        "গ) `<item>`",
+        "ঘ) `<listitem>`"
+      ],
+      "answer": "খ) `<li>`",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 44,
+      "question": "কোন অ্যাট্রিবিউট ব্যবহার করে একটি হাইপারলিংককে নতুন ট্যাবে ওপেন করা যায়?",
+      "options": [
+        "ক) new",
+        "খ) open",
+        "গ) target",
+        "ঘ) rel"
+      ],
+      "answer": "গ) target",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 45,
+      "question": "সেল প্যাডিং (Cell Padding) কী?",
+      "options": [
+        "ক) দুই সেলের মধ্যবর্তী দূরত্ব",
+        "খ) সেল বর্ডার ও ডেটার মধ্যবর্তী দূরত্ব",
+        "গ) টেবিলের চারপাশের দূরত্ব",
+        "ঘ) রো এর উচ্চতা"
+      ],
+      "answer": "খ) সেল বর্ডার ও ডেটার মধ্যবর্তী দূরত্ব",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 46,
+      "question": "কোন ট্যাগ ব্যবহার করে ডেটাবেস থেকে তথ্য গ্রহণ করা হয়?",
+      "options": [
+        "ক) `<input>`",
+        "খ) `<output>`",
+        "গ) `<data>`",
+        "ঘ) `<text>`"
+      ],
+      "answer": "ক) `<input>`",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 47,
+      "question": "`<meta>` ট্যাগ কোথায় ব্যবহৃত হয়?",
+      "options": [
+        "ক) `<body>` অংশে",
+        "খ) `<head>` অংশে",
+        "গ) `<html>` অংশে",
+        "ঘ) যেকোনো স্থানে"
+      ],
+      "answer": "খ) `<head>` অংশে",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 48,
+      "question": "`<th>` ট্যাগ এর অ্যালাইনমেন্ট এর ডিফল্ট মান কত?",
+      "options": [
+        "ক) left",
+        "খ) center",
+        "গ) right",
+        "ঘ) justify"
+      ],
+      "answer": "খ) center",
+      "level": "hard",
+      "chapterId": "4"
+    },
+    {
+      "id": 49,
+      "question": "কোনটি ওয়েব ব্রাউজার নয়?",
+      "options": [
+        "ক) Google Chrome",
+        "খ) Mozilla Firefox",
+        "গ) Microsoft Edge",
+        "ঘ) Microsoft Word"
+      ],
+      "answer": "ঘ) Microsoft Word",
+      "level": "easy",
+      "chapterId": "4"
+    },
+    {
+      "id": 50,
+      "question": "একটি ওয়েবসাইটের কাঠামো সাধারণত কিসের উপর নির্ভর করে?",
+      "options": [
+        "ক) ডোমেইন",
+        "খ) হোস্টিং",
+        "গ) বিষয়ের গুরুত্ব",
+        "ঘ) ব্রাউজার"
+      ],
+      "answer": "গ) বিষয়ের গুরুত্ব",
+      "level": "medium",
+      "chapterId": "4"
+    },
+    {
+      "id": 51,
+      "question": "HTML এ ইমেজ ফরম্যাট হলো-\ni. .png\nii. .gif\niii. .psd\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 8
+    },
+    {
+      "id": 52,
+      "question": "HTML এ সবচেয়ে বড় হেডিং এলিমেন্ট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) <h1>",
+        "খ) <h2>",
+        "গ) <h3>",
+        "ঘ) <h6>"
+      ],
+      "answer": "ক) <h1>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 10
+    },
+    {
+      "id": 53,
+      "question": "নিচের কোন ট্যাগে অ্যাট্রিবিউট থাকে?",
+      "imageUrl": "",
+      "options": [
+        "ক) শুরুর ট্যাগে",
+        "খ) শেষ ট্যাগে",
+        "গ) দুই ট্যাগের মাঝে",
+        "ঘ) উভয় ট্যাগে"
+      ],
+      "answer": "ক) শুরুর ট্যাগে",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 16
+    },
+    {
+      "id": 54,
+      "question": "Google.com কী?",
+      "image": "",
+      "options": [
+        "ক) Browser",
+        "খ) Search engine",
+        "গ) Protocol",
+        "ঘ) E-mail address"
+      ],
+      "answer": "খ) Search engine",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 38
+    },
+    {
+      "id": 55,
+      "question": "দৃশ্যকল্প-১: রুমি কলেজে ভর্তিও আবেদনের জন্য একটি সাইবার ক্যাফেতে গিয়ে একটি ইলেকট্রনিক ফরম পূরণ করে। সেখানে বসেই সে তার মোবাইলে পূরণকৃত ফরমের আলোকে নির্দেশনামূলক একটি মেসেজ পায়। \n দৃশ্যকল্প-১ এ তথ্য প্রযুক্তির কোন সেবাটি গ্রহণ করা হয়েছে?",
+      "image": "",
+      "options": [
+        "ক) ওয়েব হোস্টিং",
+        "খ) ওয়েব সাইট",
+        "গ) ই-কমার্স",
+        "ঘ) ইলেকট্রনিক মেইলিং"
+      ],
+      "answer": "খ) ওয়েব সাইট",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 40
+    },
+    {
+      "id": 56,
+      "question": "\n < html > < body > Cricket board < /body > </ html >\n HTML এ ব্যবহৃত মৌলিক উপাদানগুলো হলো—\n i) html সিনটেক্স \nii) টেক্সট এডিটর \niiiগ) ব্রাউজার সফটওয়্যার",
+      "image": "",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "ঘ) i, ii,iii",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 41
+    },
+    {
+      "id": 57,
+      "question": "CSS এর পূর্ণরূপ কী?",
+      "image": "",
+      "options": [
+        "ক) Casading Style Sheet",
+        "খ) Casading Style Shit",
+        "গ) Case Style Sheet",
+        "ঘ) Casading Styling Sheet"
+      ],
+      "answer": "ক) Casading Style Sheet",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 43
+    },
+    {
+      "id": 58,
+      "question": "HTML ট্যাগ কোন প্রতীকের মধ্যে থাকে?",
+      "image": "",
+      "options": [
+        "ক) { }",
+        "খ) < >",
+        "গ) ( )",
+        "ঘ) [ ]"
+      ],
+      "answer": "খ) < >",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 45
+    },
+    {
+      "id": 59,
+      "question": "নিচের কোনটি টেক্সট এডিটর?",
+      "imageUrl": "",
+      "options": [
+        "ক) নোটপ্যাড",
+        "খ) জাভা",
+        "গ) পাইথন",
+        "ঘ) ওরাকল"
+      ],
+      "answer": "ক) নোটপ্যাড",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 55
+    },
+    {
+      "id": 60,
+      "question": "সবচেয়ে বড় হেডিং ট্যাগ কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) <h1>",
+        "খ) <h2>",
+        "গ) <h3>",
+        "ঘ) <h6>"
+      ],
+      "answer": "ক) <h1>",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 58
+    },
+    {
+      "id": 61,
+      "question": "তালিকা তৈরির জন্য ব্যবহৃত আবশ্যক ট্যাগ হচ্ছে- \n i. <ol> ii. <ul> iii. <li>",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 59
+    },
+    {
+      "id": 62,
+      "question": "HTML কোড <p>a²b²</p> এর ফলাফল কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) a²b²",
+        "খ) a²b₂",
+        "গ) a₂b²",
+        "ঘ) a₂b₂"
+      ],
+      "answer": "খ) a²b₂",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 61
+    },
+    {
+      "id": 63,
+      "question": "<a> ট্যাগের সাথে ব্যবহৃত অ্যাট্রিবিউট- \n i. href ii. target iii. blank",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) i, ii ও iii",
+        "ঘ) iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 67
+    },
+    {
+      "id": 64,
+      "question": "একটি ওয়েবসাইটের কয়টি অংশ থাকে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ২",
+        "খ) ৪",
+        "গ) ৩",
+        "ঘ) ৫"
+      ],
+      "answer": "ক) ২",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 83
+    },
+    {
+      "id": 65,
+      "question": "html এর ওয়েবপেইজ তৈরির জন্য ফাইলের এক্সটেনশন হলো- i. .html ii..txt iii..htm",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 84
+    },
+    {
+      "id": 66,
+      "question": "টেবিলের বডিতে সারি তৈরি করতে ব্যবহার করা হয়-",
+      "imageUrl": "",
+      "options": [
+        "ক) th",
+        "খ) tt",
+        "গ) tr",
+        "ঘ) td"
+      ],
+      "answer": "গ) tr",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 85
+    },
+    {
+      "id": 67,
+      "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো- i. নোডপ্যাড ii. নোডপ্যাড ++ iii. সাবলাইম টেক্সট",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 86
+    },
+    {
+      "id": 68,
+      "question": "ওয়েব ক্লায়েন্ট ব্যবহারকারীর কাছ থেকে ইনপুট নিয়ে ওয়েব সার্ভারে পাঠানোকে বলে-",
+      "imageUrl": "",
+      "options": [
+        "ক) আপলোড",
+        "খ) রসপন্স",
+        "গ) রিকোয়েস্ট",
+        "ঘ) ব্রাউজ"
+      ],
+      "answer": "গ) রিকোয়েস্ট",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 106
+    },
+    {
+      "id": 69,
+      "question": "রফিক ict ল্যাব ক্লাসে একটি টেবিল তৈরির html কোড লিখে ওয়েবসাইট তৈরি করে। ব্রাউজারে প্রদর্শন করে দেখালো টেবিলের লাইন দেখাচ্ছে না। রফিক তার ওয়েবপেজটিকে পাবলিশ করার চিন্তা করলো।\nউদ্দীপকে লাইন প্রদর্শন না করার কারণ কী?",
+      "imageUrl": "",
+      "options": [
+        "ক) align=\"0\"",
+        "খ) border=\"0\"",
+        "গ) border=\"No\"",
+        "ঘ) caption = \"0\""
+      ],
+      "answer": "খ) border=\"0\"",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 107
+    },
+    {
+      "id": 70,
+      "question": "রফিক ict ল্যাব ক্লাসে একটি টেবিল তৈরির html কোড লিখে ওয়েবসাইট তৈরি করে। ব্রাউজারে প্রদর্শন করে দেখালো টেবিলের লাইন দেখাচ্ছে না। রফিক তার ওয়েবপেজটিকে পাবলিশ করার চিন্তা করলো।\n উদ্দীপকের ওয়েবসাইটটি পাবলিশ করার জন্য কী করতে হবে? i. ওয়েব হোস্টিং ii. ডোমেইন রেজিস্ট্রেশন iii. হাইপারলিংক",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 108
+    },
+    {
+      "id": 71,
+      "question": "ওয়েবপেইজের এক পেইজ থেকে অন্য পেইজে যাওয়ার জন্য কোন ট্যাগ ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) <a>...</a>",
+        "খ) <li>...</li>",
+        "গ) <b>...</b>",
+        "ঘ) <ol>...</ol>"
+      ],
+      "answer": "ক) <a>...</a>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 109
+    },
+    {
+      "id": 72,
+      "question": "কোডটিতে HSC Exam এর স্থলে Pen.jpg ছবিকে Link Text আকারে উপস্থান করতে নিচের কোন কোডটি ব্যবহৃত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) <a href = \"www.Pen.Com\"> Pen.Jpg </a>",
+        "খ) <a href = \"www.Pen.Com\">img src = \"Pen.Jpg\" </a>",
+        "গ) <a href = \"www.Pen.Com\"> <img src = \"Pen.Jpg\"> </a>",
+        "ঘ) <a href = \"www.Pen.Com\" img src = \"Pen.Jpg\"></a>"
+      ],
+      "answer": "গ) <a href = \"www.Pen.Com\"> <img src = \"Pen.Jpg\"> </a>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 125
+    },
+    {
+      "id": 73,
+      "question": "নিচের কোনটি Empty Tag?",
+      "imageUrl": "",
+      "options": [
+        "ক) <b>",
+        "খ) <del>",
+        "গ) <hr>",
+        "ঘ) <sup>"
+      ],
+      "answer": "গ) <hr>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 133
+    },
+    {
+      "id": 74,
+      "question": "নতুন ট্যাবে ওয়েবপেইজ খুলতে ব্যবহৃত অ্যাট্রিবিউট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) Blank",
+        "খ) Target",
+        "গ) Href",
+        "ঘ) Title"
+      ],
+      "answer": "খ) Target",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 134
+    },
+    {
+      "id": 75,
+      "question": "টেবিল Cell এর বর্ডার থেকে টেবিলের ডেটা 50Px দূরত্বে রাখার জন্য নিচের সঠিক html কোড কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) <table border =\"1\" cellpadding =\"50\">",
+        "খ) <table border =\"1\" cellspacing = \"50\">",
+        "গ) <table border =\"0\" cellspacing = \"50\">",
+        "ঘ) <table border = 1 cellpadding = 50>"
+      ],
+      "answer": "ক) <table border =\"1\" cellpadding =\"50\">",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 135
+    },
+    {
+      "id": 76,
+      "question": "স্ট্যাটিক ওয়েব পেজ তৈরিতে প্রয়োজন- i. HTML ii. PHP iii. CSS",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 151
+    },
+    {
+      "id": 77,
+      "question": "এক লাইন নিচে নামানোর জন্য ব্যবহৃত ট্যাগ কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) <td>",
+        "খ) <br>",
+        "গ) <tr>",
+        "ঘ) <th>"
+      ],
+      "answer": "খ) <br>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 152
+    },
+    {
+      "id": 78,
+      "question": "দুইটি HTML ডকুমেন্টের সংযোগকে কী বলে?",
+      "imageUrl": "",
+      "options": [
+        "ক) কানেকশন",
+        "খ) অ্যাট্রিবিউট",
+        "গ) হাইপারলিঙ্ক",
+        "ঘ) ইমেজিং"
+      ],
+      "answer": "গ) হাইপারলিঙ্ক",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 153
+    },
+    {
+      "id": 79,
+      "question": "HTML এর সম্পূর্ণ কনটেন্ট কোন ট্যাগে থাকে?",
+      "imageUrl": "",
+      "options": [
+        "ক) < title > ……… < /title >",
+        "খ) < html > ……… < /html >",
+        "গ) < body > ……… < /body >",
+        "ঘ) < head > ……… < /head >"
+      ],
+      "answer": "খ) < html > ……… < /html >",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 154
+    },
+    {
+      "id": 80,
+      "question": "ওয়েবসাইটকে নির্দিষ্ট কোনো সার্ভারে স্থাপন করাকে কী বলে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ওয়েব ডকুমেন্ট",
+        "খ) ওয়েব ডিজাইন",
+        "গ) ডোমেইন নেইম রেজিস্ট্রেশন",
+        "ঘ) ওয়েব হোস্টিং"
+      ],
+      "answer": "ঘ) ওয়েব হোস্টিং",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 155
+    },
+    {
+      "id": 81,
+      "question": "উদ্দীপকের ৩নং লাইনের লেখাটির জন্য সিনট্যাক্স কোনটি? (Context: HTML Header tags)",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/mymenshing/question7.jpg?raw=true",
+      "options": [
+        "ক) <h4>HSC</h4>",
+        "খ) <h2>HSC</h2>",
+        "গ) <h3>HSC</h3>",
+        "ঘ) <h1>HSC</h1>"
+      ],
+      "answer": "গ) <h3>HSC</h3>",
+      "level": "Medium",
+      "chapterId": "4",
+      "master_id": 181
+    },
+    {
+      "id": 82,
+      "question": "ওয়েবসাইটকে দৃষ্টিনন্দন করার জন্য নিচের কোনটি ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) HTML",
+        "খ) CSS",
+        "গ) PHP",
+        "ঘ) JAVA"
+      ],
+      "answer": "খ) CSS",
+      "level": "Medium",
+      "chapterId": "4",
+      "master_id": 182
+    },
+    {
+      "id": 83,
+      "question": "কোনটি এম্পটি ট্যাগ?",
+      "imageUrl": "",
+      "options": [
+        "ক) <hr>",
+        "খ) <h1>",
+        "গ) <tr>",
+        "ঘ) <td>"
+      ],
+      "answer": "ক) <hr>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 188
+    },
+    {
+      "id": 84,
+      "question": "হাসি ওয়েবসাইট এ ছবি যুক্ত করতে পারে। \nহাসি এখন ওয়েব পেইজে কোন ট্যাগের ব্যবহার শিখছে?",
+      "imageUrl": "",
+      "options": [
+        "ক) <img src=\"img.png\">",
+        "খ) <a href=\"img.png\">",
+        "গ) <img border = \"img.png\">",
+        "ঘ) <img = \"img.png\">"
+      ],
+      "answer": "ক) <img src=\"img.png\">",
+      "level": "Medium",
+      "chapterId": "4",
+      "master_id": 196
+    },
+    {
+      "id": 85,
+      "question": "হাসি ওয়েবপেজে ছবি যুক্ত করলে-\ni. টেক্সট এর পরিমাণ কমিয়ে আনা যাবে\nii. ব্যবহারকারীর নিকট পেজটি দৃষ্টিনন্দন হবে\niii. ছবি দ্রুত ডাউনলোড হবে",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও iii",
+        "খ) i ও ii",
+        "গ) i, ii ও iii",
+        "ঘ) ii, iii"
+      ],
+      "answer": "খ) i ও ii",
+      "level": "Medium",
+      "chapterId": "4",
+      "master_id": 197
+    },
+    {
+      "id": 86,
+      "question": "সঠিক HTML Syntax কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) <em> emphasize <em/>",
+        "খ) <b> Bold text <b>",
+        "গ) <i> Italic </i>",
+        "ঘ) <u> Underline < /u>"
+      ],
+      "answer": "গ) <i> Italic </i>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 203
+    },
+    {
+      "id": 87,
+      "question": "HTML এ একাধিক রোকে মার্জ করতে কোন এট্রিবিউট ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) colspan",
+        "খ) rowspan",
+        "গ) cellpadding",
+        "ঘ) cellspacing"
+      ],
+      "answer": "খ) rowspan",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 204
+    },
+    {
+      "id": 88,
+      "question": "একটি ওয়েবসাইটের অংশ হল-\ni. সার্ভার\nii. ক্লায়েন্ট\niii. ডকুমেন্ট",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 220
+    },
+    {
+      "id": 89,
+      "question": "একটি ওয়েবসাইটকে পাবলিশ করার জন্য ওয়েব সার্ভারে ওয়েবসাইটটি আপলোড করার পদ্ধতিকে কী বলা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) ডোমেইন",
+        "খ) আইপি এড্রেস",
+        "গ) হোস্টিং",
+        "ঘ) প্রোটোকল"
+      ],
+      "answer": "গ) হোস্টিং",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 221
+    },
+    {
+      "id": 90,
+      "question": "<ol type=\"a\" start=\"4\"> এর আউটপুট কেমন হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 1.",
+        "খ) a.",
+        "গ) 4.",
+        "ঘ) d."
+      ],
+      "answer": "ঘ) d.",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 222
+    },
+    {
+      "id": 91,
+      "question": "কোনটি টেক্সট ফরমেটিং এলিমেন্ট?",
+      "imageUrl": "",
+      "options": [
+        "ক) <b>",
+        "খ) <br>",
+        "গ) <ol>",
+        "ঘ) <a>"
+      ],
+      "answer": "ক) <b>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 229
+    },
+    {
+      "id": 92,
+      "question": "উদ্দীপকে Attribute কোনটি? (Context: <p> <img src = \"Picture.jpg\" width = \"300\" height = \"200\"> </p>)",
+      "imageUrl": "",
+      "options": [
+        "ক) p",
+        "খ) width",
+        "গ) img",
+        "ঘ) picture"
+      ],
+      "answer": "খ) width",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 236
+    },
+    {
+      "id": 93,
+      "question": "রাসেল সঠিক ফলাফল না পাওয়ার কারণ-\ni. ফাইলের নাম লিখতে ভুল\nii. ব্রাউজারে সাপোর্ট না করা\niii. সঠিক লোকেশন ব্যবহার না করা",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 237
+    },
+    {
+      "id": 94,
+      "question": "emoji code?",
+      "imageUrl": "",
+      "options": [
+        "ক) ebcdic",
+        "খ) bcd",
+        "গ) ascii-8",
+        "ঘ) unicode"
+      ],
+      "answer": "ঘ) unicode",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 246
+    },
+    {
+      "id": 95,
+      "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো-\ni. নোটপ্যাড++\t ii. সাবলাইম টেক্সট\t iii. নোটপ্যাড\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 273
+    },
+    {
+      "id": 96,
+      "question": "<img> ট্যাগের সাথে মিল রয়েছে কোন ট্যাগের?",
+      "imageUrl": "",
+      "options": [
+        "ক)<br>",
+        "খ) <tr>",
+        "গ) <a>=",
+        "ঘ) <div>"
+      ],
+      "answer": "ক)<br>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 278
+    },
+    {
+      "id": 97,
+      "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n<font color = \"Red\" face = \"Arial\"> ICT </font>\n উদ্দীপকে কন্টেন্ট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) Font",
+        "খ) Color",
+        "গ) Red",
+        "ঘ) ICT"
+      ],
+      "answer": "ঘ) ICT",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 281
+    },
+    {
+      "id": 98,
+      "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n<font color = \"Red\" face = \"Arial\"> ICT </font>\n উদ্দীপকে অ্যাট্রিবিউট ভ্যালু হলো-\n i. color\t ii. red\t iii. arial\n নিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "গ) ii ও iii",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 282
+    },
+    {
+      "id": 99,
+      "question": "<a> ট্যাগের অ্যাট্রিবিউট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক. type",
+        "খ. face",
+        "গ. target",
+        "ঘ. align"
+      ],
+      "answer": "গ. target",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 314
+    },
+    {
+      "id": 100,
+      "question": "<img> ট্যাগের আবশ্যিক অ্যাট্রিবিউট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক. src",
+        "খ. href",
+        "গ. target",
+        "ঘ. border"
+      ],
+      "answer": "ক. src",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 315
+    },
+    {
+      "id": 101,
+      "question": "উদ্দীপকের টেবিলটি তৈরি করতে HTML কোডে colspan ও rowspan এর মান যথাক্রমে-",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch4.PNG?raw=true",
+      "options": [
+        "ক. 2, 3",
+        "খ. 3, 2",
+        "গ. 4, 3",
+        "ঘ. 3, 4"
+      ],
+      "answer": "গ. 4, 3",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 316
+    },
+    {
+      "id": 102,
+      "question": "ক্রমযুক্ত তালিকা প্রকাশের জন্য ব্যবহৃত ট্যাগ কোনটি?",
+      "options": [
+        "ক) <ul>",
+        "খ) <ol>",
+        "গ) <br>",
+        "ঘ) <del>"
+      ],
+      "answer": "খ) <ol>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 326
+    },
+    {
+      "id": 103,
+      "question": "ওয়েবসাইট নিয়ে কে চিন্তা করেন?",
+      "options": [
+        "ক) মার্শাল ম্যাকলুহান",
+        "খ) ভিভ অ্যাডামস",
+        "গ) টিম বার্নার্স লি",
+        "ঘ) টেড নেলসন"
+      ],
+      "answer": "গ) টিম বার্নার্স লি",
+      "chapterId": "4",
+      "level": "easy",
+      "master_id": 353
+    },
+    {
+      "id": 104,
+      "question": "HTML এ কোন এলিমেন্টের মাধ্যমে অন্য এলিমেন্টের অংশ নির্বাচন করা যায়?",
+      "imageUrl": "",
+      "options": [
+        "ক) <div>",
+        "খ) <span>",
+        "গ) <style>",
+        "ঘ) <font>"
+      ],
+      "answer": "খ) <span>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 389
+    },
+    {
+      "id": 105,
+      "question": "টেবিলে বর্ডার থেকে ডেটার দূরত্ব নির্ধারণের অ্যাট্রিবিউট হলো-",
+      "imageUrl": "",
+      "options": [
+        "ক) cellspacing",
+        "খ) rowspan",
+        "গ) colspan",
+        "ঘ) cellpadding"
+      ],
+      "answer": "ঘ) cellpadding",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 390
+    },
+    {
+      "id": 106,
+      "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nসুভাষ HTML কোড দিয়ে HSC.jpg নামের একটি ফাইলযুক্ত করে ওয়েবপেজ তৈরি করে। পরবর্তীতে ওয়েবপেজটি সবাইকে প্রদর্শনের জন্য প্রয়োজনীয় পদক্ষেপ গ্রহণ করে।\nউদ্দীপকের ফাইলটির জন্য জন্য আবশ্যিক অ্যাট্রিবিউট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) href",
+        "খ) img",
+        "গ) src",
+        "ঘ) alt"
+      ],
+      "answer": "গ) src",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 391
+    },
+    {
+      "id": 107,
+      "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nসুভাষ HTML কোড দিয়ে HSC.jpg নামের একটি ফাইলযুক্ত করে ওয়েবপেজ তৈরি করে। পরবর্তীতে ওয়েবপেজটি সবাইকে প্রদর্শনের জন্য প্রয়োজনীয় পদক্ষেপ গ্রহণ করে।\n সুভাষের গৃহীত পদক্ষেপসমূহ হচ্ছে-\ni. পাবলিক আইপি ব্যবহার\nii. ওয়েবপেজ হোস্টিং\niii. ডোমেইন নেম রেজিস্ট্রেশন\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 392
+    },
+    {
+      "id": 108,
+      "question": "টেবিলে সেল তৈরির জন্য কোন ট্যাগ ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) <td>",
+        "খ) <tr>",
+        "গ) <col>",
+        "ঘ) <tc>"
+      ],
+      "answer": "ক) <td>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 412
+    },
+    {
+      "id": 109,
+      "question": "HTML এ ইমেজ ফরমেট সাপোর্ট করে-\ni. .gif\nii. .png\niii. .jpg",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 413
+    },
+    {
+      "id": 110,
+      "question": "HTML এর সবচেয়ে ছোট হেডিং কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) h1",
+        "খ) h2",
+        "গ) h4",
+        "ঘ) h6"
+      ],
+      "answer": "ঘ) h6",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 414
+    },
+    {
+      "id": 111,
+      "question": "Link Tag কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) <01>...</01>",
+        "খ) <li...",
+        "গ) <b>...</b>",
+        "ঘ) <a...>...</a>"
+      ],
+      "answer": "ঘ) <a...>...</a>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 432
+    },
+    {
+      "id": 112,
+      "question": "ফন্টের স্টাইল পরিবর্তন করতে কোন অ্যাট্রিবিউট ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) size",
+        "খ) style",
+        "গ) name",
+        "ঘ) face"
+      ],
+      "answer": "ঘ) face",
+      "level": "medium",
+      "chapterId": "4",
+      "master_id": 433
+    },
+    {
+      "id": 113,
+      "question": "কোনটির ক্ষেত্রে ডোমেইন নেম ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) ওয়েবসাইট",
+        "খ) সার্ভার",
+        "গ) ওয়েব ফাইল",
+        "ঘ) ফোল্ডার"
+      ],
+      "answer": "ক) ওয়েবসাইট",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 434
+    },
+    {
+      "id": 114,
+      "question": "নিচের কোনটি সার্চ ইঞ্জিন?",
+      "imageUrl": "",
+      "options": [
+        "ক) Twitter",
+        "খ) YouTube",
+        "গ) Pipilika",
+        "ঘ) Wikipedia"
+      ],
+      "answer": "গ) Pipilika",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 435
+    },
+    {
+      "id": 115,
+      "question": "কোনটি আউটসোর্সিং এর মার্কেট প্লেস?",
+      "imageUrl": "",
+      "options": [
+        "ক) ফেসবুক",
+        "খ) মাইস্পেস",
+        "গ) আপওয়ার্ক",
+        "ঘ) ভিগ"
+      ],
+      "answer": "গ) আপওয়ার্ক",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 445
+    },
+    {
+      "id": 116,
+      "question": "src অ্যাট্রিবিউট কোন ট্যাগে ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) <div>",
+        "খ) <a>",
+        "গ) <img>",
+        "ঘ) <span>"
+      ],
+      "answer": "গ) <img>",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 447
+    },
+    {
+      "id": 117,
+      "question": "নিচের কোনটি ওয়েব ব্রাউজার?",
+      "imageUrl": "",
+      "options": [
+        "ক) Imo",
+        "খ) Opera",
+        "গ) Viber",
+        "ঘ) Google"
+      ],
+      "answer": "খ) Opera",
+      "level": "easy",
+      "chapterId": "4",
+      "master_id": 457
+    },
+    {
+      "id": 118,
+      "question": "হাইপারলিঙ্ক হচ্ছে-\ni. একাধিক ফাইলের সংযোগ\nii. একাধিক ওয়েবসাইটের সংযোগ\niii. একাধিক ফোল্ডারের সংযোগ\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 458
+    },
+    {
+      "id": 119,
+      "question": "<ol type=\"A\" start=\"3\"> \n এর আউটপুট কেমন হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) \n1.\n2.",
+        "খ) \n3.\n4.",
+        "গ) \nA.\nB.",
+        "ঘ) \nC.\nD."
+      ],
+      "answer": "ঘ) \nC.\nD.",
+      "level": "hard",
+      "chapterId": "4",
+      "master_id": 460
+    }
+  ]
 }

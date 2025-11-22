@@ -2042,6 +2042,858 @@
       "answer": "ক) A B' + A' B",
       "level": "easy",
       "chapterId": "3.2"
+    },
+    {
+      "id": 147,
+      "question": "উপরের সত্যক সারণি কোন গেটকে নির্দেশ করে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dh23cha32T.PNG?raw=true",
+      "options": [
+        "ক) NOR",
+        "খ) EX-OR",
+        "গ) EX-NOR",
+        "ঘ) NAND"
+      ],
+      "answer": "খ) EX-OR",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 17
+    },
+    {
+      "id": 148,
+      "question": "চিত্রে 'Y' এর মান কোনটি?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true",
+      "options": [
+        "ক) A + B",
+        "খ) A · B",
+        "গ) (A + B)'",
+        "ঘ) Ā · B̅"
+      ],
+      "answer": "গ) (A + B)'",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 22
+    },
+    {
+      "id": 149,
+      "question": "উদ্দীপকের বর্তনীর আউটপুট Y=1 পেতে হলে A ও B এর ইনপুট কত দিতে হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw=true",
+      "options": [
+        "ক) A=0, B=0",
+        "খ) A=0, B=1",
+        "গ) A=1, B=0",
+        "ঘ) A=1, B=1"
+      ],
+      "answer": "ক) A=0, B=0",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 23
+    },
+    {
+      "id": 150,
+      "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?",
+      "image": "",
+      "options": [
+        "ক) i, ii",
+        "খ) ii, iii",
+        "গ) i, iii",
+        "ঘ) i, ii,iii"
+      ],
+      "answer": "গ) i, iii",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 48
+    },
+    {
+      "id": 151,
+      "question": "Y এর মান কোনটি?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/dhaQ78.png?raw=true",
+      "options": [
+        "ক) A+B",
+        "খ) A̅+B",
+        "গ) A+B̅",
+        "ঘ) A̅+B̅"
+      ],
+      "answer": "খ) A̅+B",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 56
+    },
+    {
+      "id": 152,
+      "question": "উদ্দীপকে Y=0 যখন-",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/dhaQ78.png?raw=true",
+      "options": [
+        "ক) A=0, B=0",
+        "খ) A=0, B=1",
+        "গ) A=1, B=0",
+        "ঘ) A=I, B=I"
+      ],
+      "answer": "গ) A=1, B=0",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 57
+    },
+    {
+      "id": 153,
+      "question": "সার্বজনীন গেইট হলো- i. NAND ii. XOR iii. NOR",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 81
+    },
+    {
+      "id": 154,
+      "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw=true",
+      "options": [
+        "ক) i ও ii",
+        "খ) ii ও iii",
+        "গ) i ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) ii ও iii",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 82
+    },
+    {
+      "id": 155,
+      "question": "০ থেকে ৩১ গণনা করার জন্য রিপল কাউন্টারে কয়টি ফ্লিপফ্লপ ব্যবহার করতে হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ১৬",
+        "খ) ৪",
+        "গ) ৫",
+        "ঘ) ৩২"
+      ],
+      "answer": "গ) ৫",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 105
+    },
+    {
+      "id": 156,
+      "question": "ডিজিটাল ইলেকট্রনিক্সের যে কোনো সার্কিট বাস্তবায়ন করা যায় কোন গেইট দিয়ে?",
+      "imageUrl": "",
+      "options": [
+        "ক) XNOR",
+        "খ) OR",
+        "গ) NOR",
+        "ঘ) XOR"
+      ],
+      "answer": "গ) NOR",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 112
+    },
+    {
+      "id": 157,
+      "question": "উদ্দীপকে Y এর মান কত?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw=true",
+      "options": [
+        "ক) 0",
+        "খ) 1",
+        "গ) A",
+        "ঘ) A̅"
+      ],
+      "answer": "খ) 1",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 113
+    },
+    {
+      "id": 158,
+      "question": "উদ্দীপকের ইনপুট O এর পরিবর্তে B হলে বর্তনীয় আউটপুট কত হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw=true",
+      "options": [
+        "ক) not(A⊕B)",
+        "খ) A⊕B",
+        "গ) A̅B̅+A̅B",
+        "ঘ) A̅B̅+AB"
+      ],
+      "answer": "ক) not(A⊕B)",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 114
+    },
+    {
+      "id": 159,
+      "question": "উদ্দীপকে F এর সরলীকৃত মান হচ্ছে-",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw=true",
+      "options": [
+        "ক) AB",
+        "খ) A'B",
+        "গ) AB'",
+        "ঘ) A'B'"
+      ],
+      "answer": "ক) A",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 131
+    },
+    {
+      "id": 160,
+      "question": "উদ্দীপকে 'F' এর মান 'O' পেতে হলে 'P' এর স্থলে কোন গেইট হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw=true",
+      "options": [
+        "ক) AND",
+        "খ) OR",
+        "গ) NAND",
+        "ঘ) NOR"
+      ],
+      "answer": "ঘ) NOR",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 132
+    },
+    {
+      "id": 161,
+      "question": "কোন বর্তনী বাইনারি সংখ্যা যোগ করতে পারে?",
+      "imageUrl": "",
+      "options": [
+        "ক) এনকোডার",
+        "খ) ডিকোডার",
+        "গ) ফ্লিপ-ফ্লপ",
+        "ঘ) এডার"
+      ],
+      "answer": "ঘ) এডার",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 139
+    },
+    {
+      "id": 162,
+      "question": "একটি ডিকোডারের আউটপুট 64 পেতে হলে, ইনপুট কত দিতে হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 9",
+        "খ) 6",
+        "গ) 7",
+        "ঘ) 8"
+      ],
+      "answer": "খ) 6",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 149
+    },
+    {
+      "id": 163,
+      "question": "Y=ABC+C+BC- সরলীকৃত মান কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) A",
+        "খ) B",
+        "গ) C",
+        "ঘ) AB"
+      ],
+      "answer": "গ) C",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 150
+    },
+    {
+      "id": 164,
+      "question": "ডিকোডিংয়ের ক্ষেত্রে প্রযোজ্য- i. কোডকে বোধগম্য ভাষায় পরিণত করে ii. এনকোডারের বিপরীত কাজ করে iii. কম্পিউটার ইনপুট দেওয়ার কাজে ব্যবহৃত হয়",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 161
+    },
+    {
+      "id": 165,
+      "question": "বুলিয়ান যোগের কাজ সম্পাদনের জন্য ব্যবহৃত গেট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) OR",
+        "খ) NOT",
+        "গ) NOR",
+        "ঘ) AND"
+      ],
+      "answer": "ক) OR",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 169
+    },
+    {
+      "id": 166,
+      "question": "যে কোনো জটিল ইলেকট্রনিক্স সার্কিট তৈরি করা যায়-\ni. মৌলিক গেইট দিয়ে\nii. বিশেষ গেইট দিয়ে\niii. সার্বজনীন গেইট দিয়ে",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "Medium",
+      "chapterId": "3.2",
+      "master_id": 177
+    },
+    {
+      "id": 167,
+      "question": "বুলিয়ান এলজেবরা সরলীকরণ করার সময় প্রথমে কোনটি করতে হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) গুণ",
+        "খ) পূরক",
+        "গ) যোগ",
+        "ঘ) ভাগ"
+      ],
+      "answer": "খ) পূরক",
+      "level": "Medium",
+      "chapterId": "3.2",
+      "master_id": 195
+    },
+    {
+      "id": 168,
+      "question": "তথ্য ও উপাত্ত সংরক্ষণের সাথে জড়িত-\ni. অ্যাডার\nii. ফ্লিপফ্লপ\niii. রেজিস্টার",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "গ) ii ও iii",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 202
+    },
+    {
+      "id": 169,
+      "question": "ব্লকচিত্রের আউটপুট কত হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw=true",
+      "options": [
+        "ক) A+B",
+        "খ) AB",
+        "গ) A⊕B",
+        "ঘ) A.B"
+      ],
+      "answer": "গ) A⊕B",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 218
+    },
+    {
+      "id": 170,
+      "question": "উদ্দীপকের ব্লকচিত্রের সার্কিট বাস্তবায়নে যে গেইটের প্রয়োজন-\ni. AND\nii. X-OR\niii. OR",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw=true",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 219
+    },
+    {
+      "id": 171,
+      "question": "কোনটিতে Decoder ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) কী board",
+        "খ) মনিটর",
+        "গ) মাউস",
+        "ঘ) স্ক্যানার"
+      ],
+      "answer": "খ) মনিটর",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 225
+    },
+    {
+      "id": 172,
+      "question": "বুলিয়ান এলজেবরা সরলীকরণ করার সময় প্রথমে কোনটি করতে হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) গুণ",
+        "খ) যোগ",
+        "গ) পূরক",
+        "ঘ) ভাগ"
+      ],
+      "answer": "গ) পূরক",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 233
+    },
+    {
+      "id": 173,
+      "question": "P এর সরলীকৃত মানের সমতুল্য গেট কোনটি?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/Picture1.png?raw=true",
+      "options": [
+        "ক) NAND",
+        "খ) XOR",
+        "গ) NOR",
+        "ঘ) XNOR"
+      ],
+      "answer": "খ) XOR",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 238
+    },
+    {
+      "id": 174,
+      "question": "বুলিয়ান সহায়ক উপপাদ্য-\ni. $x+xy = x$\nii. $x(x+y)=x$\niii. $x+\\overline{x}y = x+y$",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 242
+    },
+    {
+      "id": 175,
+      "question": "বাইনারি ডেটা একদিকে বা উভয় দিকে স্থানান্তর করতে পারে কোন রেজিস্টার?",
+      "imageUrl": "",
+      "options": [
+        "ক) প্যারালার",
+        "খ) শিফট",
+        "গ) বাফার",
+        "ঘ) অ্যাকুমুলেটর"
+      ],
+      "answer": "খ) শিফট",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 269
+    },
+    {
+      "id": 176,
+      "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
+      "options": [
+        "ক) X·Y",
+        "খ) Ȳ·X̄",
+        "গ) X ⊙ Ȳ",
+        "ঘ) X ⊕ Y"
+      ],
+      "answer": "ঘ) X ⊕ Y",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 276
+    },
+    {
+      "id": 177,
+      "question": "চিত্রে '2' নং গেটের পরিবর্তে কোন গেট স্থাপন করলে F = 0 হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
+      "options": [
+        "ক) OR",
+        "খ) AND",
+        "গ) NOR",
+        "ঘ) NAND"
+      ],
+      "answer": "গ) NOR",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 277
+    },
+    {
+      "id": 178,
+      "question": "নিচের সার্কিটটির ক্ষেত্রে কখন আলো জ্বলবে না?\nচিত্র: ",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32.PNG?raw=true",
+      "options": [
+        "ক) A = 0, B = 0",
+        "খ) A = 1, B = 0",
+        "গ) A = 0, B = 1",
+        "ঘ) A = 1, B = 1"
+      ],
+      "answer": "ক) A = 0, B = 0",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 291
+    },
+    {
+      "id": 179,
+      "question": "হাফ অ্যাডারের ক্যারি তৈরিতে কোন গেটটি ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক. OR",
+        "খ. XOR",
+        "গ. AND",
+        "ঘ. XNOR"
+      ],
+      "answer": "গ. AND",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 308
+    },
+    {
+      "id": 180,
+      "question": "কোন গেটটি সকল ইনপুট 1 হলে আউটপুট 0 হয় অন্যথায় আউটপুট 1 হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক. NAND",
+        "খ. NOR",
+        "গ. XNOR",
+        "ঘ. AND"
+      ],
+      "answer": "ক. NAND",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 309
+    },
+    {
+      "id": 181,
+      "question": "Y এর সরলীকৃত মান হলো-",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch32.PNG?raw=true",
+      "options": [
+        "ক. A",
+        "খ. A̅",
+        "গ. B",
+        "ঘ. B̅"
+      ],
+      "answer": "খ. A̅",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 311
+    },
+    {
+      "id": 182,
+      "question": "উদ্দীপকের বর্তনীর অ্যান্ড গেটের পরিবর্তে অর গেইট বসালে Y এর মান কতো হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch32.PNG?raw=true",
+      "options": [
+        "ক. A",
+        "খ. B",
+        "গ. 0",
+        "ঘ. 1"
+      ],
+      "answer": "ঘ. 1",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 312
+    },
+    {
+      "id": 183,
+      "question": "নিচের কোন বর্তনী গণনা কাজ করে?",
+      "options": [
+        "ক) এনকোডার",
+        "খ) ডিকোডার",
+        "গ) কাউন্টার",
+        "ঘ) রেজিস্টার"
+      ],
+      "answer": "গ) কাউন্টার",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 323
+    },
+    {
+      "id": 184,
+      "question": "উদ্দীপকে 'Y' এর সরলীকৃত মান কোনটি?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw=true",
+      "options": [
+        "ক) A ⊕ B",
+        "খ) (A ⊕ B)'",
+        "গ) A + B",
+        "ঘ) (AB)'"
+      ],
+      "answer": "খ) (A ⊕ B)'",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 324
+    },
+    {
+      "id": 185,
+      "question": "উদ্দীপকে 'Y' এর মান '1' পেতে K এর স্থলে কোন গেইট হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Jb25ch32.PNG?raw=true",
+      "options": [
+        "ক) NOR",
+        "খ) NAND",
+        "গ) X-OR",
+        "ঘ) X-NOR"
+      ],
+      "answer": "খ) NAND",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 325
+    },
+    {
+      "id": 186,
+      "question": "সারণিটি দেখ নং প্রশ্নের উত্তর দাও:\n A, B, C এর মান কোনটি?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/chitt25ch32.PNG?raw=true",
+      "options": [
+        "ক) ১, ১, ০",
+        "খ) ০, ০, ১",
+        "গ) ০, ১, ০",
+        "ঘ) ১, ০, ১"
+      ],
+      "answer": "ঘ) ১, ০, ১",
+      "chapterId": "3.2",
+      "level": "medium",
+      "master_id": 362
+    },
+    {
+      "id": 187,
+      "question": "উদ্দীপকে উল্লিখিত চিত্রটি বাস্তবায়নের জন্য গেট হলো-\ni. NOR\nii. NAND\niii. AND\nনিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) ii ও iii",
+        "গ) i ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "chapterId": "3.2",
+      "level": "hard",
+      "master_id": 363
+    },
+    {
+      "id": 188,
+      "question": "বাইনারি যোগকে বুলিয়ান যোগের সাথে সমন্বয় করার জন্য কোন গেট ব্যবহার করা হয়?",
+      "options": [
+        "ক) XNOR",
+        "খ) OR",
+        "গ) NOR",
+        "ঘ) XOR"
+      ],
+      "answer": "ঘ) XOR",
+      "chapterId": "3.2",
+      "level": "medium",
+      "master_id": 371
+    },
+    {
+      "id": 189,
+      "question": "দুই ইনপুটে কোন গেটে ইনপুট দুটি ভিন্ন হলে আউটপুট 1 হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) AND",
+        "খ) NOR",
+        "গ) XOR",
+        "ঘ) XNOR"
+      ],
+      "answer": "গ) XOR",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 385
+    },
+    {
+      "id": 190,
+      "question": "চিত্রটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nউদ্দীপকে আউটপুট F এর সরলীকৃত মান হবে-",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw=true",
+      "options": [
+        "ক) A + B",
+        "খ) Ā + B",
+        "গ) A + B̅",
+        "ঘ) Ā + B̅"
+      ],
+      "answer": "গ) A + B̅",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 386
+    },
+    {
+      "id": 191,
+      "question": "XOR গেটের স্থলে কোন গেট বসালে আউটপুট 1 হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw=true",
+      "options": [
+        "ক) AND",
+        "খ) OR",
+        "গ) NAND",
+        "ঘ) NOR"
+      ],
+      "answer": "গ) NAND",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 387
+    },
+    {
+      "id": 192,
+      "question": "কোডভুক্ত করার জন্য ব্যবহৃত হয়-",
+      "imageUrl": "",
+      "options": [
+        "ক) এনকোডার",
+        "খ) ডিকোডার",
+        "গ) অ্যডার",
+        "ঘ) এনক্রিপশন"
+      ],
+      "answer": "ক) এনকোডার",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 406
+    },
+    {
+      "id": 193,
+      "question": "উদ্দীপকের বর্তনীটি হলো- (Context: একটি চিত্র যেখানে একটি XOR গেট-এর চিহ্ন আছে)",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dinaj.jpg?raw=true",
+      "options": [
+        "ক) XOR গেট",
+        "খ) NOR গেট",
+        "গ) XNOR গেট",
+        "ঘ) AND গেট"
+      ],
+      "answer": "ঘ) AND গেট",
+      "level": "easy",
+      "chapterId": "3.2",
+      "master_id": 407
+    },
+    {
+      "id": 194,
+      "question": "উদ্দীপকের আউটপুট কখন 1 হবে?",
+      "imageUrl": "https://i.ibb.co/L5k1x71/xor-gate.png",
+      "options": [
+        "ক) A=0, B=0 হলে",
+        "খ) A=1, B=1 হলে",
+        "গ) A ও B অসমান হলে",
+        "ঘ) সব ক্ষেত্রে"
+      ],
+      "answer": "খ) A=1, B=1 হলে",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 408
+    },
+    {
+      "id": 195,
+      "question": "উদ্দীপকের বর্তনীর আউটপুট 1 হলো- ",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dinaj.jpg?raw=true",
+      "options": [
+        "ক) A=0,B=0",
+        "খ) A=1,B=1",
+        "গ) A=0,B=1",
+        "ঘ) A=1,B=0"
+      ],
+      "answer": "খ) A=1,B=1",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 409
+    },
+    {
+      "id": 196,
+      "question": "(A+B)'(A'+B')' এর সরলীকৃত মান-",
+      "imageUrl": "",
+      "options": [
+        "ক) 0",
+        "খ) 1",
+        "গ) A",
+        "ঘ) B"
+      ],
+      "answer": "ক) 0",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 410
+    },
+    {
+      "id": 197,
+      "question": "F-এর সরলীকৃত মান কোনটি?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw=true",
+      "options": [
+        "ক) x + y",
+        "খ) xy",
+        "গ) x̅ + y̅",
+        "ঘ) x̅ · y̅"
+      ],
+      "answer": "খ) xy",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 426
+    },
+    {
+      "id": 198,
+      "question": "F-এর সরলীকৃত মানকে প্রতিস্থাপন করা যাবে-\ni. NAND Gate দিয়ে\nii. NOR Gate দিয়ে\niii. AND Gate দিয়ে\nনিচের কোনটি সঠিক?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw=true",
+      "options": [
+        "ক) i ও ii",
+        "খ) ii ও iii",
+        "গ) i ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 427
+    },
+    {
+      "id": 199,
+      "question": "নিচের চিত্রটি দ্বারা কোন বর্তনীকে নির্দেশ করে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32E.PNG?raw=true",
+      "options": [
+        "ক) হাফ অ্যাডার",
+        "খ) ফুল অ্যাডার",
+        "গ) এনকোডার",
+        "ঘ) ডিকোডার"
+      ],
+      "answer": "গ) এনকোডার",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 431
+    },
+    {
+      "id": 200,
+      "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nউদ্দীপকের উল্লিখিত সত্যক সারণি প্রাপ্ত সমীকরণ হলো-\ni. X = ĀB + AB̄\nii. X = AB + ĀB̄\niii. X = (ĀB + AB̄)'",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32.PNG?raw=true",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "গ) ii ও iii",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 453
+    },
+    {
+      "id": 201,
+      "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\n উদ্দীপকের সার্কিটটি কোন গেটকে নির্দেশ করে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw=true",
+      "options": [
+        "ক) OR",
+        "খ) NOR",
+        "গ) XOR",
+        "ঘ) X-NOR"
+      ],
+      "answer": "ঘ) X-NOR",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 454
+    },
+    {
+      "id": 202,
+      "question": "এখানে, P = ?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw=true",
+      "options": [
+        "ক) A·B·C",
+        "খ) A + B + C",
+        "গ) Ā B C̄ ",
+        "ঘ) A + B + C"
+      ],
+      "answer": "গ) Ā B C̄ ",
+      "level": "medium",
+      "chapterId": "3.2",
+      "master_id": 455
+    },
+    {
+      "id": 203,
+      "question": "P = 1 হবে, যখন",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw=true",
+      "options": [
+        "ক) A = 0, B = 1, C = 1",
+        "খ) A = 1, B = 0, C = 1",
+        "গ) A = 1, B = 1, C = 1",
+        "ঘ) A = 0, B = 1, C = 0"
+      ],
+      "answer": "ঘ) A = 0, B = 1, C = 0",
+      "level": "hard",
+      "chapterId": "3.2",
+      "master_id": 456
     }
   ]
 }

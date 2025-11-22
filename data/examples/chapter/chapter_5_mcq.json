@@ -1,304 +1,1676 @@
 {
-   "mcqs":[
-      {
-         "id":1,
-         "question":"101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
-         "options":[
-            "ক. 101100",
-            "খ. 010010",
-            "গ. 101000",
-            "ঘ. 101111"
-         ],
-         "answer":"খ. 010010",
-         "level":"easy"
-      },
-      {
-         "id":2,
-         "question":"ফাইবার অপটিক ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
-         "options":[
-            "ক. লেজার",
-            "খ. গামা",
-            "গ. বিটা",
-            "ঘ. আলফা"
-         ],
-         "answer":"ক. লেজার",
-         "level":"easy"
-      },
-      {
-         "id":3,
-         "question":"কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
-         "options":[
-            "ক. শিক্ষা",
-            "খ. বাণিজ্যিক",
-            "গ. সরকারি",
-            "ঘ. আন্তর্জাতিক"
-         ],
-         "answer":"খ. বাণিজ্যিক",
-         "level":"medium"
-      },
-      {
-         "id":4,
-         "question":"উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
-         "options":[
-            "ক. SMTP",
-            "খ. VOIP",
-            "গ. FTP",
-            "খ. HTTP"
-         ],
-         "answer":"ঘ. HTTP",
-         "level":"medium"
-      },
-      {
-         "id":5,
-         "question":"ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
-         "options":[
-            "ক. %c",
-            "খ. %s",
-            "গ. %lf",
-            "ঘ. %d"
-         ],
-         "answer":"ক. %c",
-         "level":"easy"
-      },
-      {
-         "id":6,
-         "question":"নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i=3; i <= 15; i+=2)\nif (i-- > 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
-         "options":[
-            "ক. ৩",
-            "খ. ৪",
-            "গ. ৫",
-            "ঘ. ৬"
-         ],
-         "answer":"খ. ৪",
-         "level":"medium"
-      },
-      {
-         "id":7,
-         "question":"ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
-         "options":[
-            "ক. সাশ্রয়ী ও সহজলভ্য",
-            "খ. লাইসেন্স ফি লাগে",
-            "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
-            "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
-         ],
-         "answer":"ক. সাশ্রয়ী ও সহজলভ্য",
-         "level":"easy"
-      },
-      {
-         "id":8,
-         "question":"নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?",
-         "options":[
-            "ক. A'B + AB'",
-            "খ. AB + A'B",
-            "গ. AB'",
-            "ঘ. A+B"
-         ],
-         "answer":"ক. A'B + AB'",
-         "level":"medium"
-      },
-      {
-         "id":9,
-         "question":"নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-",
-         "options":[
-            "ক. A=1, B=0",
-            "খ. A=0, B=1",
-            "গ. A=1, B=1",
-            "ঘ. A=0, B=0"
-         ],
-         "answer":"ক. A=1, B=0",
-         "level":"medium"
-      },
-      {
-         "id":10,
-         "question":"#FFFFFF কোন রং নির্দেশ করে?",
-         "options":[
-            "ক. সাদা",
-            "খ. নীল",
-            "গ. সায়ান",
-            "ঘ. লাল"
-         ],
-         "answer":"ক. সাদা",
-         "level":"easy"
-      },
-      {
-         "id":11,
-         "question":"নিচের উদ্দীপকটি পড় প্রশ্নের উত্তর দাও।\nvoid main()\n{\nint i=15, j;\nj = i++;\nprintf(\"%d %d\", i,j);\n}\nউদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
-         "options":[
-            "ক. 15, 15",
-            "খ. 15, 16",
-            "গ. 16, 16",
-            "ঘ. 16, 17"
-         ],
-         "answer":"ক. 15, 15",
-         "level":"medium"
-      },
-      {
-         "id":12,
-         "question":"জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
-         "options":[
-            "ক. জিন",
-            "খ. জিনোম",
-            "গ. নিউক্লিয়াস",
-            "ঘ. ক্রোমোজোম"
-         ],
-         "answer":"খ. জিনোম",
-         "level":"easy"
-      },
-      {
-         "id":13,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":14,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":15,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":16,
-         "question":"একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
-         "options":[
-            "ক. (170)10",
-            "খ. (252)10",
-            "গ. (10101010)2",
-            "ঘ. উপরের কোনটি সঠিক?"
-         ],
-         "answer":"ক. (170)10",
-         "level":"hard"
-      },
-      {
-         "id":17,
-         "question":"নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
-         "options":[
-            "ক. <table bgcolor=\"green\">",
-            "খ. <tr bgcolor=\"green\">",
-            "গ. <td bgcolor=\"green\">",
-            "ঘ. <th bgcolor=\"green\">"
-         ],
-         "answer":"গ. <td bgcolor=\"green\">",
-         "level":"medium"
-      },
-      {
-         "id":18,
-         "question":"হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
-         "options":[
-            "ক. EBCDIC",
-            "খ. ASCII-7",
-            "গ. ASCII-8",
-            "ঘ. Unicode"
-         ],
-         "answer":"ঘ. Unicode",
-         "level":"easy"
-      },
-      {
-         "id":19,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":20,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":21,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":22,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      },
-      {
-         "id":23,
-         "question":"কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
-         "options":[
-            "ক. কী-বোর্ড",
-            "খ. পেজার",
-            "গ. এসএমএস",
-            "ঘ. মোবাইল"
-         ],
-         "answer":"খ. পেজার",
-         "level":"easy"
-      },
-      {
-         "id":24,
-         "question":"অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
-         "options":[
-            "ক. main",
-            "খ. DIV",
-            "গ. return",
-            "ঘ. In"
-         ],
-         "answer":"খ. DIV",
-         "level":"medium"
-      },
-      {
-         "id":25,
-         "question":"কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
-         "options":[
-            "ক. রোবটিক্স",
-            "খ. বায়োমেট্রিক্স",
-            "গ. বায়োইনফরমেটিক্স",
-            "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
-         ],
-         "answer":"গ. বায়োইনফরমেটিক্স",
-         "level":"medium"
-      }
-   ]
+  "mcqs": [
+    {
+      "id": 1,
+      "question": "101101 এর বাইনারি কমপ্লিমেন্ট কোনটি?",
+      "options": [
+        "ক. 101100",
+        "খ. 010010",
+        "গ. 101000",
+        "ঘ. 101111"
+      ],
+      "answer": "খ. 010010",
+      "level": "easy"
+    },
+    {
+      "id": 2,
+      "question": "ফাইবার অপটিক ডেটা প্রেরণের জন্য কোন আলোক রশ্মি ব্যবহৃত হয়?",
+      "options": [
+        "ক. লেজার",
+        "খ. গামা",
+        "গ. বিটা",
+        "ঘ. আলফা"
+      ],
+      "answer": "ক. লেজার",
+      "level": "easy"
+    },
+    {
+      "id": 3,
+      "question": "কামাল একজন ওয়েব ডেভোলপার। সে ক্লাইন্টের জন্য www.allNews.com ওয়েব সাইট তৈরি করেন। ওয়েব সাইটটি ব্যবহার করে দেশ-বিদেশের খবর জানা যায়। উদ্দীপকে তৈরিকৃত ওয়েব সাইটটি কোন প্রকৃতির প্রতিষ্ঠান?",
+      "options": [
+        "ক. শিক্ষা",
+        "খ. বাণিজ্যিক",
+        "গ. সরকারি",
+        "ঘ. আন্তর্জাতিক"
+      ],
+      "answer": "খ. বাণিজ্যিক",
+      "level": "medium"
+    },
+    {
+      "id": 4,
+      "question": "উদ্দীপকে কামালের তৈরিকৃত ওয়েব সাইটটি ভিজিটের জন্য কোন ধরনের প্রটোকল ব্যবহৃত হয়?",
+      "options": [
+        "ক. SMTP",
+        "খ. VOIP",
+        "গ. FTP",
+        "খ. HTTP"
+      ],
+      "answer": "ঘ. HTTP",
+      "level": "medium"
+    },
+    {
+      "id": 5,
+      "question": "ক্যারেক্টার ইনপুট নেয়া যায় কোনটি দিয়ে?",
+      "options": [
+        "ক. %c",
+        "খ. %s",
+        "গ. %lf",
+        "ঘ. %d"
+      ],
+      "answer": "ক. %c",
+      "level": "easy"
+    },
+    {
+      "id": 6,
+      "question": "নিচের উদ্দীপকটি পড় এবং ৬ নং প্রশ্নের উত্তর দাও।\nfor (i=3; i <= 15; i+=2)\nif (i-- > 12)\ncontinue\nprintf(\"ICT\");\nপ্রোগ্রামটিতে 'ICT' কতবার প্রদর্শিত হবে?",
+      "options": [
+        "ক. ৩",
+        "খ. ৪",
+        "গ. ৫",
+        "ঘ. ৬"
+      ],
+      "answer": "খ. ৪",
+      "level": "medium"
+    },
+    {
+      "id": 7,
+      "question": "ক্লাউড কম্পিউটিং এর সুফল কোনটি?",
+      "options": [
+        "ক. সাশ্রয়ী ও সহজলভ্য",
+        "খ. লাইসেন্স ফি লাগে",
+        "গ. অ্যাপ্লিকেশনের উপর নিয়ন্ত্রণ রাখা যায়",
+        "ঘ. তথ্যের গোপনীয়তা বজায় থাকে"
+      ],
+      "answer": "ক. সাশ্রয়ী ও সহজলভ্য",
+      "level": "easy"
+    },
+    {
+      "id": 8,
+      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)। উদ্দীপকের Y এর সমীকরণ কোনটি?",
+      "options": [
+        "ক. A'B + AB'",
+        "খ. AB + A'B",
+        "গ. AB'",
+        "ঘ. A+B"
+      ],
+      "answer": "ক. A'B + AB'",
+      "level": "medium"
+    },
+    {
+      "id": 9,
+      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও।\n(Diagram of a logic gate with inputs A, B and output Y)।উদ্দীপকে Y এর মান 1, যখন-",
+      "options": [
+        "ক. A=1, B=0",
+        "খ. A=0, B=1",
+        "গ. A=1, B=1",
+        "ঘ. A=0, B=0"
+      ],
+      "answer": "ক. A=1, B=0",
+      "level": "medium"
+    },
+    {
+      "id": 10,
+      "question": "#FFFFFF কোন রং নির্দেশ করে?",
+      "options": [
+        "ক. সাদা",
+        "খ. নীল",
+        "গ. সায়ান",
+        "ঘ. লাল"
+      ],
+      "answer": "ক. সাদা",
+      "level": "easy"
+    },
+    {
+      "id": 11,
+      "question": "নিচের উদ্দীপকটি পড় প্রশ্নের উত্তর দাও।\nvoid main()\n{\nint i=15, j;\nj = i++;\nprintf(\"%d %d\", i,j);\n}\nউদ্দীপকের প্রোগ্রামটি রান করলে i ও j এর মান কত হবে?",
+      "options": [
+        "ক. 15, 15",
+        "খ. 15, 16",
+        "গ. 16, 16",
+        "ঘ. 16, 17"
+      ],
+      "answer": "ক. 15, 15",
+      "level": "medium"
+    },
+    {
+      "id": 12,
+      "question": "জৈবিক বৈশিষ্ট্যের নকশা বা বিন্যাসকে কী বলে?",
+      "options": [
+        "ক. জিন",
+        "খ. জিনোম",
+        "গ. নিউক্লিয়াস",
+        "ঘ. ক্রোমোজোম"
+      ],
+      "answer": "খ. জিনোম",
+      "level": "easy"
+    },
+    {
+      "id": 13,
+      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
+      "options": [
+        "ক. রোবটিক্স",
+        "খ. বায়োমেট্রিক্স",
+        "গ. বায়োইনফরমেটিক্স",
+        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+      ],
+      "answer": "গ. বায়োইনফরমেটিক্স",
+      "level": "medium"
+    },
+    {
+      "id": 14,
+      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
+      "options": [
+        "ক. কী-বোর্ড",
+        "খ. পেজার",
+        "গ. এসএমএস",
+        "ঘ. মোবাইল"
+      ],
+      "answer": "খ. পেজার",
+      "level": "easy"
+    },
+    {
+      "id": 15,
+      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
+      "options": [
+        "ক. main",
+        "খ. DIV",
+        "গ. return",
+        "ঘ. In"
+      ],
+      "answer": "খ. DIV",
+      "level": "medium"
+    },
+    {
+      "id": 16,
+      "question": "একটি বইয়ের মূল্য (AA)16 হলে তার সমকক্ষ-",
+      "options": [
+        "ক. (170)10",
+        "খ. (252)10",
+        "গ. (10101010)2",
+        "ঘ. উপরের কোনটি সঠিক?"
+      ],
+      "answer": "ক. (170)10",
+      "level": "hard"
+    },
+    {
+      "id": 17,
+      "question": "নিচের কোন ট্যাগ ব্যবহার করলে টেবিল সেলের ব্যাকগ্রাউন্ড কালার সবুজ হবে?",
+      "options": [
+        "ক. <table bgcolor=\"green\">",
+        "খ. <tr bgcolor=\"green\">",
+        "গ. <td bgcolor=\"green\">",
+        "ঘ. <th bgcolor=\"green\">"
+      ],
+      "answer": "গ. <td bgcolor=\"green\">",
+      "level": "medium"
+    },
+    {
+      "id": 18,
+      "question": "হায়ারোগ্লিফিক্স ভাষা হতে বর্তমান ইমোজি পর্যন্ত কোন কোডের অন্তর্ভুক্ত?",
+      "options": [
+        "ক. EBCDIC",
+        "খ. ASCII-7",
+        "গ. ASCII-8",
+        "ঘ. Unicode"
+      ],
+      "answer": "ঘ. Unicode",
+      "level": "easy"
+    },
+    {
+      "id": 19,
+      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
+      "options": [
+        "ক. রোবটিক্স",
+        "খ. বায়োমেট্রিক্স",
+        "গ. বায়োইনফরমেটিক্স",
+        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+      ],
+      "answer": "গ. বায়োইনফরমেটিক্স",
+      "level": "medium"
+    },
+    {
+      "id": 20,
+      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
+      "options": [
+        "ক. কী-বোর্ড",
+        "খ. পেজার",
+        "গ. এসএমএস",
+        "ঘ. মোবাইল"
+      ],
+      "answer": "খ. পেজার",
+      "level": "easy"
+    },
+    {
+      "id": 21,
+      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
+      "options": [
+        "ক. main",
+        "খ. DIV",
+        "গ. return",
+        "ঘ. In"
+      ],
+      "answer": "খ. DIV",
+      "level": "medium"
+    },
+    {
+      "id": 22,
+      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
+      "options": [
+        "ক. রোবটিক্স",
+        "খ. বায়োমেট্রিক্স",
+        "গ. বায়োইনফরমেটিক্স",
+        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+      ],
+      "answer": "গ. বায়োইনফরমেটিক্স",
+      "level": "medium"
+    },
+    {
+      "id": 23,
+      "question": "কোনটি হাফ ডুপ্লেক্স মোডের উদাহরণ?",
+      "options": [
+        "ক. কী-বোর্ড",
+        "খ. পেজার",
+        "গ. এসএমএস",
+        "ঘ. মোবাইল"
+      ],
+      "answer": "খ. পেজার",
+      "level": "easy"
+    },
+    {
+      "id": 24,
+      "question": "অ্যাসেম্বলি ভাষায় নেমোনিক কোড কোনটি?",
+      "options": [
+        "ক. main",
+        "খ. DIV",
+        "গ. return",
+        "ঘ. In"
+      ],
+      "answer": "খ. DIV",
+      "level": "medium"
+    },
+    {
+      "id": 25,
+      "question": "কোনটি আন্তঃশাস্ত্রীয় বিজ্ঞান?",
+      "options": [
+        "ক. রোবটিক্স",
+        "খ. বায়োমেট্রিক্স",
+        "গ. বায়োইনফরমেটিক্স",
+        "ঘ. জেনেটিক ইঞ্জিনিয়ারিং"
+      ],
+      "answer": "গ. বায়োইনফরমেটিক্স",
+      "level": "medium"
+    },
+    {
+      "id": 26,
+      "question": "একই ধরনের ডেটা সংরক্ষণ করে কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) ফাংশন",
+        "খ) পয়েন্টার",
+        "গ) অ্যারে",
+        "ঘ) স্ট্রাকচার"
+      ],
+      "answer": "গ) অ্যারে",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 9
+    },
+    {
+      "id": 27,
+      "question": "উদ্দীপক \nint a = 2, b;\nb = ++a;\nPrintf(\"%d\", b);\nউদ্দীপকে 'b' এর মান কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) 0",
+        "খ) 2",
+        "গ) 3",
+        "ঘ) 4"
+      ],
+      "answer": "গ) 3",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 11
+    },
+    {
+      "id": 28,
+      "question": "উদ্দীপকের \nint a = 2, b;\nb = ++a;\nPrintf(\"%d\", b);\n সিনট্যাক্সে কোন পরিবর্তন ঘটলে আউটপুট 5 হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) b = a--",
+        "খ) b = a++",
+        "গ) b = a - 3",
+        "ঘ) b = a + 3"
+      ],
+      "answer": "ঘ) b = a + 3",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 12
+    },
+    {
+      "id": 29,
+      "question": "'C' ভাষায় বৈধ চলক কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) ab@yahoo",
+        "খ) Roll107",
+        "গ) abc ny",
+        "ঘ) 5th"
+      ],
+      "answer": "খ) Roll107",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 13
+    },
+    {
+      "id": 30,
+      "question": "X এর মান 5 হলে, এক্সপ্রেশন X += 15 এর মান কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) 5",
+        "খ) 15",
+        "গ) 10",
+        "ঘ) 20"
+      ],
+      "answer": "ঘ) 20",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 19
+    },
+    {
+      "id": 31,
+      "question": "সফটওয়্যার তৈরির জন্য কোনটি প্রয়োজন?",
+      "image": "",
+      "options": [
+        "ক) হার্ডওয়্যার",
+        "খ) প্রোগ্রাম",
+        "গ) কম্পিউটার ভাষা",
+        "ঘ) ফার্মওয়্যার"
+      ],
+      "answer": "গ) কম্পিউটার ভাষা",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 42
+    },
+    {
+      "id": 32,
+      "question": "নিচের C প্রোগ্রামটি রান করলে আউটপুট কত হবে?\nint a = 3, b;\nb = 2 * a;\nprintf(\"%d\", b);",
+      "image": "",
+      "options": [
+        "ক) 3",
+        "খ) 4",
+        "গ) 5",
+        "ঘ) 6"
+      ],
+      "answer": "ঘ) 6",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 44
+    },
+    {
+      "id": 33,
+      "question": "C প্রোগ্রামে ফ্লটিং প্রদর্শনের জন্য ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "image": "",
+      "options": [
+        "ক) %f",
+        "খ) %d",
+        "গ) %c",
+        "ঘ) %s"
+      ],
+      "answer": "ক) %f",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 47
+    },
+    {
+      "id": 34,
+      "question": "চিত্রের ? স্থানে কোনটি হবে ",
+      "imageUrl": "https://github.com/promahadihasan/aiIctTutor/blob/dataset/students/assets/images/allboard2014_sylhetboard_q_23.png?raw=true",
+      "options": [
+        "ক) Assembler",
+        "খ) Interpreter",
+        "গ)Compiler",
+        "ঘ) Linker "
+      ],
+      "answer": "গ)Compiler",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 49
+    },
+    {
+      "id": 35,
+      "question": "উদ্দীপকের প্রোগ্রামটিতে \"HTML\" কতকবার প্রদর্শিত হবে?",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw=true",
+      "options": [
+        "ক) 3",
+        "খ) 4",
+        "গ) 5",
+        "ঘ) 6"
+      ],
+      "answer": "গ) 5",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 62
+    },
+    {
+      "id": 36,
+      "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational",
+      "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw=true",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 63
+    },
+    {
+      "id": 37,
+      "question": "ডেটা টাইপ double এর ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) %d",
+        "খ) %f",
+        "গ) %ld",
+        "ঘ) %lf"
+      ],
+      "answer": "ঘ) %lf",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 65
+    },
+    {
+      "id": 38,
+      "question": "প্রোগ্রাম ফ্লোচার্টে প্রক্রিয়াকরণে কোন প্রতীকটি ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) বৃত্ত",
+        "খ) সামান্তরিক",
+        "গ) রম্বস",
+        "ঘ) আয়তক্ষেত্র"
+      ],
+      "answer": "ঘ) আয়তক্ষেত্র",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 66
+    },
+    {
+      "id": 39,
+      "question": "প্রোগ্রাম ডিজাইন মডেলে ২০%-৪০% সময় ব্যায় করা হয় কোনটিতে?",
+      "imageUrl": "",
+      "options": [
+        "ক) রক্ষণাবেক্ষণ",
+        "খ) নিরীক্ষণ",
+        "গ) বিশ্লেষণ",
+        "ঘ) ডিজাইন"
+      ],
+      "answer": "ঘ) ডিজাইন",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 88
+    },
+    {
+      "id": 40,
+      "question": "নট (!) অপারেটরের ক্ষেত্রে হতে পারে- i. অপারেটরের পরে কেবল একটি শর্ত থাকবে ii. শর্তটি মিথ্যা হলে পুরো শর্তটি সত্য হবে iii. শর্তটি সত্য হলে পুরো শর্তটি মিথ্যা হবে",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 89
+    },
+    {
+      "id": 41,
+      "question": "উদ্দীপকের প্রোগ্রামটিতে \"HSC Exam\" কতবার প্রদর্শিত হবে- \n for (i = 1; i < = 6; i ++) \n { \n if (i = = 4)\n continue;\n printf (“HSC Exam”);\n } ",
+      "imageUrl": "",
+      "options": [
+        "ক) 2",
+        "খ) 5",
+        "গ) 4",
+        "ঘ) 6"
+      ],
+      "answer": "খ) 5",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 90
+    },
+    {
+      "id": 42,
+      "question": "প্রোগ্রামটির আউটপুট কত? \n # include <stdio.h>\n main()\n {\n int a,b;\n b=10;\n a=b%5;\n printf (“%d”, a);\n} ",
+      "imageUrl": "",
+      "options": [
+        "ক) 0",
+        "খ) 2",
+        "গ) 5",
+        "ঘ) 10"
+      ],
+      "answer": "ক) 0",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 91
+    },
+    {
+      "id": 43,
+      "question": "'সি' প্রোগ্রামিং ভাষা হলো- i. 'সি' একটি কেস সেনসিটিভ ভাষা ii. 'সি' একটি মধ্যম স্তরের ভাষা iii. 'সি' একটি উচ্চ স্তরের ভাষা",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ক) i ও ii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 92
+    },
+    {
+      "id": 44,
+      "question": "double ডেটা টাইপের ফরমেট স্পেসিফায়ার কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) %d",
+        "খ) %c",
+        "গ) %if",
+        "ঘ) %f"
+      ],
+      "answer": "ঘ) %f",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 100
+    },
+    {
+      "id": 45,
+      "question": "প্রোগ্রামের লুপে। এর মান 1 বৃদ্ধি করতে ব্যবহৃত হয়- i. i++ ii. i=i+1 iii. i+=1",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) ii ও iii",
+        "গ) i ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 101
+    },
+    {
+      "id": 46,
+      "question": "উদ্দীপকের প্রোগ্রামটির আউটপুট কোনটি? \n for ( i = 10; i < = 15; i + = 2) \n { \n if (i > 12) \n print f (“%d”, i + 1); \n else \n print f (“%d”, i – 1);\n }",
+      "imageUrl": "",
+      "options": [
+        "ক) 9 11 15",
+        "খ) 10 11 15",
+        "গ) 10 12 15",
+        "ঘ) 9 11 14"
+      ],
+      "answer": "ক) 9 11 15",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 103
+    },
+    {
+      "id": 47,
+      "question": "\n for ( i = 10; i < = 15; i + = 2) \n { \n if (i > 12) \n print f (“%d”, i + 1); \n else \n print f (“%d”, i – 1);\n }\n উদ্দীপকে i>12 এর পরিবর্তে i<12 হলে আউটপুট হবে-",
+      "imageUrl": "",
+      "options": [
+        "ক) 11 13 15",
+        "খ) 11 11 13",
+        "গ) 11 13 13",
+        "ঘ) 10 12 14"
+      ],
+      "answer": "খ) 11 11 13",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 104
+    },
+    {
+      "id": 48,
+      "question": "নিচের C প্রোগ্রামটিতে আউটপুট কত হবে? \n int a = 20, b = 10; \n float c = 10.0; \n printf (“%d, %d, %d”, a, b, a % b);",
+      "imageUrl": "",
+      "options": [
+        "ক. 20, 10, 0",
+        "খ. 20, 10, 10",
+        "গ. 20, 10, 0.0",
+        "ঘ. 20, 10, 10.0"
+      ],
+      "answer": "ক. 20, 10, 0",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 122
+    },
+    {
+      "id": 49,
+      "question": "সি প্রোগ্রামের কন্ডিশনাল কন্ট্রোল স্টেটমেন্ট কোনটি নয়?",
+      "imageUrl": "",
+      "options": [
+        "ক. If-else",
+        "খ. switch",
+        "গ. goto",
+        "ঘ. do while"
+      ],
+      "answer": "ঘ. do while",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 123
+    },
+    {
+      "id": 50,
+      "question": "অসমান বুঝানোর জন্য কোনটি ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক. !=",
+        "খ. =!",
+        "গ. < >",
+        "ঘ. = ="
+      ],
+      "answer": "ক. !=",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 124
+    },
+    {
+      "id": 51,
+      "question": "নিচের কোনটি সঠিক চলক?",
+      "imageUrl": "",
+      "options": [
+        "ক) 1num",
+        "খ) 2_num",
+        "গ) char",
+        "ঘ) num2"
+      ],
+      "answer": "ঘ) num2",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 127
+    },
+    {
+      "id": 52,
+      "question": "for (i = 3; i<=20; i = i + 3)\n Printf(“ICT”); \n প্রোগ্রামটি রান করলে ICT লেখাটি কতবার প্রদর্শিত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ১০",
+        "খ) ৬",
+        "গ) ১৫",
+        "ঘ) ৫"
+      ],
+      "answer": "খ) ৬",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 128
+    },
+    {
+      "id": 53,
+      "question": "for (i = 3; i<=20; i = i + 3)\n Printf(“ICT”); \n উদ্দীপকে Printf (\"ICT\") স্টেটম্যান্ট এর পূর্বে if (i==12 || i==18) continue; ব্যবহার করা হলে ICT লেখাটি কতবার প্রদর্শিত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 4",
+        "খ) 12",
+        "গ) 5",
+        "ঘ) 18"
+      ],
+      "answer": "ক) 4",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 129
+    },
+    {
+      "id": 54,
+      "question": "for (i=1; i<=9; i+=2)\n pritnf (\"%d,\", i); \nকোনটি উপরের স্টেটমেন্টের ফলাফল?",
+      "imageUrl": "",
+      "options": [
+        "ক) 1, 2, 3, 4, 5, 6, 7, 8, 9",
+        "খ) 1, 2, 3, 4, 5, 6, 7, 8",
+        "গ) 1,3,5,7,9",
+        "ঘ) 2,4,6,8"
+      ],
+      "answer": "গ) 1,3,5,7,9",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 156
+    },
+    {
+      "id": 55,
+      "question": "প্রোগ্রামের ভুল খুঁজে বের করাকে কী বলে?",
+      "imageUrl": "",
+      "options": [
+        "ক) এনকোডিং",
+        "খ) ডিকোডিং",
+        "গ) ডিবাগিং",
+        "ঘ) Error: Missing Option"
+      ],
+      "answer": "গ) ডিবাগিং",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 157
+    },
+    {
+      "id": 56,
+      "question": "সি ভাষায় লেখা উদ্দীপকটির আউটপুট কত হবে? (\nS=2; \n for (i=1 ;i<=10; i++)\n S=S+i;\n printf (“%d”, S);)",
+      "imageUrl": "",
+      "options": [
+        "ক) 50",
+        "খ) 54",
+        "গ) 57",
+        "ঘ) 47"
+      ],
+      "answer": "গ) 57",
+      "level": "Medium",
+      "chapterId": "5",
+      "master_id": 183
+    },
+    {
+      "id": 57,
+      "question": "'i' এর কোন মানের পরিবর্তনের জন্য আউটপুট 32 হবে? \n S=2; \n for (i=1;i<=10; i++)\n S=S+i;\n printf (“%d”, S);)",
+      "imageUrl": "",
+      "options": [
+        "ক) $i=2$; $i=i+2$",
+        "খ) $i=1$; $i=i+2$",
+        "গ) $i=2$; $i=i+1$",
+        "ঘ) $i=0$; $i=i+1$"
+      ],
+      "answer": "ক) $i=2$; $i=i+2$",
+      "level": "Medium",
+      "chapterId": "5",
+      "master_id": 184
+    },
+    {
+      "id": 58,
+      "question": "কোনটি লজিক্যাল অপারেটর?",
+      "imageUrl": "",
+      "options": [
+        "ক) $==$",
+        "খ) $!=$",
+        "গ) $>=$",
+        "ঘ) $||$"
+      ],
+      "answer": "ঘ) $||$",
+      "level": "Medium",
+      "chapterId": "5",
+      "master_id": 185
+    },
+    {
+      "id": 59,
+      "question": "C++ ভাষাটি উদ্ভাবন করেন কে?",
+      "imageUrl": "",
+      "options": [
+        "ক) ডেনিস রিচি",
+        "খ) গিডো ডান রসাম",
+        "গ) জন স্ট্রাউস্ট্রপ",
+        "ঘ) অ্যাডা লাভলেস"
+      ],
+      "answer": "ক) ডেনিস রিচি",
+      "level": "Medium",
+      "chapterId": "5",
+      "master_id": 189
+    },
+    {
+      "id": 60,
+      "question": "ডাটা টাইপ ডাবল এর ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) %i",
+        "খ) %d",
+        "গ) %if",
+        "ঘ) %lf"
+      ],
+      "answer": "ঘ) %lf",
+      "level": "Medium",
+      "chapterId": "5",
+      "master_id": 190
+    },
+    {
+      "id": 61,
+      "question": "নিচের কোনটি সঠিক চলক-",
+      "imageUrl": "",
+      "options": [
+        "ক) HSC Exam",
+        "খ) Final_Result",
+        "গ) int main",
+        "ঘ) our@college"
+      ],
+      "answer": "খ) Final_Result",
+      "level": "Medium",
+      "chapterId": "5",
+      "master_id": 194
+    },
+    {
+      "id": 62,
+      "question": "নিচের কোনটি রিলেশনাল অপারেটর?",
+      "imageUrl": "",
+      "options": [
+        "ক) !=",
+        "খ) #=",
+        "গ) <<",
+        "ঘ) >>"
+      ],
+      "answer": "ক) ==",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 205
+    },
+    {
+      "id": 63,
+      "question": "প্রোগ্রামের ভুলত্রুটি সংশোধনের পদ্ধতিকে বলা হয়-",
+      "imageUrl": "",
+      "options": [
+        "ক) ডিকোডিং",
+        "খ) এনকোডিং",
+        "গ) ডিবাগিং",
+        "ঘ) কারেকশন"
+      ],
+      "answer": "গ) ডিবাগিং",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 206
+    },
+    {
+      "id": 64,
+      "question": "দুটি স্ট্রিং এর মাঝে তুলনা করার জন্য C প্রোগ্রামিং ল্যাঙ্গুয়েজে কোন লাইব্রেরি ফাংশন ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) Strcmp()",
+        "খ) Strlen ()",
+        "গ) Stin ()",
+        "ঘ) Strpn ()"
+      ],
+      "answer": "ক) Strcmp()",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 207
+    },
+    {
+      "id": 65,
+      "question": "প্রোগ্রামটির আউটপুট কত হবে? (Code:\n\n float A=21.5, float B=9.7,\n float sum=A+B,\n printf(\"summation %.2f\", sum);)",
+      "imageUrl": "",
+      "options": [
+        "ক) 31",
+        "খ) 31.20",
+        "গ) 32",
+        "ঘ) 32.20"
+      ],
+      "answer": "খ) 31.20",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 208
+    },
+    {
+      "id": 66,
+      "question": "(Code:\n\n float A=21.5, float B=9.7,\n float sum=A+B,\n printf(\"summation %.2f\", sum);)\n\nপ্রোগ্রামটির ভ্যারিয়েবলগুলো মেমোরিতে মোট কত বাইট জায়গা দখল করবে? (float A, float B, float sum)",
+      "imageUrl": "",
+      "options": [
+        "ক) 8",
+        "খ) ১২",
+        "গ) ১৬",
+        "ঘ) ২০"
+      ],
+      "answer": "খ) ১২",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 209
+    },
+    {
+      "id": 67,
+      "question": "কোনটি সঠিক ডাটা টাইপ?",
+      "imageUrl": "",
+      "options": [
+        "ক) double",
+        "খ) main",
+        "গ) printf",
+        "ঘ) scanf"
+      ],
+      "answer": "ক) double",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 232
+    },
+    {
+      "id": 68,
+      "question": "সি ভাষায় সঠিক ফাংশন কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) double",
+        "খ) main()",
+        "গ) printf",
+        "ঘ) scanf"
+      ],
+      "answer": "খ) main()",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 234
+    },
+    {
+      "id": 69,
+      "question": "সি ভাষায় \"%\" কোন ধরনের অপারেটর?",
+      "imageUrl": "",
+      "options": [
+        "ক) অ্যারিথমেটিক",
+        "খ) লজিক্যাল",
+        "গ) রিলেশনাল",
+        "ঘ) অ্যাসাইনমেন্ট"
+      ],
+      "answer": "ক) অ্যারিথমেটিক",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 235
+    },
+    {
+      "id": 70,
+      "question": "scanf(); এর জন্য কোন হেডার ফাইল সংযুক্ত করতে হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) stdio.h",
+        "খ) conio.h",
+        "গ) math.h",
+        "ঘ) string.h"
+      ],
+      "answer": "ক) stdio.h",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 240
+    },
+    {
+      "id": 71,
+      "question": "ict লিখা কত বার আসবে? \n M=5%3;\n while(M<5)\n{\nprint('ict');\nM=M+1;\n}\n",
+      "imageUrl": "",
+      "options": [
+        "ক) 2",
+        "খ) 3",
+        "গ) 4",
+        "ঘ) 5"
+      ],
+      "answer": "খ) 3",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 244
+    },
+    {
+      "id": 72,
+      "question": "\n M=5%3;\n while(M<5)\n{\nprint('ict');\nM=M+1;\n}\n\n M=M+1 এর পরিবর্তে M=M+2 করলে কতবার আসবে? ",
+      "imageUrl": "",
+      "options": [
+        "ক) ২",
+        "খ) ৩",
+        "গ) ৪",
+        "ঘ) ৫"
+      ],
+      "answer": "ক) ২",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 245
+    },
+    {
+      "id": 73,
+      "question": "x = 10 এবং y = 20 হলে z = (x > y) ? x : y কন্ডিশনাল এক্সপ্রেশনের ফলাফল কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) 10",
+        "খ) 20",
+        "গ) 30",
+        "ঘ) 50"
+      ],
+      "answer": "খ) 20",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 267
+    },
+    {
+      "id": 74,
+      "question": "হার্ডওয়্যার ও সফটওয়্যার সমন্বয়ে গঠিত চিত্রায়ণকে কি বলে?",
+      "imageUrl": "",
+      "options": [
+        "ক) রোবটিক্স",
+        "খ) বায়োমেট্রিক্স",
+        "গ) ভার্চুয়াল রিয়েলিটি",
+        "ঘ) কৃত্রিম বুদ্ধিমত্তা"
+      ],
+      "answer": "গ) ভার্চুয়াল রিয়েলিটি",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 268
+    },
+    {
+      "id": 75,
+      "question": "C ভাষায়\n F = POW(5, (7\\ MOD\\ 3) + (6/3) * 2 + 5 হলে \nF এর সরলীকৃত মান কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) 14",
+        "খ) 31",
+        "গ) 34",
+        "ঘ) 40"
+      ],
+      "answer": "গ) 34",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 274
+    },
+    {
+      "id": 76,
+      "question": "'C' ভাষায় লজিক্যাল অপারেটর কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) &",
+        "খ) &&",
+        "গ) =",
+        "ঘ) >"
+      ],
+      "answer": "খ) &&",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 279
+    },
+    {
+      "id": 77,
+      "question": "নিচের উদ্দীপকটি পড় এবং ৯ নং প্রশ্নের উত্তর দাও:\n#include <stdio.h>\nmain() {int x, y;\n x = 20;\n x = x + 10;\n y = x % 5;\nprintf(\"%d\", y);} }\n প্রোগ্রামটির আউটপুট কত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 0",
+        "খ) 1",
+        "গ) 2",
+        "ঘ) 4"
+      ],
+      "answer": "ক) 0",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 280
+    },
+    {
+      "id": 78,
+      "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n#include <stdio.h>\nmain() { int c, S = 1;\n for(c = 2; c <= 10; c += 3)\n{ S = S + c;\n}\n printf(\"%d\", S);} }\n প্রোগ্রামটি রান করালে আউটপুট কত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 15",
+        "খ) 16",
+        "গ) 18",
+        "ঘ) 19"
+      ],
+      "answer": "গ) 18",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 283
+    },
+    {
+      "id": 79,
+      "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\n#include <stdio.h>\ntext{main() {\n int c, S = 1;\n for(c = 2; c <= 10; c += 3)\n{\n S = S + c;\n \n}\n printf(\"%d\", S); } }\n  প্রোগ্রামটির আউটপুট ১২৭ পেতে হলে কী পরিবর্তন করতে হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) C=1, S=S+C*C",
+        "খ) C=2, S=S+C*C",
+        "গ) C=3, S=S+C*C",
+        "ঘ) C=4, S=S+C*C"
+      ],
+      "answer": "গ) C=3, S=S+C*C",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 284
+    },
+    {
+      "id": 80,
+      "question": "নতুন লাইনের শুরুতে আউটপুট প্রদর্শনের জন্য নিচের কোন escape sequence টি ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) //n",
+        "খ) \\\n",
+        "গ) /n",
+        "ঘ) \\n"
+      ],
+      "answer": "ঘ) \\n",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 288
+    },
+    {
+      "id": 81,
+      "question": "double ডেটা টাইপের জন্য কয় বাইট মেমোরি প্রয়োজন?",
+      "imageUrl": "",
+      "options": [
+        "ক. 2",
+        "খ. 4",
+        "গ. 8",
+        "ঘ. 10"
+      ],
+      "answer": "গ. 8",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 317
+    },
+    {
+      "id": 82,
+      "question": "কোনটি রিলেশনাল অপারেটর?",
+      "imageUrl": "",
+      "options": [
+        "ক. != ",
+        "খ. ++",
+        "গ. /=",
+        "ঘ. %="
+      ],
+      "answer": "ক. != ",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 318
+    },
+    {
+      "id": 83,
+      "question": "\n for(i=1; i<=10; i+=3)\n {\n if(i==4)\n continue;\n printf(\"Good\"); \n}\nউদ্দীপকের আউটপুট \"Good\" লেখাটি কতবার প্রদর্শিত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক. 2",
+        "খ. 3",
+        "গ. 4",
+        "ঘ. 10"
+      ],
+      "answer": "খ. 3",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 319
+    },
+    {
+      "id": 84,
+      "question": "উদ্দীপকের কোডে \"i += 3\" এর পরিবর্তে \"i++\" বসালে \"Good\" লেখাটি কতবার প্রদর্শিত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক. 4",
+        "খ. 5",
+        "গ. 9",
+        "ঘ. 10"
+      ],
+      "answer": "গ. 9",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 320
+    },
+    {
+      "id": 85,
+      "question": "sqrt() জন্য প্রয়োজনীয় হেডার ফাইল ?",
+      "imageUrl": "",
+      "options": [
+        "ক. <stdio.h>",
+        "খ. <conio.h>",
+        "গ. <string.h>",
+        "ঘ. <math.h>"
+      ],
+      "answer": "ঘ. <math.h>",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 321
+    },
+    {
+      "id": 86,
+      "question": "দৈর্ঘ্য 120PX প্রস্থ 150PX আকারের Flag.jpg নামক ছবি সংযুক্তির জন্য নিচের সঠিক HTML কোড কোনটি?",
+      "options": [
+        "ক) <img src=\"Flag\" height=\"120Px\" width=\"150Px\">",
+        "খ) <img src=\"Flag.jpg\" height=\"120Px\" width = 150px>",
+        "গ) <img src=\"Flag.jpg\" height=\"120Px\" width=\"150Px\">",
+        "ঘ) <img src=\"Flag.jpg\" h=\"120Px\" w=\"150Px\">"
+      ],
+      "answer": "গ) <img src=\"Flag.jpg\" height=\"120Px\" width=\"150Px\">",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 327
+    },
+    {
+      "id": 87,
+      "scenario_text": "",
+      "question": "সিনথি HTML ব্যবহার করে ওয়েবপেজ তৈরি করে এবং এক পেইজ থেকে অন্য পেইজ সংযুক্তির জন্য কাজ করে।\n উদ্দীপকে কাজ করতে নিচের কোন Tag ব্যবহৃত হয়েছে?",
+      "options": [
+        "ক) <Style>",
+        "খ) <Link>",
+        "গ) <a>",
+        "ঘ) <span>"
+      ],
+      "answer": "গ) <a>",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 328
+    },
+    {
+      "id": 88,
+      "question": "নতুন ট্যাবে ওয়েব পেজ খুলতে উক্ত ট্যাগের অ্যাট্রিবিউট কোনটি?",
+      "options": [
+        "ক) target=\"_self\"",
+        "খ) target=\"_blank\"",
+        "গ) target=\"_Parent\"",
+        "ঘ) target=\"_Label\""
+      ],
+      "answer": "খ) target=\"_blank\"",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 329
+    },
+    {
+      "id": 89,
+      "question": "Table এর element Tag গুলো হতে পারে-\ni. tr\nii. Id\niii. tbody\nনিচের কোনটি সঠিক?",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 330
+    },
+    {
+      "id": 90,
+      "question": "কোনটি রিলেশনাল অপারেটর?",
+      "options": [
+        "ক) +",
+        "খ) &&",
+        "গ) !=",
+        "ঘ) =="
+      ],
+      "answer": "ঘ) ==",
+      "chapterId": "5",
+      "level": "easy",
+      "master_id": 349
+    },
+    {
+      "id": 91,
+      "question": "পূর্ণসংখ্যার ফরম্যাট স্পেসিফায়ার কোনটি?",
+      "options": [
+        "ক) %C",
+        "খ) %r",
+        "গ) %lf",
+        "ঘ) %d"
+      ],
+      "answer": "ঘ) %d",
+      "chapterId": "5",
+      "level": "easy",
+      "master_id": 354
+    },
+    {
+      "id": 92,
+      "question": "নিচের সিনটেক্সগুলো দেখ এবং নং প্রশ্নের উত্তর দাও:\nint i;\nfor(i=1;i<=5;i++);{\n    if(i==3);{\n        continue;\n    }\n    printf(“%d”, i);\nসিনটেক্সগুলোতে কয়টি ভুল রয়েছে?",
+      "options": [
+        "ক) ২",
+        "খ) ৪",
+        "গ) ৫",
+        "ঘ) ৬"
+      ],
+      "answer": "খ) ৪",
+      "chapterId": "5",
+      "level": "medium",
+      "master_id": 355
+    },
+    {
+      "id": 93,
+      "question": "প্রোগ্রামটি C ভাষায় সঠিকভাবে কম্পাইল হলে এর আউটপুটটি কী হবে?",
+      "options": [
+        "ক) 11",
+        "খ) 15",
+        "গ) 1245",
+        "ঘ) 12345"
+      ],
+      "answer": "গ) 1245",
+      "chapterId": "5",
+      "level": "medium",
+      "master_id": 356
+    },
+    {
+      "id": 94,
+      "question": "কোনটি সর্বজনীন ভাষা?",
+      "options": [
+        "ক) C",
+        "খ) Java",
+        "গ) ওরাকল",
+        "ঘ) পাইথন"
+      ],
+      "answer": "খ) Java",
+      "chapterId": "5",
+      "level": "easy",
+      "master_id": 358
+    },
+    {
+      "id": 95,
+      "question": "সি প্রোগ্রামে একটি স্ট্রিংয়ের দৈর্ঘ্য বের করার জন্য কোন ফাংশনটি ব্যবহার করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) String()",
+        "খ) Strlen()",
+        "গ) Strcmp()",
+        "ঘ) Charlen()"
+      ],
+      "answer": "খ) Strlen()",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 388
+    },
+    {
+      "id": 96,
+      "question": "IEEE কর্তৃক কোন প্রোগ্রামিং ভাষা সচ্ছলভাবে স্বীকৃতি পেয়েছে?",
+      "imageUrl": "",
+      "options": [
+        "ক) সি",
+        "খ) পাইথন",
+        "গ) জাভা",
+        "ঘ) স্ক্রিপ্ট"
+      ],
+      "answer": "খ) পাইথন",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 393
+    },
+    {
+      "id": 97,
+      "question": "উদ্দীপকটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nint x = 100;\nxf = 20;\nprintf(\"%%d\", pow(x, 2));\nউদ্দীপকের কোডের আউটপুট কত হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 5",
+        "খ) 20",
+        "গ) 25",
+        "ঘ) 100"
+      ],
+      "answer": "গ) 25",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 394
+    },
+    {
+      "id": 98,
+      "question": "উদ্দীপকের কোড আবশ্যিক হেডার ফাইল হলো:\ni. stdio.h\nii. conio.h\niii. math.h\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 395
+    },
+    {
+      "id": 99,
+      "question": "'double' ডেটা টাইপের মেমোরিতে কত বাইট জায়গা দখল করে?",
+      "imageUrl": "",
+      "options": [
+        "ক) 2",
+        "খ) 4",
+        "গ) 8",
+        "ঘ) 16"
+      ],
+      "answer": "গ) 8",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 396
+    },
+    {
+      "id": 100,
+      "question": "প্রোগ্রামটির আউটপুট কত? (Context: \n#include <stdio.h>\n main ()\n {\n int a, b;\n b=125;\n a=b%25;\n printf(\"%d\", a);\n}\n)",
+      "imageUrl": "",
+      "options": [
+        "ক) 0",
+        "খ) 5",
+        "গ) 25",
+        "ঘ) 50"
+      ],
+      "answer": "ক) 0",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 415
+    },
+    {
+      "id": 101,
+      "question": "উদ্দীপকে ব্যবহৃত প্রোগ্রামিং ভাষাটি হচ্ছে-\ni. general purpose language\nii. mid level language\niii. case-sensitive language",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 416
+    },
+    {
+      "id": 102,
+      "question": "সি ভাষায় সমজাতীয় ডাটা  সংরক্ষণের জন্য কোনটি ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) ফাংশন",
+        "খ) পয়েন্ট",
+        "গ) স্ত্রাকচার",
+        "ঘ) অ্যারে"
+      ],
+      "answer": "ঘ) অ্যারে",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 417
+    },
+    {
+      "id": 103,
+      "question": "লাইব্রেরি ফাংশনে getch() এর হেডার ফাইল-",
+      "imageUrl": "",
+      "options": [
+        "ক) stdio.h",
+        "খ) conio.h",
+        "গ) math.h",
+        "ঘ) string.h"
+      ],
+      "answer": "খ) conio.h",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 418
+    },
+    {
+      "id": 104,
+      "question": "এসেম্বলি ভাষার কোড হচ্ছে-\ni. MUL\nii. SUB\niii. ADD",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 419
+    },
+    {
+      "id": 105,
+      "question": "standered প্রোগ্রামিং ভাষাটি হচ্ছে-\ni. C \nii. Basic\niii. VB",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "খ) i ও iii",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 420
+    },
+    {
+      "id": 106,
+      "question": "while লুপএর শর্ত কখন পরীক্ষা করা হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) লুপের শুরুতে",
+        "খ) লুপের শেষে",
+        "গ) লুপের মাঝখানে",
+        "ঘ) যে কোন সময়"
+      ],
+      "answer": "ক) লুপের শুরুতে",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 421
+    },
+    {
+      "id": 107,
+      "question": "উদ্দীপক\n#include<stdio.h>\nmain()\n{\n int a, b;\n b = 125;\n a = b%25; \n print f(\"%d\", a);\n}\nপ্রোগ্রামটির আউটপুট কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) 0",
+        "খ) 5",
+        "গ) 25",
+        "ঘ) 50"
+      ],
+      "answer": "ক) 0",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 436
+    },
+    {
+      "id": 108,
+      "question": "উদ্দীপকে ব্যবহৃত প্রোগ্রামিং ভাষাটি হচ্ছে-\ni. general purpose language\nii. mid-level language\niii. case sensitive language\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) ii ও iii",
+        "গ) i ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "ঘ) i, ii ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 437
+    },
+    {
+      "id": 109,
+      "question": "নিচের কোনটি উচ্চতর ভাষায় লিখিত প্রোগ্রামকে মেশিন ভাষায় রূপান্তর করে?",
+      "imageUrl": "",
+      "options": [
+        "ক) কম্পাইলার",
+        "খ) এডিটর",
+        "গ) অ্যাসেম্বলার",
+        "ঘ) ডিবাগার"
+      ],
+      "answer": "ক) কম্পাইলার",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 438
+    },
+    {
+      "id": 110,
+      "question": "ফরম্যাট স্পেসিফায়ার হলো-\ni. %d\nii. %if\niii. %c\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) ii ও iii",
+        "গ) i ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "গ) i ও iii",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 439
+    },
+    {
+      "id": 111,
+      "question": "সি ভাষায় সমজাতীয় ডেটা সংরক্ষণের জন্য কোনটি ব্যবহৃত হয়?",
+      "imageUrl": "",
+      "options": [
+        "ক) ফাংশন",
+        "খ) পয়েন্টার",
+        "গ) স্ট্রাকচার",
+        "ঘ) অ্যারে"
+      ],
+      "answer": "ঘ) অ্যারে",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 440
+    },
+    {
+      "id": 112,
+      "question": "টেবিলের সেলগুলোতে অবস্থিত লেখার মধ্যে দূরত্ব নিয়ন্ত্রণের জন্য ব্যবহৃত অ্যাট্রিবিউট কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) rowspan",
+        "খ) colspan",
+        "গ) cellpadding",
+        "ঘ) cellspacing"
+      ],
+      "answer": "গ) cellpadding",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 459
+    },
+    {
+      "id": 113,
+      "question": "নিম্নগতি  থেকে উচ্চ গতির সঠিক ক্রম কোনটি?",
+      "imageUrl": "",
+      "options": [
+        "ক) ভার্চুয়াল মেমরি → রেজিস্টার → র‍্যাম",
+        "খ) ভার্চুয়াল মেমরি → র‍্যাম → রেজিস্টার",
+        "গ) রেজিস্টার → র‍্যাম → ভার্চুয়াল মেমরি",
+        "ঘ) রেজিস্টার → ভার্চুয়াল মেমরি → র‍্যাম"
+      ],
+      "answer": "খ) ভার্চুয়াল মেমরি → র‍্যাম → রেজিস্টার",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 461
+    },
+    {
+      "id": 114,
+      "question": "উচ্চ স্তরের ভাষায় লেখা কোডকে মেশিন কোডে রূপান্তর করার জন্য প্রয়োজনীয় অনুবাদক প্রোগ্রাম হলো-\ni. অ্যাসেম্বলার\nii. কম্পাইলার\niii. ইন্টারপ্রেটার\nনিচের কোনটি সঠিক?",
+      "imageUrl": "",
+      "options": [
+        "ক) i ও ii",
+        "খ) i ও iii",
+        "গ) ii ও iii",
+        "ঘ) i, ii ও iii"
+      ],
+      "answer": "গ) ii ও iii",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 462
+    },
+    {
+      "id": 115,
+      "question": "'সি' প্রোগ্রামিং ভাষায় ভাগশেষ নির্ণয় করার জন্য অপারেটর হলো-",
+      "imageUrl": "",
+      "options": [
+        "ক) %",
+        "খ) /",
+        "গ) &",
+        "ঘ) |"
+      ],
+      "answer": "ক) %",
+      "level": "easy",
+      "chapterId": "5",
+      "master_id": 463
+    },
+    {
+      "id": 116,
+      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও:\n\n#include <stdio.h>\nmain() {\n    int i, s = 0;\n    for (i = 1; i <= 6; i++) {\n        s = s + i;\n    }\n    printf(\"%d\", s);\n}\n\nপ্রোগ্রামটির আউটপুট কত?",
+      "imageUrl": "",
+      "options": [
+        "ক) 10",
+        "খ) 15",
+        "গ) 21",
+        "ঘ) 28"
+      ],
+      "answer": "গ) 21",
+      "level": "medium",
+      "chapterId": "5",
+      "master_id": 464
+    },
+    {
+      "id": 117,
+      "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও:\n\n#include <stdio.h>\nmain() {\n    int i, s = 0;\n    for (i = 1; i <= 6; i++) {\n        s = s + i;\n    }\n    printf(\"%d\", s);\n}\n\nউপরের প্রোগ্রামে \"i\" এর মানের কোন কোন পরিবর্তন করলে আউটপুট 10 হবে?",
+      "imageUrl": "",
+      "options": [
+        "ক) i=0, i=i+1",
+        "খ) i=2, i=i+1",
+        "গ) i=3, i=i+2",
+        "ঘ) i=4, i=i+2"
+      ],
+      "answer": "ঘ) i=4, i=i+2",
+      "level": "hard",
+      "chapterId": "5",
+      "master_id": 465
+    }
+  ]
 }
