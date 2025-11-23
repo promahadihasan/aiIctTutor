@@ -1,6 +1,372 @@
 {
   "model_tests": [
   {
+    "model_test_id": "53",
+    "teacher_id": "10903001551816013",
+    "difficulty": "hard",
+    "test_name": "Pre test 3",
+    "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) 3",
+        "chapterId": "5",
+        "id": 11,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 0",
+          "খ) 2",
+          "গ) 3",
+          "ঘ) 4"
+        ],
+        "question": "উদ্দীপক \nint a \u003d 2, b;\nb \u003d ++a;\nPrintf(\"%d\", b);\nউদ্দীপকে \u0027b\u0027 এর মান কত?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "4",
+        "id": 67,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) i, ii ও iii",
+          "ঘ) iii"
+        ],
+        "question": "\u003ca\u003e ট্যাগের সাথে ব্যবহৃত অ্যাট্রিবিউট- \n i. href ii. target iii. blank"
+      },
+      {
+        "answer": "খ) n(2n-1)/2",
+        "chapterId": "2",
+        "id": 77,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) n(n-1)",
+          "খ) n(2n-1)/2",
+          "গ) n(n+1)/2",
+          "ঘ) n(2n+1)/2"
+        ],
+        "question": "মেশ টপোলজিতে n সংখ্যক নোডের জন্য মোট তারের সংখ্যা হবে-"
+      },
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "3.1",
+        "id": 78,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "১০ ভিত্তিক সংখ্যা পদ্ধতি হলো- i. ভারতীয় সংখ্যা পদ্ধতি ii. মায়ান সংখ্যা পদ্ধতি iii. চীন সংখ্যা পদ্ধতি"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "4",
+        "id": 86,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো- i. নোডপ্যাড ii. নোডপ্যাড ++ iii. সাবলাইম টেক্সট"
+      },
+      {
+        "answer": "খ) 11 11 13",
+        "chapterId": "5",
+        "id": 104,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 11 13 15",
+          "খ) 11 11 13",
+          "গ) 11 13 13",
+          "ঘ) 10 12 14"
+        ],
+        "question": "\n for ( i \u003d 10; i \u003c \u003d 15; i + \u003d 2) \n { \n if (i \u003e 12) \n print f (“%d”, i + 1); \n else \n print f (“%d”, i – 1);\n }\n উদ্দীপকে i\u003e12 এর পরিবর্তে i\u003c12 হলে আউটপুট হবে-"
+      },
+      {
+        "answer": "খ) 8 kbps",
+        "chapterId": "2",
+        "id": 145,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 8 bps",
+          "খ) 8 kbps",
+          "গ) 192 kbps",
+          "ঘ) 1 mbps"
+        ],
+        "question": "কোন চ্যানেলের ভেতর দিয়ে 4 সেকেন্ডে 32kb ডেটা স্থানান্তরিত হলে তার ব্যান্ড উইথ কত?"
+      },
+      {
+        "answer": "খ) \u003c html \u003e ……… \u003c /html \u003e",
+        "chapterId": "4",
+        "id": 154,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) \u003c title \u003e ……… \u003c /title \u003e",
+          "খ) \u003c html \u003e ……… \u003c /html \u003e",
+          "গ) \u003c body \u003e ……… \u003c /body \u003e",
+          "ঘ) \u003c head \u003e ……… \u003c /head \u003e"
+        ],
+        "question": "HTML এর সম্পূর্ণ কনটেন্ট কোন ট্যাগে থাকে?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 219,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের ব্লকচিত্রের সার্কিট বাস্তবায়নে যে গেইটের প্রয়োজন-\ni. AND\nii. X-OR\niii. OR"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 227,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি টপোলজি হিসেবে কাজ করবে যখন-\ni. A কে হাব বিবেচনা করা হয়\nii. নোডগুলো আন্তঃসংযোগ করলে\niii. C বিচ্ছিন্ন হলে"
+      },
+      {
+        "answer": "ক) ২",
+        "chapterId": "5",
+        "id": 245,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) ২",
+          "খ) ৩",
+          "গ) ৪",
+          "ঘ) ৫"
+        ],
+        "question": "\n M\u003d5%3;\n while(M\u003c5)\n{\nprint(\u0027ict\u0027);\nM\u003dM+1;\n}\n\n M\u003dM+1 এর পরিবর্তে M\u003dM+2 করলে কতবার আসবে? "
+      },
+      {
+        "answer": "গ) 34",
+        "chapterId": "5",
+        "id": 274,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 14",
+          "খ) 31",
+          "গ) 34",
+          "ঘ) 40"
+        ],
+        "question": "C ভাষায়\n F \u003d POW(5, (7\\ MOD\\ 3) + (6/3) * 2 + 5 হলে \nF এর সরলীকৃত মান কত?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.1",
+        "id": 290,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nদুটি সংখ্যার পার্থক্য (52)₁₀। তাদের মধ্যে বড় সংখ্যাটি (5D)₁₆।\nসংখ্যা দুটির যোগফল হতে পারে-\n i. (10000110)₂ \t ii. (134)₁₀ \t iii. (206)₁₆ \nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "খ) ৯টি",
+        "chapterId": "2",
+        "id": 292,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) ৮টি",
+          "খ) ৯টি",
+          "গ) ১০টি",
+          "ঘ) ১৫টি"
+        ],
+        "question": "মেশ টপোলজিতে ৫টি তার দিয়ে সর্বোচ্চ কতটি নোডকে সংযুক্ত করা যায়?"
+      },
+      {
+        "answer": "গ. ii ও iii",
+        "chapterId": "2",
+        "id": 307,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. i ও ii",
+          "খ. i ও iii",
+          "গ. ii ও iii",
+          "ঘ. i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের মাধ্যমটিতে-\n i. বিদ্যুৎ চৌম্বকীয় প্রভাব সবচেয়ে কম \t ii. একটি কমন বাসের তার ব্যবহার হয় \t iii. 10 Mbps বা তার বেশি গতিতে ডেটা চলাচল করে\n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "2",
+        "id": 357,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ICT ক্লাব তাদের নেটওয়ার্ক (LAN) ইন্টারনেটের সাথে যুক্ত করতে চায়। তাদের প্রয়োজন-\ni. সুইচ\nii. গেটওয়ে\niii. রাউটার\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 363,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকে উল্লিখিত চিত্রটি বাস্তবায়নের জন্য গেট হলো-\ni. NOR\nii. NAND\niii. AND\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "খ) পাইথন",
+        "chapterId": "5",
+        "id": 393,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) সি",
+          "খ) পাইথন",
+          "গ) জাভা",
+          "ঘ) স্ক্রিপ্ট"
+        ],
+        "question": "IEEE কর্তৃক কোন প্রোগ্রামিং ভাষা সচ্ছলভাবে স্বীকৃতি পেয়েছে?"
+      },
+      {
+        "answer": "ক) 0",
+        "chapterId": "3.2",
+        "id": 410,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 0",
+          "খ) 1",
+          "গ) A",
+          "ঘ) B"
+        ],
+        "question": "(A+B)\u0027(A\u0027+B\u0027)\u0027 এর সরলীকৃত মান-"
+      },
+      {
+        "answer": "খ) xy",
+        "chapterId": "3.2",
+        "id": 426,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) x + y",
+          "খ) xy",
+          "গ) x̅ + y̅",
+          "ঘ) x̅ · y̅"
+        ],
+        "question": "F-এর সরলীকৃত মান কোনটি?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 450,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nসুমাইতা ভিডিও কনফারেন্সিং এর জন্য এক ধরনের মোবাইল ফোন ক্রয় করেছে যা LTE স্ট্যান্ডার্ডে কাজ করে থাকে।\n উদ্দীপকের উল্লিখিত প্রযুক্তি ব্যবহৃত মোবাইল ফোনের বৈশিষ্ট্য হলো-\ni. প্যাকেট সুইচিং এর পরিবর্তে IP ভিত্তিক নেটওয়ার্কের ব্যবহার\nii. চলনশীল ডিভাইসের ক্ষেত্রে ডেটা ট্রান্সফার রেট 100Mbps\niii. MIMO স্ট্যান্ডার্ড সম্পন্ন\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.1",
+        "id": 452,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "আইসিটি শিক্ষক ক্লাসে দুইটি সংখ্যা লিখলেন যা নিম্নরূপ\n(1101.01)₂ এবং (111.11)₂ সংখ্যা দুটির মধ্যে পার্থক্য হলো-\ni. (5.5)₁₀\nii. (5.4)₈\niii. (15.4)₁₆\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) A \u003d 0, B \u003d 1, C \u003d 0",
+        "chapterId": "3.2",
+        "id": 456,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A \u003d 0, B \u003d 1, C \u003d 1",
+          "খ) A \u003d 1, B \u003d 0, C \u003d 1",
+          "গ) A \u003d 1, B \u003d 1, C \u003d 1",
+          "ঘ) A \u003d 0, B \u003d 1, C \u003d 0"
+        ],
+        "question": "P \u003d 1 হবে, যখন"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "4",
+        "id": 458,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "হাইপারলিঙ্ক হচ্ছে-\ni. একাধিক ফাইলের সংযোগ\nii. একাধিক ওয়েবসাইটের সংযোগ\niii. একাধিক ফোল্ডারের সংযোগ\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) i\u003d4, i\u003di+2",
+        "chapterId": "5",
+        "id": 465,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i\u003d0, i\u003di+1",
+          "খ) i\u003d2, i\u003di+1",
+          "গ) i\u003d3, i\u003di+2",
+          "ঘ) i\u003d4, i\u003di+2"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও:\n\n#include \u003cstdio.h\u003e\nmain() {\n    int i, s \u003d 0;\n    for (i \u003d 1; i \u003c\u003d 6; i++) {\n        s \u003d s + i;\n    }\n    printf(\"%d\", s);\n}\n\nউপরের প্রোগ্রামে \"i\" এর মানের কোন কোন পরিবর্তন করলে আউটপুট 10 হবে?"
+      }
+    ]
+  },
+  {
     "model_test_id": "52",
     "teacher_id": "10903001551816013",
     "difficulty": "medium",
