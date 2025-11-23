@@ -21,7 +21,7 @@
                     "authorName": "shibbir",
                     "content": "replay deo",
                     "timestamp": "2025-11-17 17:15:30",
-                    "likes": 11,
+                    "likes": 10,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -230,14 +230,6 @@
                     "authorName": "FARIDA",
                     "content": "hello",
                     "timestamp": "2025-11-23 18:17:51",
-                    "likes": 0
-                },
-                {
-                    "id": "b23f9ed6-f9a1-42fc-b7c1-e45d354977be",
-                    "postId": "post123",
-                    "authorName": "NUSRAT JAHAN",
-                    "content": "ok sir..",
-                    "timestamp": "2025-11-23 19:51:40",
                     "likes": 0
                 }
             ]
@@ -640,7 +632,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 198,
+            "likes": 199,
             "tags": [
                 "android",
                 "kotlin",
