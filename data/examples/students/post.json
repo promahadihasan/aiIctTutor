@@ -632,7 +632,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 199,
+            "likes": 201,
             "tags": [
                 "android",
                 "kotlin",
@@ -678,7 +678,7 @@
                     "authorName": "MITHILA RAHMAN ",
                     "content": "যাক, হবে তাহলে নবীন বরণ🙂",
                     "timestamp": "2025-11-15 18:28:01",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "4ffa2521-ecf0-4e93-8378-4a292216e922",
@@ -774,7 +774,7 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "sir Please ektu taratari amader ict suggestion ta jodi deten plz 🙏",
                     "timestamp": "2025-11-20 15:59:36",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "1b2d5784-5016-4b78-8df4-c27727e5bb5a",
@@ -798,7 +798,7 @@
                     "authorName": "SAMIA ISLAM NODI ",
                     "content": "Sir, ICT suggestion diben na?🙂",
                     "timestamp": "2025-11-22 08:31:54",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "947c89cd-0416-41b6-8ea3-e48f0772e2cb",
@@ -806,7 +806,7 @@
                     "authorName": "SHANJIDA AKTER",
                     "content": "sir lCT suggestions diben na ?🙂",
                     "timestamp": "2025-11-22 17:33:17",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "0e13d706-95fd-4201-8038-6dad72952581",
