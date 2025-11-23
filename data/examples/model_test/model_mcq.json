@@ -1,6 +1,372 @@
 {
   "model_tests": [
   {
+    "model_test_id": "51",
+    "teacher_id": "10903001551816013",
+    "difficulty": "easy",
+    "test_name": "PreTest Exam 1",
+    "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) মেশ",
+        "chapterId": "2",
+        "id": 31,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) বাস",
+          "খ) রিং",
+          "গ) মেশ",
+          "ঘ) স্টার"
+        ],
+        "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?"
+      },
+      {
+        "answer": "ক) Casading Style Sheet",
+        "chapterId": "4",
+        "id": 43,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) Casading Style Sheet",
+          "খ) Casading Style Shit",
+          "গ) Case Style Sheet",
+          "ঘ) Casading Styling Sheet"
+        ],
+        "question": "CSS এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "ক) ২",
+        "chapterId": "4",
+        "id": 83,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২",
+          "খ) ৪",
+          "গ) ৩",
+          "ঘ) ৫"
+        ],
+        "question": "একটি ওয়েবসাইটের কয়টি অংশ থাকে?"
+      },
+      {
+        "answer": "ক) \u003ca\u003e...\u003c/a\u003e",
+        "chapterId": "4",
+        "id": 109,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ca\u003e...\u003c/a\u003e",
+          "খ) \u003cli\u003e...\u003c/li\u003e",
+          "গ) \u003cb\u003e...\u003c/b\u003e",
+          "ঘ) \u003col\u003e...\u003c/ol\u003e"
+        ],
+        "question": "ওয়েবপেইজের এক পেইজ থেকে অন্য পেইজে যাওয়ার জন্য কোন ট্যাগ ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ক. !\u003d",
+        "chapterId": "5",
+        "id": 124,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. !\u003d",
+          "খ. \u003d!",
+          "গ. \u003c \u003e",
+          "ঘ. \u003d \u003d"
+        ],
+        "question": "অসমান বুঝানোর জন্য কোনটি ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "গ) \u003ca href \u003d \"www.Pen.Com\"\u003e \u003cimg src \u003d \"Pen.Jpg\"\u003e \u003c/a\u003e",
+        "chapterId": "4",
+        "id": 125,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ca href \u003d \"www.Pen.Com\"\u003e Pen.Jpg \u003c/a\u003e",
+          "খ) \u003ca href \u003d \"www.Pen.Com\"\u003eimg src \u003d \"Pen.Jpg\" \u003c/a\u003e",
+          "গ) \u003ca href \u003d \"www.Pen.Com\"\u003e \u003cimg src \u003d \"Pen.Jpg\"\u003e \u003c/a\u003e",
+          "ঘ) \u003ca href \u003d \"www.Pen.Com\" img src \u003d \"Pen.Jpg\"\u003e\u003c/a\u003e"
+        ],
+        "question": "কোডটিতে HSC Exam এর স্থলে Pen.jpg ছবিকে Link Text আকারে উপস্থান করতে নিচের কোন কোডটি ব্যবহৃত হবে?"
+      },
+      {
+        "answer": "ক) A",
+        "chapterId": "3.2",
+        "id": 131,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw\u003dtrue",
+        "level": "easy",
+        "options": [
+          "ক) AB",
+          "খ) A\u0027B",
+          "গ) AB\u0027",
+          "ঘ) A\u0027B\u0027"
+        ],
+        "question": "উদ্দীপকে F এর সরলীকৃত মান হচ্ছে-"
+      },
+      {
+        "answer": "ক) সিমপ্লেক্স",
+        "chapterId": "2",
+        "id": 148,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) সিমপ্লেক্স",
+          "খ) হাফ ডুপ্লেক্স",
+          "গ) ফুল ডুপ্লেক্স",
+          "ঘ) মাল্টিকাস্ট"
+        ],
+        "question": "কি board ও কম্পিউটারের মধ্যে ডেটা সঞ্চালনের মোড কোনটি?"
+      },
+      {
+        "answer": "খ) \u003cbr\u003e",
+        "chapterId": "4",
+        "id": 152,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ctd\u003e",
+          "খ) \u003cbr\u003e",
+          "গ) \u003ctr\u003e",
+          "ঘ) \u003cth\u003e"
+        ],
+        "question": "এক লাইন নিচে নামানোর জন্য ব্যবহৃত ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 161,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ডিকোডিংয়ের ক্ষেত্রে প্রযোজ্য- i. কোডকে বোধগম্য ভাষায় পরিণত করে ii. এনকোডারের বিপরীত কাজ করে iii. কম্পিউটার ইনপুট দেওয়ার কাজে ব্যবহৃত হয়"
+      },
+      {
+        "answer": "খ) rowspan",
+        "chapterId": "4",
+        "id": 204,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) colspan",
+          "খ) rowspan",
+          "গ) cellpadding",
+          "ঘ) cellspacing"
+        ],
+        "question": "HTML এ একাধিক রোকে মার্জ করতে কোন এট্রিবিউট ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) ডিবাগিং",
+        "chapterId": "5",
+        "id": 206,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ডিকোডিং",
+          "খ) এনকোডিং",
+          "গ) ডিবাগিং",
+          "ঘ) কারেকশন"
+        ],
+        "question": "প্রোগ্রামের ভুলত্রুটি সংশোধনের পদ্ধতিকে বলা হয়-"
+      },
+      {
+        "answer": "ক) double",
+        "chapterId": "5",
+        "id": 232,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) double",
+          "খ) main",
+          "গ) printf",
+          "ঘ) scanf"
+        ],
+        "question": "কোনটি সঠিক ডাটা টাইপ?"
+      },
+      {
+        "answer": "ক) stdio.h",
+        "chapterId": "5",
+        "id": 240,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) stdio.h",
+          "খ) conio.h",
+          "গ) math.h",
+          "ঘ) string.h"
+        ],
+        "question": "scanf(); এর জন্য কোন হেডার ফাইল সংযুক্ত করতে হয়?"
+      },
+      {
+        "answer": "খ) মাধ্যম",
+        "chapterId": "2",
+        "id": 241,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) প্রাপক",
+          "খ) মাধ্যম",
+          "গ) প্রেরক",
+          "ঘ) ব্যবহারকারী"
+        ],
+        "question": "ব্যান্ডউইথ নির্ভর করে কোনটির উপর?"
+      },
+      {
+        "answer": "গ) ফুল-ডুপ্লেক্স",
+        "chapterId": "2",
+        "id": 243,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) সিমপ্লেক্স",
+          "খ) হাফ-ডুপ্লেক্স",
+          "গ) ফুল-ডুপ্লেক্স",
+          "ঘ) ব্রডকাস্ট"
+        ],
+        "question": "নেটওয়ার্কে ডেটা আদান-প্রদানের জন্য প্রেরক ও প্রাপক উভয়ই একই সময়ে ডেটা প্রেরণ এবং গ্রহণ করতে পারে কোন মোডে?"
+      },
+      {
+        "answer": "ঘ) ICT",
+        "chapterId": "4",
+        "id": 281,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) Font",
+          "খ) Color",
+          "গ) Red",
+          "ঘ) ICT"
+        ],
+        "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n\u003cfont color \u003d \"Red\" face \u003d \"Arial\"\u003e ICT \u003c/font\u003e\n উদ্দীপকে কন্টেন্ট কোনটি?"
+      },
+      {
+        "answer": "ক. src",
+        "chapterId": "4",
+        "id": 315,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. src",
+          "খ. href",
+          "গ. target",
+          "ঘ. border"
+        ],
+        "question": "\u003cimg\u003e ট্যাগের আবশ্যিক অ্যাট্রিবিউট কোনটি?"
+      },
+      {
+        "answer": "খ) Java",
+        "chapterId": "5",
+        "id": 358,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) C",
+          "খ) Java",
+          "গ) ওরাকল",
+          "ঘ) পাইথন"
+        ],
+        "question": "কোনটি সর্বজনীন ভাষা?"
+      },
+      {
+        "answer": "ক) রোমান",
+        "chapterId": "3.1",
+        "id": 367,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) রোমান",
+          "খ) বাইনারি",
+          "গ) ডেসিমেল",
+          "ঘ) অক্টাল"
+        ],
+        "question": "কোন সংখ্যা পদ্ধতিতে স্থানীয় মান নেই?"
+      },
+      {
+        "answer": "ঘ) ৫ ম",
+        "chapterId": "2",
+        "id": 377,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২য়",
+          "খ) ৩য়",
+          "গ) ৪র্থ",
+          "ঘ) ৫ ম"
+        ],
+        "question": "কোন প্রজন্মের মোবাইল ফোন নেটওয়ার্ক wwww নামে পরিচিত?"
+      },
+      {
+        "answer": "ক) \u003ctd\u003e",
+        "chapterId": "4",
+        "id": 412,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ctd\u003e",
+          "খ) \u003ctr\u003e",
+          "গ) \u003ccol\u003e",
+          "ঘ) \u003ctc\u003e"
+        ],
+        "question": "টেবিলে সেল তৈরির জন্য কোন ট্যাগ ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) লুপের শুরুতে",
+        "chapterId": "5",
+        "id": 421,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) লুপের শুরুতে",
+          "খ) লুপের শেষে",
+          "গ) লুপের মাঝখানে",
+          "ঘ) যে কোন সময়"
+        ],
+        "question": "while লুপএর শর্ত কখন পরীক্ষা করা হয়?"
+      },
+      {
+        "answer": "ক) ওয়েবসাইট",
+        "chapterId": "4",
+        "id": 434,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ওয়েবসাইট",
+          "খ) সার্ভার",
+          "গ) ওয়েব ফাইল",
+          "ঘ) ফোল্ডার"
+        ],
+        "question": "কোনটির ক্ষেত্রে ডোমেইন নেম ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ক) %",
+        "chapterId": "5",
+        "id": 463,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) %",
+          "খ) /",
+          "গ) \u0026",
+          "ঘ) |"
+        ],
+        "question": "\u0027সি\u0027 প্রোগ্রামিং ভাষায় ভাগশেষ নির্ণয় করার জন্য অপারেটর হলো-"
+      }
+    ]
+  },
+  {
     "model_test_id": "50",
     "teacher_id": "11467801713819046",
     "difficulty": "All",
