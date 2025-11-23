@@ -1,6 +1,372 @@
 {
   "model_tests": [
   {
+    "model_test_id": "52",
+    "teacher_id": "10903001551816013",
+    "difficulty": "medium",
+    "test_name": "Pre Test 2",
+    "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "2",
+        "id": 32,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ"
+      },
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "3.2",
+        "id": 48,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "খ) FE",
+        "chapterId": "3.1",
+        "id": 60,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) EE",
+          "খ) FE",
+          "গ) EF",
+          "ঘ) F0"
+        ],
+        "question": "FF)₁₆ এর পূর্বের সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "5",
+        "id": 63,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational"
+      },
+      {
+        "answer": "খ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 82,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "5",
+        "id": 92,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "\u0027সি\u0027 প্রোগ্রামিং ভাষা হলো- i. \u0027সি\u0027 একটি কেস সেনসিটিভ ভাষা ii. \u0027সি\u0027 একটি মধ্যম স্তরের ভাষা iii. \u0027সি\u0027 একটি উচ্চ স্তরের ভাষা"
+      },
+      {
+        "answer": "খ) মাল্টিকাস্ট",
+        "chapterId": "2",
+        "id": 110,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ব্রডকাস্ট",
+          "খ) মাল্টিকাস্ট",
+          "গ) সিমপ্লেক্স",
+          "ঘ) ইউনিকাস্ট"
+        ],
+        "question": "চ্যাটিং ও গ্রাপ SMS এ ব্যবহৃত ডেটা ট্রান্সমিশন মোড হলো-"
+      },
+      {
+        "answer": "গ) গেটওয়ে",
+        "chapterId": "2",
+        "id": 180,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) রাউটার",
+          "খ) সুইচ",
+          "গ) গেটওয়ে",
+          "ঘ) হাব"
+        ],
+        "question": "কোনটি প্রটোকল কনভার্টার?"
+      },
+      {
+        "answer": "খ) CSS",
+        "chapterId": "4",
+        "id": 182,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) HTML",
+          "খ) CSS",
+          "গ) PHP",
+          "ঘ) JAVA"
+        ],
+        "question": "ওয়েবসাইটকে দৃষ্টিনন্দন করার জন্য নিচের কোনটি ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ঘ) $||$",
+        "chapterId": "5",
+        "id": 185,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) $\u003d\u003d$",
+          "খ) $!\u003d$",
+          "গ) $\u003e\u003d$",
+          "ঘ) $||$"
+        ],
+        "question": "কোনটি লজিক্যাল অপারেটর?"
+      },
+      {
+        "answer": "ক) ডেনিস রিচি",
+        "chapterId": "5",
+        "id": 189,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) ডেনিস রিচি",
+          "খ) গিডো ডান রসাম",
+          "গ) জন স্ট্রাউস্ট্রপ",
+          "ঘ) অ্যাডা লাভলেস"
+        ],
+        "question": "C++ ভাষাটি উদ্ভাবন করেন কে?"
+      },
+      {
+        "answer": "ঘ) ৫ম",
+        "chapterId": "2",
+        "id": 192,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) ১ম",
+          "খ) ৪র্থ",
+          "গ) ৩য়",
+          "ঘ) ৫ম"
+        ],
+        "question": "খুশি যে প্রজন্মের মোবাইল ফোন ব্যবহার করে- (Context: 4k TV support)"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "2",
+        "id": 193,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "(Context: 4k TV support) উক্ত প্রজন্মের মোবাইল ফোনের বৈশিষ্ট্য হচ্ছে-\ni. world wide wireless web\nii. radio access technology\niii. Multiple input and multiple output"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "2",
+        "id": 200,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "জনাব রাজিন একটি মাল্টিন্যাশনাল কোম্পানিতে চাকুরি করেন। তার অফিসে ১৫ এমবিপিএস ব্রডব্যান্ড ইন্টারনেট সংযোগ ব্যবহার করা হয়।\n \n উদ্দীপক অনুসারে ইন্টারনেট সংযোগের জন্য যে মাধ্যমটি ব্যবহৃত হতে পারে-\ni. কো-এক্সিয়াল ক্যাবল\nii. টুইস্টেড পেয়ার ক্যাবল\niii. ফাইবার অপটিক ক্যাবল"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 202,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "তথ্য ও উপাত্ত সংরক্ষণের সাথে জড়িত-\ni. অ্যাডার\nii. ফ্লিপফ্লপ\niii. রেজিস্টার"
+      },
+      {
+        "answer": "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
+        "chapterId": "2",
+        "id": 230,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
+          "খ) প্রতি ক্যারেক্টারের মাঝে বিরতি নেই",
+          "গ) স্বল্প দূরত্বে ডেটা ট্রান্সফারে ব্যবহৃত হয়",
+          "ঘ) প্রাইমারি স্টোরেজ ডিভাইসের প্রয়োজন হয় না"
+        ],
+        "question": "সিনক্রোনাস ট্রান্সমিশনের সুবিধা কোনটি?"
+      },
+      {
+        "answer": "খ) শিফট",
+        "chapterId": "3.2",
+        "id": 269,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) প্যারালার",
+          "খ) শিফট",
+          "গ) বাফার",
+          "ঘ) অ্যাকুমুলেটর"
+        ],
+        "question": "বাইনারি ডেটা একদিকে বা উভয় দিকে স্থানান্তর করতে পারে কোন রেজিস্টার?"
+      },
+      {
+        "answer": "ঘ) X ⊕ Y",
+        "chapterId": "3.2",
+        "id": 276,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) X·Y",
+          "খ) Ȳ·X̄",
+          "গ) X ⊙ Ȳ",
+          "ঘ) X ⊕ Y"
+        ],
+        "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:"
+      },
+      {
+        "answer": "গ) কাউন্টার",
+        "chapterId": "3.2",
+        "id": 323,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) এনকোডার",
+          "খ) ডিকোডার",
+          "গ) কাউন্টার",
+          "ঘ) রেজিস্টার"
+        ],
+        "question": "নিচের কোন বর্তনী গণনা কাজ করে?"
+      },
+      {
+        "answer": "গ) 1245",
+        "chapterId": "5",
+        "id": 356,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 11",
+          "খ) 15",
+          "গ) 1245",
+          "ঘ) 12345"
+        ],
+        "question": "প্রোগ্রামটি C ভাষায় সঠিকভাবে কম্পাইল হলে এর আউটপুটটি কী হবে?"
+      },
+      {
+        "answer": "ঘ) ওয়াকিটকি ট্রান্সমিশন",
+        "chapterId": "2",
+        "id": 378,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) রেডিও ট্রান্সমিশন",
+          "খ) গ্রুপ এসএমএস",
+          "গ) ভিডিও কনফারেন্স",
+          "ঘ) ওয়াকিটকি ট্রান্সমিশন"
+        ],
+        "question": "ইউনিকাস্ট ডেটা ডিস্ট্রিবিউশন মোড কোনটি?"
+      },
+      {
+        "answer": "ঘ) ১০০০০ bps",
+        "chapterId": "2",
+        "id": 379,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ১০০০০ Kbps",
+          "খ) ১০০০০ Mbps",
+          "গ) ১০০০০ Gbps",
+          "ঘ) ১০০০০ bps"
+        ],
+        "question": "একটি চ্যানেলের মধ্য দিয়ে ৫ সেকেন্ডে ৫০,০০০ বিট ডেটা স্থানান্তরিত হলে এর ব্যান্ডউইথ কত?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "2",
+        "id": 381,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় এবং  নং প্রশ্নের উত্তর দাও:\nICT শিক্ষক ল্যাবের সকল কম্পিউটারকে প্যাচানো তার দিয়ে যুক্ত করে একটি নেটওয়ার্ক স্থাপন করেন। পরবর্তীতে তিনি বিশেষভাবে পরিষ্কৃত কাঁচের তৈরি ক্যাবল ব্যবহারের সিদ্ধান্ত নেন।\nশিক্ষকের সিদ্ধান্তের ফলে নেটওয়ার্কে-\ni. শক্তির অপচয় কম হবে\nii. ডেটা বিদ্যুৎ রোধক প্রভাবমুক্ত হবে\niii. ইনস্টলেশন ব্যয় কম হবে\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) 25",
+        "chapterId": "5",
+        "id": 394,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 5",
+          "খ) 20",
+          "গ) 25",
+          "ঘ) 100"
+        ],
+        "question": "উদ্দীপকটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nint x \u003d 100;\nxf \u003d 20;\nprintf(\"%%d\", pow(x, 2));\nউদ্দীপকের কোডের আউটপুট কত হবে?"
+      },
+      {
+        "answer": "ক) 0",
+        "chapterId": "5",
+        "id": 415,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 0",
+          "খ) 5",
+          "গ) 25",
+          "ঘ) 50"
+        ],
+        "question": "প্রোগ্রামটির আউটপুট কত? (Context: \n#include \u003cstdio.h\u003e\n main ()\n {\n int a, b;\n b\u003d125;\n a\u003db%25;\n printf(\"%d\", a);\n}\n)"
+      }
+    ]
+  },
+  {
     "model_test_id": "51",
     "teacher_id": "10903001551816013",
     "difficulty": "easy",
