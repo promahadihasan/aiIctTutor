@@ -616,7 +616,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 179,
+            "likes": 178,
             "tags": [
                 "android",
                 "kotlin",
@@ -806,6 +806,14 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "Sirr ICT suggestion kobi debennnn ektu taratariii dennnnnnn 🤧",
                     "timestamp": "2025-11-23 00:08:24",
+                    "likes": 0
+                },
+                {
+                    "id": "b4c3db9f-4e61-4cf1-a94a-f6fca080b492",
+                    "postId": "post127",
+                    "authorName": "KAZI JANNATUN NUR ",
+                    "content": "sirrrrr ektu taratari ICT suggestion ta dennnn 😭",
+                    "timestamp": "2025-11-23 10:10:28",
                     "likes": 0
                 }
             ]
