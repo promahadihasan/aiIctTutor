@@ -1,1102 +1,1468 @@
 {
   "model_tests": [
-    {
-      "model_test_id": "53",
-      "teacher_id": "10903001551816013",
-      "difficulty": "hard",
-      "test_name": "Pre test 3",
-      "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
-      "total_questions": 25,
-      "last_date": "2025-11-30",
-      "validity_time_minutes": 25,
-      "is_allowed": false,
-      "is_pin_protected": false,
-      "access_pin": "null",
-      "selected_student_ids": [],
-      "mcqs": [
-        {
-          "answer": "গ) 3",
-          "chapterId": "5",
-          "id": 11,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) 0",
-            "খ) 2",
-            "গ) 3",
-            "ঘ) 4"
-          ],
-          "question": "উদ্দীপক \nint a = 2, b;\nb = ++a;\nPrintf(\"%d\", b);\nউদ্দীপকে 'b' এর মান কত?"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "4",
-          "id": 67,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) i, ii ও iii",
-            "ঘ) iii"
-          ],
-          "question": "<a> ট্যাগের সাথে ব্যবহৃত অ্যাট্রিবিউট- \n i. href ii. target iii. blank"
-        },
-        {
-          "answer": "খ) n(2n-1)/2",
-          "chapterId": "2",
-          "id": 77,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) n(n-1)",
-            "খ) n(2n-1)/2",
-            "গ) n(n+1)/2",
-            "ঘ) n(2n+1)/2"
-          ],
-          "question": "মেশ টপোলজিতে n সংখ্যক নোডের জন্য মোট তারের সংখ্যা হবে-"
-        },
-        {
-          "answer": "খ) i ও iii",
-          "chapterId": "3.1",
-          "id": 78,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "১০ ভিত্তিক সংখ্যা পদ্ধতি হলো- i. ভারতীয় সংখ্যা পদ্ধতি ii. মায়ান সংখ্যা পদ্ধতি iii. চীন সংখ্যা পদ্ধতি"
-        },
-        {
-          "answer": "ঘ) i, ii ও iii",
-          "chapterId": "4",
-          "id": 86,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো- i. নোডপ্যাড ii. নোডপ্যাড ++ iii. সাবলাইম টেক্সট"
-        },
-        {
-          "answer": "খ) 11 11 13",
-          "chapterId": "5",
-          "id": 104,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) 11 13 15",
-            "খ) 11 11 13",
-            "গ) 11 13 13",
-            "ঘ) 10 12 14"
-          ],
-          "question": "\n for ( i = 10; i < = 15; i + = 2) \n { \n if (i > 12) \n print f (“%d”, i + 1); \n else \n print f (“%d”, i – 1);\n }\n উদ্দীপকে i>12 এর পরিবর্তে i<12 হলে আউটপুট হবে-"
-        },
-        {
-          "answer": "খ) 8 kbps",
-          "chapterId": "2",
-          "id": 145,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) 8 bps",
-            "খ) 8 kbps",
-            "গ) 192 kbps",
-            "ঘ) 1 mbps"
-          ],
-          "question": "কোন চ্যানেলের ভেতর দিয়ে 4 সেকেন্ডে 32kb ডেটা স্থানান্তরিত হলে তার ব্যান্ড উইথ কত?"
-        },
-        {
-          "answer": "খ) < html > ……… < /html >",
-          "chapterId": "4",
-          "id": 154,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) < title > ……… < /title >",
-            "খ) < html > ……… < /html >",
-            "গ) < body > ……… < /body >",
-            "ঘ) < head > ……… < /head >"
-          ],
-          "question": "HTML এর সম্পূর্ণ কনটেন্ট কোন ট্যাগে থাকে?"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "3.2",
-          "id": 219,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw=true",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "উদ্দীপকের ব্লকচিত্রের সার্কিট বাস্তবায়নে যে গেইটের প্রয়োজন-\ni. AND\nii. X-OR\niii. OR"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "2",
-          "id": 227,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw=true",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "উদ্দীপকটি টপোলজি হিসেবে কাজ করবে যখন-\ni. A কে হাব বিবেচনা করা হয়\nii. নোডগুলো আন্তঃসংযোগ করলে\niii. C বিচ্ছিন্ন হলে"
-        },
-        {
-          "answer": "ক) ২",
-          "chapterId": "5",
-          "id": 245,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) ২",
-            "খ) ৩",
-            "গ) ৪",
-            "ঘ) ৫"
-          ],
-          "question": "\n M=5%3;\n while(M<5)\n{\nprint('ict');\nM=M+1;\n}\n\n M=M+1 এর পরিবর্তে M=M+2 করলে কতবার আসবে? "
-        },
-        {
-          "answer": "গ) 34",
-          "chapterId": "5",
-          "id": 274,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) 14",
-            "খ) 31",
-            "গ) 34",
-            "ঘ) 40"
-          ],
-          "question": "C ভাষায়\n F = POW(5, (7\\ MOD\\ 3) + (6/3) * 2 + 5 হলে \nF এর সরলীকৃত মান কত?"
-        },
-        {
-          "answer": "ঘ) i, ii ও iii",
-          "chapterId": "3.1",
-          "id": 290,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nদুটি সংখ্যার পার্থক্য (52)₁₀। তাদের মধ্যে বড় সংখ্যাটি (5D)₁₆।\nসংখ্যা দুটির যোগফল হতে পারে-\n i. (10000110)₂ \t ii. (134)₁₀ \t iii. (206)₁₆ \nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "খ) ৯টি",
-          "chapterId": "2",
-          "id": 292,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) ৮টি",
-            "খ) ৯টি",
-            "গ) ১০টি",
-            "ঘ) ১৫টি"
-          ],
-          "question": "মেশ টপোলজিতে ৫টি তার দিয়ে সর্বোচ্চ কতটি নোডকে সংযুক্ত করা যায়?"
-        },
-        {
-          "answer": "গ. ii ও iii",
-          "chapterId": "2",
-          "id": 307,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক. i ও ii",
-            "খ. i ও iii",
-            "গ. ii ও iii",
-            "ঘ. i, ii ও iii"
-          ],
-          "question": "উদ্দীপকের মাধ্যমটিতে-\n i. বিদ্যুৎ চৌম্বকীয় প্রভাব সবচেয়ে কম \t ii. একটি কমন বাসের তার ব্যবহার হয় \t iii. 10 Mbps বা তার বেশি গতিতে ডেটা চলাচল করে\n নিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "গ) ii ও iii",
-          "chapterId": "2",
-          "id": 357,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "ICT ক্লাব তাদের নেটওয়ার্ক (LAN) ইন্টারনেটের সাথে যুক্ত করতে চায়। তাদের প্রয়োজন-\ni. সুইচ\nii. গেটওয়ে\niii. রাউটার\nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "3.2",
-          "id": 363,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) ii ও iii",
-            "গ) i ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "উদ্দীপকে উল্লিখিত চিত্রটি বাস্তবায়নের জন্য গেট হলো-\ni. NOR\nii. NAND\niii. AND\nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "খ) পাইথন",
-          "chapterId": "5",
-          "id": 393,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) সি",
-            "খ) পাইথন",
-            "গ) জাভা",
-            "ঘ) স্ক্রিপ্ট"
-          ],
-          "question": "IEEE কর্তৃক কোন প্রোগ্রামিং ভাষা সচ্ছলভাবে স্বীকৃতি পেয়েছে?"
-        },
-        {
-          "answer": "ক) 0",
-          "chapterId": "3.2",
-          "id": 410,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) 0",
-            "খ) 1",
-            "গ) A",
-            "ঘ) B"
-          ],
-          "question": "(A+B)'(A'+B')' এর সরলীকৃত মান-"
-        },
-        {
-          "answer": "খ) xy",
-          "chapterId": "3.2",
-          "id": 426,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw=true",
-          "level": "hard",
-          "options": [
-            "ক) x + y",
-            "খ) xy",
-            "গ) x̅ + y̅",
-            "ঘ) x̅ · y̅"
-          ],
-          "question": "F-এর সরলীকৃত মান কোনটি?"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "2",
-          "id": 450,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nসুমাইতা ভিডিও কনফারেন্সিং এর জন্য এক ধরনের মোবাইল ফোন ক্রয় করেছে যা LTE স্ট্যান্ডার্ডে কাজ করে থাকে।\n উদ্দীপকের উল্লিখিত প্রযুক্তি ব্যবহৃত মোবাইল ফোনের বৈশিষ্ট্য হলো-\ni. প্যাকেট সুইচিং এর পরিবর্তে IP ভিত্তিক নেটওয়ার্কের ব্যবহার\nii. চলনশীল ডিভাইসের ক্ষেত্রে ডেটা ট্রান্সফার রেট 100Mbps\niii. MIMO স্ট্যান্ডার্ড সম্পন্ন\nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "3.1",
-          "id": 452,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "আইসিটি শিক্ষক ক্লাসে দুইটি সংখ্যা লিখলেন যা নিম্নরূপ\n(1101.01)₂ এবং (111.11)₂ সংখ্যা দুটির মধ্যে পার্থক্য হলো-\ni. (5.5)₁₀\nii. (5.4)₈\niii. (15.4)₁₆\nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "ঘ) A = 0, B = 1, C = 0",
-          "chapterId": "3.2",
-          "id": 456,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw=true",
-          "level": "hard",
-          "options": [
-            "ক) A = 0, B = 1, C = 1",
-            "খ) A = 1, B = 0, C = 1",
-            "গ) A = 1, B = 1, C = 1",
-            "ঘ) A = 0, B = 1, C = 0"
-          ],
-          "question": "P = 1 হবে, যখন"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "4",
-          "id": 458,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "হাইপারলিঙ্ক হচ্ছে-\ni. একাধিক ফাইলের সংযোগ\nii. একাধিক ওয়েবসাইটের সংযোগ\niii. একাধিক ফোল্ডারের সংযোগ\nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "ঘ) i=4, i=i+2",
-          "chapterId": "5",
-          "id": 465,
-          "imageUrl": "",
-          "level": "hard",
-          "options": [
-            "ক) i=0, i=i+1",
-            "খ) i=2, i=i+1",
-            "গ) i=3, i=i+2",
-            "ঘ) i=4, i=i+2"
-          ],
-          "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও:\n\n#include <stdio.h>\nmain() {\n    int i, s = 0;\n    for (i = 1; i <= 6; i++) {\n        s = s + i;\n    }\n    printf(\"%d\", s);\n}\n\nউপরের প্রোগ্রামে \"i\" এর মানের কোন কোন পরিবর্তন করলে আউটপুট 10 হবে?"
-        }
-      ]
-    },
-    {
-      "model_test_id": "52",
-      "teacher_id": "10903001551816013",
-      "difficulty": "medium",
-      "test_name": "Pre Test 2",
-      "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
-      "total_questions": 25,
-      "last_date": "2025-11-30",
-      "validity_time_minutes": 25,
-      "is_allowed": false,
-      "is_pin_protected": false,
-      "access_pin": "null",
-      "selected_student_ids": [],
-      "mcqs": [
-        {
-          "answer": "গ) i, iii",
-          "chapterId": "2",
-          "id": 32,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) i, ii",
-            "খ) ii, iii",
-            "গ) i, iii",
-            "ঘ) i, ii,iii"
-          ],
-          "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ"
-        },
-        {
-          "answer": "গ) i, iii",
-          "chapterId": "3.2",
-          "id": 48,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) i, ii",
-            "খ) ii, iii",
-            "গ) i, iii",
-            "ঘ) i, ii,iii"
-          ],
-          "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "খ) FE",
-          "chapterId": "3.1",
-          "id": 60,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) EE",
-            "খ) FE",
-            "গ) EF",
-            "ঘ) F0"
-          ],
-          "question": "FF)₁₆ এর পূর্বের সংখ্যা কোনটি?"
-        },
-        {
-          "answer": "খ) i ও iii",
-          "chapterId": "5",
-          "id": 63,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw=true",
-          "level": "medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational"
-        },
-        {
-          "answer": "খ) ii ও iii",
-          "chapterId": "3.2",
-          "id": 82,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw=true",
-          "level": "medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) ii ও iii",
-            "গ) i ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "5",
-          "id": 92,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "'সি' প্রোগ্রামিং ভাষা হলো- i. 'সি' একটি কেস সেনসিটিভ ভাষা ii. 'সি' একটি মধ্যম স্তরের ভাষা iii. 'সি' একটি উচ্চ স্তরের ভাষা"
-        },
-        {
-          "answer": "খ) মাল্টিকাস্ট",
-          "chapterId": "2",
-          "id": 110,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) ব্রডকাস্ট",
-            "খ) মাল্টিকাস্ট",
-            "গ) সিমপ্লেক্স",
-            "ঘ) ইউনিকাস্ট"
-          ],
-          "question": "চ্যাটিং ও গ্রাপ SMS এ ব্যবহৃত ডেটা ট্রান্সমিশন মোড হলো-"
-        },
-        {
-          "answer": "গ) গেটওয়ে",
-          "chapterId": "2",
-          "id": 180,
-          "imageUrl": "",
-          "level": "Medium",
-          "options": [
-            "ক) রাউটার",
-            "খ) সুইচ",
-            "গ) গেটওয়ে",
-            "ঘ) হাব"
-          ],
-          "question": "কোনটি প্রটোকল কনভার্টার?"
-        },
-        {
-          "answer": "খ) CSS",
-          "chapterId": "4",
-          "id": 182,
-          "imageUrl": "",
-          "level": "Medium",
-          "options": [
-            "ক) HTML",
-            "খ) CSS",
-            "গ) PHP",
-            "ঘ) JAVA"
-          ],
-          "question": "ওয়েবসাইটকে দৃষ্টিনন্দন করার জন্য নিচের কোনটি ব্যবহার করা হয়?"
-        },
-        {
-          "answer": "ঘ) $||$",
-          "chapterId": "5",
-          "id": 185,
-          "imageUrl": "",
-          "level": "Medium",
-          "options": [
-            "ক) $==$",
-            "খ) $!=$",
-            "গ) $>=$",
-            "ঘ) $||$"
-          ],
-          "question": "কোনটি লজিক্যাল অপারেটর?"
-        },
-        {
-          "answer": "ক) ডেনিস রিচি",
-          "chapterId": "5",
-          "id": 189,
-          "imageUrl": "",
-          "level": "Medium",
-          "options": [
-            "ক) ডেনিস রিচি",
-            "খ) গিডো ডান রসাম",
-            "গ) জন স্ট্রাউস্ট্রপ",
-            "ঘ) অ্যাডা লাভলেস"
-          ],
-          "question": "C++ ভাষাটি উদ্ভাবন করেন কে?"
-        },
-        {
-          "answer": "ঘ) ৫ম",
-          "chapterId": "2",
-          "id": 192,
-          "imageUrl": "",
-          "level": "Medium",
-          "options": [
-            "ক) ১ম",
-            "খ) ৪র্থ",
-            "গ) ৩য়",
-            "ঘ) ৫ম"
-          ],
-          "question": "খুশি যে প্রজন্মের মোবাইল ফোন ব্যবহার করে- (Context: 4k TV support)"
-        },
-        {
-          "answer": "ঘ) i, ii ও iii",
-          "chapterId": "2",
-          "id": 193,
-          "imageUrl": "",
-          "level": "Medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "(Context: 4k TV support) উক্ত প্রজন্মের মোবাইল ফোনের বৈশিষ্ট্য হচ্ছে-\ni. world wide wireless web\nii. radio access technology\niii. Multiple input and multiple output"
-        },
-        {
-          "answer": "গ) ii ও iii",
-          "chapterId": "2",
-          "id": 200,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "জনাব রাজিন একটি মাল্টিন্যাশনাল কোম্পানিতে চাকুরি করেন। তার অফিসে ১৫ এমবিপিএস ব্রডব্যান্ড ইন্টারনেট সংযোগ ব্যবহার করা হয়।\n \n উদ্দীপক অনুসারে ইন্টারনেট সংযোগের জন্য যে মাধ্যমটি ব্যবহৃত হতে পারে-\ni. কো-এক্সিয়াল ক্যাবল\nii. টুইস্টেড পেয়ার ক্যাবল\niii. ফাইবার অপটিক ক্যাবল"
-        },
-        {
-          "answer": "গ) ii ও iii",
-          "chapterId": "3.2",
-          "id": 202,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "তথ্য ও উপাত্ত সংরক্ষণের সাথে জড়িত-\ni. অ্যাডার\nii. ফ্লিপফ্লপ\niii. রেজিস্টার"
-        },
-        {
-          "answer": "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
-          "chapterId": "2",
-          "id": 230,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
-            "খ) প্রতি ক্যারেক্টারের মাঝে বিরতি নেই",
-            "গ) স্বল্প দূরত্বে ডেটা ট্রান্সফারে ব্যবহৃত হয়",
-            "ঘ) প্রাইমারি স্টোরেজ ডিভাইসের প্রয়োজন হয় না"
-          ],
-          "question": "সিনক্রোনাস ট্রান্সমিশনের সুবিধা কোনটি?"
-        },
-        {
-          "answer": "খ) শিফট",
-          "chapterId": "3.2",
-          "id": 269,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) প্যারালার",
-            "খ) শিফট",
-            "গ) বাফার",
-            "ঘ) অ্যাকুমুলেটর"
-          ],
-          "question": "বাইনারি ডেটা একদিকে বা উভয় দিকে স্থানান্তর করতে পারে কোন রেজিস্টার?"
-        },
-        {
-          "answer": "ঘ) X ⊕ Y",
-          "chapterId": "3.2",
-          "id": 276,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw=true",
-          "level": "medium",
-          "options": [
-            "ক) X·Y",
-            "খ) Ȳ·X̄",
-            "গ) X ⊙ Ȳ",
-            "ঘ) X ⊕ Y"
-          ],
-          "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:"
-        },
-        {
-          "answer": "গ) কাউন্টার",
-          "chapterId": "3.2",
-          "id": 323,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) এনকোডার",
-            "খ) ডিকোডার",
-            "গ) কাউন্টার",
-            "ঘ) রেজিস্টার"
-          ],
-          "question": "নিচের কোন বর্তনী গণনা কাজ করে?"
-        },
-        {
-          "answer": "গ) 1245",
-          "chapterId": "5",
-          "id": 356,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) 11",
-            "খ) 15",
-            "গ) 1245",
-            "ঘ) 12345"
-          ],
-          "question": "প্রোগ্রামটি C ভাষায় সঠিকভাবে কম্পাইল হলে এর আউটপুটটি কী হবে?"
-        },
-        {
-          "answer": "ঘ) ওয়াকিটকি ট্রান্সমিশন",
-          "chapterId": "2",
-          "id": 378,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) রেডিও ট্রান্সমিশন",
-            "খ) গ্রুপ এসএমএস",
-            "গ) ভিডিও কনফারেন্স",
-            "ঘ) ওয়াকিটকি ট্রান্সমিশন"
-          ],
-          "question": "ইউনিকাস্ট ডেটা ডিস্ট্রিবিউশন মোড কোনটি?"
-        },
-        {
-          "answer": "ঘ) ১০০০০ bps",
-          "chapterId": "2",
-          "id": 379,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) ১০০০০ Kbps",
-            "খ) ১০০০০ Mbps",
-            "গ) ১০০০০ Gbps",
-            "ঘ) ১০০০০ bps"
-          ],
-          "question": "একটি চ্যানেলের মধ্য দিয়ে ৫ সেকেন্ডে ৫০,০০০ বিট ডেটা স্থানান্তরিত হলে এর ব্যান্ডউইথ কত?"
-        },
-        {
-          "answer": "ঘ) i, ii ও iii",
-          "chapterId": "2",
-          "id": 381,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "নিচের উদ্দীপকটি পড় এবং  নং প্রশ্নের উত্তর দাও:\nICT শিক্ষক ল্যাবের সকল কম্পিউটারকে প্যাচানো তার দিয়ে যুক্ত করে একটি নেটওয়ার্ক স্থাপন করেন। পরবর্তীতে তিনি বিশেষভাবে পরিষ্কৃত কাঁচের তৈরি ক্যাবল ব্যবহারের সিদ্ধান্ত নেন।\nশিক্ষকের সিদ্ধান্তের ফলে নেটওয়ার্কে-\ni. শক্তির অপচয় কম হবে\nii. ডেটা বিদ্যুৎ রোধক প্রভাবমুক্ত হবে\niii. ইনস্টলেশন ব্যয় কম হবে\nনিচের কোনটি সঠিক?"
-        },
-        {
-          "answer": "গ) 25",
-          "chapterId": "5",
-          "id": 394,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) 5",
-            "খ) 20",
-            "গ) 25",
-            "ঘ) 100"
-          ],
-          "question": "উদ্দীপকটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nint x = 100;\nxf = 20;\nprintf(\"%%d\", pow(x, 2));\nউদ্দীপকের কোডের আউটপুট কত হবে?"
-        },
-        {
-          "answer": "ক) 0",
-          "chapterId": "5",
-          "id": 415,
-          "imageUrl": "",
-          "level": "medium",
-          "options": [
-            "ক) 0",
-            "খ) 5",
-            "গ) 25",
-            "ঘ) 50"
-          ],
-          "question": "প্রোগ্রামটির আউটপুট কত? (Context: \n#include <stdio.h>\n main ()\n {\n int a, b;\n b=125;\n a=b%25;\n printf(\"%d\", a);\n}\n)"
-        }
-      ]
-    },
-    {
-      "model_test_id": "51",
-      "teacher_id": "10903001551816013",
-      "difficulty": "easy",
-      "test_name": "PreTest Exam 1",
-      "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
-      "total_questions": 25,
-      "last_date": "2025-11-30",
-      "validity_time_minutes": 25,
-      "is_allowed": false,
-      "is_pin_protected": false,
-      "access_pin": "null",
-      "selected_student_ids": [],
-      "mcqs": [
-        {
-          "answer": "গ) মেশ",
-          "chapterId": "2",
-          "id": 31,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) বাস",
-            "খ) রিং",
-            "গ) মেশ",
-            "ঘ) স্টার"
-          ],
-          "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?"
-        },
-        {
-          "answer": "ক) Casading Style Sheet",
-          "chapterId": "4",
-          "id": 43,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) Casading Style Sheet",
-            "খ) Casading Style Shit",
-            "গ) Case Style Sheet",
-            "ঘ) Casading Styling Sheet"
-          ],
-          "question": "CSS এর পূর্ণরূপ কী?"
-        },
-        {
-          "answer": "ক) ২",
-          "chapterId": "4",
-          "id": 83,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) ২",
-            "খ) ৪",
-            "গ) ৩",
-            "ঘ) ৫"
-          ],
-          "question": "একটি ওয়েবসাইটের কয়টি অংশ থাকে?"
-        },
-        {
-          "answer": "ক) <a>...</a>",
-          "chapterId": "4",
-          "id": 109,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) <a>...</a>",
-            "খ) <li>...</li>",
-            "গ) <b>...</b>",
-            "ঘ) <ol>...</ol>"
-          ],
-          "question": "ওয়েবপেইজের এক পেইজ থেকে অন্য পেইজে যাওয়ার জন্য কোন ট্যাগ ব্যবহার করা হয়?"
-        },
-        {
-          "answer": "ক. !=",
-          "chapterId": "5",
-          "id": 124,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক. !=",
-            "খ. =!",
-            "গ. < >",
-            "ঘ. = ="
-          ],
-          "question": "অসমান বুঝানোর জন্য কোনটি ব্যবহার করা হয়?"
-        },
-        {
-          "answer": "গ) <a href = \"www.Pen.Com\"> <img src = \"Pen.Jpg\"> </a>",
-          "chapterId": "4",
-          "id": 125,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) <a href = \"www.Pen.Com\"> Pen.Jpg </a>",
-            "খ) <a href = \"www.Pen.Com\">img src = \"Pen.Jpg\" </a>",
-            "গ) <a href = \"www.Pen.Com\"> <img src = \"Pen.Jpg\"> </a>",
-            "ঘ) <a href = \"www.Pen.Com\" img src = \"Pen.Jpg\"></a>"
-          ],
-          "question": "কোডটিতে HSC Exam এর স্থলে Pen.jpg ছবিকে Link Text আকারে উপস্থান করতে নিচের কোন কোডটি ব্যবহৃত হবে?"
-        },
-        {
-          "answer": "ক) A",
-          "chapterId": "3.2",
-          "id": 131,
-          "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw=true",
-          "level": "easy",
-          "options": [
-            "ক) AB",
-            "খ) A'B",
-            "গ) AB'",
-            "ঘ) A'B'"
-          ],
-          "question": "উদ্দীপকে F এর সরলীকৃত মান হচ্ছে-"
-        },
-        {
-          "answer": "ক) সিমপ্লেক্স",
-          "chapterId": "2",
-          "id": 148,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) সিমপ্লেক্স",
-            "খ) হাফ ডুপ্লেক্স",
-            "গ) ফুল ডুপ্লেক্স",
-            "ঘ) মাল্টিকাস্ট"
-          ],
-          "question": "কি board ও কম্পিউটারের মধ্যে ডেটা সঞ্চালনের মোড কোনটি?"
-        },
-        {
-          "answer": "খ) <br>",
-          "chapterId": "4",
-          "id": 152,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) <td>",
-            "খ) <br>",
-            "গ) <tr>",
-            "ঘ) <th>"
-          ],
-          "question": "এক লাইন নিচে নামানোর জন্য ব্যবহৃত ট্যাগ কোনটি?"
-        },
-        {
-          "answer": "ক) i ও ii",
-          "chapterId": "3.2",
-          "id": 161,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) i ও ii",
-            "খ) i ও iii",
-            "গ) ii ও iii",
-            "ঘ) i, ii ও iii"
-          ],
-          "question": "ডিকোডিংয়ের ক্ষেত্রে প্রযোজ্য- i. কোডকে বোধগম্য ভাষায় পরিণত করে ii. এনকোডারের বিপরীত কাজ করে iii. কম্পিউটার ইনপুট দেওয়ার কাজে ব্যবহৃত হয়"
-        },
-        {
-          "answer": "খ) rowspan",
-          "chapterId": "4",
-          "id": 204,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) colspan",
-            "খ) rowspan",
-            "গ) cellpadding",
-            "ঘ) cellspacing"
-          ],
-          "question": "HTML এ একাধিক রোকে মার্জ করতে কোন এট্রিবিউট ব্যবহৃত হয়?"
-        },
-        {
-          "answer": "গ) ডিবাগিং",
-          "chapterId": "5",
-          "id": 206,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) ডিকোডিং",
-            "খ) এনকোডিং",
-            "গ) ডিবাগিং",
-            "ঘ) কারেকশন"
-          ],
-          "question": "প্রোগ্রামের ভুলত্রুটি সংশোধনের পদ্ধতিকে বলা হয়-"
-        },
-        {
-          "answer": "ক) double",
-          "chapterId": "5",
-          "id": 232,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) double",
-            "খ) main",
-            "গ) printf",
-            "ঘ) scanf"
-          ],
-          "question": "কোনটি সঠিক ডাটা টাইপ?"
-        },
-        {
-          "answer": "ক) stdio.h",
-          "chapterId": "5",
-          "id": 240,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) stdio.h",
-            "খ) conio.h",
-            "গ) math.h",
-            "ঘ) string.h"
-          ],
-          "question": "scanf(); এর জন্য কোন হেডার ফাইল সংযুক্ত করতে হয়?"
-        },
-        {
-          "answer": "খ) মাধ্যম",
-          "chapterId": "2",
-          "id": 241,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) প্রাপক",
-            "খ) মাধ্যম",
-            "গ) প্রেরক",
-            "ঘ) ব্যবহারকারী"
-          ],
-          "question": "ব্যান্ডউইথ নির্ভর করে কোনটির উপর?"
-        },
-        {
-          "answer": "গ) ফুল-ডুপ্লেক্স",
-          "chapterId": "2",
-          "id": 243,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) সিমপ্লেক্স",
-            "খ) হাফ-ডুপ্লেক্স",
-            "গ) ফুল-ডুপ্লেক্স",
-            "ঘ) ব্রডকাস্ট"
-          ],
-          "question": "নেটওয়ার্কে ডেটা আদান-প্রদানের জন্য প্রেরক ও প্রাপক উভয়ই একই সময়ে ডেটা প্রেরণ এবং গ্রহণ করতে পারে কোন মোডে?"
-        },
-        {
-          "answer": "ঘ) ICT",
-          "chapterId": "4",
-          "id": 281,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) Font",
-            "খ) Color",
-            "গ) Red",
-            "ঘ) ICT"
-          ],
-          "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n<font color = \"Red\" face = \"Arial\"> ICT </font>\n উদ্দীপকে কন্টেন্ট কোনটি?"
-        },
-        {
-          "answer": "ক. src",
-          "chapterId": "4",
-          "id": 315,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক. src",
-            "খ. href",
-            "গ. target",
-            "ঘ. border"
-          ],
-          "question": "<img> ট্যাগের আবশ্যিক অ্যাট্রিবিউট কোনটি?"
-        },
-        {
-          "answer": "খ) Java",
-          "chapterId": "5",
-          "id": 358,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) C",
-            "খ) Java",
-            "গ) ওরাকল",
-            "ঘ) পাইথন"
-          ],
-          "question": "কোনটি সর্বজনীন ভাষা?"
-        },
-        {
-          "answer": "ক) রোমান",
-          "chapterId": "3.1",
-          "id": 367,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) রোমান",
-            "খ) বাইনারি",
-            "গ) ডেসিমেল",
-            "ঘ) অক্টাল"
-          ],
-          "question": "কোন সংখ্যা পদ্ধতিতে স্থানীয় মান নেই?"
-        },
-        {
-          "answer": "ঘ) ৫ ম",
-          "chapterId": "2",
-          "id": 377,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) ২য়",
-            "খ) ৩য়",
-            "গ) ৪র্থ",
-            "ঘ) ৫ ম"
-          ],
-          "question": "কোন প্রজন্মের মোবাইল ফোন নেটওয়ার্ক wwww নামে পরিচিত?"
-        },
-        {
-          "answer": "ক) <td>",
-          "chapterId": "4",
-          "id": 412,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) <td>",
-            "খ) <tr>",
-            "গ) <col>",
-            "ঘ) <tc>"
-          ],
-          "question": "টেবিলে সেল তৈরির জন্য কোন ট্যাগ ব্যবহৃত হয়?"
-        },
-        {
-          "answer": "ক) লুপের শুরুতে",
-          "chapterId": "5",
-          "id": 421,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) লুপের শুরুতে",
-            "খ) লুপের শেষে",
-            "গ) লুপের মাঝখানে",
-            "ঘ) যে কোন সময়"
-          ],
-          "question": "while লুপএর শর্ত কখন পরীক্ষা করা হয়?"
-        },
-        {
-          "answer": "ক) ওয়েবসাইট",
-          "chapterId": "4",
-          "id": 434,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) ওয়েবসাইট",
-            "খ) সার্ভার",
-            "গ) ওয়েব ফাইল",
-            "ঘ) ফোল্ডার"
-          ],
-          "question": "কোনটির ক্ষেত্রে ডোমেইন নেম ব্যবহার করা হয়?"
-        },
-        {
-          "answer": "ক) %",
-          "chapterId": "5",
-          "id": 463,
-          "imageUrl": "",
-          "level": "easy",
-          "options": [
-            "ক) %",
-            "খ) /",
-            "গ) &",
-            "ঘ) |"
-          ],
-          "question": "'সি' প্রোগ্রামিং ভাষায় ভাগশেষ নির্ণয় করার জন্য অপারেটর হলো-"
-        }
-      ]
-    }
+  {
+    "model_test_id": "54",
+    "teacher_id": "11467801713819046",
+    "difficulty": "easy",
+    "test_name": "First Year Exam 1",
+    "chapter_name": "1 + 3.1",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) বায়োমেট্রিক্স",
+        "chapterId": "1",
+        "id": 7,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ন্যানটেকনোলজি",
+          "খ) জেনেটিক ইঞ্জিনিয়ারিং",
+          "গ) বায়োমেট্রিক্স",
+          "ঘ) বায়োইনফরমেটিক্স"
+        ],
+        "question": "বৈশিষ্ট্য অনুযায়ী জীবকে শনাক্তকরণের প্রযুক্তি কোনটি?"
+      },
+      {
+        "answer": "ক) 1 থেকে 100 nm",
+        "chapterId": "1",
+        "id": 14,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) 1 থেকে 100 nm",
+          "খ) 1 থেকে 200 nm",
+          "গ) 1 থেকে 300 nm",
+          "ঘ) 1 থেকে 400 nm"
+        ],
+        "question": "ন্যানো পার্টিকেলের আকৃতি কত?"
+      },
+      {
+        "answer": "ক) 2.45 GHz",
+        "chapterId": "1",
+        "id": 24,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) 2.45 GHz",
+          "খ) 2.45 MHz",
+          "গ) 2.45 THz",
+          "ঘ) 2.45 PHZ"
+        ],
+        "question": "ব্লু-টুথ এর ফ্রিকোয়েন্সি কত?"
+      },
+      {
+        "answer": "গ) ভার্চুয়াল রিয়ালিটি",
+        "chapterId": "1",
+        "id": 25,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ক্রায়োসার্জারি",
+          "খ) বায়োমেট্রিক্স",
+          "গ) ভার্চুয়াল রিয়ালিটি",
+          "ঘ) আর্টিফিশিয়াল ইন্টেলিজেন্স"
+        ],
+        "question": "টেলিপ্রেজেন্সের প্রয়োগক্ষেত্র কোনটি?"
+      },
+      {
+        "answer": "খ) সফটওয়্যার",
+        "chapterId": "1",
+        "id": 26,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) হার্ডওয়্যার",
+          "খ) সফটওয়্যার",
+          "গ) ইন্টারনেট",
+          "ঘ) মানুষের জ্ঞান"
+        ],
+        "question": "\"কম্পিউটার সংশ্লিষ্ট যন্ত্রপাতিকে সঠিকভাবে পরিচালনার জন্য নিচের কোনটি প্রয়োজন?"
+      },
+      {
+        "answer": "খ) ই-লার্নিং",
+        "chapterId": "1",
+        "id": 28,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ই-স্টাডি",
+          "খ) ই-লার্নিং",
+          "গ) অন-লার্নিং",
+          "ঘ) ইন্টারঅ্যাক্টিভ ক্লাস"
+        ],
+        "question": "অনলাইনে পারস্পরিক মিথস্ক্রিয়ায় শিক্ষা কার্যক্রম পরিচালনাকে কী বলে?"
+      },
+      {
+        "answer": "ঘ) PROLOG",
+        "chapterId": "1",
+        "id": 68,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) COBOL",
+          "খ) ORACLE",
+          "গ) HTML",
+          "ঘ) PROLOG"
+        ],
+        "question": "কৃত্রিম বুদ্ধিমত্তায় ব্যবহৃত হয় কোন প্রোগ্রামিং ভাষা?"
+      },
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "1",
+        "id": 71,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ক্রায়োজনিক এজেন্ট হচ্ছে- \n i. তরল নাইট্রোজেন ii. তরল হাইড্রোজেন iii. অক্সিজেন"
+      },
+      {
+        "answer": "গ) দ্বিতীয়",
+        "chapterId": "1",
+        "id": 93,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) প্রথম",
+          "খ) তৃতীয়",
+          "গ) দ্বিতীয়",
+          "ঘ) চতুর্থ"
+        ],
+        "question": "বৈদ্যুতিক শক্তির ব্যাপক ব্যবহার ছিল কোন শিল্প বিপ্লবে?"
+      },
+      {
+        "answer": "গ) 11100001",
+        "chapterId": "3.1",
+        "id": 115,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) 11000111",
+          "খ) 11100000",
+          "গ) 11100001",
+          "ঘ) 11111111"
+        ],
+        "question": "(31)₁₀ সংখ্যাটির ২\u0027s complement কত?"
+      },
+      {
+        "answer": "ঘ) বায়োইনফরমেটিক্স",
+        "chapterId": "1",
+        "id": 121,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) বায়োমেট্রিক্স",
+          "খ) জেনেটিক ইঞ্জিনিয়ারিং",
+          "গ) রোবটিক্স",
+          "ঘ) বায়োইনফরমেটিক্স"
+        ],
+        "question": "জীববিজ্ঞানের বিশাল পরিমাণ ডেটা সংগ্রহ, সংরক্ষণ, সঠিকভাবে প্রক্রিয়াকরণ ও ব্যাখ্যার সাথে সংশ্লিষ্ট প্রযুক্তি কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.1",
+        "id": 140,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "321 সংখ্যাটি হতে পারে- i. অক্টাল ii. ডেসিমাল iii. হেক্সাডেসিমাল"
+      },
+      {
+        "answer": "ঘ) কার্বন মনো অক্সাইড",
+        "chapterId": "1",
+        "id": 211,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) নাইট্রোজেন",
+          "খ) আর্গন",
+          "গ) অক্সিজেন",
+          "ঘ) কার্বন মনো অক্সাইড"
+        ],
+        "question": "নিচের কোন গ্যাসটি ক্রায়োজনিক এজেন্ট নয়?"
+      },
+      {
+        "answer": "গ) Genetic engineering",
+        "chapterId": "1",
+        "id": 213,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) Bioinformatics",
+          "খ) Biometric",
+          "গ) Genetic engineering",
+          "ঘ) Artificial intelligence"
+        ],
+        "question": "উদ্দীপকে ডা. নিহান কোন প্রযুক্তি ব্যবহার করেন? (Context: মাছ-মাংসের উৎপাদন বৃদ্ধির জন্য প্রাণীর জিন পরিবর্তন নিয়ে গবেষণা)"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "1",
+        "id": 231,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "আরিয়া ১০^(-৯) স্কেলে পন্য উৎপাদন নিয়ে গবেষণা করে। তাদের উৎপাদিত পণ্য সূ², ছোট হলেও মজবুত ও টেকসই হয়। হাজিরার জন্য অফিসে তাকে একটি ডিভাইসে হাতের আঙ্গুলের ছাপ  দিতে হয়।\n আরিয়ার গবেষণার প্রয়োগক্ষেত্র হয়-\ni. চিকিৎসা \nii. জালানি \niii. খাদ্য খাত "
+      },
+      {
+        "answer": "ক) ন্যানোটেকনোলজি",
+        "chapterId": "1",
+        "id": 293,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ন্যানোটেকনোলজি",
+          "খ) বায়োইনফরমেট্রিক্স",
+          "গ) বায়োমেট্রিক্স",
+          "ঘ) জেনেটিক ইঞ্জিনিয়ারিং"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় এবং উক্ত নং প্রশ্নের উত্তর দাও:\nজনাব লাবিব মসৃণ ত্বকের জন্য অ্যান্টি-এজিং ক্রিম তৈরিতে এক ধরনের প্রযুক্তি ব্যবহার করলেন। তার অফিসে প্রবেশ করতে হাতের ছাপ লাগে।\nজনাব লাবিবের ক্রিম তৈরির প্রযুক্তি কোনটি?"
+      },
+      {
+        "answer": "ক) ৩২",
+        "chapterId": "3.1",
+        "id": 352,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ৩২",
+          "খ) ৩৪",
+          "গ) ৩৫",
+          "ঘ) ১২৭"
+        ],
+        "question": "৭ বিটের ASCII কোডের যান্ত্রিক নিয়ন্ত্রণ কোড কয়টি?"
+      },
+      {
+        "answer": "খ) ৩",
+        "chapterId": "1",
+        "id": 361,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২",
+          "খ) ৩",
+          "গ) ৪",
+          "ঘ) ৫"
+        ],
+        "question": "নিউরাল নেট কয়টি স্তরে বিভক্ত?"
+      },
+      {
+        "answer": "ক) অক্সিজেন গ্যাস",
+        "chapterId": "1",
+        "id": 365,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) অক্সিজেন গ্যাস",
+          "খ) তরল আর্গন",
+          "গ) নাইট্রোজেন গ্যাস",
+          "ঘ) কঠিন কার্বন ডাইঅক্সাইড"
+        ],
+        "question": "ক্রায়োসার্জারিতে ক্রায়োজেনিক এজেন্ট হিসেবে ব্যবহৃত হয় কোনটি?"
+      },
+      {
+        "answer": "গ) স্পীচ প্রসেসিং",
+        "chapterId": "1",
+        "id": 372,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) মেশিন লার্নিং",
+          "খ) ইমেজ প্রসেসিং",
+          "গ) স্পীচ প্রসেসিং",
+          "ঘ) ন্যাচারাল ল্যাংগুয়েজ প্রসেসিং"
+        ],
+        "question": "কম্পিউটারকে দিয়ে কথা বলানো ও শোনানোর কৌশল কোনটি?"
+      },
+      {
+        "answer": "খ) বায়োমেট্রিক্স",
+        "chapterId": "1",
+        "id": 373,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) কৃত্রিম বুদ্ধিমত্তা",
+          "খ) বায়োমেট্রিক্স",
+          "গ) জেনেটিক ইঞ্জিনিয়ারিং",
+          "ঘ) বায়োইনফরম্যাটিক্স"
+        ],
+        "question": "জাতীয় পরিচয়পত্র তৈরিতে নিচের কোন প্রযুক্তি ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ঘ) জেনেটিক ইঞ্জিনিয়ারিং",
+        "chapterId": "1",
+        "id": 401,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) বায়োমেট্রিক্স",
+          "খ) ন্যানোটেকনোলজি",
+          "গ) বায়োইনফরমেটিক্স",
+          "ঘ) জেনেটিক ইঞ্জিনিয়ারিং"
+        ],
+        "question": "মি. ফরিদ সাহেবের ব্যবহৃত প্রযুক্তিটির নাম কী? (Context: মি. ফরিদ সাহেব একজন কৃষি বিজ্ঞানী। তিনি তার গবেষণায় উন্নত জাতের ধান উদ্ভাবন করেছেন যা প্রাকৃতিক বিপর্যয়ে নষ্ট হয় না।)"
+      },
+      {
+        "answer": "গ) ৮",
+        "chapterId": "3.1",
+        "id": 428,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২",
+          "খ) ৪",
+          "গ) ৮",
+          "ঘ) ১৬"
+        ],
+        "question": "EBCDIC কোড কত বিটের?"
+      },
+      {
+        "answer": "ক) নিবল",
+        "chapterId": "3.1",
+        "id": 442,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) নিবল",
+          "খ) কম্পিউটার শব্দ",
+          "গ) ডেসিমাল",
+          "ঘ) ক্যারেট"
+        ],
+        "question": "এক বাইটের অর্ধেককে কী বলা হয়?"
+      },
+      {
+        "answer": "ঘ) মেশিন লার্নিং",
+        "chapterId": "1",
+        "id": 466,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) রোবটিক্স",
+          "খ) স্পিচ",
+          "গ) ভিশন",
+          "ঘ) মেশিন লার্নিং"
+        ],
+        "question": "আর্টিফিশিয়াল ইন্টেলিজেন্স-এর সবচেয়ে সফল ক্ষেত্র হিসেবে বিবেচনা করা হয় কোনটি?"
+      }
+    ]
+  },
+  {
+    "model_test_id": "53",
+    "teacher_id": "10903001551816013",
+    "difficulty": "hard",
+    "test_name": "Pre test 3",
+    "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) 3",
+        "chapterId": "5",
+        "id": 11,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 0",
+          "খ) 2",
+          "গ) 3",
+          "ঘ) 4"
+        ],
+        "question": "উদ্দীপক \nint a \u003d 2, b;\nb \u003d ++a;\nPrintf(\"%d\", b);\nউদ্দীপকে \u0027b\u0027 এর মান কত?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "4",
+        "id": 67,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) i, ii ও iii",
+          "ঘ) iii"
+        ],
+        "question": "\u003ca\u003e ট্যাগের সাথে ব্যবহৃত অ্যাট্রিবিউট- \n i. href ii. target iii. blank"
+      },
+      {
+        "answer": "খ) n(2n-1)/2",
+        "chapterId": "2",
+        "id": 77,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) n(n-1)",
+          "খ) n(2n-1)/2",
+          "গ) n(n+1)/2",
+          "ঘ) n(2n+1)/2"
+        ],
+        "question": "মেশ টপোলজিতে n সংখ্যক নোডের জন্য মোট তারের সংখ্যা হবে-"
+      },
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "3.1",
+        "id": 78,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "১০ ভিত্তিক সংখ্যা পদ্ধতি হলো- i. ভারতীয় সংখ্যা পদ্ধতি ii. মায়ান সংখ্যা পদ্ধতি iii. চীন সংখ্যা পদ্ধতি"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "4",
+        "id": 86,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "HTML ফাইল এডিট করার জন্য ব্যবহৃত টেক্সট এডিটর হলো- i. নোডপ্যাড ii. নোডপ্যাড ++ iii. সাবলাইম টেক্সট"
+      },
+      {
+        "answer": "খ) 11 11 13",
+        "chapterId": "5",
+        "id": 104,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 11 13 15",
+          "খ) 11 11 13",
+          "গ) 11 13 13",
+          "ঘ) 10 12 14"
+        ],
+        "question": "\n for ( i \u003d 10; i \u003c \u003d 15; i + \u003d 2) \n { \n if (i \u003e 12) \n print f (“%d”, i + 1); \n else \n print f (“%d”, i – 1);\n }\n উদ্দীপকে i\u003e12 এর পরিবর্তে i\u003c12 হলে আউটপুট হবে-"
+      },
+      {
+        "answer": "খ) 8 kbps",
+        "chapterId": "2",
+        "id": 145,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 8 bps",
+          "খ) 8 kbps",
+          "গ) 192 kbps",
+          "ঘ) 1 mbps"
+        ],
+        "question": "কোন চ্যানেলের ভেতর দিয়ে 4 সেকেন্ডে 32kb ডেটা স্থানান্তরিত হলে তার ব্যান্ড উইথ কত?"
+      },
+      {
+        "answer": "খ) \u003c html \u003e ……… \u003c /html \u003e",
+        "chapterId": "4",
+        "id": 154,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) \u003c title \u003e ……… \u003c /title \u003e",
+          "খ) \u003c html \u003e ……… \u003c /html \u003e",
+          "গ) \u003c body \u003e ……… \u003c /body \u003e",
+          "ঘ) \u003c head \u003e ……… \u003c /head \u003e"
+        ],
+        "question": "HTML এর সম্পূর্ণ কনটেন্ট কোন ট্যাগে থাকে?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 219,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/Dinajpur/21_22.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের ব্লকচিত্রের সার্কিট বাস্তবায়নে যে গেইটের প্রয়োজন-\ni. AND\nii. X-OR\niii. OR"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 227,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি টপোলজি হিসেবে কাজ করবে যখন-\ni. A কে হাব বিবেচনা করা হয়\nii. নোডগুলো আন্তঃসংযোগ করলে\niii. C বিচ্ছিন্ন হলে"
+      },
+      {
+        "answer": "ক) ২",
+        "chapterId": "5",
+        "id": 245,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) ২",
+          "খ) ৩",
+          "গ) ৪",
+          "ঘ) ৫"
+        ],
+        "question": "\n M\u003d5%3;\n while(M\u003c5)\n{\nprint(\u0027ict\u0027);\nM\u003dM+1;\n}\n\n M\u003dM+1 এর পরিবর্তে M\u003dM+2 করলে কতবার আসবে? "
+      },
+      {
+        "answer": "গ) 34",
+        "chapterId": "5",
+        "id": 274,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 14",
+          "খ) 31",
+          "গ) 34",
+          "ঘ) 40"
+        ],
+        "question": "C ভাষায়\n F \u003d POW(5, (7\\ MOD\\ 3) + (6/3) * 2 + 5 হলে \nF এর সরলীকৃত মান কত?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.1",
+        "id": 290,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "নিচের উদ্দীপকটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:\nদুটি সংখ্যার পার্থক্য (52)₁₀। তাদের মধ্যে বড় সংখ্যাটি (5D)₁₆।\nসংখ্যা দুটির যোগফল হতে পারে-\n i. (10000110)₂ \t ii. (134)₁₀ \t iii. (206)₁₆ \nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "খ) ৯টি",
+        "chapterId": "2",
+        "id": 292,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) ৮টি",
+          "খ) ৯টি",
+          "গ) ১০টি",
+          "ঘ) ১৫টি"
+        ],
+        "question": "মেশ টপোলজিতে ৫টি তার দিয়ে সর্বোচ্চ কতটি নোডকে সংযুক্ত করা যায়?"
+      },
+      {
+        "answer": "গ. ii ও iii",
+        "chapterId": "2",
+        "id": 307,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. i ও ii",
+          "খ. i ও iii",
+          "গ. ii ও iii",
+          "ঘ. i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের মাধ্যমটিতে-\n i. বিদ্যুৎ চৌম্বকীয় প্রভাব সবচেয়ে কম \t ii. একটি কমন বাসের তার ব্যবহার হয় \t iii. 10 Mbps বা তার বেশি গতিতে ডেটা চলাচল করে\n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "2",
+        "id": 357,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ICT ক্লাব তাদের নেটওয়ার্ক (LAN) ইন্টারনেটের সাথে যুক্ত করতে চায়। তাদের প্রয়োজন-\ni. সুইচ\nii. গেটওয়ে\niii. রাউটার\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 363,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকে উল্লিখিত চিত্রটি বাস্তবায়নের জন্য গেট হলো-\ni. NOR\nii. NAND\niii. AND\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "খ) পাইথন",
+        "chapterId": "5",
+        "id": 393,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) সি",
+          "খ) পাইথন",
+          "গ) জাভা",
+          "ঘ) স্ক্রিপ্ট"
+        ],
+        "question": "IEEE কর্তৃক কোন প্রোগ্রামিং ভাষা সচ্ছলভাবে স্বীকৃতি পেয়েছে?"
+      },
+      {
+        "answer": "ক) 0",
+        "chapterId": "3.2",
+        "id": 410,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 0",
+          "খ) 1",
+          "গ) A",
+          "ঘ) B"
+        ],
+        "question": "(A+B)\u0027(A\u0027+B\u0027)\u0027 এর সরলীকৃত মান-"
+      },
+      {
+        "answer": "খ) xy",
+        "chapterId": "3.2",
+        "id": 426,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) x + y",
+          "খ) xy",
+          "গ) x̅ + y̅",
+          "ঘ) x̅ · y̅"
+        ],
+        "question": "F-এর সরলীকৃত মান কোনটি?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 450,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nসুমাইতা ভিডিও কনফারেন্সিং এর জন্য এক ধরনের মোবাইল ফোন ক্রয় করেছে যা LTE স্ট্যান্ডার্ডে কাজ করে থাকে।\n উদ্দীপকের উল্লিখিত প্রযুক্তি ব্যবহৃত মোবাইল ফোনের বৈশিষ্ট্য হলো-\ni. প্যাকেট সুইচিং এর পরিবর্তে IP ভিত্তিক নেটওয়ার্কের ব্যবহার\nii. চলনশীল ডিভাইসের ক্ষেত্রে ডেটা ট্রান্সফার রেট 100Mbps\niii. MIMO স্ট্যান্ডার্ড সম্পন্ন\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.1",
+        "id": 452,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "আইসিটি শিক্ষক ক্লাসে দুইটি সংখ্যা লিখলেন যা নিম্নরূপ\n(1101.01)₂ এবং (111.11)₂ সংখ্যা দুটির মধ্যে পার্থক্য হলো-\ni. (5.5)₁₀\nii. (5.4)₈\niii. (15.4)₁₆\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) A \u003d 0, B \u003d 1, C \u003d 0",
+        "chapterId": "3.2",
+        "id": 456,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A \u003d 0, B \u003d 1, C \u003d 1",
+          "খ) A \u003d 1, B \u003d 0, C \u003d 1",
+          "গ) A \u003d 1, B \u003d 1, C \u003d 1",
+          "ঘ) A \u003d 0, B \u003d 1, C \u003d 0"
+        ],
+        "question": "P \u003d 1 হবে, যখন"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "4",
+        "id": 458,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "হাইপারলিঙ্ক হচ্ছে-\ni. একাধিক ফাইলের সংযোগ\nii. একাধিক ওয়েবসাইটের সংযোগ\niii. একাধিক ফোল্ডারের সংযোগ\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ) i\u003d4, i\u003di+2",
+        "chapterId": "5",
+        "id": 465,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i\u003d0, i\u003di+1",
+          "খ) i\u003d2, i\u003di+1",
+          "গ) i\u003d3, i\u003di+2",
+          "ঘ) i\u003d4, i\u003di+2"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় নং প্রশ্নের উত্তর দাও:\n\n#include \u003cstdio.h\u003e\nmain() {\n    int i, s \u003d 0;\n    for (i \u003d 1; i \u003c\u003d 6; i++) {\n        s \u003d s + i;\n    }\n    printf(\"%d\", s);\n}\n\nউপরের প্রোগ্রামে \"i\" এর মানের কোন কোন পরিবর্তন করলে আউটপুট 10 হবে?"
+      }
+    ]
+  },
+  {
+    "model_test_id": "52",
+    "teacher_id": "10903001551816013",
+    "difficulty": "medium",
+    "test_name": "Pre Test 2",
+    "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "2",
+        "id": 32,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": "মডেমের কাজ হলো—\ni) ডেটা পাঠানো\nii) ডেটা সংরক্ষণ \niii) ডেটা গ্রহণ"
+      },
+      {
+        "answer": "গ) i, iii",
+        "chapterId": "3.2",
+        "id": 48,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i, ii",
+          "খ) ii, iii",
+          "গ) i, iii",
+          "ঘ) i, ii,iii"
+        ],
+        "question": " রেজিস্টার ব্যবহার করা হয় —\ni. ০ ও ১ স্টোর করতে \nii. ০ ও ১ যোগ করতে \niii. ডাটা শিফট করতে \n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "খ) FE",
+        "chapterId": "3.1",
+        "id": 60,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) EE",
+          "খ) FE",
+          "গ) EF",
+          "ঘ) F0"
+        ],
+        "question": "FF)₁₆ এর পূর্বের সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "খ) i ও iii",
+        "chapterId": "5",
+        "id": 63,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/dhaka_board/image.jpg?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "প্রোগ্রামটিতে ব্যবহৃত অপারেটরগুলো হচ্ছে-\n i. Arithmetic ii. Logical iii. Relational"
+      },
+      {
+        "answer": "খ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 82,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/rajshahi/raj.jpg?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের F থেকে প্রাপ্ত লজিক গেইট ব্যবহৃত হতে পারে- i. কাউন্টার তৈরির ক্ষেত্রে ii. দুটি বিটের অবস্থা তুলনা করার জন্য iii. হাফ অ্যাডার তৈরর ক্ষেত্রে"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "5",
+        "id": 92,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "\u0027সি\u0027 প্রোগ্রামিং ভাষা হলো- i. \u0027সি\u0027 একটি কেস সেনসিটিভ ভাষা ii. \u0027সি\u0027 একটি মধ্যম স্তরের ভাষা iii. \u0027সি\u0027 একটি উচ্চ স্তরের ভাষা"
+      },
+      {
+        "answer": "খ) মাল্টিকাস্ট",
+        "chapterId": "2",
+        "id": 110,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ব্রডকাস্ট",
+          "খ) মাল্টিকাস্ট",
+          "গ) সিমপ্লেক্স",
+          "ঘ) ইউনিকাস্ট"
+        ],
+        "question": "চ্যাটিং ও গ্রাপ SMS এ ব্যবহৃত ডেটা ট্রান্সমিশন মোড হলো-"
+      },
+      {
+        "answer": "গ) গেটওয়ে",
+        "chapterId": "2",
+        "id": 180,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) রাউটার",
+          "খ) সুইচ",
+          "গ) গেটওয়ে",
+          "ঘ) হাব"
+        ],
+        "question": "কোনটি প্রটোকল কনভার্টার?"
+      },
+      {
+        "answer": "খ) CSS",
+        "chapterId": "4",
+        "id": 182,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) HTML",
+          "খ) CSS",
+          "গ) PHP",
+          "ঘ) JAVA"
+        ],
+        "question": "ওয়েবসাইটকে দৃষ্টিনন্দন করার জন্য নিচের কোনটি ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ঘ) $||$",
+        "chapterId": "5",
+        "id": 185,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) $\u003d\u003d$",
+          "খ) $!\u003d$",
+          "গ) $\u003e\u003d$",
+          "ঘ) $||$"
+        ],
+        "question": "কোনটি লজিক্যাল অপারেটর?"
+      },
+      {
+        "answer": "ক) ডেনিস রিচি",
+        "chapterId": "5",
+        "id": 189,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) ডেনিস রিচি",
+          "খ) গিডো ডান রসাম",
+          "গ) জন স্ট্রাউস্ট্রপ",
+          "ঘ) অ্যাডা লাভলেস"
+        ],
+        "question": "C++ ভাষাটি উদ্ভাবন করেন কে?"
+      },
+      {
+        "answer": "ঘ) ৫ম",
+        "chapterId": "2",
+        "id": 192,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) ১ম",
+          "খ) ৪র্থ",
+          "গ) ৩য়",
+          "ঘ) ৫ম"
+        ],
+        "question": "খুশি যে প্রজন্মের মোবাইল ফোন ব্যবহার করে- (Context: 4k TV support)"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "2",
+        "id": 193,
+        "imageUrl": "",
+        "level": "Medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "(Context: 4k TV support) উক্ত প্রজন্মের মোবাইল ফোনের বৈশিষ্ট্য হচ্ছে-\ni. world wide wireless web\nii. radio access technology\niii. Multiple input and multiple output"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "2",
+        "id": 200,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "জনাব রাজিন একটি মাল্টিন্যাশনাল কোম্পানিতে চাকুরি করেন। তার অফিসে ১৫ এমবিপিএস ব্রডব্যান্ড ইন্টারনেট সংযোগ ব্যবহার করা হয়।\n \n উদ্দীপক অনুসারে ইন্টারনেট সংযোগের জন্য যে মাধ্যমটি ব্যবহৃত হতে পারে-\ni. কো-এক্সিয়াল ক্যাবল\nii. টুইস্টেড পেয়ার ক্যাবল\niii. ফাইবার অপটিক ক্যাবল"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 202,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "তথ্য ও উপাত্ত সংরক্ষণের সাথে জড়িত-\ni. অ্যাডার\nii. ফ্লিপফ্লপ\niii. রেজিস্টার"
+      },
+      {
+        "answer": "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
+        "chapterId": "2",
+        "id": 230,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ডেটা ট্রান্সমিশনের দক্ষতা বেশি",
+          "খ) প্রতি ক্যারেক্টারের মাঝে বিরতি নেই",
+          "গ) স্বল্প দূরত্বে ডেটা ট্রান্সফারে ব্যবহৃত হয়",
+          "ঘ) প্রাইমারি স্টোরেজ ডিভাইসের প্রয়োজন হয় না"
+        ],
+        "question": "সিনক্রোনাস ট্রান্সমিশনের সুবিধা কোনটি?"
+      },
+      {
+        "answer": "খ) শিফট",
+        "chapterId": "3.2",
+        "id": 269,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) প্যারালার",
+          "খ) শিফট",
+          "গ) বাফার",
+          "ঘ) অ্যাকুমুলেটর"
+        ],
+        "question": "বাইনারি ডেটা একদিকে বা উভয় দিকে স্থানান্তর করতে পারে কোন রেজিস্টার?"
+      },
+      {
+        "answer": "ঘ) X ⊕ Y",
+        "chapterId": "3.2",
+        "id": 276,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw\u003dtrue",
+        "level": "medium",
+        "options": [
+          "ক) X·Y",
+          "খ) Ȳ·X̄",
+          "গ) X ⊙ Ȳ",
+          "ঘ) X ⊕ Y"
+        ],
+        "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত নং প্রশ্নের উত্তর দাও:"
+      },
+      {
+        "answer": "গ) কাউন্টার",
+        "chapterId": "3.2",
+        "id": 323,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) এনকোডার",
+          "খ) ডিকোডার",
+          "গ) কাউন্টার",
+          "ঘ) রেজিস্টার"
+        ],
+        "question": "নিচের কোন বর্তনী গণনা কাজ করে?"
+      },
+      {
+        "answer": "গ) 1245",
+        "chapterId": "5",
+        "id": 356,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 11",
+          "খ) 15",
+          "গ) 1245",
+          "ঘ) 12345"
+        ],
+        "question": "প্রোগ্রামটি C ভাষায় সঠিকভাবে কম্পাইল হলে এর আউটপুটটি কী হবে?"
+      },
+      {
+        "answer": "ঘ) ওয়াকিটকি ট্রান্সমিশন",
+        "chapterId": "2",
+        "id": 378,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) রেডিও ট্রান্সমিশন",
+          "খ) গ্রুপ এসএমএস",
+          "গ) ভিডিও কনফারেন্স",
+          "ঘ) ওয়াকিটকি ট্রান্সমিশন"
+        ],
+        "question": "ইউনিকাস্ট ডেটা ডিস্ট্রিবিউশন মোড কোনটি?"
+      },
+      {
+        "answer": "ঘ) ১০০০০ bps",
+        "chapterId": "2",
+        "id": 379,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) ১০০০০ Kbps",
+          "খ) ১০০০০ Mbps",
+          "গ) ১০০০০ Gbps",
+          "ঘ) ১০০০০ bps"
+        ],
+        "question": "একটি চ্যানেলের মধ্য দিয়ে ৫ সেকেন্ডে ৫০,০০০ বিট ডেটা স্থানান্তরিত হলে এর ব্যান্ডউইথ কত?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "2",
+        "id": 381,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "নিচের উদ্দীপকটি পড় এবং  নং প্রশ্নের উত্তর দাও:\nICT শিক্ষক ল্যাবের সকল কম্পিউটারকে প্যাচানো তার দিয়ে যুক্ত করে একটি নেটওয়ার্ক স্থাপন করেন। পরবর্তীতে তিনি বিশেষভাবে পরিষ্কৃত কাঁচের তৈরি ক্যাবল ব্যবহারের সিদ্ধান্ত নেন।\nশিক্ষকের সিদ্ধান্তের ফলে নেটওয়ার্কে-\ni. শক্তির অপচয় কম হবে\nii. ডেটা বিদ্যুৎ রোধক প্রভাবমুক্ত হবে\niii. ইনস্টলেশন ব্যয় কম হবে\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) 25",
+        "chapterId": "5",
+        "id": 394,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 5",
+          "খ) 20",
+          "গ) 25",
+          "ঘ) 100"
+        ],
+        "question": "উদ্দীপকটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nint x \u003d 100;\nxf \u003d 20;\nprintf(\"%%d\", pow(x, 2));\nউদ্দীপকের কোডের আউটপুট কত হবে?"
+      },
+      {
+        "answer": "ক) 0",
+        "chapterId": "5",
+        "id": 415,
+        "imageUrl": "",
+        "level": "medium",
+        "options": [
+          "ক) 0",
+          "খ) 5",
+          "গ) 25",
+          "ঘ) 50"
+        ],
+        "question": "প্রোগ্রামটির আউটপুট কত? (Context: \n#include \u003cstdio.h\u003e\n main ()\n {\n int a, b;\n b\u003d125;\n a\u003db%25;\n printf(\"%d\", a);\n}\n)"
+      }
+    ]
+  },
+  {
+    "model_test_id": "51",
+    "teacher_id": "10903001551816013",
+    "difficulty": "easy",
+    "test_name": "PreTest Exam 1",
+    "chapter_name": "2 + 3.1 + 3.2 + 4 + 5",
+    "total_questions": 25,
+    "last_date": "2025-11-30",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": false,
+    "access_pin": "null",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "গ) মেশ",
+        "chapterId": "2",
+        "id": 31,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) বাস",
+          "খ) রিং",
+          "গ) মেশ",
+          "ঘ) স্টার"
+        ],
+        "question": "কোন নেটওয়ার্ক টপোলজি তে বেশি ক্যাবল দরকার হয়?"
+      },
+      {
+        "answer": "ক) Casading Style Sheet",
+        "chapterId": "4",
+        "id": 43,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) Casading Style Sheet",
+          "খ) Casading Style Shit",
+          "গ) Case Style Sheet",
+          "ঘ) Casading Styling Sheet"
+        ],
+        "question": "CSS এর পূর্ণরূপ কী?"
+      },
+      {
+        "answer": "ক) ২",
+        "chapterId": "4",
+        "id": 83,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২",
+          "খ) ৪",
+          "গ) ৩",
+          "ঘ) ৫"
+        ],
+        "question": "একটি ওয়েবসাইটের কয়টি অংশ থাকে?"
+      },
+      {
+        "answer": "ক) \u003ca\u003e...\u003c/a\u003e",
+        "chapterId": "4",
+        "id": 109,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ca\u003e...\u003c/a\u003e",
+          "খ) \u003cli\u003e...\u003c/li\u003e",
+          "গ) \u003cb\u003e...\u003c/b\u003e",
+          "ঘ) \u003col\u003e...\u003c/ol\u003e"
+        ],
+        "question": "ওয়েবপেইজের এক পেইজ থেকে অন্য পেইজে যাওয়ার জন্য কোন ট্যাগ ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ক. !\u003d",
+        "chapterId": "5",
+        "id": 124,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. !\u003d",
+          "খ. \u003d!",
+          "গ. \u003c \u003e",
+          "ঘ. \u003d \u003d"
+        ],
+        "question": "অসমান বুঝানোর জন্য কোনটি ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "গ) \u003ca href \u003d \"www.Pen.Com\"\u003e \u003cimg src \u003d \"Pen.Jpg\"\u003e \u003c/a\u003e",
+        "chapterId": "4",
+        "id": 125,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ca href \u003d \"www.Pen.Com\"\u003e Pen.Jpg \u003c/a\u003e",
+          "খ) \u003ca href \u003d \"www.Pen.Com\"\u003eimg src \u003d \"Pen.Jpg\" \u003c/a\u003e",
+          "গ) \u003ca href \u003d \"www.Pen.Com\"\u003e \u003cimg src \u003d \"Pen.Jpg\"\u003e \u003c/a\u003e",
+          "ঘ) \u003ca href \u003d \"www.Pen.Com\" img src \u003d \"Pen.Jpg\"\u003e\u003c/a\u003e"
+        ],
+        "question": "কোডটিতে HSC Exam এর স্থলে Pen.jpg ছবিকে Link Text আকারে উপস্থান করতে নিচের কোন কোডটি ব্যবহৃত হবে?"
+      },
+      {
+        "answer": "ক) A",
+        "chapterId": "3.2",
+        "id": 131,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/jessore/j1.png?raw\u003dtrue",
+        "level": "easy",
+        "options": [
+          "ক) AB",
+          "খ) A\u0027B",
+          "গ) AB\u0027",
+          "ঘ) A\u0027B\u0027"
+        ],
+        "question": "উদ্দীপকে F এর সরলীকৃত মান হচ্ছে-"
+      },
+      {
+        "answer": "ক) সিমপ্লেক্স",
+        "chapterId": "2",
+        "id": 148,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) সিমপ্লেক্স",
+          "খ) হাফ ডুপ্লেক্স",
+          "গ) ফুল ডুপ্লেক্স",
+          "ঘ) মাল্টিকাস্ট"
+        ],
+        "question": "কি board ও কম্পিউটারের মধ্যে ডেটা সঞ্চালনের মোড কোনটি?"
+      },
+      {
+        "answer": "খ) \u003cbr\u003e",
+        "chapterId": "4",
+        "id": 152,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ctd\u003e",
+          "খ) \u003cbr\u003e",
+          "গ) \u003ctr\u003e",
+          "ঘ) \u003cth\u003e"
+        ],
+        "question": "এক লাইন নিচে নামানোর জন্য ব্যবহৃত ট্যাগ কোনটি?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "3.2",
+        "id": 161,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ডিকোডিংয়ের ক্ষেত্রে প্রযোজ্য- i. কোডকে বোধগম্য ভাষায় পরিণত করে ii. এনকোডারের বিপরীত কাজ করে iii. কম্পিউটার ইনপুট দেওয়ার কাজে ব্যবহৃত হয়"
+      },
+      {
+        "answer": "খ) rowspan",
+        "chapterId": "4",
+        "id": 204,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) colspan",
+          "খ) rowspan",
+          "গ) cellpadding",
+          "ঘ) cellspacing"
+        ],
+        "question": "HTML এ একাধিক রোকে মার্জ করতে কোন এট্রিবিউট ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "গ) ডিবাগিং",
+        "chapterId": "5",
+        "id": 206,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ডিকোডিং",
+          "খ) এনকোডিং",
+          "গ) ডিবাগিং",
+          "ঘ) কারেকশন"
+        ],
+        "question": "প্রোগ্রামের ভুলত্রুটি সংশোধনের পদ্ধতিকে বলা হয়-"
+      },
+      {
+        "answer": "ক) double",
+        "chapterId": "5",
+        "id": 232,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) double",
+          "খ) main",
+          "গ) printf",
+          "ঘ) scanf"
+        ],
+        "question": "কোনটি সঠিক ডাটা টাইপ?"
+      },
+      {
+        "answer": "ক) stdio.h",
+        "chapterId": "5",
+        "id": 240,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) stdio.h",
+          "খ) conio.h",
+          "গ) math.h",
+          "ঘ) string.h"
+        ],
+        "question": "scanf(); এর জন্য কোন হেডার ফাইল সংযুক্ত করতে হয়?"
+      },
+      {
+        "answer": "খ) মাধ্যম",
+        "chapterId": "2",
+        "id": 241,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) প্রাপক",
+          "খ) মাধ্যম",
+          "গ) প্রেরক",
+          "ঘ) ব্যবহারকারী"
+        ],
+        "question": "ব্যান্ডউইথ নির্ভর করে কোনটির উপর?"
+      },
+      {
+        "answer": "গ) ফুল-ডুপ্লেক্স",
+        "chapterId": "2",
+        "id": 243,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) সিমপ্লেক্স",
+          "খ) হাফ-ডুপ্লেক্স",
+          "গ) ফুল-ডুপ্লেক্স",
+          "ঘ) ব্রডকাস্ট"
+        ],
+        "question": "নেটওয়ার্কে ডেটা আদান-প্রদানের জন্য প্রেরক ও প্রাপক উভয়ই একই সময়ে ডেটা প্রেরণ এবং গ্রহণ করতে পারে কোন মোডে?"
+      },
+      {
+        "answer": "ঘ) ICT",
+        "chapterId": "4",
+        "id": 281,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) Font",
+          "খ) Color",
+          "গ) Red",
+          "ঘ) ICT"
+        ],
+        "question": "নিচের চিত্রটি লক্ষ্য কর এবং উক্ত প্রশ্নের উত্তর দাও:\n\u003cfont color \u003d \"Red\" face \u003d \"Arial\"\u003e ICT \u003c/font\u003e\n উদ্দীপকে কন্টেন্ট কোনটি?"
+      },
+      {
+        "answer": "ক. src",
+        "chapterId": "4",
+        "id": 315,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক. src",
+          "খ. href",
+          "গ. target",
+          "ঘ. border"
+        ],
+        "question": "\u003cimg\u003e ট্যাগের আবশ্যিক অ্যাট্রিবিউট কোনটি?"
+      },
+      {
+        "answer": "খ) Java",
+        "chapterId": "5",
+        "id": 358,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) C",
+          "খ) Java",
+          "গ) ওরাকল",
+          "ঘ) পাইথন"
+        ],
+        "question": "কোনটি সর্বজনীন ভাষা?"
+      },
+      {
+        "answer": "ক) রোমান",
+        "chapterId": "3.1",
+        "id": 367,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) রোমান",
+          "খ) বাইনারি",
+          "গ) ডেসিমেল",
+          "ঘ) অক্টাল"
+        ],
+        "question": "কোন সংখ্যা পদ্ধতিতে স্থানীয় মান নেই?"
+      },
+      {
+        "answer": "ঘ) ৫ ম",
+        "chapterId": "2",
+        "id": 377,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ২য়",
+          "খ) ৩য়",
+          "গ) ৪র্থ",
+          "ঘ) ৫ ম"
+        ],
+        "question": "কোন প্রজন্মের মোবাইল ফোন নেটওয়ার্ক wwww নামে পরিচিত?"
+      },
+      {
+        "answer": "ক) \u003ctd\u003e",
+        "chapterId": "4",
+        "id": 412,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) \u003ctd\u003e",
+          "খ) \u003ctr\u003e",
+          "গ) \u003ccol\u003e",
+          "ঘ) \u003ctc\u003e"
+        ],
+        "question": "টেবিলে সেল তৈরির জন্য কোন ট্যাগ ব্যবহৃত হয়?"
+      },
+      {
+        "answer": "ক) লুপের শুরুতে",
+        "chapterId": "5",
+        "id": 421,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) লুপের শুরুতে",
+          "খ) লুপের শেষে",
+          "গ) লুপের মাঝখানে",
+          "ঘ) যে কোন সময়"
+        ],
+        "question": "while লুপএর শর্ত কখন পরীক্ষা করা হয়?"
+      },
+      {
+        "answer": "ক) ওয়েবসাইট",
+        "chapterId": "4",
+        "id": 434,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) ওয়েবসাইট",
+          "খ) সার্ভার",
+          "গ) ওয়েব ফাইল",
+          "ঘ) ফোল্ডার"
+        ],
+        "question": "কোনটির ক্ষেত্রে ডোমেইন নেম ব্যবহার করা হয়?"
+      },
+      {
+        "answer": "ক) %",
+        "chapterId": "5",
+        "id": 463,
+        "imageUrl": "",
+        "level": "easy",
+        "options": [
+          "ক) %",
+          "খ) /",
+          "গ) \u0026",
+          "ঘ) |"
+        ],
+        "question": "\u0027সি\u0027 প্রোগ্রামিং ভাষায় ভাগশেষ নির্ণয় করার জন্য অপারেটর হলো-"
+      }
+    ]
+  }
   ]
 }
