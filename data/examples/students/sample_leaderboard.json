@@ -1081,6 +1081,14 @@
       "last_updated": "2025-11-08 00:33:27"
     },
     {
+      "id": "1090302027BUSM1",
+      "name": "ABU HASNA ARINA",
+      "group": "BUSINESS STUDIES",
+      "xp_points": 46,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-23 09:58:17"
+    },
+    {
       "id": "1090302026SCID285",
       "name": "TANJILA RAHMNA TONIMA ",
       "group": "SCIENCE",
@@ -1655,14 +1663,6 @@
       "xp_points": 1,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-10 19:07:21"
-    },
-    {
-      "id": "1090302027BUSM1",
-      "name": "ABU HASNA ARINA",
-      "group": "BUSINESS STUDIES",
-      "xp_points": 1,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-23 09:58:17"
     }
   ]
 }
