@@ -247,6 +247,14 @@
                     "content": "স্যার আমার ডান হাতের আঙ্গুল মচকে গেছে আমি কিভাবে পরিক্ষা দিবো",
                     "timestamp": "2025-11-24 16:07:19",
                     "likes": 0
+                },
+                {
+                    "id": "6726b69b-5081-4655-9112-8446326cb76a",
+                    "postId": "post123",
+                    "authorName": "RUBIEYA BINTA REZAUL ",
+                    "content": "sir first years der jonno kono suggestions:<",
+                    "timestamp": "2025-11-24 17:07:19",
+                    "likes": 0
                 }
             ]
         },
@@ -661,7 +669,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-13 10:20:15",
-                    "likes": 43,
+                    "likes": 44,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -870,14 +878,6 @@
                     "authorName": "MARIYA AKTER PRIYA",
                     "content": "sir ict suggestion ta taratari den ",
                     "timestamp": "2025-11-24 15:55:04",
-                    "likes": 0
-                },
-                {
-                    "id": "0338eb2c-5824-4bb5-b7d8-d99ced664dfb",
-                    "postId": "post127",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "ICT suggestion ta delen na 🤧",
-                    "timestamp": "2025-11-24 17:06:37",
                     "likes": 0
                 }
             ]
