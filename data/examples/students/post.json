@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 8,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 2,
+                    "likes": 3,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -1157,19 +1157,11 @@
                     "likes": 0
                 },
                 {
-                    "id": "2ba80727-16ca-49a0-8bce-4fa8cb2e87a0",
+                    "id": "740f21ea-fa11-4976-8e1c-dad4fd73f451",
                     "postId": "post129",
-                    "authorName": "RAJOSSRE BARAI ",
-                    "content": "tnx sir",
-                    "timestamp": "2025-11-24 22:00:31",
-                    "likes": 0
-                },
-                {
-                    "id": "e954a37d-2162-4900-b46c-b3e8b6526fa4",
-                    "postId": "post129",
-                    "authorName": "MARIYA AKTER PRIYA",
-                    "content": "sir board analysis 40 html tag ki app a ache?",
-                    "timestamp": "2025-11-24 22:06:38",
+                    "authorName": "Y EA NA",
+                    "content": "Thanks Sir......... ",
+                    "timestamp": "2025-11-24 22:03:06",
                     "likes": 0
                 }
             ]
