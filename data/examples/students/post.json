@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 9,
+            "likes": 8,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 3,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -1154,6 +1154,14 @@
                     "authorName": "TANJILAKTER TONIMA",
                     "content": "tnx sir👍",
                     "timestamp": "2025-11-24 21:45:26",
+                    "likes": 0
+                },
+                {
+                    "id": "3f824884-6342-4b3c-a71f-3b632ba754ca",
+                    "postId": "post129",
+                    "authorName": "SOYA RANI DAS",
+                    "content": "Tnx sir",
+                    "timestamp": "2025-11-24 22:04:43",
                     "likes": 0
                 }
             ]
