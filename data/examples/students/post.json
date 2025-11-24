@@ -263,6 +263,14 @@
                     "content": "sir suggestion 🥹 we all are waiting for it ",
                     "timestamp": "2025-11-24 17:38:21",
                     "likes": 1
+                },
+                {
+                    "id": "d659de51-6b2c-41ac-ba1f-bbce960a0bc6",
+                    "postId": "post123",
+                    "authorName": "RIJUANA RITU",
+                    "content": "👍",
+                    "timestamp": "2025-11-24 17:56:46",
+                    "likes": 0
                 }
             ]
         },
@@ -910,14 +918,6 @@
                     "authorName": "AYESA AKTER",
                     "content": "sir...",
                     "timestamp": "2025-11-24 17:53:55",
-                    "likes": 0
-                },
-                {
-                    "id": "87173968-9dd1-4445-8720-75ff6f80ddb5",
-                    "postId": "post127",
-                    "authorName": "AYESA AKTER",
-                    "content": "suggestion",
-                    "timestamp": "2025-11-24 17:54:08",
                     "likes": 0
                 }
             ]
