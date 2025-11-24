@@ -303,6 +303,14 @@
                     "content": "sir khn suggestions diben ",
                     "timestamp": "2025-11-24 19:33:22",
                     "likes": 0
+                },
+                {
+                    "id": "1012be01-446a-4a76-a3f1-e205f95c3988",
+                    "postId": "post123",
+                    "authorName": "SAMIA ISLAM ",
+                    "content": "sir, amadar boi thaka motamumy sob pora hoa gasaa. Akon suggestion ta kindly dila preparation ta aro Valo hoto",
+                    "timestamp": "2025-11-24 19:39:06",
+                    "likes": 0
                 }
             ]
         },
@@ -704,7 +712,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 207,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
