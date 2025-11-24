@@ -319,14 +319,6 @@
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
                     "likes": 0
-                },
-                {
-                    "id": "1b7e6a2c-772a-4bec-8367-d03fc4486a72",
-                    "postId": "post123",
-                    "authorName": "MAYESHA MAHJABIN METHILA",
-                    "content": "si,suggestion er post a doka jai na",
-                    "timestamp": "2025-11-24 21:38:28",
-                    "likes": 0
                 }
             ]
         },
@@ -1153,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 1,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 }
             ]
