@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 56,
+            "likes": 57,
             "tags": [
                 "android",
                 "kotlin",
@@ -262,7 +262,7 @@
                     "authorName": "SADIA AKTER",
                     "content": "sir suggestion 🥹 we all are waiting for it ",
                     "timestamp": "2025-11-24 17:38:21",
-                    "likes": 4
+                    "likes": 7
                 },
                 {
                     "id": "d659de51-6b2c-41ac-ba1f-bbce960a0bc6",
@@ -942,15 +942,7 @@
                     "authorName": "SUMAIYA AKTER ALIF",
                     "content": "sir suggestion den ",
                     "timestamp": "2025-11-24 18:49:30",
-                    "likes": 0
-                },
-                {
-                    "id": "fe7f529a-8db0-45e2-a475-e33fd8da5b00",
-                    "postId": "post127",
-                    "authorName": "FAHIMA ",
-                    "content": "sir suggestion kkhn diben",
-                    "timestamp": "2025-11-24 19:02:31",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         },
