@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 10,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -1170,7 +1170,15 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "Thx",
                     "timestamp": "2025-11-24 22:07:48",
-                    "likes": 12
+                    "likes": 0
+                },
+                {
+                    "id": "8a86c556-4de0-4f7b-ba53-431f9d0da790",
+                    "postId": "post129",
+                    "authorName": "IFRAT ARA MIM",
+                    "content": "🫶thnx sir",
+                    "timestamp": "2025-11-24 22:18:42",
+                    "likes": 0
                 }
             ]
         }
