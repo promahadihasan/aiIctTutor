@@ -278,7 +278,7 @@
                     "authorName": "MITHILA RANI DAS",
                     "content": "sir suggestions ",
                     "timestamp": "2025-11-24 18:34:58",
-                    "likes": 3
+                    "likes": 4
                 },
                 {
                     "id": "b6b7df15-10b0-4f75-8a48-8b1a7cae775c",
@@ -318,14 +318,6 @@
                     "authorName": "RIYA",
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
-                    "likes": 0
-                },
-                {
-                    "id": "986c4a6b-b1e3-44d2-8647-7fd6de00b50d",
-                    "postId": "post123",
-                    "authorName": "FAHIMA ",
-                    "content": "sir ki suggestion dite vuila gechen?? 🙂 ",
-                    "timestamp": "2025-11-24 20:52:57",
                     "likes": 0
                 }
             ]
