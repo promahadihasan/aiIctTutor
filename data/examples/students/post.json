@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 89,
+            "likes": 4,
             "tags": [
                 "android",
                 "kotlin",
@@ -1147,6 +1147,14 @@
                     "timestamp": "2025-11-24 21:00:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "773fd831-3126-4bdd-8ea4-77107b9d88f5",
+                    "postId": "post129",
+                    "authorName": "SAMIA ISLAM ",
+                    "content": "tnx sir",
+                    "timestamp": "2025-11-24 21:26:04",
+                    "likes": 0
                 }
             ]
         }
