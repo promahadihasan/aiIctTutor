@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 59,
+            "likes": 60,
             "tags": [
                 "android",
                 "kotlin",
@@ -1178,7 +1178,7 @@
                     "authorName": "MARIAM AKTER SIFAMONY",
                     "content": "Tnx",
                     "timestamp": "2025-11-24 22:29:46",
-                    "likes": 9
+                    "likes": 0
                 },
                 {
                     "id": "978b9d61-4a34-4302-9faf-bcb020cc81c4",
