@@ -302,7 +302,7 @@
                     "authorName": "SANJIDA AKTHER MIM ",
                     "content": "sir khn suggestions diben ",
                     "timestamp": "2025-11-24 19:33:22",
-                    "likes": 3
+                    "likes": 1
                 },
                 {
                     "id": "1012be01-446a-4a76-a3f1-e205f95c3988",
@@ -310,7 +310,7 @@
                     "authorName": "SAMIA ISLAM ",
                     "content": "sir, amadar boi thaka motamumy sob pora hoa gasaa. Akon suggestion ta kindly dila preparation ta aro Valo hoto",
                     "timestamp": "2025-11-24 19:39:06",
-                    "likes": 4
+                    "likes": 1
                 }
             ]
         },
@@ -982,6 +982,14 @@
                     "authorName": "MARYAM",
                     "content": "sir suggestions ki taile diben na? ",
                     "timestamp": "2025-11-24 19:59:14",
+                    "likes": 0
+                },
+                {
+                    "id": "32ddb0ff-a178-4a70-a650-2a354431ed96",
+                    "postId": "post127",
+                    "authorName": "SHEIKH HIMU",
+                    "content": "sir suggestion ki diben nh?",
+                    "timestamp": "2025-11-24 20:28:50",
                     "likes": 0
                 }
             ]
