@@ -118,7 +118,7 @@
                     "authorName": "MAHMUDA AKTER SADIA",
                     "content": "ok sir",
                     "timestamp": "2025-11-19 12:46:13",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "d4815332-ff81-4f93-80e5-43777234b507",
@@ -318,14 +318,6 @@
                     "authorName": "RIYA",
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
-                    "likes": 0
-                },
-                {
-                    "id": "a7d2e539-0065-4ce1-87e3-e38d78ecd3ae",
-                    "postId": "post123",
-                    "authorName": "MST. TAHSIN RAHMAN BRISTY",
-                    "content": "ok sir",
-                    "timestamp": "2025-11-24 21:51:06",
                     "likes": 0
                 }
             ]
@@ -1140,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 7,
+            "likes": 8,
             "tags": [
                 "android",
                 "kotlin",
@@ -1153,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 1,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
