@@ -247,6 +247,14 @@
                     "content": "স্যার আমার ডান হাতের আঙ্গুল মচকে গেছে আমি কিভাবে পরিক্ষা দিবো",
                     "timestamp": "2025-11-24 16:07:19",
                     "likes": 0
+                },
+                {
+                    "id": "0d7b6232-58a9-49f8-a918-7b952e580022",
+                    "postId": "post123",
+                    "authorName": "RUBIEYA BINTA REZAUL ",
+                    "content": "sir 1 st Year ar suggestions:[",
+                    "timestamp": "2025-11-24 17:11:57",
+                    "likes": 0
                 }
             ]
         },
@@ -648,7 +656,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 211,
+            "likes": 203,
             "tags": [
                 "android",
                 "kotlin",
