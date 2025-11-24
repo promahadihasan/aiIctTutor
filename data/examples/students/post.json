@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 3,
+            "likes": 2,
             "tags": [
                 "android",
                 "kotlin",
@@ -1147,6 +1147,14 @@
                     "timestamp": "2025-11-24 21:00:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "72bf7482-2777-4573-9e49-962e2d86df04",
+                    "postId": "post129",
+                    "authorName": "TRISHNA CHAKRABARTI ",
+                    "content": "Dhonnobad sir ",
+                    "timestamp": "2025-11-24 21:23:14",
+                    "likes": 0
                 }
             ]
         }
