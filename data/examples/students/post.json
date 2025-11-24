@@ -110,7 +110,7 @@
                     "authorName": "FAHIMA AKTER ",
                     "content": "okay sir",
                     "timestamp": "2025-11-19 09:53:44",
-                    "likes": 6
+                    "likes": 0
                 },
                 {
                     "id": "e1ddca04-ade1-4e87-9f5c-887713530a4f",
@@ -680,7 +680,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 204,
+            "likes": 205,
             "tags": [
                 "android",
                 "kotlin",
