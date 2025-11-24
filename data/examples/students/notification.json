@@ -73,7 +73,7 @@
       "message": "Do Not Share!",
       "timestamp": "2025-11-25 21:15:30",
       "type": "post",
-      "isRead": true,
+      "isRead": false,
       "postId": "post129",
       "emoji": "📱",
       "imageUrl": "https://example.com/image.jpg",
