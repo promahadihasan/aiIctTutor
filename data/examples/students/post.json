@@ -680,7 +680,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 205,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
@@ -942,6 +942,22 @@
                     "authorName": "SUMAIYA AKTER ALIF",
                     "content": "sir suggestion den ",
                     "timestamp": "2025-11-24 18:49:30",
+                    "likes": 0
+                },
+                {
+                    "id": "560dd619-30a8-44bc-89ff-a4490083c64e",
+                    "postId": "post127",
+                    "authorName": "MARYAM",
+                    "content": "sirr amdr suggestions kokhon dibe?? ",
+                    "timestamp": "2025-11-24 18:58:00",
+                    "likes": 0
+                },
+                {
+                    "id": "c2bda522-3964-4923-a9b2-4ab315c010bd",
+                    "postId": "post127",
+                    "authorName": "MARYAM",
+                    "content": "sirr suggestions denn",
+                    "timestamp": "2025-11-24 18:58:37",
                     "likes": 0
                 }
             ]
