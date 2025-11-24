@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 7,
+            "likes": 11,
             "tags": [
                 "android",
                 "kotlin",
@@ -1147,6 +1147,14 @@
                     "timestamp": "2025-11-24 21:00:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "c4a4a733-3b47-43a4-a82a-929ea0b8971c",
+                    "postId": "post129",
+                    "authorName": "SARA TABASSUM",
+                    "content": "Thank you sir...🤍",
+                    "timestamp": "2025-11-24 21:34:13",
+                    "likes": 0
                 }
             ]
         }
