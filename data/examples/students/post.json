@@ -684,7 +684,7 @@
                     "authorName": "SHARMIN AKTER RUMANA",
                     "content": "sir 1st term er kichu suggestions din plz plz",
                     "timestamp": "2025-11-18 20:39:49",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "56b41fbb-4f65-4782-b3bc-65c4acb4fd6e",
@@ -998,6 +998,14 @@
                     "authorName": "SHEIKH HIMU",
                     "content": "sir suggestion ki diben nh?",
                     "timestamp": "2025-11-24 20:28:50",
+                    "likes": 0
+                },
+                {
+                    "id": "8843a994-101e-4fd8-9e12-c277839be6bf",
+                    "postId": "post127",
+                    "authorName": "MARYAM",
+                    "content": "😭😭😭😭😭sir suggestion kokhon diben?9 ta bajeee😭😭😭",
+                    "timestamp": "2025-11-24 21:02:56",
                     "likes": 0
                 }
             ]
