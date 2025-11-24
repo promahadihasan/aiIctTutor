@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 10,
+            "likes": 9,
             "tags": [
                 "android",
                 "kotlin",
@@ -1170,6 +1170,14 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "Thx",
                     "timestamp": "2025-11-24 22:07:48",
+                    "likes": 0
+                },
+                {
+                    "id": "982260a8-0d7b-421d-b0a1-940510f17796",
+                    "postId": "post129",
+                    "authorName": "ISRAT JAHAN MONIRA",
+                    "content": "Sir e.g er full meaning ki ?",
+                    "timestamp": "2025-11-24 22:16:54",
                     "likes": 0
                 }
             ]
