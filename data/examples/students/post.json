@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 4,
+            "likes": 3,
             "tags": [
                 "android",
                 "kotlin",
@@ -1147,6 +1147,14 @@
                     "timestamp": "2025-11-24 21:00:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "1e0315aa-b180-4f8f-9d07-2000d8772eb9",
+                    "postId": "post129",
+                    "authorName": "SHAIRA ISLAM ",
+                    "content": "sir apni finally dilen suggestion ta🥹",
+                    "timestamp": "2025-11-24 21:30:55",
+                    "likes": 0
                 }
             ]
         }
