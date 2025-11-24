@@ -110,7 +110,7 @@
                     "authorName": "FAHIMA AKTER ",
                     "content": "okay sir",
                     "timestamp": "2025-11-19 09:53:44",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "e1ddca04-ade1-4e87-9f5c-887713530a4f",
@@ -279,14 +279,6 @@
                     "content": "sir suggestions ",
                     "timestamp": "2025-11-24 18:34:58",
                     "likes": 0
-                },
-                {
-                    "id": "9cb355be-ebc9-4d21-9b80-dbb501b80cca",
-                    "postId": "post123",
-                    "authorName": "NUSRAT JAHAN KHUSBU ",
-                    "content": "sirrrrrrr suggestion denn",
-                    "timestamp": "2025-11-24 19:04:10",
-                    "likes": 1
                 }
             ]
         },
