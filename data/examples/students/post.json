@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 11,
+            "likes": 7,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 1,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -1157,11 +1157,11 @@
                     "likes": 0
                 },
                 {
-                    "id": "535be0f0-7731-4bb9-aca0-ff3aa5b2dea2",
+                    "id": "8b10b5b5-d5eb-4e5b-beb5-ed310490b274",
                     "postId": "post129",
-                    "authorName": "MEHERIN MAHBUB AKHI",
-                    "content": "thank u sir,,",
-                    "timestamp": "2025-11-24 21:49:33",
+                    "authorName": "MITU AKTER LIZA",
+                    "content": "Many many thanks sir ☺️",
+                    "timestamp": "2025-11-24 21:51:08",
                     "likes": 0
                 }
             ]
