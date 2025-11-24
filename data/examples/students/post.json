@@ -302,7 +302,7 @@
                     "authorName": "SANJIDA AKTHER MIM ",
                     "content": "sir khn suggestions diben ",
                     "timestamp": "2025-11-24 19:33:22",
-                    "likes": 0
+                    "likes": 1
                 },
                 {
                     "id": "1012be01-446a-4a76-a3f1-e205f95c3988",
@@ -975,14 +975,6 @@
                     "content": "sir suggestion den ",
                     "timestamp": "2025-11-24 18:49:30",
                     "likes": 2
-                },
-                {
-                    "id": "221a72f8-7a2f-45c2-a57c-b3e1d2f7e989",
-                    "postId": "post127",
-                    "authorName": "MEHERIN MAHBUB AKHI",
-                    "content": "sir suggestion ta den plz",
-                    "timestamp": "2025-11-24 19:56:38",
-                    "likes": 0
                 }
             ]
         },
