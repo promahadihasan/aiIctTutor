@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 9,
+            "likes": 10,
             "tags": [
                 "android",
                 "kotlin",
@@ -1171,14 +1171,6 @@
                     "content": "Thx",
                     "timestamp": "2025-11-24 22:07:48",
                     "likes": 10
-                },
-                {
-                    "id": "5bafbcc9-12b7-46f8-8eb2-5540b7f7037b",
-                    "postId": "post129",
-                    "authorName": "AMENA BINTE KABIR",
-                    "content": "Tnx Sir ",
-                    "timestamp": "2025-11-24 22:18:56",
-                    "likes": 0
                 }
             ]
         }
