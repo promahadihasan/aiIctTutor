@@ -294,7 +294,15 @@
                     "authorName": "FAHIMA ",
                     "content": "sirrr suggestion dennn",
                     "timestamp": "2025-11-24 19:12:07",
-                    "likes": 3
+                    "likes": 4
+                },
+                {
+                    "id": "8bcc4216-48c5-4772-8c12-d4f93e969b87",
+                    "postId": "post123",
+                    "authorName": "SANJIDA AKTHER MIM ",
+                    "content": "sir khn suggestions diben ",
+                    "timestamp": "2025-11-24 19:33:22",
+                    "likes": 0
                 }
             ]
         },
