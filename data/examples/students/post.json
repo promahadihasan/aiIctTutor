@@ -558,7 +558,7 @@
             "timestamp": "2025-11-02 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 214,
+            "likes": 211,
             "tags": [
                 "android",
                 "kotlin",
@@ -1170,14 +1170,6 @@
                     "authorName": "KAZI JANNATUN NUR ",
                     "content": "Thx",
                     "timestamp": "2025-11-24 22:07:48",
-                    "likes": 10
-                },
-                {
-                    "id": "3195b56f-9374-4a0d-ab43-6ae8b1c8cbf5",
-                    "postId": "post129",
-                    "authorName": "MARIAM AKTER SIFAMONY",
-                    "content": "Tnx",
-                    "timestamp": "2025-11-24 22:29:46",
                     "likes": 0
                 }
             ]
