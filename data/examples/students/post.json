@@ -648,7 +648,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 203,
+            "likes": 205,
             "tags": [
                 "android",
                 "kotlin",
@@ -870,14 +870,6 @@
                     "authorName": "MARIYA AKTER PRIYA",
                     "content": "sir ict suggestion ta taratari den ",
                     "timestamp": "2025-11-24 15:55:04",
-                    "likes": 0
-                },
-                {
-                    "id": "325120fd-947c-4d09-a3c0-fff0eefb268d",
-                    "postId": "post127",
-                    "authorName": "RUBIEYA BINTA REZAUL ",
-                    "content": "sir suggestions TvT",
-                    "timestamp": "2025-11-24 17:09:33",
                     "likes": 0
                 }
             ]
