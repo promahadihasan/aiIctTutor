@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 7,
+            "likes": 5,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,8 +1145,16 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 2,
+                    "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "2137d4b7-52ef-46d2-8809-3e41e1322bfb",
+                    "postId": "post129",
+                    "authorName": "MRIDULA SHARKER KANTA",
+                    "content": "tnx sir ",
+                    "timestamp": "2025-11-24 21:41:27",
+                    "likes": 0
                 }
             ]
         }
