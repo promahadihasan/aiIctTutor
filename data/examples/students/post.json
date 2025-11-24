@@ -318,7 +318,7 @@
                     "authorName": "RIYA",
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         },
@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 8,
+            "likes": 7,
             "tags": [
                 "android",
                 "kotlin",
