@@ -661,7 +661,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-13 10:20:15",
-                    "likes": 44,
+                    "likes": 43,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -870,6 +870,14 @@
                     "authorName": "MARIYA AKTER PRIYA",
                     "content": "sir ict suggestion ta taratari den ",
                     "timestamp": "2025-11-24 15:55:04",
+                    "likes": 0
+                },
+                {
+                    "id": "0338eb2c-5824-4bb5-b7d8-d99ced664dfb",
+                    "postId": "post127",
+                    "authorName": "KAZI JANNATUN NUR ",
+                    "content": "ICT suggestion ta delen na 🤧",
+                    "timestamp": "2025-11-24 17:06:37",
                     "likes": 0
                 }
             ]
