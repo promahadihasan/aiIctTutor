@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 57,
+            "likes": 56,
             "tags": [
                 "android",
                 "kotlin",
@@ -918,6 +918,14 @@
                     "authorName": "AYESA AKTER",
                     "content": "sir...",
                     "timestamp": "2025-11-24 17:53:55",
+                    "likes": 0
+                },
+                {
+                    "id": "e9037c99-5201-435d-bf5f-ac51acbfca8d",
+                    "postId": "post127",
+                    "authorName": "SARA TABASSUM",
+                    "content": "sir suggestion den na ken🥲",
+                    "timestamp": "2025-11-24 18:30:30",
                     "likes": 0
                 }
             ]
