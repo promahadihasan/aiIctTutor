@@ -239,6 +239,14 @@
                     "content": "ok sir",
                     "timestamp": "2025-11-23 21:21:39",
                     "likes": 0
+                },
+                {
+                    "id": "6a206cc7-9c00-4bf3-8248-8b1f28404ef9",
+                    "postId": "post123",
+                    "authorName": "MST FARZANA AKTHER HAFSA ",
+                    "content": "স্যার আমার ডান হাতের আঙ্গুল মচকে গেছে আমি কিভাবে পরিক্ষা দিবো",
+                    "timestamp": "2025-11-24 16:07:19",
+                    "likes": 0
                 }
             ]
         },
@@ -653,7 +661,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-13 10:20:15",
-                    "likes": 46,
+                    "likes": 43,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
