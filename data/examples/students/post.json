@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 3,
+            "likes": 6,
             "tags": [
                 "android",
                 "kotlin",
@@ -1147,14 +1147,6 @@
                     "timestamp": "2025-11-24 21:00:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
-                },
-                {
-                    "id": "4e703445-7628-499e-8d16-16d821e0a12b",
-                    "postId": "post129",
-                    "authorName": "TASRIF TAPPA",
-                    "content": "sir (e.g.) diye ki bujaisen",
-                    "timestamp": "2025-11-24 21:37:44",
-                    "likes": 0
                 }
             ]
         }
