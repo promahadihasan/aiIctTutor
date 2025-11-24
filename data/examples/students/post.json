@@ -279,6 +279,14 @@
                     "content": "sir suggestions ",
                     "timestamp": "2025-11-24 18:34:58",
                     "likes": 0
+                },
+                {
+                    "id": "9cb355be-ebc9-4d21-9b80-dbb501b80cca",
+                    "postId": "post123",
+                    "authorName": "NUSRAT JAHAN KHUSBU ",
+                    "content": "sirrrrrrr suggestion denn",
+                    "timestamp": "2025-11-24 19:04:10",
+                    "likes": 1
                 }
             ]
         },
@@ -902,7 +910,7 @@
                     "authorName": "MARIYA AKTER PRIYA",
                     "content": "sir ict suggestion ta taratari den ",
                     "timestamp": "2025-11-24 15:55:04",
-                    "likes": 4
+                    "likes": 1
                 },
                 {
                     "id": "3e0e5940-8b87-4329-a334-030302007ecc",
@@ -910,7 +918,7 @@
                     "authorName": "TANJILA AFRIN RATRI",
                     "content": "sir suggestion den 🥺",
                     "timestamp": "2025-11-24 17:28:40",
-                    "likes": 23
+                    "likes": 20
                 },
                 {
                     "id": "75ecd542-3929-415e-a076-4374c9951d2a",
