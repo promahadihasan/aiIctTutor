@@ -255,22 +255,6 @@
                     "content": "sir 1 st Year ar suggestions:[",
                     "timestamp": "2025-11-24 17:11:57",
                     "likes": 0
-                },
-                {
-                    "id": "63454a85-068b-4d52-870b-262bb5aea45c",
-                    "postId": "post123",
-                    "authorName": "MORIUM ",
-                    "content": "আসসালামু আলাইকুম স্যার,, স্যার আমাদের কিছু ",
-                    "timestamp": "2025-11-24 17:26:18",
-                    "likes": 0
-                },
-                {
-                    "id": "cd972a11-94bd-4573-ba21-8d29cac58edf",
-                    "postId": "post123",
-                    "authorName": "MORIUM ",
-                    "content": "কমন দেন ",
-                    "timestamp": "2025-11-24 17:26:36",
-                    "likes": 0
                 }
             ]
         },
@@ -672,7 +656,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 203,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
@@ -726,7 +710,7 @@
                     "authorName": "ESHITA ROY CHITY",
                     "content": "শেষ পর্যন্ত হচ্ছে তাহলে নবীন বরণ ",
                     "timestamp": "2025-11-17 09:48:19",
-                    "likes": 3
+                    "likes": 4
                 },
                 {
                     "id": "9e3ce52d-55bd-4bfe-b766-fcda4568fb4c",
