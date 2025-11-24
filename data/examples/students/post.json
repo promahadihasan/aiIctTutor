@@ -278,7 +278,7 @@
                     "authorName": "MITHILA RANI DAS",
                     "content": "sir suggestions ",
                     "timestamp": "2025-11-24 18:34:58",
-                    "likes": 3
+                    "likes": 9
                 },
                 {
                     "id": "b6b7df15-10b0-4f75-8a48-8b1a7cae775c",
@@ -318,15 +318,7 @@
                     "authorName": "RIYA",
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
-                    "likes": 0
-                },
-                {
-                    "id": "08b52c1d-dfcb-492e-b87d-4e8ea673e6c2",
-                    "postId": "post123",
-                    "authorName": "AMENA BINTE KABIR",
-                    "content": "sir suggestion please ",
-                    "timestamp": "2025-11-24 20:56:21",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         },
