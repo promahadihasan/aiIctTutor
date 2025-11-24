@@ -1145,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 2,
+                    "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -1154,6 +1154,14 @@
                     "authorName": "TANJILAKTER TONIMA",
                     "content": "tnx sir👍",
                     "timestamp": "2025-11-24 21:45:26",
+                    "likes": 0
+                },
+                {
+                    "id": "2e55ab70-bad8-408f-b5ad-343da63dd975",
+                    "postId": "post129",
+                    "authorName": "TISHA MONI",
+                    "content": "thank you so much sir",
+                    "timestamp": "2025-11-24 21:48:41",
                     "likes": 0
                 }
             ]
