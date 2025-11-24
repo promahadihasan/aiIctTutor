@@ -21,7 +21,7 @@
                     "authorName": "shibbir",
                     "content": "replay deo",
                     "timestamp": "2025-11-17 17:15:30",
-                    "likes": 15,
+                    "likes": 16,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
@@ -54,7 +54,7 @@
                     "authorName": "FARHANA AKTER MIM",
                     "content": "Okk sir ",
                     "timestamp": "2025-11-18 18:53:06",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "d170a73b-0548-443e-af80-4ce8dc730054",
@@ -286,7 +286,7 @@
                     "authorName": "MST. MOU AKTER",
                     "content": "Sir suggestion plz",
                     "timestamp": "2025-11-24 19:07:09",
-                    "likes": 4
+                    "likes": 5
                 },
                 {
                     "id": "92f84a6e-91cc-4333-bbcb-b1dbb631b19e",
