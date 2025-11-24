@@ -1007,6 +1007,14 @@
                     "content": "😭😭😭😭😭sir suggestion kokhon diben?9 ta bajeee😭😭😭",
                     "timestamp": "2025-11-24 21:02:56",
                     "likes": 0
+                },
+                {
+                    "id": "34ad09c5-1433-4431-ae9d-bcaa4e300d47",
+                    "postId": "post127",
+                    "authorName": "MST. TAHSIN RAHMAN BRISTY",
+                    "content": "👍",
+                    "timestamp": "2025-11-24 22:02:03",
+                    "likes": 0
                 }
             ]
         },
@@ -1132,7 +1140,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 9,
+            "likes": 8,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,7 +1153,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 3,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
