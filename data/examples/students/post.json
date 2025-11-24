@@ -319,14 +319,6 @@
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
                     "likes": 0
-                },
-                {
-                    "id": "55ae535a-d52b-4477-9f44-e7b920183431",
-                    "postId": "post123",
-                    "authorName": "MUSLIMA ",
-                    "content": "স্যার সাজেশন দিবেন না ",
-                    "timestamp": "2025-11-24 21:58:34",
-                    "likes": 0
                 }
             ]
         },
@@ -1153,7 +1145,7 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 2,
+                    "likes": 3,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
