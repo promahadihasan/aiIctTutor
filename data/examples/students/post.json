@@ -1145,8 +1145,16 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 1,
+                    "likes": 2,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
+                },
+                {
+                    "id": "72c3a179-16e9-4050-ac0d-72d79e6f9149",
+                    "postId": "post129",
+                    "authorName": "SHOPNA RANI DAS PRITY",
+                    "content": "Thank you,, sir",
+                    "timestamp": "2025-11-24 21:40:24",
+                    "likes": 0
                 }
             ]
         }
