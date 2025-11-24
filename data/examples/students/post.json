@@ -1147,14 +1147,6 @@
                     "timestamp": "2025-11-24 21:00:30",
                     "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
-                },
-                {
-                    "id": "089f5e10-018e-4875-a06b-ae4e9ff3ff49",
-                    "postId": "post129",
-                    "authorName": "TANJILAKTER TONIMA",
-                    "content": "tnx sir👍",
-                    "timestamp": "2025-11-24 21:44:38",
-                    "likes": 0
                 }
             ]
         }
