@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 59,
+            "likes": 58,
             "tags": [
                 "android",
                 "kotlin",
@@ -958,7 +958,7 @@
                     "authorName": "AYESA AKTER",
                     "content": "sir suggestion ta kokhn diben?",
                     "timestamp": "2025-11-24 17:53:19",
-                    "likes": 30
+                    "likes": 0
                 },
                 {
                     "id": "131ae2c4-4087-4e85-b09b-27efdb8a9251",
@@ -966,7 +966,7 @@
                     "authorName": "AYESA AKTER",
                     "content": "sir...",
                     "timestamp": "2025-11-24 17:53:55",
-                    "likes": 27
+                    "likes": 0
                 },
                 {
                     "id": "e9037c99-5201-435d-bf5f-ac51acbfca8d",
@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 12,
+            "likes": 7,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,40 +1145,16 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 2,
+                    "likes": 3,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
-                    "id": "9c3082d7-c117-45c0-af32-863946bca08c",
+                    "id": "8679870f-fac3-41b5-b088-d71c9d7a37dc",
                     "postId": "post129",
-                    "authorName": "TANJILAKTER TONIMA",
-                    "content": "tnx sir👍",
-                    "timestamp": "2025-11-24 21:45:26",
-                    "likes": 0
-                },
-                {
-                    "id": "2ba80727-16ca-49a0-8bce-4fa8cb2e87a0",
-                    "postId": "post129",
-                    "authorName": "RAJOSSRE BARAI ",
-                    "content": "tnx sir",
-                    "timestamp": "2025-11-24 22:00:31",
-                    "likes": 0
-                },
-                {
-                    "id": "e39e3b98-b6ae-4a1b-ac21-feb591ed5157",
-                    "postId": "post129",
-                    "authorName": "KAZI JANNATUN NUR ",
-                    "content": "Thx",
-                    "timestamp": "2025-11-24 22:07:48",
-                    "likes": 10
-                },
-                {
-                    "id": "3195b56f-9374-4a0d-ab43-6ae8b1c8cbf5",
-                    "postId": "post129",
-                    "authorName": "MARIAM AKTER SIFAMONY",
-                    "content": "Tnx",
-                    "timestamp": "2025-11-24 22:29:46",
-                    "likes": 0
+                    "authorName": "NURE JANNAT AZ MIM",
+                    "content": "সব বাংলায় ও পৃষ্ঠা সহ হলে সহজ হতো",
+                    "timestamp": "2025-11-24 22:05:15",
+                    "likes": 1
                 }
             ]
         }
