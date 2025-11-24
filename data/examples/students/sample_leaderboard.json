@@ -825,6 +825,14 @@
       "last_updated": "2025-11-09 00:46:15"
     },
     {
+      "id": "11467820261007",
+      "name": "NUHSANAT TASNIA",
+      "group": "SCIENCE",
+      "xp_points": 75,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-10-27 15:53:08"
+    },
+    {
       "id": "1090302026HUMM18",
       "name": "AFRIN JUNAT REYA",
       "group": "HUMANITIES",
@@ -1031,14 +1039,6 @@
       "xp_points": 51,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-09 22:16:44"
-    },
-    {
-      "id": "11467820261007",
-      "name": "NUHSANAT TASNIA",
-      "group": "SCIENCE",
-      "xp_points": 50,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-27 15:53:08"
     },
     {
       "id": "1090302026BUSM148",
