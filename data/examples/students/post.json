@@ -8,7 +8,7 @@
             "timestamp": "2025-11-17 17:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 57,
+            "likes": 58,
             "tags": [
                 "android",
                 "kotlin",
@@ -286,7 +286,7 @@
                     "authorName": "MST. MOU AKTER",
                     "content": "Sir suggestion plz",
                     "timestamp": "2025-11-24 19:07:09",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "92f84a6e-91cc-4333-bbcb-b1dbb631b19e",
@@ -294,7 +294,7 @@
                     "authorName": "FAHIMA ",
                     "content": "sirrr suggestion dennn",
                     "timestamp": "2025-11-24 19:12:07",
-                    "likes": 1
+                    "likes": 0
                 }
             ]
         },
