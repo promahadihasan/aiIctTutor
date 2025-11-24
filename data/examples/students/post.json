@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 7,
+            "likes": 8,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,23 +1145,15 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 1,
+                    "likes": 3,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
-                    "id": "9c3082d7-c117-45c0-af32-863946bca08c",
+                    "id": "8679870f-fac3-41b5-b088-d71c9d7a37dc",
                     "postId": "post129",
-                    "authorName": "TANJILAKTER TONIMA",
-                    "content": "tnx sir👍",
-                    "timestamp": "2025-11-24 21:45:26",
-                    "likes": 0
-                },
-                {
-                    "id": "b706ada0-78c4-4f6a-a804-7fa8a7475a8f",
-                    "postId": "post129",
-                    "authorName": "ISRAT JAHAN MONIRA",
-                    "content": "Sir e.g er full meaning ki ?",
-                    "timestamp": "2025-11-24 22:11:17",
+                    "authorName": "NURE JANNAT AZ MIM",
+                    "content": "সব বাংলায় ও পৃষ্ঠা সহ হলে সহজ হতো",
+                    "timestamp": "2025-11-24 22:05:15",
                     "likes": 0
                 }
             ]
