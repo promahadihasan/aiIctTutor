@@ -310,7 +310,7 @@
                     "authorName": "SAMIA ISLAM ",
                     "content": "sir, amadar boi thaka motamumy sob pora hoa gasaa. Akon suggestion ta kindly dila preparation ta aro Valo hoto",
                     "timestamp": "2025-11-24 19:39:06",
-                    "likes": 4
+                    "likes": 2
                 },
                 {
                     "id": "3ac420a4-0bcf-4c59-885c-34b8a1e4abc8",
@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 8,
+            "likes": 7,
             "tags": [
                 "android",
                 "kotlin",
@@ -1145,23 +1145,15 @@
                     "authorName": "Shibbir",
                     "content": "এপ এ লগইন থাকলে ict ও কলেজের সব নোটিশ পাবা",
                     "timestamp": "2025-11-24 21:00:30",
-                    "likes": 2,
+                    "likes": 1,
                     "authorAvatar": "https:\/\/example.com\/alice.jpg"
                 },
                 {
-                    "id": "9c3082d7-c117-45c0-af32-863946bca08c",
+                    "id": "8679870f-fac3-41b5-b088-d71c9d7a37dc",
                     "postId": "post129",
-                    "authorName": "TANJILAKTER TONIMA",
-                    "content": "tnx sir👍",
-                    "timestamp": "2025-11-24 21:45:26",
-                    "likes": 0
-                },
-                {
-                    "id": "2ba80727-16ca-49a0-8bce-4fa8cb2e87a0",
-                    "postId": "post129",
-                    "authorName": "RAJOSSRE BARAI ",
-                    "content": "tnx sir",
-                    "timestamp": "2025-11-24 22:00:31",
+                    "authorName": "NURE JANNAT AZ MIM",
+                    "content": "সব বাংলায় ও পৃষ্ঠা সহ হলে সহজ হতো",
+                    "timestamp": "2025-11-24 22:05:15",
                     "likes": 0
                 }
             ]
