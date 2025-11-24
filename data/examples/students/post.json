@@ -319,6 +319,14 @@
                     "content": "sir suggestion... diben kokhon?",
                     "timestamp": "2025-11-24 20:41:10",
                     "likes": 0
+                },
+                {
+                    "id": "55ae535a-d52b-4477-9f44-e7b920183431",
+                    "postId": "post123",
+                    "authorName": "MUSLIMA ",
+                    "content": "স্যার সাজেশন দিবেন না ",
+                    "timestamp": "2025-11-24 21:58:34",
+                    "likes": 0
                 }
             ]
         },
@@ -1132,7 +1140,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 10,
+            "likes": 8,
             "tags": [
                 "android",
                 "kotlin",
