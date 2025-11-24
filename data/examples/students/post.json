@@ -255,6 +255,14 @@
                     "content": "sir 1 st Year ar suggestions:[",
                     "timestamp": "2025-11-24 17:11:57",
                     "likes": 0
+                },
+                {
+                    "id": "63454a85-068b-4d52-870b-262bb5aea45c",
+                    "postId": "post123",
+                    "authorName": "MORIUM ",
+                    "content": "আসসালামু আলাইকুম স্যার,, স্যার আমাদের কিছু ",
+                    "timestamp": "2025-11-24 17:26:18",
+                    "likes": 0
                 }
             ]
         },
@@ -656,7 +664,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 204,
+            "likes": 203,
             "tags": [
                 "android",
                 "kotlin",
