@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 10,
+            "likes": 12,
             "tags": [
                 "android",
                 "kotlin",
@@ -1178,7 +1178,7 @@
                     "authorName": "NAFIZA ISLAM",
                     "content": "Tnx sir.🥰",
                     "timestamp": "2025-11-24 22:21:54",
-                    "likes": 13
+                    "likes": 16
                 }
             ]
         }
