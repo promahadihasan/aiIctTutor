@@ -287,6 +287,14 @@
                     "content": "Sir suggestion plz",
                     "timestamp": "2025-11-24 19:07:09",
                     "likes": 0
+                },
+                {
+                    "id": "92f84a6e-91cc-4333-bbcb-b1dbb631b19e",
+                    "postId": "post123",
+                    "authorName": "FAHIMA ",
+                    "content": "sirrr suggestion dennn",
+                    "timestamp": "2025-11-24 19:12:07",
+                    "likes": 0
                 }
             ]
         },
@@ -688,7 +696,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 206,
+            "likes": 204,
             "tags": [
                 "android",
                 "kotlin",
