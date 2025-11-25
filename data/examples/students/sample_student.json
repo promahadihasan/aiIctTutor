@@ -32777,6 +32777,33 @@
         "hints_used": 0,
         "adaptive_score": 0
       }
+    },
+    {
+      "id": "1090302027HUMD332668",
+      "name": "NAJNIN ",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
     }
   ]
 }
