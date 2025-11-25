@@ -1,0 +1,14 @@
+{
+  "teachers": [
+    {
+      "college_name": "Gazipur Govt Mohila College",
+      "created_model_tests": [],
+      "eiin": "109030",
+      "is_notification_feature_enabled": false,
+      "is_post_feature_enabled": false,
+      "mobileNo": "01754052393",
+      "name": "Md. Shibbir Hossen",
+      "teacher_id": "10903001754052393"
+    }
+  ]
+}
