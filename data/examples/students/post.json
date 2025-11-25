@@ -709,6 +709,14 @@
                     "content": "tnx sir ",
                     "timestamp": "2025-11-20 07:17:29",
                     "likes": 0
+                },
+                {
+                    "id": "9ae60e60-1465-45d9-ac50-71e08c88d676",
+                    "postId": "post126",
+                    "authorName": "ESRAT JAHAN ERIN",
+                    "content": "👍",
+                    "timestamp": "2025-11-25 06:56:54",
+                    "likes": 0
                 }
             ]
         },
@@ -1132,7 +1140,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 160,
+            "likes": 156,
             "tags": [
                 "android",
                 "kotlin",
