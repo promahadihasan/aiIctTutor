@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 168,
+            "likes": 167,
             "tags": [
                 "android",
                 "kotlin",
@@ -1154,7 +1154,7 @@
                     "authorName": "TANJILAKTER TONIMA",
                     "content": "tnx sir👍",
                     "timestamp": "2025-11-24 21:45:26",
-                    "likes": 2
+                    "likes": 3
                 },
                 {
                     "id": "2ba80727-16ca-49a0-8bce-4fa8cb2e87a0",
@@ -1162,7 +1162,7 @@
                     "authorName": "RAJOSSRE BARAI ",
                     "content": "tnx sir",
                     "timestamp": "2025-11-24 22:00:31",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "e39e3b98-b6ae-4a1b-ac21-feb591ed5157",
