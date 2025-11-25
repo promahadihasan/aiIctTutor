@@ -66,6 +66,19 @@
       "imageUrl": "https://example.com/image.jpg",
       "authorName": "SHIBBIR HOSSEN",
       "authorAvatar": "https://example.com/avatar.jpg"
+    },
+    {
+      "id": "notification6",
+      "title": "ICT Suggestions (Class-11)",
+      "message": "Do Not Share!",
+      "timestamp": "2025-11-25 21:15:30",
+      "type": "post",
+      "isRead": false,
+      "postId": "post129",
+      "emoji": "📱",
+      "imageUrl": "https://example.com/image.jpg",
+      "authorName": "SHIBBIR HOSSEN",
+      "authorAvatar": "https://example.com/avatar.jpg"
     }
   ],
   "status": "success",
