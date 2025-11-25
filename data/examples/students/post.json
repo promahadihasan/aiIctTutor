@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 188,
+            "likes": 166,
             "tags": [
                 "android",
                 "kotlin",
@@ -1202,7 +1202,7 @@
                     "authorName": "NOWRIN ISLAM NISHAT",
                     "content": "Thanks sir✨",
                     "timestamp": "2025-11-25 07:02:46",
-                    "likes": 1
+                    "likes": 0
                 },
                 {
                     "id": "b2acc3b4-111a-4047-b3af-f1cea002d8ab",
