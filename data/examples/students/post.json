@@ -1132,7 +1132,7 @@
             "timestamp": "2025-11-24 21:00:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 166,
+            "likes": 168,
             "tags": [
                 "android",
                 "kotlin",
@@ -1210,6 +1210,14 @@
                     "authorName": "TAHMINA RAHMAN ",
                     "content": "thank you sir",
                     "timestamp": "2025-11-25 07:09:28",
+                    "likes": 0
+                },
+                {
+                    "id": "5ba36c25-9218-42db-aaba-cf8f1bace66e",
+                    "postId": "post129",
+                    "authorName": "ESHITA ROY CHITTY",
+                    "content": "thank you sir ",
+                    "timestamp": "2025-11-25 08:19:57",
                     "likes": 0
                 }
             ]
