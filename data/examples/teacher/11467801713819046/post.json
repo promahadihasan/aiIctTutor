@@ -1,110 +1,103 @@
 {
-  "message": null,
-  "posts": [
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Mahadi Hasan",
-      "comments": [],
-      "content": "Hello Tester",
-      "postId": "post_5",
-      "imageUrl": null,
-      "likes": 0,
-      "tags": [
-        "ict"
-      ],
-      "timestamp": "2025-11-27 22:39:24",
-      "title": "Testing"
-    },
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Mahadi Hasan",
-      "comments": [
+    "posts": [
         {
-          "authorAvatar": null,
-          "authorName": "ESRAT JAHAN TOMA ",
-          "content": "Test post sir",
-          "id": "11467820261140",
-          "likes": 0,
-          "postId": "post_4",
-          "timestamp": "2025-11-20 00:15:38"
-        }
-      ],
-      "content": "hhhj",
-      "postId": "post_4",
-      "imageUrl": null,
-      "likes": 1,
-      "tags": [
-        "ict"
-      ],
-      "timestamp": "2025-11-20 00:14:37",
-      "title": "Test"
-    },
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Mahadi Hasan",
-      "comments": [
-        {
-          "authorAvatar": null,
-          "authorName": "ESRAT JAHAN TOMA ",
-          "content": "Sir is it reliable suggestions? ",
-          "id": "11467820261140",
-          "likes": 0,
-          "postId": "post_3",
-          "timestamp": "2025-11-17 23:56:04"
-        }
-      ],
-      "content": "১।  তোমাদের এই পরীক্ষায় যেই যেই অধ্যায় (২টি) আছে, ওই অধ্যায় এর MCQ সহ পড়ে ফেল \n২। এখনো যারা এই \u0027ict tutor pro\u0027 এপ পায় নাই, তোমরা একটু তোমাদের ফ্রেন্ডদের কাছে শেয়ার কর। \n৩। সব নোটিশ ও সাজেসন্স পেতে অবশ্যই এপ এ লগইন থাকতে হবে.\n৪। আইসিটি বিষয়ের জন্য অবশ্যই এই আপটি স্ট্যান্ডার্ড মাধ্যম হিসাবে থাকবে ও তোমরা অবশ্যই এইটা ব্যাবহার করবে।\n৫। অবসর সময়কেও কাজে লাগাও (বিভিন্ন বোর্ড পরীক্ষার প্রশ্ন ও প্রতি অধ্যায় ভিত্তিক MCQ, যত বেশি প্রশ্ন সল্ভ তত xp লিডারবোর্ড এ যুক্তহবে)\n৬। লিডারবোর্ড এ তোমার পজিশন দেখ।\n৭। Google PlayStore থেকে সব সময় এপ উপডেট রাখ। \n৮। এখন কন্টেন্ট অনেক কম। এইটা দিন দিন সংযুক্ত হইতে থাকবে। \n৯। সবার কাছে শেয়ার কর। \n Thank You",
-      "postId": "post_3",
-      "imageUrl": null,
-      "likes": 1,
-      "tags": [
-        "ICT Tutor Pro App"
-      ],
-      "timestamp": "2025-11-17 14:39:04",
-      "title": "নোটিশ ও পরীক্ষা সংক্রান্ত"
-    },
-    {
-      "teacherProfilePic": "default_url",
-      "teacherName": "Mahadi Hasan",
-      "comments": [
-        {
-          "authorAvatar": null,
-          "authorName": "ESRAT JAHAN TOMA ",
-          "content": "Thanks From Toma",
-          "id": "11467820261140",
-          "likes": 0,
-          "postId": "post_1",
-          "timestamp": "2025-11-17 23:55:19"
+            "postId": "post_5",
+            "title": "Testing",
+            "content": "Hello Tester",
+            "teacherName": "Mahadi Hasan",
+            "timestamp": "2025-11-27 22:39:24",
+            "teacherProfilePic": "default_url",
+            "likes": 1,
+            "tags": [
+                "ict"
+            ],
+            "comments": []
         },
         {
-          "authorAvatar": "default_url",
-          "authorName": "Mahadi Hasan",
-          "content": "Carrry on",
-          "id": "comment_1763482301202",
-          "likes": 0,
-          "postId": "post_1",
-          "timestamp": "2025-11-18 22:11:41"
+            "postId": "post_4",
+            "title": "Test",
+            "content": "hhhj",
+            "teacherName": "Mahadi Hasan",
+            "timestamp": "2025-11-20 00:14:37",
+            "teacherProfilePic": "default_url",
+            "likes": 1,
+            "tags": [
+                "ict"
+            ],
+            "comments": [
+                {
+                    "id": "11467820261140",
+                    "postId": "post_4",
+                    "authorName": "ESRAT JAHAN TOMA ",
+                    "content": "Test post sir",
+                    "timestamp": "2025-11-20 00:15:38",
+                    "likes": 0
+                }
+            ]
         },
         {
-          "authorAvatar": "default_url",
-          "authorName": "Mahadi Hasan",
-          "content": "jkkjkjkj",
-          "id": "comment_1764261460497",
-          "likes": 0,
-          "postId": "post_1",
-          "timestamp": "2025-11-27 22:37:40"
+            "postId": "post_3",
+            "title": "নোটিশ ও পরীক্ষা সংক্রান্ত",
+            "content": "১।  তোমাদের এই পরীক্ষায় যেই যেই অধ্যায় (২টি) আছে, ওই অধ্যায় এর MCQ সহ পড়ে ফেল \n২। এখনো যারা এই 'ict tutor pro' এপ পায় নাই, তোমরা একটু তোমাদের ফ্রেন্ডদের কাছে শেয়ার কর। \n৩। সব নোটিশ ও সাজেসন্স পেতে অবশ্যই এপ এ লগইন থাকতে হবে.\n৪। আইসিটি বিষয়ের জন্য অবশ্যই এই আপটি স্ট্যান্ডার্ড মাধ্যম হিসাবে থাকবে ও তোমরা অবশ্যই এইটা ব্যাবহার করবে।\n৫। অবসর সময়কেও কাজে লাগাও (বিভিন্ন বোর্ড পরীক্ষার প্রশ্ন ও প্রতি অধ্যায় ভিত্তিক MCQ, যত বেশি প্রশ্ন সল্ভ তত xp লিডারবোর্ড এ যুক্তহবে)\n৬। লিডারবোর্ড এ তোমার পজিশন দেখ।\n৭। Google PlayStore থেকে সব সময় এপ উপডেট রাখ। \n৮। এখন কন্টেন্ট অনেক কম। এইটা দিন দিন সংযুক্ত হইতে থাকবে। \n৯। সবার কাছে শেয়ার কর। \n Thank You",
+            "teacherName": "Mahadi Hasan",
+            "timestamp": "2025-11-17 14:39:04",
+            "teacherProfilePic": "default_url",
+            "likes": 1,
+            "tags": [
+                "ICT Tutor Pro App"
+            ],
+            "comments": [
+                {
+                    "id": "11467820261140",
+                    "postId": "post_3",
+                    "authorName": "ESRAT JAHAN TOMA ",
+                    "content": "Sir is it reliable suggestions? ",
+                    "timestamp": "2025-11-17 23:56:04",
+                    "likes": 0
+                }
+            ]
+        },
+        {
+            "postId": "post_1",
+            "title": "নতুন প্লাটফর্ম এ স্বাগত",
+            "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
+            "teacherName": "Mahadi Hasan",
+            "timestamp": "2025-11-17 14:32:36",
+            "teacherProfilePic": "default_url",
+            "likes": 1,
+            "tags": [
+                "ICT Tutor Android App"
+            ],
+            "comments": [
+                {
+                    "id": "11467820261140",
+                    "postId": "post_1",
+                    "authorName": "ESRAT JAHAN TOMA ",
+                    "content": "Thanks From Toma",
+                    "timestamp": "2025-11-17 23:55:19",
+                    "likes": 0
+                },
+                {
+                    "id": "comment_1763482301202",
+                    "postId": "post_1",
+                    "authorName": "Mahadi Hasan",
+                    "content": "Carrry on",
+                    "timestamp": "2025-11-18 22:11:41",
+                    "likes": 0,
+                    "authorAvatar": "default_url"
+                },
+                {
+                    "id": "comment_1764261460497",
+                    "postId": "post_1",
+                    "authorName": "Mahadi Hasan",
+                    "content": "jkkjkjkj",
+                    "timestamp": "2025-11-27 22:37:40",
+                    "likes": 0,
+                    "authorAvatar": "default_url"
+                }
+            ]
         }
-      ],
-      "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",
-      "postId": "post_1",
-      "imageUrl": null,
-      "likes": 1,
-      "tags": [
-        "ICT Tutor Android App"
-      ],
-      "timestamp": "2025-11-17 14:32:36",
-      "title": "নতুন প্লাটফর্ম এ স্বাগত"
-    }
-  ],
-  "status": "success"
+    ],
+    "status": "success",
+    "message": null
 }
