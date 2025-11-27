@@ -4,7 +4,7 @@
       "id": "1090302026125",
       "name": "JARIN TASNIM MIM",
       "group": "SCIENCE",
-      "xp_points": 2545,
+      "xp_points": 2650,
       "level": "🏅 Achiever",
       "last_updated": "2025-10-02 07:41:12"
     },
@@ -12,7 +12,7 @@
       "id": "1090302026118",
       "name": "MARJAN SHATHI ",
       "group": "SCIENCE",
-      "xp_points": 2168,
+      "xp_points": 2226,
       "level": "🏅 Achiever",
       "last_updated": "2025-10-29 19:30:57"
     },
@@ -33,6 +33,14 @@
       "last_updated": "2025-11-03 09:10:11"
     },
     {
+      "id": "1090302026114",
+      "name": "MOUMININA HASAN MIM",
+      "group": "SCIENCE",
+      "xp_points": 1135,
+      "level": "🎯 Explorer",
+      "last_updated": "2025-10-30 17:55:11"
+    },
+    {
       "id": "2235562027SCID299",
       "name": "SHAKIL MRIDHA ",
       "group": "SCIENCE",
@@ -49,12 +57,12 @@
       "last_updated": "2025-10-28 09:58:40"
     },
     {
-      "id": "1090302026114",
-      "name": "MOUMININA HASAN MIM",
-      "group": "SCIENCE",
-      "xp_points": 832,
+      "id": "109030202561",
+      "name": "MST.MONIKA AKTER",
+      "group": "BUSINESS STUDIES",
+      "xp_points": 679,
       "level": "📘 Learner",
-      "last_updated": "2025-10-30 17:55:11"
+      "last_updated": "2025-11-03 17:46:32"
     },
     {
       "id": "1090302026346",
@@ -76,25 +84,33 @@
       "id": "1090302026338",
       "name": "SARMIN AKTAR MONA",
       "group": "SCIENCE",
-      "xp_points": 624,
+      "xp_points": 641,
       "level": "📘 Learner",
       "last_updated": "2025-10-27 18:30:51"
     },
     {
-      "id": "109030202561",
-      "name": "MST.MONIKA AKTER",
-      "group": "BUSINESS STUDIES",
-      "xp_points": 556,
+      "id": "11467820261140",
+      "name": "ESRAT JAHAN TOMA ",
+      "group": "HUMANITIES",
+      "xp_points": 610,
       "level": "📘 Learner",
-      "last_updated": "2025-11-03 17:46:32"
+      "last_updated": "2025-10-04 15:21:27"
     },
     {
       "id": "1090302027HUMD125",
       "name": "ZAKIA HOSSAIN MIM",
       "group": "HUMANITIES",
-      "xp_points": 554,
+      "xp_points": 572,
       "level": "📘 Learner",
       "last_updated": "2025-11-04 08:11:25"
+    },
+    {
+      "id": "1090302027HUMM374",
+      "name": "ISRAT JAHAN MONIRA",
+      "group": "HUMANITIES",
+      "xp_points": 546,
+      "level": "📘 Learner",
+      "last_updated": "2025-11-24 09:42:14"
     },
     {
       "id": "1090302027BUSD355",
@@ -111,14 +127,6 @@
       "xp_points": 506,
       "level": "📘 Learner",
       "last_updated": "2025-11-03 18:07:49"
-    },
-    {
-      "id": "1090302027HUMM374",
-      "name": "ISRAT JAHAN MONIRA",
-      "group": "HUMANITIES",
-      "xp_points": 493,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-24 09:42:14"
     },
     {
       "id": "1090302027380",
@@ -249,6 +257,14 @@
       "last_updated": "2025-11-05 11:35:34"
     },
     {
+      "id": "11467820261114",
+      "name": "RINI ISLAM",
+      "group": "HUMANITIES",
+      "xp_points": 327,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-03 15:40:27"
+    },
+    {
       "id": "1090302027BUSM93",
       "name": "AFROGA AKTER AKHI",
       "group": "BUSINESS STUDIES",
@@ -303,6 +319,14 @@
       "xp_points": 272,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-06 17:48:29"
+    },
+    {
+      "id": "1090302027305",
+      "name": "SAMIA AKTER",
+      "group": "HUMANITIES",
+      "xp_points": 258,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-10-31 13:08:39"
     },
     {
       "id": "1090302027BUSD49",
@@ -417,6 +441,14 @@
       "last_updated": "2025-11-06 21:00:30"
     },
     {
+      "id": "1090302027BUSD307",
+      "name": "MST.ZAKIA SULTANA",
+      "group": "BUSINESS STUDIES",
+      "xp_points": 227,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-24 11:17:17"
+    },
+    {
       "id": "1090302026HUMD104",
       "name": "TAMANNA ISLAM",
       "group": "HUMANITIES",
@@ -495,14 +527,6 @@
       "xp_points": 176,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-07 06:16:54"
-    },
-    {
-      "id": "11467820261114",
-      "name": "RINI ISLAM",
-      "group": "HUMANITIES",
-      "xp_points": 176,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-03 15:40:27"
     },
     {
       "id": "1090302025SCID239905",
@@ -593,14 +617,6 @@
       "last_updated": "2025-11-04 12:57:32"
     },
     {
-      "id": "11467820261140",
-      "name": "ESRAT JAHAN TOMA ",
-      "group": "HUMANITIES",
-      "xp_points": 152,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-04 15:21:27"
-    },
-    {
       "id": "1090302026SCIM206",
       "name": "SANJIDA KHANOM SUMI",
       "group": "SCIENCE",
@@ -663,6 +679,14 @@
       "xp_points": 135,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-06 19:40:15"
+    },
+    {
+      "id": "1090302027SCIM122909",
+      "name": "AYESA AKTER",
+      "group": "SCIENCE",
+      "xp_points": 135,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-26 00:05:22"
     },
     {
       "id": "1090302027398",
@@ -759,14 +783,6 @@
       "xp_points": 111,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-06 18:39:51"
-    },
-    {
-      "id": "1090302027305",
-      "name": "SAMIA AKTER",
-      "group": "HUMANITIES",
-      "xp_points": 109,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-10-31 13:08:39"
     },
     {
       "id": "1090302026SCID28",
@@ -969,6 +985,14 @@
       "last_updated": "2025-11-25 00:43:15"
     },
     {
+      "id": "1090302026BUSD262",
+      "name": "JANNATUL FERDOUS AKHI",
+      "group": "BUSINESS STUDIES",
+      "xp_points": 78,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-26 18:17:57"
+    },
+    {
       "id": "1090302026SCID124",
       "name": "AFSANA ISLAM ANIKA",
       "group": "SCIENCE",
@@ -999,6 +1023,14 @@
       "xp_points": 71,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-22 01:27:09"
+    },
+    {
+      "id": "1090302027BUSM407",
+      "name": "SHARMIN KHATUN ",
+      "group": "BUSINESS STUDIES",
+      "xp_points": 71,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-25 18:04:19"
     },
     {
       "id": "11467820261003",
@@ -1521,14 +1553,6 @@
       "last_updated": "2025-11-25 07:35:44"
     },
     {
-      "id": "1090302027BUSD307",
-      "name": "MST.ZAKIA SULTANA",
-      "group": "BUSINESS STUDIES",
-      "xp_points": 25,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-24 11:17:17"
-    },
-    {
       "id": "1090302027SCID178",
       "name": "LILIMA RAHMAN ",
       "group": "SCIENCE",
@@ -1711,6 +1735,14 @@
       "xp_points": 21,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-25 07:02:26"
+    },
+    {
+      "id": "1090302027257",
+      "name": "MITHILA AKTER",
+      "group": "SCIENCE",
+      "xp_points": 21,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-26 19:55:06"
     },
     {
       "id": "11467820261005",
@@ -1983,6 +2015,14 @@
       "xp_points": 1,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-24 21:01:03"
+    },
+    {
+      "id": "1090302027HUMD180",
+      "name": "AFSANA AKTET AKHI",
+      "group": "HUMANITIES",
+      "xp_points": 1,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-25 15:57:33"
     }
   ]
 }

@@ -70,6 +70,15 @@
           "likes": 0,
           "postId": "post_1",
           "timestamp": "2025-11-18 22:11:41"
+        },
+        {
+          "authorAvatar": "default_url",
+          "authorName": "Mahadi Hasan",
+          "content": "jkkjkjkj",
+          "id": "comment_1764261460497",
+          "likes": 0,
+          "postId": "post_1",
+          "timestamp": "2025-11-27 22:37:40"
         }
       ],
       "content": "এই এপ এ প্রতি অধ্যায় ভিত্তিক টপিক ও বহুনির্বাচনী প্রশ্ন রয়েছে। বিভিন্ন বোর্ড এর প্রশ্নের সমাধান আছে।",

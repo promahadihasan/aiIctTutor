@@ -33425,6 +33425,816 @@
         "hints_used": 0,
         "adaptive_score": 0
       }
+    },
+    {
+      "id": "1090302027HUMM61",
+      "name": "TAMANNA AKTER ",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025HUMM2011",
+      "name": "SANZIDA ALAM TAMMI",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027HUMD180",
+      "name": "AFSANA AKTET AKHI",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025HUMD2060",
+      "name": "NADIA",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHD2012",
+      "name": "FORIDA YASMIN ",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHD11",
+      "name": "SADIKA JAMAT",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHM2006",
+      "name": "AFROZA ISLAM SHEELA",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027BUSM407",
+      "name": "SHARMIN KHATUN ",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027OTHD2088",
+      "name": "RIYA AKTER",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025HUMD294",
+      "name": "ETIMANI ",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHD2005",
+      "name": "NUSRAT JAHAN NOHA",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026BUSD419",
+      "name": "RABEYA AKTER MIM",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHD87",
+      "name": "SHORNA AKTER",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025SCID2016",
+      "name": "ADRITA JAMAN MILA ",
+      "group": "SCIENCE",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027HUMD304",
+      "name": "MST TUFLIA AKTER ",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026HUMD18",
+      "name": "SUNJIDA",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHM2004",
+      "name": "DILSHAD SULTANA RAISA",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025SCID37",
+      "name": "TASFIA TAJRIAN HRIDITA ",
+      "group": "SCIENCE",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025SCID145",
+      "name": "ROJONYAHMED12@GMAIL.COM",
+      "group": "SCIENCE",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027SCID285",
+      "name": "KAFIA AKTER SHATHI",
+      "group": "SCIENCE",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026OTHM20001",
+      "name": "AYESHA",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026OTHD59",
+      "name": "SANJIDA AKHTER HABIBA",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026HUMD312",
+      "name": "ILMA MUSKAN",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025OTHD2020",
+      "name": "ISATJAHANELMA",
+      "group": "OTHERS",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027BUSD517209",
+      "name": "MONJERIN AKTER RIYA ",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026BUSM357",
+      "name": "NAZMA AKTER AIREN",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026HUMD301",
+      "name": "MAHJABIN MARIA",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302026HUMM323",
+      "name": "BASHIRA KABIR KANTY",
+      "group": "HUMANITIES",
+      "c_eiin": "109030",
+      "shift": "Morning",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302027BUSD287",
+      "name": "PUJA RANI DAS",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
+    },
+    {
+      "id": "1090302025BUSD294",
+      "name": "MSTSRABONTI AKTER",
+      "group": "BUSINESS STUDIES",
+      "c_eiin": "109030",
+      "shift": "Day",
+      "progress": {
+        "xp_points": 0,
+        "level": "Beginner",
+        "badges": [],
+        "lives": 3,
+        "energy": 100
+      },
+      "performance": {
+        "current_difficulty": "Easy",
+        "next_difficulty": "Medium",
+        "accuracy_rate": 0,
+        "avg_response_time": 0,
+        "streak_days": 0
+      },
+      "personalization": {
+        "preferred_topic": "General ICT",
+        "weakness_topic": "None",
+        "hints_used": 0,
+        "adaptive_score": 0
+      }
     }
   ]
 }
