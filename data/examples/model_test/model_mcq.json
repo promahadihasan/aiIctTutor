@@ -1,6 +1,369 @@
 {
   "model_tests": [
   {
+    "model_test_id": "61",
+    "teacher_id": "10903001754052393",
+    "difficulty": "hard",
+    "test_name": "Test 001",
+    "chapter_name": "2 + 3.1 + 3.2",
+    "total_questions": 25,
+    "last_date": "2025-12-04",
+    "validity_time_minutes": 25,
+    "is_allowed": false,
+    "is_pin_protected": true,
+    "access_pin": "153229",
+    "selected_student_ids": [],
+    "mcqs": [
+      {
+        "answer": "ক) A\u003d0, B\u003d0",
+        "chapterId": "3.2",
+        "id": 23,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dha23Cha32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A\u003d0, B\u003d0",
+          "খ) A\u003d0, B\u003d1",
+          "গ) A\u003d1, B\u003d0",
+          "ঘ) A\u003d1, B\u003d1"
+        ],
+        "question": "উদ্দীপকের বর্তনীর আউটপুট Y\u003d1 পেতে হলে A ও B এর ইনপুট কত দিতে হবে?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 52,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": " ক কলেজের কম্পিউটার ল্যাবে নেটওয়ার্কভুক্ত ৮টি কম্পিউটার আছে এবং প্রতিটি কম্পিউটার একটি ডিভাইসের অধীনে যুক্ত আছে।\n উদ্দীপকের নেটওয়ার্ক টপোলজি হচ্ছে- \nউদ্দীপকে ব্যবহৃত ডিভাইস- i. ডেটা সংঘর্ষের সম্ভাবনা কমায় ii. ডেটা ফিল্টারিং করতে পারে iii. একাধিক নেটওয়ার্ককে সংযুক্ত করতে পারে"
+      },
+      {
+        "answer": "খ) LAN",
+        "chapterId": "2",
+        "id": 98,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) PAN",
+          "খ) LAN",
+          "গ) MAN",
+          "ঘ) WAN"
+        ],
+        "question": "একটি কলেজের আইসিটি শিক্ষক ল্যাবের সকল কম্পিউটারকে নেটওয়ার্কের আওতাভুক্ত করলেন। নেটওয়ার্ক স্থাপনে তিনি এক ধরনের প্যাঁচানো তার ব্যবহার করেছেন। \n উদ্দীপকে উল্লিখিত নেটওয়ার্কটি কোন ধরনের?"
+      },
+      {
+        "answer": "গ) ৫",
+        "chapterId": "3.2",
+        "id": 105,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) ১৬",
+          "খ) ৪",
+          "গ) ৫",
+          "ঘ) ৩২"
+        ],
+        "question": "০ থেকে ৩১ গণনা করার জন্য রিপল কাউন্টারে কয়টি ফ্লিপফ্লপ ব্যবহার করতে হবে?"
+      },
+      {
+        "answer": "ক) not(A⊕B)",
+        "chapterId": "3.2",
+        "id": 114,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/ctg/p1.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) not(A⊕B)",
+          "খ) A⊕B",
+          "গ) A̅B̅+A̅B",
+          "ঘ) A̅B̅+AB"
+        ],
+        "question": "উদ্দীপকের ইনপুট O এর পরিবর্তে B হলে বর্তনীয় আউটপুট কত হবে?"
+      },
+      {
+        "answer": "গ) AB+BC",
+        "chapterId": "3.1",
+        "id": 117,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) A⊕B",
+          "খ) A̅B̅+B̅C̅",
+          "গ) AB+BC",
+          "ঘ) A̅B̅+B̅C̅"
+        ],
+        "question": "AB+BC এর দ্বৈত পরিপূরক কোনটি?"
+      },
+      {
+        "answer": "ঘ) 1D",
+        "chapterId": "3.1",
+        "id": 130,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 20",
+          "খ) 29",
+          "গ) 1C",
+          "ঘ) 1D"
+        ],
+        "question": "5, D, 15 ধারাটির পরবর্তী সংখ্যা কোনটি?"
+      },
+      {
+        "answer": "গ) রিং",
+        "chapterId": "2",
+        "id": 136,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) বাস",
+          "খ) স্টার",
+          "গ) রিং",
+          "ঘ) মেশ"
+        ],
+        "question": "একটি কক্ষে ১০টি কম্পিউটার চক্রাকারে পরস্পরের সাথে এমনভাবে যুক্ত আছে যাতে একটি কম্পিউটার নষ্ট হলে পুরো নেটওয়ার্ক অচল হয়ে পড়ে. \n কক্ষের নেটওয়ার্কে কোন টপোলজি ব্যবহৃত হয়েছে?"
+      },
+      {
+        "answer": "ঘ) এডার",
+        "chapterId": "3.2",
+        "id": 139,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) এনকোডার",
+          "খ) ডিকোডার",
+          "গ) ফ্লিপ-ফ্লপ",
+          "ঘ) এডার"
+        ],
+        "question": "কোন বর্তনী বাইনারি সংখ্যা যোগ করতে পারে?"
+      },
+      {
+        "answer": "খ) 8 kbps",
+        "chapterId": "2",
+        "id": 145,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) 8 bps",
+          "খ) 8 kbps",
+          "গ) 192 kbps",
+          "ঘ) 1 mbps"
+        ],
+        "question": "কোন চ্যানেলের ভেতর দিয়ে 4 সেকেন্ডে 32kb ডেটা স্থানান্তরিত হলে তার ব্যান্ড উইথ কত?"
+      },
+      {
+        "answer": "খ) LAN",
+        "chapterId": "2",
+        "id": 166,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) PAN",
+          "খ) LAN",
+          "গ) MAN",
+          "ঘ) WAN"
+        ],
+        "question": "দূরত্বের বিবেচনায় উদ্দীপকের নেটওয়ার্কটি কোন ধরনের?(College lab with 10 computers, one failure crashes network)"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 227,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2024/borishal/quesn5.png?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি টপোলজি হিসেবে কাজ করবে যখন-\ni. A কে হাব বিবেচনা করা হয়\nii. নোডগুলো আন্তঃসংযোগ করলে\niii. C বিচ্ছিন্ন হলে"
+      },
+      {
+        "answer": "গ) NOR",
+        "chapterId": "3.2",
+        "id": 277,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Rj25Chap32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) OR",
+          "খ) AND",
+          "গ) NOR",
+          "ঘ) NAND"
+        ],
+        "question": "চিত্রে \u00272\u0027 নং গেটের পরিবর্তে কোন গেট স্থাপন করলে F \u003d 0 হবে?"
+      },
+      {
+        "answer": "গ. ii ও iii",
+        "chapterId": "2",
+        "id": 307,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক. i ও ii",
+          "খ. i ও iii",
+          "গ. ii ও iii",
+          "ঘ. i, ii ও iii"
+        ],
+        "question": "উদ্দীপকের মাধ্যমটিতে-\n i. বিদ্যুৎ চৌম্বকীয় প্রভাব সবচেয়ে কম \t ii. একটি কমন বাসের তার ব্যবহার হয় \t iii. 10 Mbps বা তার বেশি গতিতে ডেটা চলাচল করে\n নিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ঘ. 1",
+        "chapterId": "3.2",
+        "id": 312,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Cu25Ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক. A",
+          "খ. B",
+          "গ. 0",
+          "ঘ. 1"
+        ],
+        "question": "উদ্দীপকের বর্তনীর অ্যান্ড গেটের পরিবর্তে অর গেইট বসালে Y এর মান কতো হবে?"
+      },
+      {
+        "answer": "গ) E",
+        "chapterId": "3.1",
+        "id": 322,
+        "level": "hard",
+        "options": [
+          "ক) C",
+          "খ) D",
+          "গ) E",
+          "ঘ) F"
+        ],
+        "question": "5, 8, B ধারার পরবর্তী মান কোনটি?"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "2",
+        "id": 357,
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "ICT ক্লাব তাদের নেটওয়ার্ক (LAN) ইন্টারনেটের সাথে যুক্ত করতে চায়। তাদের প্রয়োজন-\ni. সুইচ\nii. গেটওয়ে\niii. রাউটার\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) i ও iii",
+        "chapterId": "2",
+        "id": 369,
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "চিত্রে উল্লিখিত প্রযুক্তিটি ব্যবহার করা হয়-\ni. টেলিভিশন সম্প্রচারে\nii. মোবাইল ফোনের যোগাযোগে\niii. আবহাওয়ার তথ্য আদান-প্রদানে\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) A + B̅",
+        "chapterId": "3.2",
+        "id": 386,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/mymen25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A + B",
+          "খ) Ā + B",
+          "গ) A + B̅",
+          "ঘ) Ā + B̅"
+        ],
+        "question": "চিত্রটি লক্ষ্য কর এবং নং প্রশ্নের উত্তর দাও:\nউদ্দীপকে আউটপুট F এর সরলীকৃত মান হবে-"
+      },
+      {
+        "answer": "খ) A\u003d1,B\u003d1",
+        "chapterId": "3.2",
+        "id": 409,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/dinaj.jpg?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) A\u003d0,B\u003d0",
+          "খ) A\u003d1,B\u003d1",
+          "গ) A\u003d0,B\u003d1",
+          "ঘ) A\u003d1,B\u003d0"
+        ],
+        "question": "উদ্দীপকের বর্তনীর আউটপুট 1 হলো- "
+      },
+      {
+        "answer": "খ) xy",
+        "chapterId": "3.2",
+        "id": 426,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) x + y",
+          "খ) xy",
+          "গ) x̅ + y̅",
+          "ঘ) x̅ · y̅"
+        ],
+        "question": "F-এর সরলীকৃত মান কোনটি?"
+      },
+      {
+        "answer": "ঘ) i, ii ও iii",
+        "chapterId": "3.2",
+        "id": 427,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/Br25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) ii ও iii",
+          "গ) i ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "F-এর সরলীকৃত মানকে প্রতিস্থাপন করা যাবে-\ni. NAND Gate দিয়ে\nii. NOR Gate দিয়ে\niii. AND Gate দিয়ে\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "ক) i ও ii",
+        "chapterId": "2",
+        "id": 450,
+        "imageUrl": "",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nসুমাইতা ভিডিও কনফারেন্সিং এর জন্য এক ধরনের মোবাইল ফোন ক্রয় করেছে যা LTE স্ট্যান্ডার্ডে কাজ করে থাকে।\n উদ্দীপকের উল্লিখিত প্রযুক্তি ব্যবহৃত মোবাইল ফোনের বৈশিষ্ট্য হলো-\ni. প্যাকেট সুইচিং এর পরিবর্তে IP ভিত্তিক নেটওয়ার্কের ব্যবহার\nii. চলনশীল ডিভাইসের ক্ষেত্রে ডেটা ট্রান্সফার রেট 100Mbps\niii. MIMO স্ট্যান্ডার্ড সম্পন্ন\nনিচের কোনটি সঠিক?"
+      },
+      {
+        "answer": "গ) ii ও iii",
+        "chapterId": "3.2",
+        "id": 453,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) i ও ii",
+          "খ) i ও iii",
+          "গ) ii ও iii",
+          "ঘ) i, ii ও iii"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\nউদ্দীপকের উল্লিখিত সত্যক সারণি প্রাপ্ত সমীকরণ হলো-\ni. X \u003d ĀB + AB̄\nii. X \u003d AB + ĀB̄\niii. X \u003d (ĀB + AB̄)\u0027"
+      },
+      {
+        "answer": "ঘ) X-NOR",
+        "chapterId": "3.2",
+        "id": 454,
+        "imageUrl": "https://github.com/shibbir001/myImageofproject/blob/main/board_question/2025/syl25ch32gate.PNG?raw\u003dtrue",
+        "level": "hard",
+        "options": [
+          "ক) OR",
+          "খ) NOR",
+          "গ) XOR",
+          "ঘ) X-NOR"
+        ],
+        "question": "উদ্দীপকটি পড় এবং নং প্রশ্নের উত্তর দাও:\n উদ্দীপকের সার্কিটটি কোন গেটকে নির্দেশ করে?"
+      }
+    ]
+  },
+  {
     "model_test_id": "60",
     "teacher_id": "10903001754052393",
     "difficulty": "All",
