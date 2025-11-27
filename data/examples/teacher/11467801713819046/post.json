@@ -11,7 +11,16 @@
             "tags": [
                 "ict"
             ],
-            "comments": []
+            "comments": [
+                {
+                    "id": "11467820261140",
+                    "postId": "post_5",
+                    "authorName": "ESRAT JAHAN TOMA ",
+                    "content": "Hello ",
+                    "timestamp": "2025-11-27 22:40:57",
+                    "likes": 0
+                }
+            ]
         },
         {
             "postId": "post_4",
