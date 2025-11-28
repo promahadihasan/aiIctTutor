@@ -1,8 +1,8 @@
 {
   "app_name": "HSC ICT Tutor",
   "package_name": "com.megaminds.hscicttutor",
-  "version_name": "1.1.14",
-  "version_code": 8,
+  "version_name": "1.1.15",
+  "version_code": 9,
   "force_update": true,
   "last_updated": "2025-11-13",
   "developer": "MegaMinds",
@@ -16,7 +16,6 @@
     "ad_interval_ms": 520000
   },
   "release_notes": {
-    "version": "1.1.14",
     "new_features": [
       "Added PIN-protected model test functionality",
       "Implemented faster offline caching using DataStore"
