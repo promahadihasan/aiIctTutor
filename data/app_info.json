@@ -3,6 +3,7 @@
   "package_name": "com.megaminds.hscicttutor",
   "version_name": "1.1.15",
   "version_code": 9,
+  "force_update": true,
   "last_updated": "2025-11-13",
   "developer": "MegaMinds",
   "maintainer": "Mahadi Hasan",
