@@ -1705,6 +1705,14 @@
       "last_updated": "2025-11-24 21:25:49"
     },
     {
+      "id": "1146782026HUMD1132",
+      "name": "ANONYA AKTHER",
+      "group": "HUMANITIES",
+      "xp_points": 22,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-12-01 20:05:12"
+    },
+    {
       "id": "1090302027140",
       "name": "MST MAYESHA RASHID",
       "group": "HUMANITIES",
@@ -2071,14 +2079,6 @@
       "xp_points": 1,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-25 15:57:33"
-    },
-    {
-      "id": "1146782026HUMD1132",
-      "name": "ANONYA AKTHER",
-      "group": "HUMANITIES",
-      "xp_points": 1,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-12-01 20:05:12"
     }
   ]
 }
