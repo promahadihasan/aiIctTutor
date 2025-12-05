@@ -776,7 +776,7 @@
             "timestamp": "2025-11-13 09:15:30",
             "teacherProfilePic": "https:\/\/example.com\/teacher.jpg",
             "imageUrl": "",
-            "likes": 210,
+            "likes": 209,
             "tags": [
                 "android",
                 "kotlin",
@@ -1282,7 +1282,7 @@
                     "authorName": "SURAIYA AKTER SHIMU ",
                     "content": "মারিয়াম তোমার পরীক্ষা তো অনেক ভালো হইছে ",
                     "timestamp": "2025-11-25 18:58:58",
-                    "likes": 0
+                    "likes": 1
                 }
             ]
         }
