@@ -103,7 +103,8 @@ def generate_card_image(q, index, out_path):
     draw.rectangle([(0, 0), (W, header_h)], fill=(10, 25, 65, 255))
     font_header = load_font(42)
     header_text = f"{APP_NAME} — MCQ #{index}"
-    w, h = draw.textsize(header_text, font=font_header)
+    bbox = draw.textbbox((0, 0), header_text, font=font_header)
+    w, h = bbox[2] - bbox[0], bbox[3] - bbox[1]
     draw.text(((W - w) / 2, (header_h - h) / 2), header_text, font=font_header, fill=(255, 255, 255))
 
     # logo if exists
