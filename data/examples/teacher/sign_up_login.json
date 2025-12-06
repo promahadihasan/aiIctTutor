@@ -1,11 +1,17 @@
 {
   "teachers": [
     {
+      "college_name": "friend and take ",
+      "created_model_tests": [],
+      "eiin": "111111",
+      "mobileNo": "11111111111",
+      "name": "friend ",
+      "teacher_id": "11111111111111111"
+    },
+    {
       "college_name": "Gazipur Govt Mohila College",
       "created_model_tests": [],
       "eiin": "109030",
-      "is_notification_feature_enabled": false,
-      "is_post_feature_enabled": false,
       "mobileNo": "01754052393",
       "name": "Md. Shibbir Hossen",
       "teacher_id": "10903001754052393"
@@ -14,8 +20,6 @@
       "college_name": "Gaziput Govt. Mohila College",
       "created_model_tests": [],
       "eiin": "109030",
-      "is_notification_feature_enabled": true,
-      "is_post_feature_enabled": true,
       "mobileNo": "01551816013",
       "name": "Md. Shibbir Hossen",
       "teacher_id": "10903001551816013"
@@ -24,8 +28,6 @@
       "college_name": "Tangail Collectrorate Girl\u0027s College ",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": true,
-      "is_post_feature_enabled": true,
       "mobileNo": "01713819046",
       "name": "Mahadi Hasan",
       "teacher_id": "11467801713819046"
@@ -34,8 +36,6 @@
       "college_name": "Tangail Vibkandrra college",
       "created_model_tests": [],
       "eiin": "114679",
-      "is_notification_feature_enabled": false,
-      "is_post_feature_enabled": false,
       "mobileNo": "01754052393",
       "name": "Sharmeen",
       "teacher_id": "11467901754052393"
@@ -44,8 +44,6 @@
       "college_name": "Tangail Collectrorate Girls College",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "01551816013",
       "name": "Mahadi Hasan",
       "teacher_id": "11467801551816013"
@@ -54,8 +52,6 @@
       "college_name": "Gazipur govt mohila College ",
       "created_model_tests": [],
       "eiin": "273742",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "01975438391",
       "name": "SEJUTI Afrin ",
       "teacher_id": "27374201975438391"
@@ -64,8 +60,6 @@
       "college_name": "Tangail Collectrorate",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "11111111111",
       "name": "Helal",
       "teacher_id": "11467811111111111"
@@ -74,8 +68,6 @@
       "college_name": "Binnn",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "01710",
       "name": "Abid",
       "teacher_id": "11467801710"
@@ -84,8 +76,6 @@
       "college_name": "nnj",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0100",
       "name": "hhh",
       "teacher_id": "1146780100"
@@ -94,8 +84,6 @@
       "college_name": "jll",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "01221",
       "name": "jkhkj",
       "teacher_id": "11467801221"
@@ -104,8 +92,6 @@
       "college_name": "Kumudini",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0121",
       "name": "La",
       "teacher_id": "1146780121"
@@ -114,8 +100,6 @@
       "college_name": "hjj",
       "created_model_tests": [],
       "eiin": "11554",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "55",
       "name": "Hazi",
       "teacher_id": "1155455"
@@ -124,8 +108,6 @@
       "college_name": "Habi",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0181",
       "name": "Miner",
       "teacher_id": "1146780181"
@@ -134,8 +116,6 @@
       "college_name": "Tangail Collectorate Girl’s High School \u0026 College",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "01713",
       "name": "Mahadi",
       "teacher_id": "11467801713"
@@ -144,8 +124,6 @@
       "college_name": "TET",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0155",
       "name": "MA",
       "teacher_id": "1146780155"
@@ -154,8 +132,6 @@
       "college_name": "Gazipur Govt College ",
       "created_model_tests": [],
       "eiin": "109030",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0173",
       "name": "Md.Shibbir Hossen",
       "teacher_id": "1090300173"
@@ -164,8 +140,6 @@
       "college_name": "Tangail College ",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0123",
       "name": "Sunny1",
       "teacher_id": "1146780123"
@@ -174,8 +148,6 @@
       "college_name": "Sylhet",
       "created_model_tests": [],
       "eiin": "114678",
-      "is_notification_feature_enabled": null,
-      "is_post_feature_enabled": null,
       "mobileNo": "0141",
       "name": "Jakir",
       "teacher_id": "1146780141"
