@@ -1137,6 +1137,14 @@
       "last_updated": "2025-11-08 10:34:35"
     },
     {
+      "id": "1090302026SCIM102",
+      "name": "NOURIN NUHAS",
+      "group": "SCIENCE",
+      "xp_points": 69,
+      "level": "🔰 Newcomer",
+      "last_updated": "2025-11-10 07:10:28"
+    },
+    {
       "id": "1090302026SCIM88",
       "name": "HUHU",
       "group": "SCIENCE",
@@ -1407,14 +1415,6 @@
       "xp_points": 44,
       "level": "🔰 Newcomer",
       "last_updated": "2025-11-08 20:39:29"
-    },
-    {
-      "id": "1090302026SCIM102",
-      "name": "NOURIN NUHAS",
-      "group": "SCIENCE",
-      "xp_points": 44,
-      "level": "🔰 Newcomer",
-      "last_updated": "2025-11-10 07:10:28"
     },
     {
       "id": "1090302026BUSD214",
